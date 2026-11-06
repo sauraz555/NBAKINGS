@@ -1,0 +1,286 @@
+=== SUPPLEMENTARY KEY ROTATION PLAYERS ===
+
+>>> Derrick White (BOS - G) | Status: Available
+  Sample: 8/8 GP (8 Starts)
+  Averages (2026-27 N=8): PTS=12.8 (L5=13.6) | AST=5.1 (L5=4.6) | REB=3.2 (L5=3.0, OREB=1.1/DREB=2.1)
+  2025-26 Context (Separate): 16.5 PPG, 5.4 APG, 4.4 RPG, 34.1 MPG (77 GP w/ BOS)
+  Minutes: Mean=30.8 (L5=31.8), Med=33.0, Min=18.0, Max=36.0, SD=5.72 | 30+m=6/8, 35+m=2/8 | CloseMin=34.4, BlowoutMin=24.0
+  Consistency: PTS[Med=12.0, Min=5, Max=24, SD=5.74] | AST[Med=5.0, Min=2, Max=8, SD=2.03] | REB[Med=3.0, Min=1, Max=6, SD=1.64]
+  Volume & Adv: FGM-FGA=4.6-10.9, 3PM-3PA=1.5-5.1, FTM-FTA=2.0-2.0, TOV=2.6, PF=1.5 | HomePPG=13.2, AwayPPG=12.0 | BRef: USG%=19.9 TS%=.542 AST%=25.3 ORB%=4.0 DRB%=7.7 TRB%=5.8
+  PTS Thresholds: 10+: 5/8 (62.5%, L5:3/5) | 15+: 3/8 (37.5%, L5:2/5) | 20+: 1/8 (12.5%, L5:1/5) | 25+: 0/8 (0.0%, L5:0/5) | 30+: 0/8 (0.0%, L5:0/5) | 35+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 7/8 (87.5%, L5:4/5) | 5+: 4/8 (50.0%, L5:2/5) | 7+: 3/8 (37.5%, L5:2/5) | 8+: 1/8 (12.5%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 2/8 (25.0%, L5:1/5) | 7+: 0/8 (0.0%, L5:0/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) | 15+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+    G1 | 2026-10-20 | @ DET | L 113-121 | Start | MIN:36 | PTS:17 | AST:8 | REB:1(1o/0d) | FG:7-13 | 3PT:3-7 | FT:0-0 | TO:4 PF:2 +/-:-4 | Normal
+    G2 | 2026-10-23 | vs NY | W 107-103 | Start | MIN:33 | PTS:12 | AST:6 | REB:4(1o/3d) | FG:5-11 | 3PT:2-6 | FT:0-0 | TO:1 PF:2 +/-:-4 | Normal
+    G3 | 2026-10-26 | vs CHI | W 134-99 | Start | MIN:18 | PTS:5 | AST:4 | REB:6(2o/4d) | FG:2-4 | 3PT:1-2 | FT:0-0 | TO:6 PF:1 +/-:0 | Blowout(+35), ShortMin(18)
+    G4 | 2026-10-27 | vs BKN | W 125-124 (OT) | Start | MIN:33 | PTS:16 | AST:7 | REB:5(3o/2d) | FG:5-15 | 3PT:1-7 | FT:5-5 | TO:3 PF:1 +/-:-4 | OT
+    G5 | 2026-10-30 | vs CHI | W 125-111 | Start | MIN:26 | PTS:9 | AST:4 | REB:2(0o/2d) | FG:4-6 | 3PT:1-2 | FT:0-0 | TO:1 PF:1 +/-:+16 | Normal
+    G6 | 2026-11-01 | @ ORL | W 108-97 | Start | MIN:34 | PTS:12 | AST:2 | REB:2(1o/1d) | FG:4-8 | 3PT:2-5 | FT:2-2 | TO:1 PF:1 +/-:+18 | Normal
+    G7 | 2026-11-02 | @ HOU | L 93-109 | Start | MIN:30 | PTS:7 | AST:3 | REB:2(0o/2d) | FG:3-12 | 3PT:1-5 | FT:0-0 | TO:3 PF:0 +/-:-4 | Blowout(-16)
+    G8 | 2026-11-04 | vs MIL | W 109-102 | Start | MIN:36 | PTS:24 | AST:7 | REB:4(1o/3d) | FG:7-18 | 3PT:1-7 | FT:9-9 | TO:2 PF:4 +/-:+8 | FoulTrbl(4PF)
+
+>>> Payton Pritchard (BOS - G) | Status: Questionable (Right Eye Abrasion)
+  Sample: 8/8 GP (0 Starts)
+  Averages (2026-27 N=8): PTS=13.0 (L5=11.0) | AST=3.6 (L5=4.0) | REB=2.8 (L5=3.2, OREB=1.0/DREB=1.8)
+  2025-26 Context (Separate): 17.0 PPG, 5.2 APG, 3.9 RPG, 32.4 MPG (79 GP w/ BOS)
+  Minutes: Mean=26.8 (L5=26.8), Med=27.5, Min=18.0, Max=35.0, SD=4.97 | 30+m=3/8, 35+m=1/8 | CloseMin=25.4, BlowoutMin=26.0
+  Consistency: PTS[Med=8.5, Min=4, Max=30, SD=10.11] | AST[Med=3.5, Min=1, Max=6, SD=1.41] | REB[Med=2.5, Min=1, Max=7, SD=1.92]
+  Volume & Adv: FGM-FGA=4.1-9.9, 3PM-3PA=1.6-5.2, FTM-FTA=3.1-3.6, TOV=1.4, PF=1.8 | HomePPG=15.2, AwayPPG=9.3 | BRef: USG%=20.4 TS%=.567 AST%=20.6 ORB%=4.1 DRB%=7.3 TRB%=5.7
+  PTS Thresholds: 10+: 4/8 (50.0%, L5:2/5) | 15+: 3/8 (37.5%, L5:1/5) | 20+: 2/8 (25.0%, L5:1/5) | 25+: 2/8 (25.0%, L5:1/5) | 30+: 1/8 (12.5%, L5:1/5) | 35+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 7/8 (87.5%, L5:5/5) | 5+: 2/8 (25.0%, L5:2/5) | 7+: 0/8 (0.0%, L5:0/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 1/8 (12.5%, L5:1/5) | 7+: 1/8 (12.5%, L5:1/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) | 15+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+    G1 | 2026-10-20 | @ DET | L 113-121 | Bench | MIN:28 | PTS:17 | AST:1 | REB:4(2o/2d) | FG:4-9 | 3PT:2-5 | FT:7-8 | TO:0 PF:2 +/-:-10 | Normal
+    G2 | 2026-10-23 | vs NY | W 107-103 | Bench | MIN:30 | PTS:4 | AST:4 | REB:1(0o/1d) | FG:1-5 | 3PT:1-3 | FT:1-2 | TO:2 PF:1 +/-:+8 | Normal
+    G3 | 2026-10-26 | vs CHI | W 134-99 | Bench | MIN:22 | PTS:28 | AST:4 | REB:1(0o/1d) | FG:10-16 | 3PT:7-10 | FT:1-1 | TO:1 PF:1 +/-:+22 | Blowout(+35)
+    G4 | 2026-10-27 | vs BKN | W 125-124 (OT) | Bench | MIN:24 | PTS:4 | AST:6 | REB:2(0o/2d) | FG:2-7 | 3PT:0-3 | FT:0-0 | TO:3 PF:0 +/-:+2 | OT
+    G5 | 2026-10-30 | vs CHI | W 125-111 | Bench | MIN:35 | PTS:30 | AST:3 | REB:3(1o/2d) | FG:9-17 | 3PT:3-9 | FT:9-9 | TO:3 PF:5 +/-:+12 | FoulTrbl(5PF)
+    G6 | 2026-11-01 | @ ORL | W 108-97 | Bench | MIN:27 | PTS:7 | AST:3 | REB:7(4o/3d) | FG:3-11 | 3PT:0-7 | FT:1-1 | TO:1 PF:3 +/-:+3 | Normal
+    G7 | 2026-11-02 | @ HOU | L 93-109 | Bench | MIN:30 | PTS:4 | AST:3 | REB:3(1o/2d) | FG:0-7 | 3PT:0-5 | FT:4-6 | TO:1 PF:1 +/-:-17 | Blowout(-16)
+    G8 | 2026-11-04 | vs MIL | W 109-102 | Bench | MIN:18 | PTS:10 | AST:5 | REB:1(0o/1d) | FG:4-7 | 3PT:0-0 | FT:2-2 | TO:0 PF:1 +/-:+7 | ShortMin(18)
+
+>>> Grayson Allen (CHA - G) | Status: Available
+  Sample: 9/9 GP (0 Starts)
+  Averages (2026-27 N=9): PTS=15.7 (L5=14.8) | AST=2.7 (L5=2.2) | REB=2.8 (L5=3.0, OREB=0.4/DREB=2.3)
+  2025-26 Context (Separate): 16.5 PPG, 3.8 APG, 3.0 RPG, 28.8 MPG (51 GP w/ PHO)
+  Minutes: Mean=26.4 (L5=25.4), Med=28.0, Min=19.0, Max=34.0, SD=4.92 | 30+m=3/9, 35+m=0/9 | CloseMin=29.7, BlowoutMin=20.0
+  Consistency: PTS[Med=15, Min=5, Max=27, SD=6.82] | AST[Med=3, Min=0, Max=5, SD=1.49] | REB[Med=3, Min=1, Max=5, SD=1.13]
+  Volume & Adv: FGM-FGA=4.4-9.4, 3PM-3PA=3.6-7.2, FTM-FTA=3.2-3.4, TOV=2.6, PF=2.1 | HomePPG=16.8, AwayPPG=14.2 | BRef: USG%=21.6 TS%=.715 AST%=18.1 ORB%=1.8 DRB%=10.4 TRB%=5.9
+  PTS Thresholds: 10+: 7/9 (77.8%, L5:3/5) | 15+: 5/9 (55.6%, L5:2/5) | 20+: 4/9 (44.4%, L5:2/5) | 25+: 1/9 (11.1%, L5:1/5) | 30+: 0/9 (0.0%, L5:0/5) | 35+: 0/9 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 5/9 (55.6%, L5:2/5) | 5+: 1/9 (11.1%, L5:0/5) | 7+: 0/9 (0.0%, L5:0/5) | 8+: 0/9 (0.0%, L5:0/5) | 10+: 0/9 (0.0%, L5:0/5) | 12+: 0/9 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 1/9 (11.1%, L5:1/5) | 7+: 0/9 (0.0%, L5:0/5) | 8+: 0/9 (0.0%, L5:0/5) | 10+: 0/9 (0.0%, L5:0/5) | 12+: 0/9 (0.0%, L5:0/5) | 15+: 0/9 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+    G1 | 2026-10-21 | @ BKN | W 110-103 | Bench | MIN:29 | PTS:21 | AST:4 | REB:3(0o/3d) | FG:6-9 | 3PT:5-8 | FT:4-4 | TO:4 PF:0 +/-:+20 | Normal
+    G2 | 2026-10-23 | vs ATL | L 81-128 | Bench | MIN:20 | PTS:11 | AST:3 | REB:2(1o/1d) | FG:3-8 | 3PT:3-6 | FT:2-2 | TO:2 PF:1 +/-:-16 | Blowout(-47), ShortMin(20)
+    G3 | 2026-10-24 | vs MIA | W 115-110 | Bench | MIN:34 | PTS:20 | AST:5 | REB:3(1o/2d) | FG:6-12 | 3PT:4-10 | FT:4-5 | TO:2 PF:3 +/-:-2 | Normal
+    G4 | 2026-10-26 | vs WSH | W 110-103 | Bench | MIN:28 | PTS:15 | AST:1 | REB:2(0o/2d) | FG:3-8 | 3PT:2-5 | FT:7-7 | TO:2 PF:1 +/-:+3 | Normal
+    G5 | 2026-10-28 | @ DET | L 89-97 | Bench | MIN:30 | PTS:9 | AST:2 | REB:5(0o/5d) | FG:2-8 | 3PT:2-6 | FT:3-4 | TO:5 PF:3 +/-:-14 | Normal
+    G6 | 2026-10-30 | @ WSH | L 79-95 | Bench | MIN:21 | PTS:5 | AST:2 | REB:3(0o/3d) | FG:2-10 | 3PT:1-6 | FT:0-0 | TO:1 PF:2 +/-:-17 | Blowout(-16), ShortMin(21)
+    G7 | 2026-10-31 | vs PHI | L 104-109 | Bench | MIN:30 | PTS:27 | AST:3 | REB:4(1o/3d) | FG:9-12 | 3PT:7-10 | FT:2-2 | TO:3 PF:3 +/-:+8 | Normal
+    G8 | 2026-11-02 | vs DET | L 91-124 | Bench | MIN:19 | PTS:11 | AST:0 | REB:1(1o/0d) | FG:3-7 | 3PT:3-7 | FT:2-2 | TO:2 PF:2 +/-:-26 | Blowout(-33), ShortMin(19)
+    G9 | 2026-11-04 | @ BKN | L 104-114 | Bench | MIN:27 | PTS:22 | AST:4 | REB:2(0o/2d) | FG:6-11 | 3PT:5-7 | FT:5-5 | TO:2 PF:4 +/-:+7 | FoulTrbl(4PF)
+
+>>> Jarrett Allen (CLE - C) | Status: Questionable (Right Knee Contusion)
+  Sample: 8/8 GP (8 Starts)
+  Averages (2026-27 N=8): PTS=13.2 (L5=12.2) | AST=1.2 (L5=1.6) | REB=7.8 (L5=7.6, OREB=2.4/DREB=5.4)
+  2025-26 Context (Separate): 15.4 PPG, 1.8 APG, 8.5 RPG, 27.1 MPG (56 GP w/ CLE)
+  Minutes: Mean=25.1 (L5=23.8), Med=27.5, Min=7.0, Max=30.0, SD=7.08 | 30+m=2/8, 35+m=0/8 | CloseMin=25.3, BlowoutMin=24.0
+  Consistency: PTS[Med=14.0, Min=0, Max=25, SD=7.19] | AST[Med=1.0, Min=0, Max=4, SD=1.3] | REB[Med=8.0, Min=1, Max=12, SD=3.15]
+  Volume & Adv: FGM-FGA=5.1-8.2, 3PM-3PA=0.2-0.4, FTM-FTA=2.8-4.0, TOV=0.9, PF=1.4 | HomePPG=13.2, AwayPPG=13.2 | BRef: USG%=18.0 TS%=.662 AST%=7.4 ORB%=10.1 DRB%=21.2 TRB%=15.9
+  PTS Thresholds: 10+: 6/8 (75.0%, L5:3/5) | 15+: 2/8 (25.0%, L5:1/5) | 20+: 2/8 (25.0%, L5:1/5) | 25+: 1/8 (12.5%, L5:1/5) | 30+: 0/8 (0.0%, L5:0/5) | 35+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 1/8 (12.5%, L5:1/5) | 5+: 0/8 (0.0%, L5:0/5) | 7+: 0/8 (0.0%, L5:0/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 7/8 (87.5%, L5:4/5) | 7+: 6/8 (75.0%, L5:3/5) | 8+: 5/8 (62.5%, L5:3/5) | 10+: 2/8 (25.0%, L5:2/5) | 12+: 1/8 (12.5%, L5:1/5) | 15+: 0/8 (0.0%, L5:0/5) --> Floor80=5, Floor90=5, Floor100=None
+    G1 | 2026-10-22 | @ PHI | L 106-114 | Start | MIN:28 | PTS:14 | AST:0 | REB:7(3o/4d) | FG:6-10 | 3PT:0-0 | FT:2-4 | TO:1 PF:1 +/-:-2 | Normal
+    G2 | 2026-10-24 | vs BKN | W 125-121 | Start | MIN:27 | PTS:21 | AST:0 | REB:8(3o/5d) | FG:7-8 | 3PT:1-1 | FT:6-8 | TO:3 PF:3 +/-:+3 | Normal
+    G3 | 2026-10-26 | vs MIN | W 127-125 (OT) | Start | MIN:27 | PTS:10 | AST:2 | REB:9(2o/7d) | FG:3-7 | 3PT:0-0 | FT:4-4 | TO:0 PF:2 +/-:-1 | OT
+    G4 | 2026-10-28 | vs WSH | W 121-111 | Start | MIN:30 | PTS:8 | AST:2 | REB:12(2o/10d) | FG:3-6 | 3PT:0-0 | FT:2-2 | TO:0 PF:1 +/-:+6 | Normal
+    G5 | 2026-10-29 | @ ATL | L 111-114 | Start | MIN:30 | PTS:14 | AST:1 | REB:8(3o/5d) | FG:5-8 | 3PT:1-1 | FT:3-4 | TO:1 PF:1 +/-:+5 | Normal
+    G6 | 2026-10-31 | @ MIL | W 136-111 | Start | MIN:24 | PTS:25 | AST:4 | REB:11(3o/8d) | FG:12-16 | 3PT:0-1 | FT:1-4 | TO:2 PF:1 +/-:+24 | Blowout(+25)
+    G7 | 2026-11-02 | vs OKC | L 112-117 | Start | MIN:28 | PTS:14 | AST:1 | REB:6(3o/3d) | FG:5-10 | 3PT:0-0 | FT:4-6 | TO:0 PF:2 +/-:+11 | Normal
+    G8 | 2026-11-04 | @ OKC | L 116-124 | Start | MIN:7 | PTS:0 | AST:0 | REB:1(0o/1d) | FG:0-1 | 3PT:0-0 | FT:0-0 | TO:0 PF:0 +/-:-8 | ShortMin(7)
+
+>>> Daniel Gafford (DAL - F) | Status: Available
+  Sample: 8/8 GP (8 Starts)
+  Averages (2026-27 N=8): PTS=9.1 (L5=11.0) | AST=2.0 (L5=1.6) | REB=6.6 (L5=7.6, OREB=2.8/DREB=3.9)
+  2025-26 Context (Separate): 9.5 PPG, 1.1 APG, 6.9 RPG, 21.7 MPG (55 GP w/ DAL)
+  Minutes: Mean=23.2 (L5=25.2), Med=24.5, Min=15.0, Max=29.0, SD=4.47 | 30+m=0/8, 35+m=0/8 | CloseMin=24.3, BlowoutMin=22.6
+  Consistency: PTS[Med=7.5, Min=2, Max=20, SD=6.51] | AST[Med=2.0, Min=0, Max=5, SD=1.41] | REB[Med=7.0, Min=3, Max=11, SD=2.83]
+  Volume & Adv: FGM-FGA=3.9-5.8, 3PM-3PA=0.1-0.1, FTM-FTA=1.2-2.0, TOV=1.6, PF=3.2 | HomePPG=14.2, AwayPPG=4.0 | BRef: USG%=15.1 TS%=.688 AST%=12.5 ORB%=13.5 DRB%=17.4 TRB%=15.6
+  PTS Thresholds: 10+: 3/8 (37.5%, L5:2/5) | 15+: 2/8 (25.0%, L5:2/5) | 20+: 1/8 (12.5%, L5:1/5) | 25+: 0/8 (0.0%, L5:0/5) | 30+: 0/8 (0.0%, L5:0/5) | 35+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 2/8 (25.0%, L5:1/5) | 5+: 1/8 (12.5%, L5:0/5) | 7+: 0/8 (0.0%, L5:0/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 5/8 (62.5%, L5:4/5) | 7+: 5/8 (62.5%, L5:4/5) | 8+: 3/8 (37.5%, L5:2/5) | 10+: 1/8 (12.5%, L5:1/5) | 12+: 0/8 (0.0%, L5:0/5) | 15+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+    G1 | 2026-10-21 | @ HOU | L 110-128 | Start | MIN:22 | PTS:2 | AST:1 | REB:3(1o/2d) | FG:0-1 | 3PT:0-0 | FT:2-4 | TO:1 PF:4 +/-:+9 | Blowout(-18), FoulTrbl(4PF)
+    G2 | 2026-10-23 | @ IND | W 121-105 | Start | MIN:15 | PTS:4 | AST:5 | REB:3(1o/2d) | FG:2-4 | 3PT:0-0 | FT:0-0 | TO:0 PF:2 +/-:+2 | Blowout(+16)
+    G3 | 2026-10-24 | vs SA | L 106-122 | Start | MIN:23 | PTS:12 | AST:2 | REB:9(3o/6d) | FG:6-9 | 3PT:0-0 | FT:0-0 | TO:3 PF:3 +/-:-12 | Blowout(-16)
+    G4 | 2026-10-26 | @ MIA | W 113-109 | Start | MIN:26 | PTS:8 | AST:3 | REB:9(3o/6d) | FG:4-5 | 3PT:0-0 | FT:0-0 | TO:1 PF:6 +/-:+6 | FoulTrbl(6PF)
+    G5 | 2026-10-28 | vs OKC | W 120-96 | Start | MIN:27 | PTS:7 | AST:2 | REB:11(6o/5d) | FG:3-4 | 3PT:1-1 | FT:0-0 | TO:2 PF:3 +/-:+14 | Blowout(+24)
+    G6 | 2026-10-30 | vs HOU | W 116-111 | Start | MIN:29 | PTS:18 | AST:2 | REB:7(4o/3d) | FG:6-7 | 3PT:0-0 | FT:6-9 | TO:3 PF:2 +/-:+10 | Normal
+    G7 | 2026-11-02 | vs SAC | L 100-115 | Start | MIN:26 | PTS:20 | AST:0 | REB:7(3o/4d) | FG:9-10 | 3PT:0-0 | FT:2-2 | TO:1 PF:4 +/-:-10 | Blowout(-15), FoulTrbl(4PF)
+    G8 | 2026-11-04 | @ SA | L 111-112 | Start | MIN:18 | PTS:2 | AST:1 | REB:4(1o/3d) | FG:1-6 | 3PT:0-0 | FT:0-1 | TO:2 PF:2 +/-:-4 | Normal
+
+>>> Cedric Coward (MEM - F) | Status: Available
+  Sample: 7/8 GP (7 Starts)
+  Averages (2026-27 N=7): PTS=14.3 (L5=15.2) | AST=2.7 (L5=3.2) | REB=8.7 (L5=8.6, OREB=1.3/DREB=7.4)
+  2025-26 Context (Separate): 13.6 PPG, 2.8 APG, 5.9 RPG, 25.8 MPG (62 GP w/ MEM)
+  Minutes: Mean=29.3 (L5=29.0), Med=31.0, Min=23.0, Max=33.0, SD=3.24 | 30+m=4/7, 35+m=0/7 | CloseMin=31.8, BlowoutMin=26.0
+  Consistency: PTS[Med=16, Min=7, Max=23, SD=5.12] | AST[Med=3, Min=1, Max=4, SD=1.03] | REB[Med=9, Min=7, Max=11, SD=1.67]
+  Volume & Adv: FGM-FGA=5.3-11.1, 3PM-3PA=2.7-5.4, FTM-FTA=1.0-1.4, TOV=1.4, PF=3.4 | HomePPG=12.5, AwayPPG=16.7 | BRef: USG%=18.6 TS%=.607 AST%=13.1 ORB%=4.9 DRB%=25.4 TRB%=15.7
+  PTS Thresholds: 10+: 6/7 (85.7%, L5:5/5) | 15+: 4/7 (57.1%, L5:3/5) | 20+: 1/7 (14.3%, L5:1/5) | 25+: 0/7 (0.0%, L5:0/5) | 30+: 0/7 (0.0%, L5:0/5) | 35+: 0/7 (0.0%, L5:0/5) --> Floor80=10, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 4/7 (57.1%, L5:4/5) | 5+: 0/7 (0.0%, L5:0/5) | 7+: 0/7 (0.0%, L5:0/5) | 8+: 0/7 (0.0%, L5:0/5) | 10+: 0/7 (0.0%, L5:0/5) | 12+: 0/7 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 7/7 (100.0%, L5:5/5) | 7+: 7/7 (100.0%, L5:5/5) | 8+: 4/7 (57.1%, L5:3/5) | 10+: 2/7 (28.6%, L5:1/5) | 12+: 0/7 (0.0%, L5:0/5) | 15+: 0/7 (0.0%, L5:0/5) --> Floor80=7, Floor90=7, Floor100=7
+    G1 | 2026-10-21 | vs UTAH | W 123-103 | Start | MIN:28 | PTS:7 | AST:2 | REB:7(0o/7d) | FG:3-6 | 3PT:1-2 | FT:0-0 | TO:0 PF:5 +/-:+23 | Blowout(+20), FoulTrbl(5PF)
+    G2 | 2026-10-25 | @ SAC | W 123-112 | Start | MIN:32 | PTS:17 | AST:1 | REB:11(3o/8d) | FG:7-13 | 3PT:3-5 | FT:0-0 | TO:2 PF:4 +/-:+12 | FoulTrbl(4PF)
+    G3 | 2026-10-26 | @ UTAH | W 110-105 | Start | MIN:31 | PTS:16 | AST:3 | REB:11(1o/10d) | FG:6-12 | 3PT:4-4 | FT:0-0 | TO:2 PF:5 +/-:+8 | FoulTrbl(5PF)
+    G4 | 2026-10-29 | @ POR | W 124-103 | Start | MIN:27 | PTS:17 | AST:4 | REB:7(1o/6d) | FG:7-14 | 3PT:3-5 | FT:0-0 | TO:2 PF:5 +/-:+16 | Blowout(+21), FoulTrbl(5PF)
+    G5 | 2026-10-31 | vs SAC | W 136-105 | Start | MIN:23 | PTS:10 | AST:2 | REB:7(0o/7d) | FG:3-8 | 3PT:2-5 | FT:2-2 | TO:1 PF:1 +/-:+21 | Blowout(+31)
+    G6 | 2026-11-02 | vs NO | L 134-135 (OT) | Start | MIN:31 | PTS:10 | AST:3 | REB:9(0o/9d) | FG:3-6 | 3PT:2-5 | FT:2-4 | TO:0 PF:4 +/-:+8 | OT, FoulTrbl(4PF)
+    G7 | 2026-11-04 | vs IND | L 103-107 | Start | MIN:33 | PTS:23 | AST:4 | REB:9(4o/5d) | FG:8-19 | 3PT:4-12 | FT:3-4 | TO:3 PF:0 +/-:-2 | Normal
+
+>>> Ayo Dosunmu (MIN - G) | Status: Available
+  Sample: 9/9 GP (5 Starts)
+  Averages (2026-27 N=9): PTS=16.3 (L5=19.8) | AST=4.3 (L5=4.6) | REB=5.3 (L5=6.4, OREB=1.1/DREB=4.2)
+  2025-26 Context (Separate): 14.8 PPG, 3.6 APG, 3.4 RPG, 27.3 MPG (69 GP w/ 2TM)
+  Minutes: Mean=30.7 (L5=34.2), Med=30.0, Min=23.0, Max=38.0, SD=4.76 | 30+m=5/9, 35+m=2/9 | CloseMin=33.4, BlowoutMin=27.2
+  Consistency: PTS[Med=16, Min=9, Max=27, SD=5.35] | AST[Med=3, Min=0, Max=10, SD=2.94] | REB[Med=5, Min=1, Max=12, SD=3.53]
+  Volume & Adv: FGM-FGA=6.8-13.2, 3PM-3PA=1.4-3.8, FTM-FTA=1.3-1.7, TOV=1.9, PF=2.7 | HomePPG=15.0, AwayPPG=17.4 | BRef: USG%=21.1 TS%=.585 AST%=20.5 ORB%=3.8 DRB%=14.3 TRB%=9.0
+  PTS Thresholds: 10+: 7/9 (77.8%, L5:5/5) | 15+: 6/9 (66.7%, L5:5/5) | 20+: 2/9 (22.2%, L5:2/5) | 25+: 1/9 (11.1%, L5:1/5) | 30+: 0/9 (0.0%, L5:0/5) | 35+: 0/9 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 7/9 (77.8%, L5:4/5) | 5+: 3/9 (33.3%, L5:2/5) | 7+: 2/9 (22.2%, L5:1/5) | 8+: 2/9 (22.2%, L5:1/5) | 10+: 1/9 (11.1%, L5:0/5) | 12+: 0/9 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 5/9 (55.6%, L5:3/5) | 7+: 4/9 (44.4%, L5:3/5) | 8+: 2/9 (22.2%, L5:2/5) | 10+: 1/9 (11.1%, L5:1/5) | 12+: 1/9 (11.1%, L5:1/5) | 15+: 0/9 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+    G1 | 2026-10-21 | @ MIA | W 131-106 | Bench | MIN:29 | PTS:16 | AST:3 | REB:5(3o/2d) | FG:6-13 | 3PT:1-3 | FT:3-3 | TO:1 PF:3 +/-:+21 | Blowout(+25)
+    G2 | 2026-10-23 | @ ORL | W 115-93 | Bench | MIN:27 | PTS:14 | AST:10 | REB:7(0o/7d) | FG:6-11 | 3PT:1-2 | FT:1-2 | TO:0 PF:3 +/-:+15 | Blowout(+22)
+    G3 | 2026-10-25 | vs TOR | W 117-94 | Bench | MIN:23 | PTS:9 | AST:3 | REB:3(1o/2d) | FG:4-7 | 3PT:1-2 | FT:0-1 | TO:5 PF:1 +/-:+19 | Blowout(+23)
+    G4 | 2026-10-26 | @ CLE | L 125-127 (OT) | Bench | MIN:26 | PTS:9 | AST:0 | REB:1(1o/0d) | FG:4-10 | 3PT:1-2 | FT:0-0 | TO:3 PF:2 +/-:-2 | OT
+    G5 | 2026-10-28 | vs GS | L 114-119 | Start | MIN:32 | PTS:17 | AST:4 | REB:3(0o/3d) | FG:6-12 | 3PT:3-7 | FT:2-2 | TO:0 PF:5 +/-:-9 | FoulTrbl(5PF)
+    G6 | 2026-10-30 | vs LAC | W 127-101 | Start | MIN:30 | PTS:15 | AST:2 | REB:7(1o/6d) | FG:6-11 | 3PT:3-4 | FT:0-0 | TO:3 PF:2 +/-:+12 | Blowout(+26)
+    G7 | 2026-10-31 | @ SA | L 111-121 | Start | MIN:38 | PTS:27 | AST:3 | REB:9(2o/7d) | FG:11-17 | 3PT:2-5 | FT:3-3 | TO:3 PF:3 +/-:+1 | Normal
+    G8 | 2026-11-02 | vs MIL | W 112-100 | Start | MIN:37 | PTS:19 | AST:8 | REB:12(2o/10d) | FG:8-18 | 3PT:1-6 | FT:2-2 | TO:2 PF:2 +/-:+15 | Normal
+    G9 | 2026-11-04 | @ HOU | W 117-107 | Start | MIN:34 | PTS:21 | AST:6 | REB:1(0o/1d) | FG:10-20 | 3PT:0-3 | FT:1-2 | TO:0 PF:3 +/-:+10 | Normal
+
+>>> Trey Murphy III (NOP - F) | Status: Probable (Bilateral Patella Tendinopathy)
+  Sample: 7/8 GP (7 Starts)
+  Averages (2026-27 N=7): PTS=14.9 (L5=16.8) | AST=3.4 (L5=4.0) | REB=4.6 (L5=4.4, OREB=0.9/DREB=3.7)
+  2025-26 Context (Separate): 21.5 PPG, 3.8 APG, 5.7 RPG, 35.5 MPG (66 GP w/ NOP)
+  Minutes: Mean=33.0 (L5=33.6), Med=32.0, Min=29.0, Max=40.0, SD=3.7 | 30+m=6/7, 35+m=2/7 | CloseMin=34.4, BlowoutMin=29.0
+  Consistency: PTS[Med=15, Min=6, Max=26, SD=6.31] | AST[Med=3, Min=1, Max=5, SD=1.29] | REB[Med=5, Min=1, Max=6, SD=1.59]
+  Volume & Adv: FGM-FGA=5.0-11.0, 3PM-3PA=2.1-5.6, FTM-FTA=2.7-3.3, TOV=1.4, PF=2.3 | HomePPG=12.8, AwayPPG=17.7 | BRef: USG%=17.5 TS%=.597 AST%=14.6 ORB%=3.0 DRB%=12.4 TRB%=7.8
+  PTS Thresholds: 10+: 5/7 (71.4%, L5:4/5) | 15+: 4/7 (57.1%, L5:4/5) | 20+: 1/7 (14.3%, L5:1/5) | 25+: 1/7 (14.3%, L5:1/5) | 30+: 0/7 (0.0%, L5:0/5) | 35+: 0/7 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 6/7 (85.7%, L5:5/5) | 5+: 2/7 (28.6%, L5:2/5) | 7+: 0/7 (0.0%, L5:0/5) | 8+: 0/7 (0.0%, L5:0/5) | 10+: 0/7 (0.0%, L5:0/5) | 12+: 0/7 (0.0%, L5:0/5) --> Floor80=3, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 5/7 (71.4%, L5:4/5) | 7+: 0/7 (0.0%, L5:0/5) | 8+: 0/7 (0.0%, L5:0/5) | 10+: 0/7 (0.0%, L5:0/5) | 12+: 0/7 (0.0%, L5:0/5) | 15+: 0/7 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+    G1 | 2026-10-21 | vs IND | L 120-123 | Start | MIN:32 | PTS:11 | AST:1 | REB:4(0o/4d) | FG:4-11 | 3PT:2-5 | FT:1-1 | TO:0 PF:2 +/-:-8 | Normal
+    G2 | 2026-10-23 | @ UTAH | L 119-120 | Start | MIN:31 | PTS:9 | AST:3 | REB:6(1o/5d) | FG:4-9 | 3PT:1-4 | FT:0-0 | TO:2 PF:4 +/-:+1 | FoulTrbl(4PF)
+    G3 | 2026-10-24 | @ DEN | L 135-141 (OT) | Start | MIN:37 | PTS:26 | AST:4 | REB:6(3o/3d) | FG:10-17 | 3PT:4-8 | FT:2-2 | TO:4 PF:2 +/-:-17 | OT
+    G4 | 2026-10-28 | vs DEN | L 91-104 | Start | MIN:30 | PTS:6 | AST:3 | REB:1(0o/1d) | FG:2-7 | 3PT:2-7 | FT:0-1 | TO:2 PF:3 +/-:-12 | Normal
+    G5 | 2026-10-29 | vs SAC | W 132-120 | Start | MIN:32 | PTS:19 | AST:3 | REB:5(1o/4d) | FG:6-12 | 3PT:2-7 | FT:5-8 | TO:0 PF:2 +/-:+4 | Normal
+    G6 | 2026-10-31 | vs ATL | W 121-99 | Start | MIN:29 | PTS:15 | AST:5 | REB:5(0o/5d) | FG:4-10 | 3PT:1-3 | FT:6-6 | TO:2 PF:2 +/-:+24 | Blowout(+22)
+    G7 | 2026-11-02 | @ MEM | W 135-134 (OT) | Start | MIN:40 | PTS:18 | AST:5 | REB:5(1o/4d) | FG:5-11 | 3PT:3-5 | FT:5-5 | TO:0 PF:1 +/-:-4 | OT
+
+>>> Jeremiah Fears (NOP - G) | Status: Available
+  Sample: 8/8 GP (8 Starts)
+  Averages (2026-27 N=8): PTS=13.6 (L5=16.8) | AST=4.5 (L5=6.4) | REB=4.5 (L5=5.4, OREB=1.2/DREB=3.2)
+  2025-26 Context (Separate): 14.3 PPG, 3.4 APG, 3.7 RPG, 25.8 MPG (82 GP w/ NOP)
+  Minutes: Mean=28.0 (L5=31.2), Med=26.5, Min=21.0, Max=38.0, SD=5.61 | 30+m=3/8, 35+m=1/8 | CloseMin=28.2, BlowoutMin=31.0
+  Consistency: PTS[Med=11.5, Min=7, Max=22, SD=5.45] | AST[Med=2.5, Min=1, Max=13, SD=3.94] | REB[Med=4.5, Min=0, Max=8, SD=2.24]
+  Volume & Adv: FGM-FGA=5.4-13.2, 3PM-3PA=1.0-4.1, FTM-FTA=1.9-2.4, TOV=2.6, PF=3.1 | HomePPG=16.0, AwayPPG=9.7 | BRef: USG%=25.1 TS%=.477 AST%=23.9 ORB%=5.1 DRB%=12.8 TRB%=9.0
+  PTS Thresholds: 10+: 6/8 (75.0%, L5:5/5) | 15+: 3/8 (37.5%, L5:3/5) | 20+: 2/8 (25.0%, L5:2/5) | 25+: 0/8 (0.0%, L5:0/5) | 30+: 0/8 (0.0%, L5:0/5) | 35+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 4/8 (50.0%, L5:4/5) | 5+: 3/8 (37.5%, L5:3/5) | 7+: 3/8 (37.5%, L5:3/5) | 8+: 1/8 (12.5%, L5:1/5) | 10+: 1/8 (12.5%, L5:1/5) | 12+: 1/8 (12.5%, L5:1/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 4/8 (50.0%, L5:3/5) | 7+: 1/8 (12.5%, L5:1/5) | 8+: 1/8 (12.5%, L5:1/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) | 15+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+    G1 | 2026-10-21 | vs IND | L 120-123 | Start | MIN:21 | PTS:8 | AST:1 | REB:3(1o/2d) | FG:2-10 | 3PT:1-5 | FT:3-4 | TO:1 PF:3 +/-:-12 | ShortMin(21)
+    G2 | 2026-10-23 | @ UTAH | L 119-120 | Start | MIN:24 | PTS:7 | AST:1 | REB:0(0o/0d) | FG:3-9 | 3PT:1-4 | FT:0-0 | TO:2 PF:2 +/-:-11 | Normal
+    G3 | 2026-10-24 | @ DEN | L 135-141 (OT) | Start | MIN:23 | PTS:10 | AST:2 | REB:6(2o/4d) | FG:4-12 | 3PT:0-2 | FT:2-2 | TO:3 PF:3 +/-:+8 | OT
+    G4 | 2026-10-28 | vs DEN | L 91-104 | Start | MIN:24 | PTS:11 | AST:3 | REB:4(2o/2d) | FG:5-14 | 3PT:1-5 | FT:0-0 | TO:3 PF:3 +/-:-8 | Normal
+    G5 | 2026-10-29 | vs SAC | W 132-120 | Start | MIN:29 | PTS:22 | AST:13 | REB:8(1o/7d) | FG:9-16 | 3PT:3-5 | FT:1-3 | TO:3 PF:2 +/-:+3 | Normal
+    G6 | 2026-10-31 | vs ATL | W 121-99 | Start | MIN:31 | PTS:20 | AST:7 | REB:5(0o/5d) | FG:9-12 | 3PT:1-2 | FT:1-2 | TO:3 PF:3 +/-:+21 | Blowout(+22)
+    G7 | 2026-11-02 | @ MEM | W 135-134 (OT) | Start | MIN:38 | PTS:12 | AST:7 | REB:4(2o/2d) | FG:5-17 | 3PT:0-6 | FT:2-2 | TO:4 PF:5 +/-:-1 | OT, FoulTrbl(5PF)
+    G8 | 2026-11-04 | vs UTAH | W 120-113 (OT) | Start | MIN:34 | PTS:19 | AST:2 | REB:6(2o/4d) | FG:6-16 | 3PT:1-4 | FT:6-6 | TO:2 PF:4 +/-:-2 | OT, FoulTrbl(4PF)
+
+>>> Saddiq Bey (NOP - F) | Status: Available
+  Sample: 8/8 GP (0 Starts)
+  Averages (2026-27 N=8): PTS=16.4 (L5=16.8) | AST=1.9 (L5=2.2) | REB=3.9 (L5=3.8, OREB=0.8/DREB=3.1)
+  2025-26 Context (Separate): 17.7 PPG, 2.5 APG, 5.6 RPG, 31.2 MPG (72 GP w/ NOP)
+  Minutes: Mean=26.5 (L5=28.2), Med=25.5, Min=22.0, Max=36.0, SD=4.06 | 30+m=1/8, 35+m=1/8 | CloseMin=26.7, BlowoutMin=26.0
+  Consistency: PTS[Med=16.0, Min=9, Max=25, SD=5.41] | AST[Med=2.0, Min=0, Max=3, SD=1.17] | REB[Med=4.0, Min=0, Max=6, SD=1.69]
+  Volume & Adv: FGM-FGA=5.8-11.2, 3PM-3PA=1.8-4.8, FTM-FTA=3.1-3.6, TOV=1.2, PF=0.8 | HomePPG=15.8, AwayPPG=17.3 | BRef: USG%=22.0 TS%=.637 AST%=10.9 ORB%=3.2 DRB%=13.0 TRB%=8.2
+  PTS Thresholds: 10+: 7/8 (87.5%, L5:4/5) | 15+: 4/8 (50.0%, L5:3/5) | 20+: 3/8 (37.5%, L5:2/5) | 25+: 1/8 (12.5%, L5:1/5) | 30+: 0/8 (0.0%, L5:0/5) | 35+: 0/8 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 4/8 (50.0%, L5:3/5) | 5+: 0/8 (0.0%, L5:0/5) | 7+: 0/8 (0.0%, L5:0/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 3/8 (37.5%, L5:2/5) | 7+: 0/8 (0.0%, L5:0/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) | 15+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+    G1 | 2026-10-21 | vs IND | L 120-123 | Bench | MIN:24 | PTS:13 | AST:0 | REB:5(0o/5d) | FG:4-9 | 3PT:2-4 | FT:3-3 | TO:2 PF:1 +/-:+1 | Normal
+    G2 | 2026-10-23 | @ UTAH | L 119-120 | Bench | MIN:22 | PTS:20 | AST:1 | REB:3(1o/2d) | FG:8-12 | 3PT:3-5 | FT:1-1 | TO:2 PF:1 +/-:+4 | Normal
+    G3 | 2026-10-24 | @ DEN | L 135-141 (OT) | Bench | MIN:25 | PTS:14 | AST:3 | REB:4(0o/4d) | FG:3-9 | 3PT:2-7 | FT:6-8 | TO:1 PF:1 +/-:-2 | OT
+    G4 | 2026-10-28 | vs DEN | L 91-104 | Bench | MIN:26 | PTS:9 | AST:3 | REB:0(0o/0d) | FG:3-10 | 3PT:1-6 | FT:2-2 | TO:0 PF:0 +/-:-22 | Normal
+    G5 | 2026-10-29 | vs SAC | W 132-120 | Bench | MIN:24 | PTS:10 | AST:3 | REB:4(2o/2d) | FG:3-7 | 3PT:1-2 | FT:3-3 | TO:1 PF:0 +/-:-8 | Normal
+    G6 | 2026-10-31 | vs ATL | W 121-99 | Bench | MIN:26 | PTS:25 | AST:1 | REB:6(1o/5d) | FG:9-13 | 3PT:1-2 | FT:6-7 | TO:3 PF:1 +/-:+8 | Blowout(+22)
+    G7 | 2026-11-02 | @ MEM | W 135-134 (OT) | Bench | MIN:36 | PTS:18 | AST:1 | REB:5(1o/4d) | FG:7-16 | 3PT:2-8 | FT:2-2 | TO:0 PF:1 +/-:-7 | OT
+    G8 | 2026-11-04 | vs UTAH | W 120-113 (OT) | Bench | MIN:29 | PTS:22 | AST:3 | REB:4(1o/3d) | FG:9-14 | 3PT:2-4 | FT:2-3 | TO:1 PF:1 +/-:0 | OT
+
+>>> Stephon Castle (SAS - G) | Status: Available
+  Sample: 8/8 GP (8 Starts)
+  Averages (2026-27 N=8): PTS=15.0 (L5=12.4) | AST=4.8 (L5=4.8) | REB=6.1 (L5=6.2, OREB=1.6/DREB=4.5)
+  2025-26 Context (Separate): 16.7 PPG, 7.4 APG, 5.3 RPG, 30.0 MPG (68 GP w/ SAS)
+  Minutes: Mean=29.6 (L5=29.6), Med=28.0, Min=22.0, Max=38.0, SD=4.92 | 30+m=3/8, 35+m=2/8 | CloseMin=31.2, BlowoutMin=27.0
+  Consistency: PTS[Med=15.5, Min=0, Max=24, SD=6.4] | AST[Med=4.5, Min=1, Max=8, SD=2.22] | REB[Med=5.5, Min=4, Max=10, SD=1.76]
+  Volume & Adv: FGM-FGA=5.8-14.8, 3PM-3PA=2.4-7.4, FTM-FTA=1.1-1.5, TOV=2.2, PF=3.0 | HomePPG=14.5, AwayPPG=16.5 | BRef: USG%=24.6 TS%=.487 AST%=23.5 ORB%=5.7 DRB%=15.4 TRB%=10.6
+  PTS Thresholds: 10+: 7/8 (87.5%, L5:4/5) | 15+: 6/8 (75.0%, L5:3/5) | 20+: 1/8 (12.5%, L5:0/5) | 25+: 0/8 (0.0%, L5:0/5) | 30+: 0/8 (0.0%, L5:0/5) | 35+: 0/8 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 7/8 (87.5%, L5:5/5) | 5+: 4/8 (50.0%, L5:2/5) | 7+: 2/8 (25.0%, L5:1/5) | 8+: 2/8 (25.0%, L5:1/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 7/8 (87.5%, L5:5/5) | 7+: 3/8 (37.5%, L5:1/5) | 8+: 1/8 (12.5%, L5:1/5) | 10+: 1/8 (12.5%, L5:1/5) | 12+: 0/8 (0.0%, L5:0/5) | 15+: 0/8 (0.0%, L5:0/5) --> Floor80=5, Floor90=5, Floor100=None
+    G1 | 2026-10-20 | vs OKC | L 104-116 | Start | MIN:28 | PTS:24 | AST:1 | REB:7(2o/5d) | FG:9-21 | 3PT:5-12 | FT:1-1 | TO:3 PF:4 +/-:-2 | FoulTrbl(4PF)
+    G2 | 2026-10-23 | vs HOU | L 110-114 | Start | MIN:33 | PTS:15 | AST:5 | REB:7(1o/6d) | FG:6-15 | 3PT:3-9 | FT:0-1 | TO:1 PF:5 +/-:-3 | FoulTrbl(5PF)
+    G3 | 2026-10-24 | @ DAL | W 122-106 | Start | MIN:28 | PTS:19 | AST:8 | REB:4(1o/3d) | FG:8-18 | 3PT:3-8 | FT:0-0 | TO:3 PF:3 +/-:+12 | Blowout(+16)
+    G4 | 2026-10-27 | vs SAC | W 130-103 | Start | MIN:27 | PTS:15 | AST:5 | REB:5(0o/5d) | FG:4-11 | 3PT:3-8 | FT:4-4 | TO:3 PF:2 +/-:+14 | Blowout(+27)
+    G5 | 2026-10-28 | @ UTAH | W 117-111 (OT) | Start | MIN:38 | PTS:14 | AST:8 | REB:6(4o/2d) | FG:6-13 | 3PT:1-4 | FT:1-2 | TO:3 PF:2 +/-:+3 | OT
+    G6 | 2026-10-31 | vs MIN | W 121-111 | Start | MIN:22 | PTS:0 | AST:4 | REB:5(1o/4d) | FG:0-4 | 3PT:0-2 | FT:0-0 | TO:3 PF:4 +/-:-2 | FoulTrbl(4PF)
+    G7 | 2026-11-02 | vs UTAH | W 119-97 | Start | MIN:26 | PTS:16 | AST:4 | REB:5(1o/4d) | FG:7-16 | 3PT:2-7 | FT:0-0 | TO:0 PF:1 +/-:+24 | Blowout(+22)
+    G8 | 2026-11-04 | vs DAL | W 112-111 | Start | MIN:35 | PTS:17 | AST:3 | REB:10(3o/7d) | FG:6-20 | 3PT:2-9 | FT:3-4 | TO:2 PF:3 +/-:+1 | Normal
+
+>>> Jamal Shead (TOR - G) | Status: Available
+  Sample: 8/8 GP (0 Starts)
+  Averages (2026-27 N=8): PTS=5.5 (L5=6.6) | AST=5.4 (L5=6.6) | REB=2.0 (L5=2.2, OREB=0.6/DREB=1.4)
+  2025-26 Context (Separate): 6.6 PPG, 5.4 APG, 1.7 RPG, 22.6 MPG (82 GP w/ TOR)
+  Minutes: Mean=21.5 (L5=22.2), Med=22.0, Min=16.0, Max=25.0, SD=2.69 | 30+m=0/8, 35+m=0/8 | CloseMin=23.0, BlowoutMin=20.0
+  Consistency: PTS[Med=4.5, Min=2, Max=13, SD=3.57] | AST[Med=6.0, Min=0, Max=8, SD=2.23] | REB[Med=2.0, Min=1, Max=4, SD=1.0]
+  Volume & Adv: FGM-FGA=1.8-4.9, 3PM-3PA=0.5-2.2, FTM-FTA=1.5-1.6, TOV=2.1, PF=2.9 | HomePPG=5.7, AwayPPG=5.4 | BRef: USG%=14.3 TS%=.492 AST%=30.7 ORB%=3.0 DRB%=8.1 TRB%=5.3
+  PTS Thresholds: 10+: 1/8 (12.5%, L5:1/5) | 15+: 0/8 (0.0%, L5:0/5) | 20+: 0/8 (0.0%, L5:0/5) | 25+: 0/8 (0.0%, L5:0/5) | 30+: 0/8 (0.0%, L5:0/5) | 35+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 7/8 (87.5%, L5:5/5) | 5+: 7/8 (87.5%, L5:5/5) | 7+: 2/8 (25.0%, L5:2/5) | 8+: 1/8 (12.5%, L5:1/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) --> Floor80=5, Floor90=5, Floor100=None
+  REB Thresholds: 5+: 0/8 (0.0%, L5:0/5) | 7+: 0/8 (0.0%, L5:0/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) | 15+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+    G1 | 2026-10-21 | vs CHI | W 135-92 | Bench | MIN:16 | PTS:2 | AST:5 | REB:2(0o/2d) | FG:0-2 | 3PT:0-0 | FT:2-2 | TO:4 PF:2 +/-:+7 | Blowout(+43)
+    G2 | 2026-10-23 | @ WSH | W 112-102 | Bench | MIN:24 | PTS:5 | AST:5 | REB:2(1o/1d) | FG:1-3 | 3PT:0-0 | FT:3-4 | TO:1 PF:3 +/-:+9 | Normal
+    G3 | 2026-10-25 | @ MIN | L 94-117 | Bench | MIN:21 | PTS:4 | AST:0 | REB:1(1o/0d) | FG:2-8 | 3PT:0-4 | FT:0-0 | TO:1 PF:3 +/-:-16 | Blowout(-23)
+    G4 | 2026-10-28 | vs ORL | W 129-99 | Bench | MIN:23 | PTS:13 | AST:7 | REB:4(1o/3d) | FG:4-7 | 3PT:1-2 | FT:4-4 | TO:4 PF:2 +/-:+8 | Blowout(+30)
+    G5 | 2026-10-30 | vs ORL | L 114-121 | Bench | MIN:23 | PTS:2 | AST:8 | REB:1(0o/1d) | FG:0-3 | 3PT:0-2 | FT:2-2 | TO:1 PF:4 +/-:-3 | FoulTrbl(4PF)
+    G6 | 2026-11-01 | @ LAL | L 125-131 | Bench | MIN:25 | PTS:9 | AST:6 | REB:2(1o/1d) | FG:3-6 | 3PT:2-4 | FT:1-1 | TO:2 PF:4 +/-:-27 | FoulTrbl(4PF)
+    G7 | 2026-11-02 | @ LAC | W 125-118 | Bench | MIN:20 | PTS:6 | AST:6 | REB:1(0o/1d) | FG:3-7 | 3PT:0-4 | FT:0-0 | TO:1 PF:3 +/-:-6 | Normal
+    G8 | 2026-11-04 | @ DEN | L 109-128 | Bench | MIN:20 | PTS:3 | AST:6 | REB:3(1o/2d) | FG:1-3 | 3PT:1-2 | FT:0-0 | TO:3 PF:2 +/-:-17 | Blowout(-19)
+
+>>> Alex Sarr (WAS - C) | Status: Available
+  Sample: 7/8 GP (7 Starts)
+  Averages (2026-27 N=7): PTS=9.6 (L5=10.8) | AST=2.0 (L5=1.4) | REB=6.0 (L5=5.8, OREB=1.7/DREB=4.3)
+  2025-26 Context (Separate): 16.3 PPG, 2.7 APG, 7.4 RPG, 27.2 MPG (48 GP w/ WAS)
+  Minutes: Mean=25.1 (L5=25.4), Med=25.0, Min=23.0, Max=29.0, SD=1.96 | 30+m=0/7, 35+m=0/7 | CloseMin=24.8, BlowoutMin=26.0
+  Consistency: PTS[Med=10, Min=3, Max=18, SD=4.5] | AST[Med=2, Min=0, Max=5, SD=1.51] | REB[Med=6, Min=2, Max=9, SD=2.56]
+  Volume & Adv: FGM-FGA=3.6-6.9, 3PM-3PA=0.6-2.6, FTM-FTA=1.9-2.4, TOV=1.3, PF=2.0 | HomePPG=6.8, AwayPPG=13.3 | BRef: USG%=16.2 TS%=.604 AST%=11.8 ORB%=8.0 DRB%=17.3 TRB%=13.0
+  PTS Thresholds: 10+: 4/7 (57.1%, L5:4/5) | 15+: 1/7 (14.3%, L5:1/5) | 20+: 0/7 (0.0%, L5:0/5) | 25+: 0/7 (0.0%, L5:0/5) | 30+: 0/7 (0.0%, L5:0/5) | 35+: 0/7 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 2/7 (28.6%, L5:1/5) | 5+: 1/7 (14.3%, L5:0/5) | 7+: 0/7 (0.0%, L5:0/5) | 8+: 0/7 (0.0%, L5:0/5) | 10+: 0/7 (0.0%, L5:0/5) | 12+: 0/7 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 4/7 (57.1%, L5:3/5) | 7+: 3/7 (42.9%, L5:2/5) | 8+: 3/7 (42.9%, L5:2/5) | 10+: 0/7 (0.0%, L5:0/5) | 12+: 0/7 (0.0%, L5:0/5) | 15+: 0/7 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+    G1 | 2026-10-21 | vs MIL | W 128-116 | Start | MIN:24 | PTS:6 | AST:2 | REB:9(5o/4d) | FG:3-9 | 3PT:0-3 | FT:0-0 | TO:0 PF:1 +/-:-4 | Normal
+    G2 | 2026-10-23 | vs TOR | L 102-112 | Start | MIN:25 | PTS:7 | AST:5 | REB:4(0o/4d) | FG:2-4 | 3PT:1-2 | FT:2-2 | TO:1 PF:4 +/-:+1 | FoulTrbl(4PF)
+    G3 | 2026-10-24 | @ CHI | W 124-120 | Start | MIN:23 | PTS:10 | AST:3 | REB:2(1o/1d) | FG:5-7 | 3PT:0-1 | FT:0-0 | TO:2 PF:4 +/-:-5 | FoulTrbl(4PF)
+    G4 | 2026-10-26 | @ CHA | L 103-110 | Start | MIN:26 | PTS:12 | AST:1 | REB:6(3o/3d) | FG:4-6 | 3PT:0-2 | FT:4-6 | TO:0 PF:2 +/-:-5 | Normal
+    G5 | 2026-10-28 | @ CLE | L 111-121 | Start | MIN:26 | PTS:18 | AST:2 | REB:4(0o/4d) | FG:7-11 | 3PT:2-5 | FT:2-3 | TO:1 PF:3 +/-:-3 | Normal
+    G6 | 2026-10-30 | vs CHA | W 95-79 | Start | MIN:29 | PTS:3 | AST:0 | REB:8(1o/7d) | FG:1-5 | 3PT:1-3 | FT:0-0 | TO:4 PF:0 +/-:+22 | Blowout(+16)
+    G7 | 2026-11-04 | vs ATL | L 105-120 | Start | MIN:23 | PTS:11 | AST:1 | REB:9(2o/7d) | FG:3-6 | 3PT:0-2 | FT:5-6 | TO:1 PF:0 +/-:-5 | Blowout(-15)
+
+=== EXACT MISSED GAME DATES FOR NOV 6 KEY PLAYERS ===
+  ATL | Jalen Johnson (7/9 GP) | Status: Questionable (Left Ankle Sprain) | Missed: ['2026-11-02 @ IND', '2026-11-04 @ WSH']
+  ATL | Kingston Flemings (8/9 GP) | Status: Available | Missed: ['2026-11-02 @ IND']
+  BOS | Paul George (7/8 GP) | Status: Available | Missed: ['2026-11-02 @ HOU']
+  BOS | Jayson Tatum (7/8 GP) | Status: Available | Missed: ['2026-11-04 vs MIL']
+  CLE | Peyton Watson (6/8 GP) | Status: Questionable (Right Hamstring Injury Management) | Missed: ['2026-11-02 vs OKC', '2026-11-04 @ OKC']
+  CLE | Meleek Thomas (5/8 GP) | Status: Available | Missed: ['2026-10-22 @ PHI', '2026-10-24 vs BKN', '2026-10-29 @ ATL']
+  DAL | Cooper Flagg (7/8 GP) | Status: Available | Missed: ['2026-10-24 vs SA']
+  DAL | Kyrie Irving (6/8 GP) | Status: Available | Missed: ['2026-10-24 vs SA', '2026-11-02 vs SAC']
+  DAL | Naji Marshall (5/8 GP) | Status: Available | Missed: ['2026-10-26 @ MIA', '2026-10-28 vs OKC', '2026-10-30 vs HOU']
+  LAL | Ziaire Williams (6/9 GP) | Status: Available | Missed: ['2026-10-28 @ LAC', '2026-10-30 @ GS', '2026-11-01 vs TOR']
+  LAL | Luka Doncic (8/9 GP) | Status: Available | Missed: ['2026-10-28 @ LAC']
+  MEM | Cedric Coward (7/8 GP) | Status: Available | Missed: ['2026-10-23 @ GS']
+  MEM | Zach Edey (7/8 GP) | Status: Available | Missed: ['2026-10-25 @ SAC']
+  MEM | Ty Jerome (7/8 GP) | Status: Available | Missed: ['2026-10-31 vs SAC']
+  MEM | Isaiah Stewart (7/8 GP) | Status: Out (Right Knee Bone Bruise) | Missed: ['2026-10-21 vs UTAH']
+  MEM | Javon Small (1/8 GP) | Status: Available | Missed: ['2026-10-21 vs UTAH', '2026-10-23 @ GS', '2026-10-25 @ SAC', '2026-10-26 @ UTAH', '2026-10-29 @ POR', '2026-11-02 vs NO', '2026-11-04 vs IND']
+  MIN | Rudy Gobert (8/9 GP) | Status: Available | Missed: ['2026-10-31 @ SA']
+  MIN | Anthony Edwards (4/9 GP) | Status: Out (Right Knee Arthroscopy) | Missed: ['2026-10-28 vs GS', '2026-10-30 vs LAC', '2026-10-31 @ SA', '2026-11-02 vs MIL', '2026-11-04 @ HOU']
+  MIN | Terrence Shannon Jr. (7/9 GP) | Status: Questionable (Left Hip Contusion) | Missed: ['2026-11-02 vs MIL', '2026-11-04 @ HOU']
+  NOP | Trey Murphy III (7/8 GP) | Status: Probable (Bilateral Patella Tendinopathy) | Missed: ['2026-11-04 vs UTAH']
+  NOP | Yves Missi (2/8 GP) | Status: Out (Left Knee Contusion / Bone Bruise) | Missed: ['2026-10-24 @ DEN', '2026-10-28 vs DEN', '2026-10-29 vs SAC', '2026-10-31 vs ATL', '2026-11-02 @ MEM', '2026-11-04 vs UTAH']
+  NOP | Dejounte Murray (5/8 GP) | Status: Available | Missed: ['2026-10-29 vs SAC', '2026-10-31 vs ATL', '2026-11-02 @ MEM']
+  NOP | DeAndre Jordan (2/8 GP) | Status: Available | Missed: ['2026-10-21 vs IND', '2026-10-23 @ UTAH', '2026-10-29 vs SAC', '2026-10-31 vs ATL', '2026-11-02 @ MEM', '2026-11-04 vs UTAH']
+  OKC | Chet Holmgren (3/8 GP) | Status: Out (Right Knee Injury Recovery) | Missed: ['2026-10-26 vs PHX', '2026-10-28 @ DAL', '2026-10-31 @ HOU', '2026-11-02 @ CLE', '2026-11-04 vs CLE']
+  OKC | Jalen Williams (3/8 GP) | Status: Out (Left Ankle Surgery) | Missed: ['2026-10-26 vs PHX', '2026-10-28 @ DAL', '2026-10-31 @ HOU', '2026-11-02 @ CLE', '2026-11-04 vs CLE']
+  PHI | LeBron James (7/9 GP) | Status: Available | Missed: ['2026-10-24 vs MIL', '2026-10-31 @ CHA']
+  PHI | Joel Embiid (7/9 GP) | Status: Available | Missed: ['2026-10-25 vs DET', '2026-10-31 @ CHA']
+  PHI | Jaylen Brown (8/9 GP) | Status: Available | Missed: ['2026-10-30 vs NY']
+  PHI | VJ Edgecombe (8/9 GP) | Status: Available | Missed: ['2026-10-25 vs DET']
+  POR | Ja Morant (4/7 GP) | Status: Out (Left Hamstring Strain) | Missed: ['2026-10-31 @ UTAH', '2026-11-02 @ DEN', '2026-11-04 @ PHX']
+  POR | Robert Williams III (6/7 GP) | Status: Available | Missed: ['2026-10-29 vs MEM']
+  TOR | Kawhi Leonard (2/8 GP) | Status: Out (Left Knee Injury Management) | Missed: ['2026-10-25 @ MIN', '2026-10-28 vs ORL', '2026-10-30 vs ORL', '2026-11-01 @ LAL', '2026-11-02 @ LAC', '2026-11-04 @ DEN']
+  UTA | Lauri Markkanen (7/8 GP) | Status: Available | Missed: ['2026-10-28 vs SA']
+  UTA | Jaren Jackson Jr. (4/8 GP) | Status: Out (Right MCL Tear) | Missed: ['2026-10-28 vs SA', '2026-10-31 vs POR', '2026-11-02 @ SA', '2026-11-04 @ NO']
+  UTA | Mo Bamba (5/8 GP) | Status: Available | Missed: ['2026-10-21 @ MEM', '2026-10-23 vs NO', '2026-10-25 vs LAL']
+  WAS | Justin Champagnie (4/8 GP) | Status: Out (Right Foot Surgery) | Missed: ['2026-10-28 @ CLE', '2026-10-30 vs CHA', '2026-11-02 @ ORL', '2026-11-04 vs ATL']
+  WAS | AJ Dybantsa (4/8 GP) | Status: Available | Missed: ['2026-10-21 vs MIL', '2026-10-23 vs TOR', '2026-10-24 @ CHI', '2026-10-26 @ CHA']

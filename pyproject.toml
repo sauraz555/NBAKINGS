@@ -1,0 +1,13 @@
+[project]
+name = "nba-elite-analyst"
+version = "0.1.0"
+description = "Daily NBA player statistical floor engine, official injury tracker, matchup analyzer, and game prediction pipeline."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "sauraz555", email = "sauraz555@gmail.com" }
+]
+dependencies = []
+
+[project.scripts]
+nba-analyst = "run_pipeline:main"

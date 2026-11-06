@@ -1,0 +1,26 @@
+# Python bytecode & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Environment & secrets
+.env
+.env.*
+
+# Large transient live-data caches (regenerated via `python run_pipeline.py`)
+data/cache/
+data/*.html
+data/nba_data_cache*.json
+data/master_analytics*.json
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

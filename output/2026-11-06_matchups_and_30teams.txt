@@ -1,0 +1,398 @@
+=== PART A, E & F: 2026-11-06 NBA SLATE MATCHUPS ===
+
+GAME 401909287: WAS (4-4) @ ATL (5-4)
+  Time: 2026-11-06 07:00 PM EST | Sydney: 2026-11-07 11:00 AM AEDT | Notes: ['NBA Cup - Group Play']
+  Venue: State Farm Arena (Atlanta, GA)
+  Odds: ATL -6.5 | O/U: 229.5 | Vig-Free Market Win%: WAS 30.9% | ATL 69.1% (ML: WAS 211 / ATL -257)
+  ESPN BPI Predictor: WAS 28.7% | ATL 71.3%
+  Current-Season H2H: [('2026-11-04', 'ATL', 120, '@', 'WAS', 105)]
+  [AWAY: WAS] W-L: 4-4 (L5: 2-3, H: 2-2 [107.5/106.8], A: 2-2 [110.2/111.2])
+    Ratings: ORtg=110.9 DRtg=111.0 NRtg=-0.1 Pace=98.2 SRS=-9.10
+    Defense: OppPTS=109.0 (L5=104.8) OppAST=25.0 OppREB=47.9 DRB%=68.5 OppMissedFG=54.1 RimFG%=.678
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=True 3in4=False 4in6=False | Prev=2026-11-04 (vs ATL in Washington, L 105-120) | Next=2026-11-07 (@ OKC in Oklahoma City)
+    Injuries: {'Anthony Davis': ['Questionable', 'Right Ankle Sprain'], 'Reece Beekman': ['Out', 'Right AC Joint Injury'], 'Justin Champagnie': ['Out', 'Right Foot Surgery'], 'Tristan Vukcevic': ['Out', 'Left Hip Impingement'], 'Jamir Watkins': ['Out', 'Left ACL Repair / Surgery'], 'Felix Okpara': ['Doubtful', 'G League - Two-Way']}
+  [HOME: ATL] W-L: 5-4 (L5: 3-2, H: 1-2 [115.0/120.3], A: 4-2 [116.2/109.3])
+    Ratings: ORtg=113.5 DRtg=110.7 NRtg=+2.8 Pace=102.0 SRS=1.53
+    Defense: OppPTS=113.0 (L5=114.0) OppAST=27.2 OppREB=45.3 DRB%=73.7 OppMissedFG=44.4 RimFG%=.745
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=True 3in4=False 4in6=False | Prev=2026-11-04 (@ WAS in Washington, W 120-105) | Next=2026-11-07 (vs BKN in Atlanta)
+    Injuries: {'Jalen Johnson': ['Questionable', 'Left Ankle Sprain'], 'Keshon Gilbert': ['Out', 'Left Knee Inflammation'], 'Mouhamed Gueye': ['Out', 'Left Foot Fracture'], 'Jock Landale': ['Out', 'Left Hip Strain'], 'Asa Newell': ['Out', 'Left Great Toe Hyperextension'], 'Henri Veesaar': ['Out', 'Right ACL Tear']}
+
+GAME 401909288: BOS (6-2) @ CHA (3-6)
+  Time: 2026-11-06 07:00 PM EST | Sydney: 2026-11-07 11:00 AM AEDT | Notes: ['NBA Cup - Group Play']
+  Venue: Spectrum Center (Charlotte, NC)
+  Odds: BOS -8.5 | O/U: 209.5 | Vig-Free Market Win%: BOS 74.4% | CHA 25.6% (ML: BOS -344 / CHA 276)
+  ESPN BPI Predictor: BOS 77.2% | CHA 22.8%
+  Current-Season H2H: []
+  [AWAY: BOS] W-L: 6-2 (L5: 4-1, H: 5-0 [120.0/107.8], A: 1-2 [104.7/109.0])
+    Ratings: ORtg=117.0 DRtg=110.9 NRtg=+6.1 Pace=96.4 SRS=-2.21
+    Defense: OppPTS=108.3 (L5=108.6) OppAST=26.3 OppREB=44.5 DRB%=69.9 OppMissedFG=48.0 RimFG%=.664
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=True | Prev=2026-11-04 (vs MIL in Boston, W 109-102) | Next=2026-11-08 (@ MIL in Milwaukee)
+    Injuries: {'Payton Pritchard': ['Questionable', 'Right Eye Abrasion'], 'Devin Carter': ['Out', 'G League - Two-Way'], 'Christopher Cenac Jr.': ['Out', 'G League - On Assignment'], 'Dillon Mitchell': ['Out', 'G League - Two-Way'], 'Amari Williams': ['Out', 'G League - Two-Way']}
+  [HOME: CHA] W-L: 3-6 (L5: 0-5, H: 2-3 [100.2/114.8], A: 1-3 [95.5/102.2])
+    Ratings: ORtg=102.6 DRtg=114.2 NRtg=-11.6 Pace=95.6 SRS=-15.42
+    Defense: OppPTS=109.2 (L5=107.8) OppAST=25.3 OppREB=40.0 DRB%=78.1 OppMissedFG=43.3 RimFG%=.703
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=False | Prev=2026-11-04 (@ BKN in Brooklyn, L 104-114) | Next=2026-11-09 (vs CLE in Charlotte)
+    Injuries: {'Moussa Diabate': ['Questionable', 'Right Quadriceps Tendinopathy'], 'Dennis Schroder': ['Questionable', 'Left Soreness'], 'Kon Knueppel': ['Out', 'Left Hamstring Strain'], 'Grant Williams': ['Out', 'Right Hamstring Strain']}
+
+GAME 401909289: PHI (8-1) @ CLE (4-4)
+  Time: 2026-11-06 07:30 PM EST | Sydney: 2026-11-07 11:30 AM AEDT | Notes: ['NBA Cup - Group Play']
+  Venue: Rocket Arena (Cleveland, OH)
+  Odds: PHI -2.5 | O/U: 228.5 | Vig-Free Market Win%: PHI 57.2% | CLE 42.8% (ML: PHI -148 / CLE 124)
+  ESPN BPI Predictor: PHI 56.7% | CLE 43.3%
+  Current-Season H2H: [('2026-10-22', 'CLE', 106, '@', 'PHI', 114)]
+  [AWAY: PHI] W-L: 8-1 (L5: 5-0, H: 4-1 [111.6/105.6], A: 4-0 [110.2/104.8])
+    Ratings: ORtg=111.2 DRtg=105.4 NRtg=+5.8 Pace=99.8 SRS=-0.54
+    Defense: OppPTS=105.2 (L5=103.8) OppAST=23.8 OppREB=47.4 DRB%=73.1 OppMissedFG=48.9 RimFG%=.712
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=False | Prev=2026-11-04 (@ DET in Detroit, W 112-106) | Next=2026-11-08 (@ CHI in Chicago)
+    Injuries: {'Adem Bona': ['Doubtful', 'Cervical Spine Sprain'], 'Dominick Barlow': ['Out', 'Low Back Stress Reaction'], 'Ariel Hukporti': ['Out', 'Right Achilles Tendon Rupture']}
+  [HOME: CLE] W-L: 4-4 (L5: 2-3, H: 3-1 [121.2/118.5], A: 1-3 [117.2/115.8])
+    Ratings: ORtg=116.4 DRtg=114.3 NRtg=+2.1 Pace=101.1 SRS=0.80
+    Defense: OppPTS=117.1 (L5=115.4) OppAST=26.6 OppREB=46.5 DRB%=73.9 OppMissedFG=52.1 RimFG%=.686
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=True 3in4=False 4in6=False | Prev=2026-11-04 (@ OKC in Oklahoma City, L 116-124) | Next=2026-11-07 (vs NYK in Cleveland)
+    Injuries: {'Jarrett Allen': ['Questionable', 'Right Knee Contusion'], 'Tyrese Proctor': ['Questionable', 'Left Ankle Sprain'], 'Peyton Watson': ['Questionable', 'Right Hamstring Injury Management'], "Nae'Qwan Tomlin": ['Out', 'Low Back Stress Reaction'], 'Jaylon Tyson': ['Out', 'Right Ankle Sprain']}
+
+GAME 401909290: UTA (1-7) @ DAL (4-4)
+  Time: 2026-11-06 08:00 PM EST | Sydney: 2026-11-07 12:00 PM AEDT | Notes: ['NBA Cup - Group Play']
+  Venue: American Airlines Center (Dallas, TX)
+  Odds: DAL -7.5 | O/U: 225.5 | Vig-Free Market Win%: UTA 29.4% | DAL 70.6% (ML: UTA 227 / DAL -277)
+  ESPN BPI Predictor: UTA 34% | DAL 66%
+  Current-Season H2H: []
+  [AWAY: UTA] W-L: 1-7 (L5: 0-5, H: 1-4 [109.8/118.0], A: 0-3 [104.3/120.7])
+    Ratings: ORtg=105.2 DRtg=116.2 NRtg=-11.0 Pace=99.8 SRS=-1.60
+    Defense: OppPTS=119.0 (L5=115.6) OppAST=22.8 OppREB=45.6 DRB%=76.9 OppMissedFG=48.0 RimFG%=.638
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=False | Prev=2026-11-04 (@ NOP in New Orleans, L 113-120) | Next=2026-11-08 (@ MIN in Minneapolis)
+    Injuries: {'Jaren Jackson Jr.': ['Out', 'Right MCL Tear'], 'Jusuf Nurkic': ['Out', 'Right 2nd Plantar Plate Tear']}
+  [HOME: DAL] W-L: 4-4 (L5: 3-2, H: 2-2 [110.5/111.0], A: 2-2 [113.8/113.5])
+    Ratings: ORtg=113.2 DRtg=113.3 NRtg=-0.1 Pace=99.1 SRS=5.08
+    Defense: OppPTS=112.3 (L5=108.6) OppAST=25.9 OppREB=45.4 DRB%=67.9 OppMissedFG=49.7 RimFG%=.682
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=False | Prev=2026-11-04 (@ SAS in San Antonio, L 111-112) | Next=2026-11-08 (vs BKN in Dallas)
+    Injuries: {'Santi Aldama': ['Probable', 'Right Knee Surgery Recovery'], 'Max Christie': ['Probable', 'Right Hip Soreness / Tightness'], 'Caleb Martin': ['Available', 'Right Thumb Splint'], 'Dereck Lively II': ['Out', 'Right Foot Surgery'], 'Tarik Biberovic': ['Out', 'Right Heel Bursitis'], 'Sergio de Larrea': ['Out', 'Right Knee Sprain']}
+
+GAME 401909291: OKC (6-2) @ MEM (6-2)
+  Time: 2026-11-06 08:00 PM EST | Sydney: 2026-11-07 12:00 PM AEDT | Notes: ['NBA Cup - Group Play']
+  Venue: FedExForum (Memphis, TN)
+  Odds: OKC -3.5 | O/U: 225.5 | Vig-Free Market Win%: OKC 58.3% | MEM 41.7% (ML: OKC -155 / MEM 130)
+  ESPN BPI Predictor: OKC 67% | MEM 33%
+  Current-Season H2H: []
+  [AWAY: OKC] W-L: 6-2 (L5: 3-2, H: 4-0 [113.2/103.8], A: 2-2 [106.8/113.8])
+    Ratings: ORtg=112.0 DRtg=110.7 NRtg=+1.3 Pace=98.2 SRS=5.48
+    Defense: OppPTS=108.8 (L5=116.2) OppAST=25.8 OppREB=44.8 DRB%=73.3 OppMissedFG=50.8 RimFG%=.626
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=True 3in4=False 4in6=False | Prev=2026-11-04 (vs CLE in Oklahoma City, W 124-116) | Next=2026-11-07 (vs WAS in Oklahoma City)
+    Injuries: {'Chet Holmgren': ['Out', 'Right Knee Injury Recovery'], 'Jalen Williams': ['Out', 'Left Ankle Surgery'], 'Cason Wallace': ['Out', 'Left Shoulder Surgery'], 'Nikola Topic': ['Out', 'Low Back Surgery'], 'Jaylin Williams': ['Out', 'Low Back Spasms'], 'Thomas Sorber': ['Out', 'Right Knee Surgery']}
+  [HOME: MEM] W-L: 6-2 (L5: 3-2, H: 2-2 [124.0/112.5], A: 4-0 [117.0/107.0])
+    Ratings: ORtg=118.9 DRtg=108.3 NRtg=+10.6 Pace=100.1 SRS=11.34
+    Defense: OppPTS=109.8 (L5=111.0) OppAST=23.8 OppREB=42.5 DRB%=75.5 OppMissedFG=50.0 RimFG%=.647
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=False | Prev=2026-11-04 (vs IND in Memphis, L 103-107) | Next=2026-11-09 (@ TOR in Toronto)
+    Injuries: {'Scotty Pippen Jr.': ['Out', 'Lumbar Disc Herniation'], 'Isaiah Stewart': ['Out', 'Right Knee Bone Bruise']}
+
+GAME 401909292: TOR (4-4) @ MIL (1-7)
+  Time: 2026-11-06 08:00 PM EST | Sydney: 2026-11-07 12:00 PM AEDT | Notes: ['NBA Cup - Group Play']
+  Venue: Fiserv Forum (Milwaukee, WI)
+  Odds: TOR -6.5 | O/U: 230.5 | Vig-Free Market Win%: TOR 68.6% | MIL 31.4% (ML: TOR -249 / MIL 206)
+  ESPN BPI Predictor: TOR 60.1% | MIL 39.9%
+  Current-Season H2H: []
+  [AWAY: TOR] W-L: 4-4 (L5: 2-3, H: 2-1 [126.0/104.0], A: 2-3 [113.0/119.2])
+    Ratings: ORtg=116.4 DRtg=112.1 NRtg=+4.3 Pace=101.3 SRS=1.46
+    Defense: OppPTS=113.5 (L5=119.4) OppAST=25.6 OppREB=41.4 DRB%=73.3 OppMissedFG=42.4 RimFG%=.719
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=True | Prev=2026-11-04 (@ DEN in Denver, L 109-128) | Next=2026-11-09 (vs MEM in Toronto)
+    Injuries: {'Scottie Barnes': ['Questionable', 'Left Adductor / Groin Soreness'], 'Kawhi Leonard': ['Out', 'Left Knee Injury Management'], 'Nate Bittle': ['Out', 'Right Avulsion Fracture']}
+  [HOME: MIL] W-L: 1-7 (L5: 1-4, H: 1-3 [111.5/125.5], A: 0-4 [108.5/119.0])
+    Ratings: ORtg=108.5 DRtg=120.6 NRtg=-12.1 Pace=101.4 SRS=-13.88
+    Defense: OppPTS=122.3 (L5=118.2) OppAST=28.1 OppREB=48.6 DRB%=71.1 OppMissedFG=50.3 RimFG%=.660
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=False | Prev=2026-11-04 (@ BOS in Boston, L 102-109) | Next=2026-11-08 (vs BOS in Milwaukee)
+    Injuries: {'Kam Jones': ['Out', 'G League - Two-Way'], 'Bogoljub Markovic': ['Out', 'G League - On Assignment']}
+
+GAME 401909293: MIN (6-3) @ NOP (4-4)
+  Time: 2026-11-06 08:00 PM EST | Sydney: 2026-11-07 12:00 PM AEDT | Notes: ['NBA Cup - Group Play']
+  Venue: Smoothie King Center (New Orleans, LA)
+  Odds: MIN -4.5 | O/U: 231.5 | Vig-Free Market Win%: MIN 62.2% | NOP 37.8% (ML: MIN -184 / NOP 154)
+  ESPN BPI Predictor: MIN 73.4% | NOP 26.6%
+  Current-Season H2H: []
+  [AWAY: MIN] W-L: 6-3 (L5: 3-2, H: 3-1 [117.5/103.5], A: 3-2 [119.8/110.8])
+    Ratings: ORtg=117.0 DRtg=105.9 NRtg=+11.1 Pace=100.4 SRS=12.07
+    Defense: OppPTS=107.6 (L5=109.6) OppAST=24.3 OppREB=44.3 DRB%=73.6 OppMissedFG=50.3 RimFG%=.684
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=False | Prev=2026-11-04 (@ HOU in Houston, W 117-107) | Next=2026-11-08 (vs UTA in Minneapolis)
+    Injuries: {'Anthony Edwards': ['Out', 'Right Knee Arthroscopy'], 'Donte DiVincenzo': ['Out', 'Right Achilles Tendon Repair'], 'Terrence Shannon Jr.': ['Questionable', 'Left Hip Contusion']}
+  [HOME: NOP] W-L: 4-4 (L5: 4-1, H: 3-2 [116.8/111.8], A: 1-2 [129.7/131.7])
+    Ratings: ORtg=114.3 DRtg=112.1 NRtg=+2.2 Pace=102.4 SRS=3.56
+    Defense: OppPTS=119.3 (L5=114.0) OppAST=27.6 OppREB=44.0 DRB%=75.3 OppMissedFG=46.8 RimFG%=.737
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=False | Prev=2026-11-04 (vs UTA in New Orleans, W 120-113) | Next=2026-11-08 (@ LAC in Inglewood)
+    Injuries: {'Trey Murphy III': ['Probable', 'Bilateral Patella Tendinopathy'], 'Yves Missi': ['Out', 'Left Knee Contusion / Bone Bruise']}
+
+GAME 401909294: POR (6-1) @ LAL (7-2)
+  Time: 2026-11-06 10:00 PM EST | Sydney: 2026-11-07 02:00 PM AEDT | Notes: ['NBA Cup - Group Play']
+  Venue: crypto.com Arena (Los Angeles, CA)
+  Odds: LAL -2.5 | O/U: 232.5 | Vig-Free Market Win%: POR 42.8% | LAL 57.2% (ML: POR 124 / LAL -148)
+  ESPN BPI Predictor: POR 45.3% | LAL 54.7%
+  Current-Season H2H: [('2026-10-27', 'POR', 136, '@', 'LAL', 129)]
+  [AWAY: POR] W-L: 6-1 (L5: 4-1, H: 1-1 [113.5/103.5], A: 5-0 [125.2/113.6])
+    Ratings: ORtg=122.3 DRtg=111.1 NRtg=+11.2 Pace=99.6 SRS=13.27
+    Defense: OppPTS=110.7 (L5=114.4) OppAST=24.0 OppREB=39.9 DRB%=76.2 OppMissedFG=47.7 RimFG%=.660
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=True 3in4=False 4in6=False | Prev=2026-11-04 (@ PHX in Phoenix, W 132-119) | Next=2026-11-07 (vs SAS in Portland)
+    Injuries: {'Ja Morant': ['Out', 'Left Hamstring Strain'], 'Shaedon Sharpe': ['Out', 'Right Meniscus Surgery'], 'Vit Krejci': ['Out', 'Left Ankle Fracture']}
+  [HOME: LAL] W-L: 7-2 (L5: 4-1, H: 4-1 [130.0/120.0], A: 3-1 [111.5/106.2])
+    Ratings: ORtg=121.9 DRtg=114.0 NRtg=+7.9 Pace=99.9 SRS=9.66
+    Defense: OppPTS=113.9 (L5=108.8) OppAST=26.9 OppREB=41.3 DRB%=68.4 OppMissedFG=47.6 RimFG%=.687
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=True | Prev=2026-11-04 (@ SAC in Sacramento, W 116-103) | Next=2026-11-08 (@ DET in Detroit)
+    Injuries: {'Walker Kessler': ['Available', 'Left Finger Splint'], 'Sandro Mamukelashvili': ['Questionable', 'Illness']}
+
+GAME 401909295: SAS (6-2) @ SAC (1-7)
+  Time: 2026-11-06 10:00 PM EST | Sydney: 2026-11-07 02:00 PM AEDT | Notes: ['NBA Cup - Group Play']
+  Venue: Golden 1 Center (Sacramento, CA)
+  Odds: SA -15.5 | O/U: 229.5 | Vig-Free Market Win%: SAS 87.2% | SAC 12.8% (ML: SAS -990 / SAC 650)
+  ESPN BPI Predictor: SAS 90.4% | SAC 9.6%
+  Current-Season H2H: [('2026-10-27', 'SAC', 103, '@', 'SAS', 130)]
+  [AWAY: SAS] W-L: 6-2 (L5: 5-0, H: 4-2 [116.0/108.7], A: 2-0 [119.5/108.5])
+    Ratings: ORtg=116.0 DRtg=107.8 NRtg=+8.2 Pace=99.5 SRS=12.24
+    Defense: OppPTS=108.6 (L5=106.6) OppAST=24.6 OppREB=45.6 DRB%=74.1 OppMissedFG=52.3 RimFG%=.640
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=True 3in4=False 4in6=False | Prev=2026-11-04 (vs DAL in San Antonio, W 112-111) | Next=2026-11-07 (@ POR in Portland)
+    Injuries: {'Tobias Harris': ['Out', 'Left Calf Strain'], 'Jayden Quaintance': ['Out', 'Right Knee Surgery']}
+  [HOME: SAC] W-L: 1-7 (L5: 1-4, H: 0-3 [111.7/122.3], A: 1-4 [107.8/123.8])
+    Ratings: ORtg=107.3 DRtg=121.1 NRtg=-13.8 Pace=101.8 SRS=-5.93
+    Defense: OppPTS=123.3 (L5=122.8) OppAST=27.4 OppREB=44.0 DRB%=74.1 OppMissedFG=43.3 RimFG%=.809
+    Schedule: RestDays=1 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=False | Prev=2026-11-04 (vs LAL in Sacramento, L 103-116) | Next=2026-11-08 (vs MIA in Sacramento)
+    Injuries: {'Keegan Murray': ['Out', 'Left Ankle Capsulitis'], 'Maxime Raynaud': ['Out', 'Right Patella Subluxation'], 'Ben Simmons': ['Out', 'Right Achilles Tendon Repair']}
+
+
+=== PART B: ALL 30 TEAMS KEY PLAYER DATABASE ===
+
+TEAM ATL (5-4, GP=9) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Nickeil Alexander-Walker (G) | 9/9G (9S) | MIN=30.3 | L10: 21.7p/2.7a/3.3r | L5: 24.0p/1.8a/3.2r | Floor80%(PTS)=10+: 9/9 (100.0%) | Prior(ATL,78G): 20.8p/3.7a/3.4r | Status: Available
+  [Scorers] Jalen Johnson (F) | 7/9G (7S) | MIN=32.7 | L10: 18.3p/7.9a/9.0r | L5: 17.8p/8.2a/8.4r | Floor80%(PTS)=10+: 7/7 (100.0%) | Prior(ATL,72G): 22.5p/7.9a/10.3r | Status: Questionable (Left Ankle Sprain)
+  [Scorers] CJ McCollum (G) | 9/9G (8S) | MIN=26.6 | L10: 14.3p/4.0a/3.0r | L5: 12.0p/5.6a/4.2r | Floor80%(PTS)=10+: 8/9 (88.9%) | Prior(2TM,76G): 18.7p/3.9a/3.3r | Status: Available
+  [Assists] Jalen Johnson (F) | 7/9G (7S) | MIN=32.7 | L10: 18.3p/7.9a/9.0r | L5: 17.8p/8.2a/8.4r | Floor80%(AST)=3+: 7/7 (100.0%) | Prior(ATL,72G): 22.5p/7.9a/10.3r | Status: Questionable (Left Ankle Sprain)
+  [Assists] Dyson Daniels (G) | 9/9G (9S) | MIN=29.7 | L10: 9.6p/4.7a/6.7r | L5: 6.6p/5.4a/7.8r | Floor80%(AST)=3+: 9/9 (100.0%) | Prior(ATL,76G): 11.9p/5.9a/6.8r | Status: Available
+  [Rebounds] Jalen Johnson (F) | 7/9G (7S) | MIN=32.7 | L10: 18.3p/7.9a/9.0r | L5: 17.8p/8.2a/8.4r | Floor80%(REB)=7+: 7/7 (100.0%) | Prior(ATL,72G): 22.5p/7.9a/10.3r | Status: Questionable (Left Ankle Sprain)
+  [Rebounds] Onyeka Okongwu (F) | 9/9G (9S) | MIN=29.1 | L10: 12.2p/2.8a/8.4r | L5: 14.6p/2.8a/10.4r | Floor80%(REB)=Below base thresh | Prior(ATL,74G): 15.2p/3.1a/7.6r | Status: Available
+TEAM BKN (2-6, GP=8)  | SmallOutliers=[]
+  [Scorers] Michael Porter Jr. (F) | 8/8G (8S) | MIN=33.1 | L10: 21.4p/1.2a/7.4r | L5: 21.4p/1.6a/8.6r | Floor80%(PTS)=10+: 8/8 (100.0%) | Prior(BRK,52G): 24.2p/3.0a/7.1r | Status: Available
+  [Scorers] Julius Randle (F) | 8/8G (8S) | MIN=33.8 | L10: 21.0p/4.8a/7.1r | L5: 20.4p/3.8a/7.2r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior(MIN,79G): 21.1p/5.0a/6.7r | Status: Available
+  [Scorers] Mikel Brown Jr. (G) | 6/8G (0S) | MIN=23.0 | L10: 12.0p/4.0a/2.3r | L5: 13.2p/4.2a/2.2r | Floor80%(PTS)=Below base thresh | Prior: Rookie/DNP | Status: Available
+  [Assists] Julius Randle (F) | 8/8G (8S) | MIN=33.8 | L10: 21.0p/4.8a/7.1r | L5: 20.4p/3.8a/7.2r | Floor80%(AST)=3+: 7/8 (87.5%) | Prior(MIN,79G): 21.1p/5.0a/6.7r | Status: Available
+  [Assists] Mikel Brown Jr. (G) | 6/8G (0S) | MIN=23.0 | L10: 12.0p/4.0a/2.3r | L5: 13.2p/4.2a/2.2r | Floor80%(AST)=3+: 6/6 (100.0%) | Prior: Rookie/DNP | Status: Available
+  [Rebounds] Michael Porter Jr. (F) | 8/8G (8S) | MIN=33.1 | L10: 21.4p/1.2a/7.4r | L5: 21.4p/1.6a/8.6r | Floor80%(REB)=5+: 7/8 (87.5%) | Prior(BRK,52G): 24.2p/3.0a/7.1r | Status: Available
+  [Rebounds] Julius Randle (F) | 8/8G (8S) | MIN=33.8 | L10: 21.0p/4.8a/7.1r | L5: 20.4p/3.8a/7.2r | Floor80%(REB)=5+: 7/8 (87.5%) | Prior(MIN,79G): 21.1p/5.0a/6.7r | Status: Available
+TEAM BOS (6-2, GP=8) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Jayson Tatum (F) | 7/8G (7S) | MIN=35.1 | L10: 27.0p/7.9a/6.0r | L5: 28.0p/7.4a/5.8r | Floor80%(PTS)=15+: 6/7 (85.7%) | Prior(BOS,16G): 21.8p/5.3a/10.0r | Status: Available
+  [Scorers] Paul George (F) | 7/8G (7S) | MIN=31.6 | L10: 21.3p/5.0a/5.6r | L5: 19.2p/6.0a/5.4r | Floor80%(PTS)=15+: 7/7 (100.0%) | Prior(PHI,37G): 17.3p/3.6a/5.3r | Status: Available
+  [Scorers] Payton Pritchard (G) | 8/8G (0S) | MIN=26.8 | L10: 13.0p/3.6a/2.8r | L5: 11.0p/4.0a/3.2r | Floor80%(PTS)=Below base thresh | Prior(BOS,79G): 17.0p/5.2a/3.9r | Status: Questionable (Right Eye Abrasion)
+  [Assists] Jayson Tatum (F) | 7/8G (7S) | MIN=35.1 | L10: 27.0p/7.9a/6.0r | L5: 28.0p/7.4a/5.8r | Floor80%(AST)=7+: 6/7 (85.7%) | Prior(BOS,16G): 21.8p/5.3a/10.0r | Status: Available
+  [Assists] Derrick White (G) | 8/8G (8S) | MIN=30.8 | L10: 12.8p/5.1a/3.2r | L5: 13.6p/4.6a/3.0r | Floor80%(AST)=3+: 7/8 (87.5%) | Prior(BOS,77G): 16.5p/5.4a/4.4r | Status: Available
+  [Rebounds] Neemias Queta (C) | 8/8G (3S) | MIN=22.5 | L10: 9.8p/1.4a/6.2r | L5: 10.6p/1.4a/7.0r | Floor80%(REB)=Below base thresh | Prior(BOS,76G): 10.2p/1.7a/8.4r | Status: Available
+  [Rebounds] Jayson Tatum (F) | 7/8G (7S) | MIN=35.1 | L10: 27.0p/7.9a/6.0r | L5: 28.0p/7.4a/5.8r | Floor80%(REB)=Below base thresh | Prior(BOS,16G): 21.8p/5.3a/10.0r | Status: Available
+TEAM CHA (3-6, GP=9) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Brandon Miller (F) | 9/9G (9S) | MIN=32.9 | L10: 22.0p/2.3a/5.3r | L5: 20.2p/3.0a/5.8r | Floor80%(PTS)=10+: 8/9 (88.9%) | Prior(CHO,65G): 20.2p/3.3a/4.9r | Status: Available
+  [Scorers] Naz Reid (C) | 9/9G (9S) | MIN=29.7 | L10: 16.9p/1.9a/8.3r | L5: 14.8p/1.4a/7.4r | Floor80%(PTS)=10+: 8/9 (88.9%) | Prior(MIN,77G): 13.6p/2.2a/6.2r | Status: Available
+  [Scorers] Grayson Allen (G) | 9/9G (0S) | MIN=26.4 | L10: 15.7p/2.7a/2.8r | L5: 14.8p/2.2a/3.0r | Floor80%(PTS)=Below base thresh | Prior(PHO,51G): 16.5p/3.8a/3.0r | Status: Available
+  [Assists] Dennis Schroder (G) | 9/9G (7S) | MIN=30.0 | L10: 10.2p/4.9a/3.6r | L5: 7.2p/5.0a/3.2r | Floor80%(AST)=3+: 8/9 (88.9%) | Prior(2TM,70G): 10.8p/4.9a/2.7r | Status: Questionable (Left Soreness)
+  [Assists] Sion James (G) | 9/9G (8S) | MIN=25.3 | L10: 5.2p/2.8a/3.0r | L5: 7.2p/2.4a/3.0r | Floor80%(AST)=Below base thresh | Prior(CHO,82G): 5.4p/2.0a/3.5r | Status: Available
+  [Rebounds] Moussa Diabate (F) | 9/9G (9S) | MIN=28.8 | L10: 8.9p/2.0a/9.1r | L5: 8.6p/2.0a/8.8r | Floor80%(REB)=5+: 9/9 (100.0%) | Prior(CHO,73G): 7.9p/1.9a/8.7r | Status: Questionable (Right Quadriceps Tendinopathy)
+  [Rebounds] Naz Reid (C) | 9/9G (9S) | MIN=29.7 | L10: 16.9p/1.9a/8.3r | L5: 14.8p/1.4a/7.4r | Floor80%(REB)=5+: 9/9 (100.0%) | Prior(MIN,77G): 13.6p/2.2a/6.2r | Status: Available
+TEAM CHI (1-7, GP=8)  | SmallOutliers=[]
+  [Scorers] Caleb Wilson (F) | 8/8G (8S) | MIN=32.5 | L10: 19.5p/2.4a/6.5r | L5: 17.8p/3.0a/5.6r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior: Rookie/DNP | Status: Available
+  [Scorers] Norman Powell (G) | 8/8G (8S) | MIN=28.9 | L10: 19.2p/1.6a/2.5r | L5: 19.2p/1.6a/1.8r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior(MIA,58G): 21.7p/2.5a/3.5r | Status: Available
+  [Scorers] Matas Buzelis (F) | 8/8G (8S) | MIN=25.1 | L10: 12.9p/2.0a/4.4r | L5: 11.6p/2.2a/3.8r | Floor80%(PTS)=Below base thresh | Prior(CHI,77G): 16.3p/2.1a/5.8r | Status: Available
+  [Assists] Josh Giddey (G) | 8/8G (8S) | MIN=27.2 | L10: 9.2p/7.6a/4.6r | L5: 11.4p/7.2a/3.6r | Floor80%(AST)=5+: 7/8 (87.5%) | Prior(CHI,54G): 17.0p/9.1a/8.3r | Status: Available
+  [Assists] Tre Jones (G) | 8/8G (0S) | MIN=18.1 | L10: 10.9p/3.1a/2.9r | L5: 10.6p/2.8a/3.0r | Floor80%(AST)=Below base thresh | Prior(CHI,65G): 14.1p/5.4a/3.1r | Status: Available
+  [Rebounds] Jalen Smith (F) | 8/8G (8S) | MIN=22.4 | L10: 11.0p/1.8a/7.8r | L5: 9.0p/2.2a/7.6r | Floor80%(REB)=Below base thresh | Prior(CHI,53G): 10.2p/1.2a/6.7r | Status: Day-To-Day (Left Hand)
+  [Rebounds] Caleb Wilson (F) | 8/8G (8S) | MIN=32.5 | L10: 19.5p/2.4a/6.5r | L5: 17.8p/3.0a/5.6r | Floor80%(REB)=5+: 7/8 (87.5%) | Prior: Rookie/DNP | Status: Available
+TEAM CLE (4-4, GP=8) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Donovan Mitchell (G) | 8/8G (8S) | MIN=33.1 | L10: 22.5p/5.5a/5.0r | L5: 20.0p/6.0a/4.0r | Floor80%(PTS)=15+: 8/8 (100.0%) | Prior(CLE,70G): 27.9p/5.7a/4.5r | Status: Available
+  [Scorers] Evan Mobley (C) | 8/8G (8S) | MIN=32.9 | L10: 18.8p/3.5a/8.2r | L5: 18.8p/3.8a/7.6r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior(CLE,65G): 18.2p/3.6a/9.0r | Status: Available
+  [Scorers] James Harden (G) | 8/8G (8S) | MIN=33.6 | L10: 16.6p/6.2a/5.2r | L5: 17.2p/5.8a/5.2r | Floor80%(PTS)=10+: 8/8 (100.0%) | Prior(2TM,70G): 23.6p/8.0a/4.8r | Status: Available
+  [Assists] James Harden (G) | 8/8G (8S) | MIN=33.6 | L10: 16.6p/6.2a/5.2r | L5: 17.2p/5.8a/5.2r | Floor80%(AST)=5+: 7/8 (87.5%) | Prior(2TM,70G): 23.6p/8.0a/4.8r | Status: Available
+  [Assists] Donovan Mitchell (G) | 8/8G (8S) | MIN=33.1 | L10: 22.5p/5.5a/5.0r | L5: 20.0p/6.0a/4.0r | Floor80%(AST)=3+: 8/8 (100.0%) | Prior(CLE,70G): 27.9p/5.7a/4.5r | Status: Available
+  [Rebounds] Evan Mobley (C) | 8/8G (8S) | MIN=32.9 | L10: 18.8p/3.5a/8.2r | L5: 18.8p/3.8a/7.6r | Floor80%(REB)=5+: 7/8 (87.5%) | Prior(CLE,65G): 18.2p/3.6a/9.0r | Status: Available
+  [Rebounds] Jarrett Allen (C) | 8/8G (8S) | MIN=25.1 | L10: 13.2p/1.2a/7.8r | L5: 12.2p/1.6a/7.6r | Floor80%(REB)=5+: 7/8 (87.5%) | Prior(CLE,56G): 15.4p/1.8a/8.5r | Status: Questionable (Right Knee Contusion)
+TEAM DAL (4-4, GP=8) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Cooper Flagg (F) | 7/8G (7S) | MIN=34.6 | L10: 24.3p/6.3a/6.3r | L5: 24.8p/7.2a/6.8r | Floor80%(PTS)=15+: 6/7 (85.7%) | Prior(DAL,70G): 21.0p/4.5a/6.7r | Status: Available
+  [Scorers] Kyrie Irving (G) | 6/8G (6S) | MIN=30.0 | L10: 22.7p/4.8a/4.0r | L5: 24.2p/5.4a/4.0r | Floor80%(PTS)=15+: 6/6 (100.0%) | Prior: Rookie/DNP | Status: Available
+  [Scorers] P.J. Washington (F) | 8/8G (8S) | MIN=34.9 | L10: 14.5p/1.4a/8.0r | L5: 14.8p/1.4a/8.6r | Floor80%(PTS)=10+: 7/8 (87.5%) | Prior(DAL,56G): 14.2p/1.8a/7.0r | Status: Available
+  [Assists] Cooper Flagg (F) | 7/8G (7S) | MIN=34.6 | L10: 24.3p/6.3a/6.3r | L5: 24.8p/7.2a/6.8r | Floor80%(AST)=5+: 6/7 (85.7%) | Prior(DAL,70G): 21.0p/4.5a/6.7r | Status: Available
+  [Assists] Naji Marshall (F) | 5/8G (1S) | MIN=26.6 | L10: 13.6p/5.4a/3.4r | L5: 13.6p/5.4a/3.4r | Floor80%(AST)=5+: 4/5 (80.0%) | Prior(DAL,74G): 15.2p/3.3a/4.7r | Status: Available
+  [Rebounds] P.J. Washington (F) | 8/8G (8S) | MIN=34.9 | L10: 14.5p/1.4a/8.0r | L5: 14.8p/1.4a/8.6r | Floor80%(REB)=Below base thresh | Prior(DAL,56G): 14.2p/1.8a/7.0r | Status: Available
+  [Rebounds] Daniel Gafford (F) | 8/8G (8S) | MIN=23.2 | L10: 9.1p/2.0a/6.6r | L5: 11.0p/1.6a/7.6r | Floor80%(REB)=Below base thresh | Prior(DAL,55G): 9.5p/1.1a/6.9r | Status: Available
+TEAM DEN (4-3, GP=7)  | SmallOutliers=[]
+  [Scorers] Jamal Murray (G) | 7/7G (7S) | MIN=36.9 | L10: 25.4p/5.9a/5.4r | L5: 26.0p/6.4a/5.0r | Floor80%(PTS)=10+: 6/7 (85.7%) | Prior(DEN,75G): 25.4p/7.1a/4.4r | Status: Available
+  [Scorers] Nikola Jokic (C) | 7/7G (7S) | MIN=35.9 | L10: 23.4p/9.3a/9.7r | L5: 23.2p/10.0a/9.2r | Floor80%(PTS)=15+: 6/7 (85.7%) | Prior(DEN,65G): 27.7p/10.7a/12.9r | Status: Available
+  [Scorers] Christian Braun (G) | 7/7G (7S) | MIN=35.0 | L10: 14.6p/2.3a/3.9r | L5: 16.0p/2.6a/2.6r | Floor80%(PTS)=Below base thresh | Prior(DEN,44G): 12.0p/2.7a/4.8r | Status: Available
+  [Assists] Nikola Jokic (C) | 7/7G (7S) | MIN=35.9 | L10: 23.4p/9.3a/9.7r | L5: 23.2p/10.0a/9.2r | Floor80%(AST)=8+: 6/7 (85.7%) | Prior(DEN,65G): 27.7p/10.7a/12.9r | Status: Available
+  [Assists] Jamal Murray (G) | 7/7G (7S) | MIN=36.9 | L10: 25.4p/5.9a/5.4r | L5: 26.0p/6.4a/5.0r | Floor80%(AST)=5+: 6/7 (85.7%) | Prior(DEN,75G): 25.4p/7.1a/4.4r | Status: Available
+  [Rebounds] Nikola Jokic (C) | 7/7G (7S) | MIN=35.9 | L10: 23.4p/9.3a/9.7r | L5: 23.2p/10.0a/9.2r | Floor80%(REB)=7+: 7/7 (100.0%) | Prior(DEN,65G): 27.7p/10.7a/12.9r | Status: Available
+  [Rebounds] Trevon Brazile (F) | 7/7G (1S) | MIN=22.1 | L10: 8.0p/0.4a/6.4r | L5: 7.0p/0.6a/4.8r | Floor80%(REB)=Below base thresh | Prior: Rookie/DNP | Status: Available
+TEAM DET (6-2, GP=8)  | SmallOutliers=[]
+  [Scorers] Cade Cunningham (G) | 8/8G (8S) | MIN=33.5 | L10: 24.0p/7.6a/5.6r | L5: 25.6p/7.4a/6.2r | Floor80%(PTS)=15+: 8/8 (100.0%) | Prior(DET,64G): 23.9p/9.9a/5.5r | Status: Available
+  [Scorers] Duncan Robinson (F) | 8/8G (8S) | MIN=31.0 | L10: 19.0p/2.2a/1.9r | L5: 18.6p/2.2a/1.8r | Floor80%(PTS)=10+: 8/8 (100.0%) | Prior(DET,77G): 12.2p/2.1a/2.7r | Status: Available
+  [Scorers] Paul Reed (F) | 8/8G (6S) | MIN=27.4 | L10: 12.8p/2.4a/6.8r | L5: 13.8p/2.4a/5.8r | Floor80%(PTS)=Below base thresh | Prior(DET,65G): 7.8p/1.2a/4.5r | Status: Available
+  [Assists] Cade Cunningham (G) | 8/8G (8S) | MIN=33.5 | L10: 24.0p/7.6a/5.6r | L5: 25.6p/7.4a/6.2r | Floor80%(AST)=7+: 7/8 (87.5%) | Prior(DET,64G): 23.9p/9.9a/5.5r | Status: Available
+  [Assists] Ausar Thompson (G) | 7/8G (7S) | MIN=27.4 | L10: 9.9p/4.7a/8.6r | L5: 10.8p/4.6a/9.2r | Floor80%(AST)=3+: 6/7 (85.7%) | Prior(DET,73G): 9.9p/3.1a/5.7r | Status: Available
+  [Rebounds] Ausar Thompson (G) | 7/8G (7S) | MIN=27.4 | L10: 9.9p/4.7a/8.6r | L5: 10.8p/4.6a/9.2r | Floor80%(REB)=5+: 6/7 (85.7%) | Prior(DET,73G): 9.9p/3.1a/5.7r | Status: Available
+  [Rebounds] Paul Reed (F) | 8/8G (6S) | MIN=27.4 | L10: 12.8p/2.4a/6.8r | L5: 13.8p/2.4a/5.8r | Floor80%(REB)=Below base thresh | Prior(DET,65G): 7.8p/1.2a/4.5r | Status: Available
+TEAM GSW (6-3, GP=9)  | SmallOutliers=[]
+  [Scorers] Stephen Curry (G) | 7/9G (7S) | MIN=28.9 | L10: 29.9p/4.4a/3.7r | L5: 32.4p/5.2a/4.4r | Floor80%(PTS)=20+: 7/7 (100.0%) | Prior(GSW,43G): 26.6p/4.7a/3.6r | Status: Available
+  [Scorers] Yaxel Lendeborg (F) | 9/9G (9S) | MIN=31.7 | L10: 21.0p/4.1a/7.1r | L5: 20.4p/3.6a/5.4r | Floor80%(PTS)=10+: 8/9 (88.9%) | Prior: Rookie/DNP | Status: Available
+  [Scorers] Brandin Podziemski (G) | 7/9G (7S) | MIN=33.3 | L10: 15.9p/4.7a/5.1r | L5: 15.0p/5.0a/5.4r | Floor80%(PTS)=Below base thresh | Prior(GSW,82G): 13.8p/3.7a/5.1r | Status: Available
+  [Assists] Draymond Green (F) | 7/9G (7S) | MIN=26.7 | L10: 3.0p/7.0a/5.0r | L5: 2.8p/7.0a/5.2r | Floor80%(AST)=5+: 6/7 (85.7%) | Prior(GSW,68G): 8.4p/5.5a/5.5r | Status: Available
+  [Assists] Brandin Podziemski (G) | 7/9G (7S) | MIN=33.3 | L10: 15.9p/4.7a/5.1r | L5: 15.0p/5.0a/5.4r | Floor80%(AST)=3+: 6/7 (85.7%) | Prior(GSW,82G): 13.8p/3.7a/5.1r | Status: Available
+  [Rebounds] Yaxel Lendeborg (F) | 9/9G (9S) | MIN=31.7 | L10: 21.0p/4.1a/7.1r | L5: 20.4p/3.6a/5.4r | Floor80%(REB)=Below base thresh | Prior: Rookie/DNP | Status: Available
+  [Rebounds] Brandin Podziemski (G) | 7/9G (7S) | MIN=33.3 | L10: 15.9p/4.7a/5.1r | L5: 15.0p/5.0a/5.4r | Floor80%(REB)=Below base thresh | Prior(GSW,82G): 13.8p/3.7a/5.1r | Status: Available
+TEAM HOU (7-2, GP=9)  | SmallOutliers=[]
+  [Scorers] Alperen Sengun (C) | 7/9G (7S) | MIN=35.1 | L10: 22.4p/8.1a/9.1r | L5: 21.0p/9.0a/9.4r | Floor80%(PTS)=15+: 7/7 (100.0%) | Prior(HOU,72G): 20.4p/6.2a/8.9r | Status: Available
+  [Scorers] Kevin Durant (F) | 9/9G (9S) | MIN=33.8 | L10: 20.8p/3.0a/5.2r | L5: 18.6p/2.8a/4.2r | Floor80%(PTS)=10+: 9/9 (100.0%) | Prior(HOU,78G): 26.0p/4.8a/5.5r | Status: Available
+  [Scorers] Jabari Smith Jr. (F) | 9/9G (9S) | MIN=34.6 | L10: 17.6p/2.3a/6.1r | L5: 18.2p/2.2a/5.6r | Floor80%(PTS)=10+: 8/9 (88.9%) | Prior(HOU,77G): 15.8p/1.9a/6.9r | Status: Available
+  [Assists] Alperen Sengun (C) | 7/9G (7S) | MIN=35.1 | L10: 22.4p/8.1a/9.1r | L5: 21.0p/9.0a/9.4r | Floor80%(AST)=7+: 6/7 (85.7%) | Prior(HOU,72G): 20.4p/6.2a/8.9r | Status: Available
+  [Assists] Fred VanVleet (G) | 7/9G (7S) | MIN=30.0 | L10: 13.0p/6.3a/3.6r | L5: 14.2p/5.6a/4.0r | Floor80%(AST)=5+: 6/7 (85.7%) | Prior: Rookie/DNP | Status: Available
+  [Rebounds] Alperen Sengun (C) | 7/9G (7S) | MIN=35.1 | L10: 22.4p/8.1a/9.1r | L5: 21.0p/9.0a/9.4r | Floor80%(REB)=7+: 7/7 (100.0%) | Prior(HOU,72G): 20.4p/6.2a/8.9r | Status: Available
+  [Rebounds] Amen Thompson (G) | 9/9G (9S) | MIN=32.6 | L10: 15.4p/3.3a/6.3r | L5: 14.2p/2.8a/4.2r | Floor80%(REB)=Below base thresh | Prior(HOU,79G): 18.3p/5.3a/7.8r | Status: Available
+TEAM IND (3-6, GP=9)  | SmallOutliers=[]
+  [Scorers] Tyrese Haliburton (G) | 4/9G (4S) | MIN=33.0 | L10: 21.8p/9.5a/4.5r | L5: 21.8p/9.5a/4.5r | Floor80%(PTS)=15+: 4/4 (100.0%) | Prior: Rookie/DNP | Status: Out (Left Hamstring)
+  [Scorers] Pascal Siakam (F) | 8/9G (8S) | MIN=32.0 | L10: 21.2p/3.8a/7.0r | L5: 19.2p/4.0a/7.6r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior(IND,62G): 24.0p/3.8a/6.6r | Status: Available
+  [Scorers] Andrew Nembhard (G) | 7/9G (7S) | MIN=33.4 | L10: 19.0p/7.0a/2.1r | L5: 19.8p/7.0a/2.2r | Floor80%(PTS)=15+: 6/7 (85.7%) | Prior(IND,57G): 16.9p/7.7a/2.8r | Status: Available
+  [Assists] Tyrese Haliburton (G) | 4/9G (4S) | MIN=33.0 | L10: 21.8p/9.5a/4.5r | L5: 21.8p/9.5a/4.5r | Floor80%(AST)=7+: 4/4 (100.0%) | Prior: Rookie/DNP | Status: Out (Left Hamstring)
+  [Assists] Andrew Nembhard (G) | 7/9G (7S) | MIN=33.4 | L10: 19.0p/7.0a/2.1r | L5: 19.8p/7.0a/2.2r | Floor80%(AST)=3+: 7/7 (100.0%) | Prior(IND,57G): 16.9p/7.7a/2.8r | Status: Available
+  [Rebounds] Ivica Zubac (C) | 4/9G (4S) | MIN=21.0 | L10: 7.0p/1.5a/7.8r | L5: 7.0p/1.5a/7.8r | Floor80%(REB)=Below base thresh | Prior(2TM,48G): 14.1p/2.2a/10.6r | Status: Available
+  [Rebounds] Pascal Siakam (F) | 8/9G (8S) | MIN=32.0 | L10: 21.2p/3.8a/7.0r | L5: 19.2p/4.0a/7.6r | Floor80%(REB)=Below base thresh | Prior(IND,62G): 24.0p/3.8a/6.6r | Status: Available
+TEAM LAC (1-7, GP=8)  | SmallOutliers=[]
+  [Scorers] Darius Garland (G) | 8/8G (8S) | MIN=33.8 | L10: 20.9p/6.6a/1.6r | L5: 19.0p/6.4a/1.6r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior(2TM,45G): 18.8p/6.7a/2.4r | Status: Available
+  [Scorers] Rui Hachimura (F) | 6/8G (6S) | MIN=31.2 | L10: 14.7p/1.7a/6.5r | L5: 15.6p/1.6a/6.2r | Floor80%(PTS)=10+: 5/6 (83.3%) | Prior(LAL,68G): 11.5p/0.8a/3.3r | Status: Available
+  [Scorers] Brook Lopez (C) | 8/8G (2S) | MIN=23.6 | L10: 13.5p/1.0a/5.1r | L5: 10.8p/1.0a/5.0r | Floor80%(PTS)=Below base thresh | Prior(LAC,75G): 8.5p/1.3a/3.6r | Status: Available
+  [Assists] Darius Garland (G) | 8/8G (8S) | MIN=33.8 | L10: 20.9p/6.6a/1.6r | L5: 19.0p/6.4a/1.6r | Floor80%(AST)=5+: 7/8 (87.5%) | Prior(2TM,45G): 18.8p/6.7a/2.4r | Status: Available
+  [Assists] Kris Dunn (G) | 8/8G (8S) | MIN=30.5 | L10: 8.5p/4.5a/4.1r | L5: 7.8p/3.6a/3.8r | Floor80%(AST)=3+: 7/8 (87.5%) | Prior(LAC,82G): 7.3p/3.6a/3.3r | Status: Available
+  [Rebounds] Rui Hachimura (F) | 6/8G (6S) | MIN=31.2 | L10: 14.7p/1.7a/6.5r | L5: 15.6p/1.6a/6.2r | Floor80%(REB)=5+: 5/6 (83.3%) | Prior(LAL,68G): 11.5p/0.8a/3.3r | Status: Available
+  [Rebounds] Isaiah Jackson (F) | 8/8G (6S) | MIN=21.1 | L10: 8.6p/2.2a/6.1r | L5: 8.0p/2.2a/6.4r | Floor80%(REB)=5+: 7/8 (87.5%) | Prior(2TM,55G): 6.7p/0.9a/5.3r | Status: Available
+TEAM LAL (7-2, GP=9) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Luka Doncic (G) | 8/9G (8S) | MIN=35.6 | L10: 38.5p/8.0a/8.1r | L5: 41.0p/8.0a/8.6r | Floor80%(PTS)=25+: 7/8 (87.5%) | Prior(LAL,64G): 33.5p/8.3a/7.7r | Status: Available
+  [Scorers] Austin Reaves (G) | 9/9G (9S) | MIN=35.9 | L10: 23.3p/5.0a/3.2r | L5: 20.8p/3.8a/3.6r | Floor80%(PTS)=15+: 9/9 (100.0%) | Prior(LAL,51G): 23.3p/5.5a/4.7r | Status: Available
+  [Scorers] Walker Kessler (C) | 9/9G (9S) | MIN=30.6 | L10: 14.4p/1.1a/10.2r | L5: 13.4p/1.2a/12.0r | Floor80%(PTS)=10+: 8/9 (88.9%) | Prior(UTA,5G): 14.4p/3.0a/10.8r | Status: Available (Left Finger Splint)
+  [Assists] Luka Doncic (G) | 8/9G (8S) | MIN=35.6 | L10: 38.5p/8.0a/8.1r | L5: 41.0p/8.0a/8.6r | Floor80%(AST)=5+: 8/8 (100.0%) | Prior(LAL,64G): 33.5p/8.3a/7.7r | Status: Available
+  [Assists] Austin Reaves (G) | 9/9G (9S) | MIN=35.9 | L10: 23.3p/5.0a/3.2r | L5: 20.8p/3.8a/3.6r | Floor80%(AST)=3+: 8/9 (88.9%) | Prior(LAL,51G): 23.3p/5.5a/4.7r | Status: Available
+  [Rebounds] Walker Kessler (C) | 9/9G (9S) | MIN=30.6 | L10: 14.4p/1.1a/10.2r | L5: 13.4p/1.2a/12.0r | Floor80%(REB)=8+: 8/9 (88.9%) | Prior(UTA,5G): 14.4p/3.0a/10.8r | Status: Available (Left Finger Splint)
+  [Rebounds] Luka Doncic (G) | 8/9G (8S) | MIN=35.6 | L10: 38.5p/8.0a/8.1r | L5: 41.0p/8.0a/8.6r | Floor80%(REB)=5+: 8/8 (100.0%) | Prior(LAL,64G): 33.5p/8.3a/7.7r | Status: Available
+TEAM MEM (6-2, GP=8) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Ty Jerome (G) | 7/8G (7S) | MIN=30.9 | L10: 27.4p/5.3a/3.6r | L5: 23.8p/5.2a/3.2r | Floor80%(PTS)=15+: 6/7 (85.7%) | Prior(MEM,15G): 19.7p/5.7a/2.8r | Status: Available
+  [Scorers] Cameron Boozer (F) | 8/8G (8S) | MIN=32.1 | L10: 16.5p/5.4a/9.8r | L5: 17.2p/5.6a/8.6r | Floor80%(PTS)=10+: 7/8 (87.5%) | Prior: Rookie/DNP | Status: Available
+  [Scorers] Cedric Coward (F) | 7/8G (7S) | MIN=29.3 | L10: 14.3p/2.7a/8.7r | L5: 15.2p/3.2a/8.6r | Floor80%(PTS)=10+: 6/7 (85.7%) | Prior(MEM,62G): 13.6p/2.8a/5.9r | Status: Available
+  [Assists] Cam Spencer (G) | 8/8G (1S) | MIN=19.8 | L10: 9.1p/5.8a/3.8r | L5: 9.2p/8.4a/4.6r | Floor80%(AST)=Below base thresh | Prior(MEM,72G): 11.1p/5.6a/2.5r | Status: Available
+  [Assists] Cameron Boozer (F) | 8/8G (8S) | MIN=32.1 | L10: 16.5p/5.4a/9.8r | L5: 17.2p/5.6a/8.6r | Floor80%(AST)=3+: 8/8 (100.0%) | Prior: Rookie/DNP | Status: Available
+  [Rebounds] Cameron Boozer (F) | 8/8G (8S) | MIN=32.1 | L10: 16.5p/5.4a/9.8r | L5: 17.2p/5.6a/8.6r | Floor80%(REB)=7+: 7/8 (87.5%) | Prior: Rookie/DNP | Status: Available
+  [Rebounds] Cedric Coward (F) | 7/8G (7S) | MIN=29.3 | L10: 14.3p/2.7a/8.7r | L5: 15.2p/3.2a/8.6r | Floor80%(REB)=7+: 7/7 (100.0%) | Prior(MEM,62G): 13.6p/2.8a/5.9r | Status: Available
+TEAM MIA (3-6, GP=9)  | SmallOutliers=[]
+  [Scorers] Giannis Antetokounmpo (F) | 9/9G (9S) | MIN=32.8 | L10: 27.3p/5.6a/12.7r | L5: 26.4p/6.0a/15.2r | Floor80%(PTS)=20+: 8/9 (88.9%) | Prior(MIL,36G): 27.6p/5.4a/9.8r | Status: Available
+  [Scorers] Bam Adebayo (C) | 9/9G (9S) | MIN=32.7 | L10: 18.6p/3.1a/8.4r | L5: 24.0p/2.8a/9.4r | Floor80%(PTS)=Below base thresh | Prior(MIA,73G): 20.1p/3.2a/10.0r | Status: Available
+  [Scorers] Davion Mitchell (G) | 9/9G (9S) | MIN=35.0 | L10: 16.1p/8.2a/1.6r | L5: 14.6p/9.2a/2.2r | Floor80%(PTS)=10+: 9/9 (100.0%) | Prior(MIA,70G): 9.3p/6.5a/2.7r | Status: Available
+  [Assists] Davion Mitchell (G) | 9/9G (9S) | MIN=35.0 | L10: 16.1p/8.2a/1.6r | L5: 14.6p/9.2a/2.2r | Floor80%(AST)=5+: 8/9 (88.9%) | Prior(MIA,70G): 9.3p/6.5a/2.7r | Status: Available
+  [Assists] Giannis Antetokounmpo (F) | 9/9G (9S) | MIN=32.8 | L10: 27.3p/5.6a/12.7r | L5: 26.4p/6.0a/15.2r | Floor80%(AST)=3+: 8/9 (88.9%) | Prior(MIL,36G): 27.6p/5.4a/9.8r | Status: Available
+  [Rebounds] Giannis Antetokounmpo (F) | 9/9G (9S) | MIN=32.8 | L10: 27.3p/5.6a/12.7r | L5: 26.4p/6.0a/15.2r | Floor80%(REB)=5+: 9/9 (100.0%) | Prior(MIL,36G): 27.6p/5.4a/9.8r | Status: Available
+  [Rebounds] Bam Adebayo (C) | 9/9G (9S) | MIN=32.7 | L10: 18.6p/3.1a/8.4r | L5: 24.0p/2.8a/9.4r | Floor80%(REB)=7+: 8/9 (88.9%) | Prior(MIA,73G): 20.1p/3.2a/10.0r | Status: Available
+TEAM MIL (1-7, GP=8) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Tyler Herro (G) | 8/8G (8S) | MIN=30.6 | L10: 22.2p/3.9a/5.0r | L5: 21.4p/3.0a/5.4r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior(MIA,33G): 20.5p/4.1a/4.8r | Status: Available
+  [Scorers] Jaime Jaquez Jr. (F) | 8/8G (8S) | MIN=28.4 | L10: 16.8p/2.8a/6.6r | L5: 14.4p/2.2a/5.4r | Floor80%(PTS)=Below base thresh | Prior(MIA,75G): 15.4p/4.7a/5.0r | Status: Available
+  [Scorers] Ryan Rollins (G) | 8/8G (6S) | MIN=24.9 | L10: 11.2p/4.5a/4.8r | L5: 11.0p/4.6a/4.2r | Floor80%(PTS)=Below base thresh | Prior(MIL,74G): 17.3p/5.6a/4.6r | Status: Available
+  [Assists] Ryan Rollins (G) | 8/8G (6S) | MIN=24.9 | L10: 11.2p/4.5a/4.8r | L5: 11.0p/4.6a/4.2r | Floor80%(AST)=3+: 7/8 (87.5%) | Prior(MIL,74G): 17.3p/5.6a/4.6r | Status: Available
+  [Assists] Kasparas Jakucionis (G) | 8/8G (0S) | MIN=21.1 | L10: 7.5p/4.0a/2.9r | L5: 5.2p/4.4a/3.0r | Floor80%(AST)=Below base thresh | Prior(MIA,53G): 6.2p/2.6a/2.6r | Status: Available
+  [Rebounds] Kel'el Ware (C) | 8/8G (0S) | MIN=18.9 | L10: 10.2p/0.8a/8.2r | L5: 9.0p/0.8a/9.2r | Floor80%(REB)=Below base thresh | Prior(MIA,77G): 11.1p/0.7a/9.0r | Status: Available
+  [Rebounds] Jaime Jaquez Jr. (F) | 8/8G (8S) | MIN=28.4 | L10: 16.8p/2.8a/6.6r | L5: 14.4p/2.2a/5.4r | Floor80%(REB)=Below base thresh | Prior(MIA,75G): 15.4p/4.7a/5.0r | Status: Available
+TEAM MIN (6-3, GP=9) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Anthony Edwards (G) | 4/9G (4S) | MIN=33.8 | L10: 33.2p/3.5a/4.8r | L5: 33.2p/3.5a/4.8r | Floor80%(PTS)=15+: 4/4 (100.0%) | Prior(MIN,61G): 28.8p/3.7a/5.0r | Status: Out (Right Knee Arthroscopy)
+  [Scorers] LaMelo Ball (G) | 9/9G (9S) | MIN=26.8 | L10: 17.2p/5.9a/3.4r | L5: 19.2p/5.6a/4.6r | Floor80%(PTS)=10+: 8/9 (88.9%) | Prior(CHO,72G): 20.1p/7.1a/4.8r | Status: Available
+  [Scorers] Jaden McDaniels (F) | 9/9G (9S) | MIN=33.3 | L10: 16.4p/3.6a/6.2r | L5: 17.6p/4.2a/6.0r | Floor80%(PTS)=10+: 9/9 (100.0%) | Prior(MIN,73G): 14.8p/2.7a/4.2r | Status: Available
+  [Assists] LaMelo Ball (G) | 9/9G (9S) | MIN=26.8 | L10: 17.2p/5.9a/3.4r | L5: 19.2p/5.6a/4.6r | Floor80%(AST)=3+: 9/9 (100.0%) | Prior(CHO,72G): 20.1p/7.1a/4.8r | Status: Available
+  [Assists] Ayo Dosunmu (G) | 9/9G (5S) | MIN=30.7 | L10: 16.3p/4.3a/5.3r | L5: 19.8p/4.6a/6.4r | Floor80%(AST)=Below base thresh | Prior(2TM,69G): 14.8p/3.6a/3.4r | Status: Available
+  [Rebounds] Rudy Gobert (C) | 8/9G (8S) | MIN=30.5 | L10: 7.5p/1.5a/11.9r | L5: 6.6p/2.0a/11.6r | Floor80%(REB)=8+: 7/8 (87.5%) | Prior(MIN,76G): 10.9p/1.7a/11.5r | Status: Available
+  [Rebounds] Joan Beringer (F) | 9/9G (1S) | MIN=17.6 | L10: 6.2p/0.8a/6.9r | L5: 5.8p/1.2a/6.8r | Floor80%(REB)=5+: 8/9 (88.9%) | Prior(MIN,40G): 3.9p/0.3a/2.3r | Status: Available
+TEAM NOP (4-4, GP=8) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Zion Williamson (F) | 8/8G (8S) | MIN=33.0 | L10: 21.5p/2.6a/5.1r | L5: 22.0p/2.8a/6.4r | Floor80%(PTS)=15+: 8/8 (100.0%) | Prior(NOP,62G): 21.0p/3.2a/5.7r | Status: Available
+  [Scorers] Dejounte Murray (G) | 5/8G (5S) | MIN=34.8 | L10: 18.2p/5.6a/6.2r | L5: 18.2p/5.6a/6.2r | Floor80%(PTS)=15+: 4/5 (80.0%) | Prior(NOP,14G): 16.7p/6.4a/5.4r | Status: Available
+  [Scorers] Saddiq Bey (F) | 8/8G (0S) | MIN=26.5 | L10: 16.4p/1.9a/3.9r | L5: 16.8p/2.2a/3.8r | Floor80%(PTS)=10+: 7/8 (87.5%) | Prior(NOP,72G): 17.7p/2.5a/5.6r | Status: Available
+  [Assists] Dejounte Murray (G) | 5/8G (5S) | MIN=34.8 | L10: 18.2p/5.6a/6.2r | L5: 18.2p/5.6a/6.2r | Floor80%(AST)=5+: 4/5 (80.0%) | Prior(NOP,14G): 16.7p/6.4a/5.4r | Status: Available
+  [Assists] Jeremiah Fears (G) | 8/8G (8S) | MIN=28.0 | L10: 13.6p/4.5a/4.5r | L5: 16.8p/6.4a/5.4r | Floor80%(AST)=Below base thresh | Prior(NOP,82G): 14.3p/3.4a/3.7r | Status: Available
+  [Rebounds] Derik Queen (C) | 8/8G (0S) | MIN=24.1 | L10: 13.4p/3.0a/7.9r | L5: 13.6p/3.8a/7.6r | Floor80%(REB)=7+: 7/8 (87.5%) | Prior(NOP,81G): 11.7p/3.7a/7.1r | Status: Available
+  [Rebounds] Dejounte Murray (G) | 5/8G (5S) | MIN=34.8 | L10: 18.2p/5.6a/6.2r | L5: 18.2p/5.6a/6.2r | Floor80%(REB)=5+: 4/5 (80.0%) | Prior(NOP,14G): 16.7p/6.4a/5.4r | Status: Available
+TEAM NYK (4-4, GP=8)  | SmallOutliers=[]
+  [Scorers] Jalen Brunson (G) | 8/8G (8S) | MIN=33.9 | L10: 25.6p/5.1a/2.6r | L5: 27.4p/6.0a/2.2r | Floor80%(PTS)=15+: 8/8 (100.0%) | Prior(NYK,74G): 26.0p/6.8a/3.3r | Status: Available
+  [Scorers] Karl-Anthony Towns (C) | 8/8G (8S) | MIN=31.2 | L10: 19.9p/3.1a/13.6r | L5: 19.2p/3.4a/14.6r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior(NYK,75G): 20.1p/3.0a/11.9r | Status: Available
+  [Scorers] OG Anunoby (F) | 8/8G (8S) | MIN=33.0 | L10: 16.6p/2.5a/5.5r | L5: 16.2p/2.0a/5.2r | Floor80%(PTS)=10+: 7/8 (87.5%) | Prior(NYK,67G): 16.7p/2.2a/5.2r | Status: Available
+  [Assists] Jalen Brunson (G) | 8/8G (8S) | MIN=33.9 | L10: 25.6p/5.1a/2.6r | L5: 27.4p/6.0a/2.2r | Floor80%(AST)=3+: 8/8 (100.0%) | Prior(NYK,74G): 26.0p/6.8a/3.3r | Status: Available
+  [Assists] Josh Hart (G) | 7/8G (7S) | MIN=31.7 | L10: 8.6p/3.9a/7.3r | L5: 7.2p/3.8a/6.4r | Floor80%(AST)=3+: 6/7 (85.7%) | Prior(NYK,66G): 12.0p/4.8a/7.4r | Status: Day-To-Day (Ankle)
+  [Rebounds] Karl-Anthony Towns (C) | 8/8G (8S) | MIN=31.2 | L10: 19.9p/3.1a/13.6r | L5: 19.2p/3.4a/14.6r | Floor80%(REB)=12+: 7/8 (87.5%) | Prior(NYK,75G): 20.1p/3.0a/11.9r | Status: Available
+  [Rebounds] Josh Hart (G) | 7/8G (7S) | MIN=31.7 | L10: 8.6p/3.9a/7.3r | L5: 7.2p/3.8a/6.4r | Floor80%(REB)=5+: 6/7 (85.7%) | Prior(NYK,66G): 12.0p/4.8a/7.4r | Status: Day-To-Day (Ankle)
+TEAM OKC (6-2, GP=8) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Shai Gilgeous-Alexander (G) | 8/8G (8S) | MIN=33.8 | L10: 30.1p/4.5a/4.2r | L5: 31.6p/4.8a/4.0r | Floor80%(PTS)=20+: 7/8 (87.5%) | Prior(OKC,68G): 31.1p/6.6a/4.3r | Status: Available
+  [Scorers] Ajay Mitchell (G) | 8/8G (5S) | MIN=27.5 | L10: 17.8p/3.5a/4.0r | L5: 21.6p/3.6a/4.2r | Floor80%(PTS)=Below base thresh | Prior(OKC,57G): 13.6p/3.6a/3.3r | Status: Available
+  [Scorers] Jalen Williams (G) | 3/8G (3S) | MIN=31.7 | L10: 13.7p/3.3a/4.7r | L5: 13.7p/3.3a/4.7r | Floor80%(PTS)=Below base thresh | Prior(OKC,33G): 17.1p/5.5a/4.6r | Status: Out (Left Ankle Surgery)
+  [Assists] Shai Gilgeous-Alexander (G) | 8/8G (8S) | MIN=33.8 | L10: 30.1p/4.5a/4.2r | L5: 31.6p/4.8a/4.0r | Floor80%(AST)=3+: 7/8 (87.5%) | Prior(OKC,68G): 31.1p/6.6a/4.3r | Status: Available
+  [Assists] Alex Caruso (G) | 5/8G (0S) | MIN=19.2 | L10: 8.8p/3.6a/4.6r | L5: 8.8p/3.6a/4.6r | Floor80%(AST)=3+: 4/5 (80.0%) | Prior(OKC,56G): 6.2p/2.0a/2.8r | Status: Available
+  [Rebounds] Isaiah Hartenstein (C) | 8/8G (8S) | MIN=24.8 | L10: 8.1p/2.5a/10.1r | L5: 8.6p/2.8a/12.0r | Floor80%(REB)=5+: 7/8 (87.5%) | Prior(OKC,47G): 9.2p/3.5a/9.4r | Status: Available
+  [Rebounds] Chet Holmgren (C) | 3/8G (3S) | MIN=30.0 | L10: 12.0p/1.3a/9.3r | L5: 12.0p/1.3a/9.3r | Floor80%(REB)=Below base thresh | Prior(OKC,69G): 17.1p/1.7a/8.9r | Status: Out (Right Knee Injury Recovery)
+TEAM ORL (2-6, GP=8)  | SmallOutliers=[('Paolo Banchero', 2, 24.5, 'Out (Right Ankle)')]
+  [Scorers] Franz Wagner (F) | 8/8G (8S) | MIN=36.0 | L10: 19.6p/8.5a/6.4r | L5: 18.8p/9.8a/5.2r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior(ORL,34G): 20.6p/3.3a/5.2r | Status: Available
+  [Scorers] Desmond Bane (G) | 8/8G (8S) | MIN=34.5 | L10: 17.5p/2.2a/3.9r | L5: 19.0p/2.8a/3.6r | Floor80%(PTS)=10+: 7/8 (87.5%) | Prior(ORL,82G): 20.1p/4.1a/4.1r | Status: Available
+  [Scorers] Anthony Black (G) | 5/8G (4S) | MIN=28.6 | L10: 15.2p/5.0a/5.2r | L5: 15.2p/5.0a/5.2r | Floor80%(PTS)=10+: 4/5 (80.0%) | Prior(ORL,64G): 15.0p/3.7a/3.8r | Status: Available
+  [Assists] Franz Wagner (F) | 8/8G (8S) | MIN=36.0 | L10: 19.6p/8.5a/6.4r | L5: 18.8p/9.8a/5.2r | Floor80%(AST)=5+: 8/8 (100.0%) | Prior(ORL,34G): 20.6p/3.3a/5.2r | Status: Available
+  [Assists] Jalen Suggs (G) | 3/8G (3S) | MIN=33.3 | L10: 8.0p/5.7a/5.0r | L5: 8.0p/5.7a/5.0r | Floor80%(AST)=5+: 3/3 (100.0%) | Prior(ORL,57G): 13.8p/5.5a/3.9r | Status: Out (Right Knee)
+  [Rebounds] Wendell Carter Jr. (C) | 8/8G (8S) | MIN=32.6 | L10: 14.2p/1.1a/9.4r | L5: 12.6p/1.2a/9.8r | Floor80%(REB)=7+: 8/8 (100.0%) | Prior(ORL,78G): 11.8p/2.0a/7.4r | Status: Available
+  [Rebounds] Franz Wagner (F) | 8/8G (8S) | MIN=36.0 | L10: 19.6p/8.5a/6.4r | L5: 18.8p/9.8a/5.2r | Floor80%(REB)=Below base thresh | Prior(ORL,34G): 20.6p/3.3a/5.2r | Status: Available
+TEAM PHI (8-1, GP=9) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Tyrese Maxey (G) | 9/9G (9S) | MIN=37.1 | L10: 28.0p/5.4a/3.8r | L5: 27.4p/6.0a/3.6r | Floor80%(PTS)=25+: 8/9 (88.9%) | Prior(PHI,70G): 28.3p/6.6a/4.1r | Status: Available
+  [Scorers] Jaylen Brown (G) | 8/9G (8S) | MIN=36.2 | L10: 21.8p/3.9a/6.9r | L5: 21.4p/3.2a/7.2r | Floor80%(PTS)=15+: 8/8 (100.0%) | Prior(BOS,71G): 28.7p/5.1a/6.9r | Status: Available
+  [Scorers] Joel Embiid (C) | 7/9G (7S) | MIN=33.3 | L10: 19.6p/4.4a/10.0r | L5: 20.0p/4.8a/10.4r | Floor80%(PTS)=10+: 7/7 (100.0%) | Prior(PHI,38G): 26.9p/3.9a/7.7r | Status: Available
+  [Assists] LeBron James (F) | 7/9G (7S) | MIN=33.0 | L10: 15.7p/7.4a/7.4r | L5: 15.8p/8.0a/6.6r | Floor80%(AST)=5+: 7/7 (100.0%) | Prior(LAL,60G): 20.9p/7.2a/6.1r | Status: Available
+  [Assists] Tyrese Maxey (G) | 9/9G (9S) | MIN=37.1 | L10: 28.0p/5.4a/3.8r | L5: 27.4p/6.0a/3.6r | Floor80%(AST)=3+: 9/9 (100.0%) | Prior(PHI,70G): 28.3p/6.6a/4.1r | Status: Available
+  [Rebounds] Joel Embiid (C) | 7/9G (7S) | MIN=33.3 | L10: 19.6p/4.4a/10.0r | L5: 20.0p/4.8a/10.4r | Floor80%(REB)=7+: 7/7 (100.0%) | Prior(PHI,38G): 26.9p/3.9a/7.7r | Status: Available
+  [Rebounds] LeBron James (F) | 7/9G (7S) | MIN=33.0 | L10: 15.7p/7.4a/7.4r | L5: 15.8p/8.0a/6.6r | Floor80%(REB)=5+: 6/7 (85.7%) | Prior(LAL,60G): 20.9p/7.2a/6.1r | Status: Available
+TEAM PHX (2-5, GP=7)  | SmallOutliers=[]
+  [Scorers] Devin Booker (G) | 7/7G (7S) | MIN=34.4 | L10: 25.4p/5.1a/2.9r | L5: 22.4p/5.4a/1.8r | Floor80%(PTS)=20+: 6/7 (85.7%) | Prior(PHO,64G): 26.1p/6.0a/3.9r | Status: Available
+  [Scorers] Dillon Brooks (F) | 7/7G (7S) | MIN=30.4 | L10: 17.6p/2.7a/3.9r | L5: 19.6p/2.8a/4.2r | Floor80%(PTS)=15+: 6/7 (85.7%) | Prior(PHO,56G): 20.2p/1.8a/3.6r | Status: Available
+  [Scorers] Miles Bridges (F) | 7/7G (7S) | MIN=32.6 | L10: 17.4p/3.1a/7.9r | L5: 19.6p/3.8a/8.8r | Floor80%(PTS)=15+: 6/7 (85.7%) | Prior(CHO,77G): 17.1p/3.2a/5.8r | Status: Available
+  [Assists] Devin Booker (G) | 7/7G (7S) | MIN=34.4 | L10: 25.4p/5.1a/2.9r | L5: 22.4p/5.4a/1.8r | Floor80%(AST)=Below base thresh | Prior(PHO,64G): 26.1p/6.0a/3.9r | Status: Available
+  [Assists] Collin Gillespie (G) | 7/7G (0S) | MIN=25.1 | L10: 6.7p/4.1a/2.1r | L5: 7.2p/3.6a/2.0r | Floor80%(AST)=Below base thresh | Prior(PHO,80G): 12.7p/4.6a/4.1r | Status: Available
+  [Rebounds] Miles Bridges (F) | 7/7G (7S) | MIN=32.6 | L10: 17.4p/3.1a/7.9r | L5: 19.6p/3.8a/8.8r | Floor80%(REB)=5+: 6/7 (85.7%) | Prior(CHO,77G): 17.1p/3.2a/5.8r | Status: Available
+  [Rebounds] Khaman Maluach (C) | 7/7G (6S) | MIN=19.9 | L10: 7.3p/1.3a/6.0r | L5: 8.0p/1.0a/5.4r | Floor80%(REB)=5+: 6/7 (85.7%) | Prior(PHO,46G): 3.0p/0.1a/2.9r | Status: Available
+TEAM POR (6-1, GP=7) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Deni Avdija (F) | 7/7G (7S) | MIN=32.3 | L10: 23.4p/6.4a/6.4r | L5: 24.0p/7.0a/5.6r | Floor80%(PTS)=20+: 6/7 (85.7%) | Prior(POR,66G): 24.2p/6.7a/6.9r | Status: Available
+  [Scorers] Damian Lillard (G) | 7/7G (7S) | MIN=29.7 | L10: 20.1p/4.1a/4.1r | L5: 19.4p/4.2a/4.2r | Floor80%(PTS)=15+: 6/7 (85.7%) | Prior: Rookie/DNP | Status: Available
+  [Scorers] Ja Morant (G) | 4/7G (4S) | MIN=26.0 | L10: 15.8p/5.5a/2.5r | L5: 15.8p/5.5a/2.5r | Floor80%(PTS)=10+: 4/4 (100.0%) | Prior(MEM,20G): 19.5p/8.1a/3.3r | Status: Out (Left Hamstring Strain)
+  [Assists] Deni Avdija (F) | 7/7G (7S) | MIN=32.3 | L10: 23.4p/6.4a/6.4r | L5: 24.0p/7.0a/5.6r | Floor80%(AST)=3+: 6/7 (85.7%) | Prior(POR,66G): 24.2p/6.7a/6.9r | Status: Available
+  [Assists] Ja Morant (G) | 4/7G (4S) | MIN=26.0 | L10: 15.8p/5.5a/2.5r | L5: 15.8p/5.5a/2.5r | Floor80%(AST)=3+: 4/4 (100.0%) | Prior(MEM,20G): 19.5p/8.1a/3.3r | Status: Out (Left Hamstring Strain)
+  [Rebounds] Donovan Clingan (C) | 7/7G (7S) | MIN=24.7 | L10: 12.0p/1.6a/10.6r | L5: 13.0p/1.2a/11.2r | Floor80%(REB)=8+: 6/7 (85.7%) | Prior(POR,77G): 12.1p/2.1a/11.6r | Status: Available
+  [Rebounds] Robert Williams III (C) | 6/7G (0S) | MIN=16.5 | L10: 7.2p/1.0a/7.2r | L5: 8.2p/1.0a/6.6r | Floor80%(REB)=5+: 5/6 (83.3%) | Prior: Rookie/DNP | Status: Available
+TEAM SAC (1-7, GP=8) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Darius Acuff Jr. (G) | 8/8G (8S) | MIN=37.2 | L10: 25.6p/7.0a/3.8r | L5: 27.6p/8.4a/4.4r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior: Rookie/DNP | Status: Available
+  [Scorers] Zach LaVine (G) | 8/8G (8S) | MIN=33.4 | L10: 23.1p/2.6a/3.1r | L5: 19.6p/2.2a/2.8r | Floor80%(PTS)=20+: 7/8 (87.5%) | Prior(SAC,39G): 19.2p/2.3a/2.8r | Status: Available
+  [Scorers] Domantas Sabonis (F) | 8/8G (8S) | MIN=36.1 | L10: 15.1p/6.1a/14.9r | L5: 13.0p/5.6a/13.4r | Floor80%(PTS)=Below base thresh | Prior(SAC,19G): 15.8p/4.1a/11.4r | Status: Available
+  [Assists] Darius Acuff Jr. (G) | 8/8G (8S) | MIN=37.2 | L10: 25.6p/7.0a/3.8r | L5: 27.6p/8.4a/4.4r | Floor80%(AST)=3+: 8/8 (100.0%) | Prior: Rookie/DNP | Status: Available
+  [Assists] Domantas Sabonis (F) | 8/8G (8S) | MIN=36.1 | L10: 15.1p/6.1a/14.9r | L5: 13.0p/5.6a/13.4r | Floor80%(AST)=3+: 7/8 (87.5%) | Prior(SAC,19G): 15.8p/4.1a/11.4r | Status: Available
+  [Rebounds] Domantas Sabonis (F) | 8/8G (8S) | MIN=36.1 | L10: 15.1p/6.1a/14.9r | L5: 13.0p/5.6a/13.4r | Floor80%(REB)=12+: 7/8 (87.5%) | Prior(SAC,19G): 15.8p/4.1a/11.4r | Status: Available
+  [Rebounds] Precious Achiuwa (F) | 8/8G (6S) | MIN=27.2 | L10: 11.0p/1.2a/6.1r | L5: 9.4p/1.4a/5.6r | Floor80%(REB)=Below base thresh | Prior(SAC,73G): 10.1p/1.4a/6.7r | Status: Available
+TEAM SAS (6-2, GP=8) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Victor Wembanyama (F) | 8/8G (8S) | MIN=31.6 | L10: 29.0p/3.1a/12.4r | L5: 34.4p/3.6a/13.2r | Floor80%(PTS)=10+: 8/8 (100.0%) | Prior(SAS,64G): 25.0p/3.1a/11.5r | Status: Available
+  [Scorers] Dylan Harper (G) | 8/8G (8S) | MIN=32.9 | L10: 18.6p/4.6a/5.6r | L5: 17.8p/5.6a/6.0r | Floor80%(PTS)=10+: 8/8 (100.0%) | Prior(SAS,69G): 11.8p/3.9a/3.4r | Status: Available
+  [Scorers] De'Aaron Fox (G) | 8/8G (8S) | MIN=30.9 | L10: 15.1p/6.1a/4.2r | L5: 13.8p/4.8a/4.0r | Floor80%(PTS)=10+: 8/8 (100.0%) | Prior(SAS,72G): 18.6p/6.2a/3.8r | Status: Available
+  [Assists] De'Aaron Fox (G) | 8/8G (8S) | MIN=30.9 | L10: 15.1p/6.1a/4.2r | L5: 13.8p/4.8a/4.0r | Floor80%(AST)=3+: 8/8 (100.0%) | Prior(SAS,72G): 18.6p/6.2a/3.8r | Status: Available
+  [Assists] Stephon Castle (G) | 8/8G (8S) | MIN=29.6 | L10: 15.0p/4.8a/6.1r | L5: 12.4p/4.8a/6.2r | Floor80%(AST)=3+: 7/8 (87.5%) | Prior(SAS,68G): 16.7p/7.4a/5.3r | Status: Available
+  [Rebounds] Victor Wembanyama (F) | 8/8G (8S) | MIN=31.6 | L10: 29.0p/3.1a/12.4r | L5: 34.4p/3.6a/13.2r | Floor80%(REB)=7+: 8/8 (100.0%) | Prior(SAS,64G): 25.0p/3.1a/11.5r | Status: Available
+  [Rebounds] Stephon Castle (G) | 8/8G (8S) | MIN=29.6 | L10: 15.0p/4.8a/6.1r | L5: 12.4p/4.8a/6.2r | Floor80%(REB)=5+: 7/8 (87.5%) | Prior(SAS,68G): 16.7p/7.4a/5.3r | Status: Available
+TEAM TOR (4-4, GP=8) [PLAYING TODAY] | SmallOutliers=[('Kawhi Leonard', 2, 19.5, 'Out (Left Knee Injury Management)')]
+  [Scorers] Scottie Barnes (F) | 8/8G (8S) | MIN=33.4 | L10: 23.5p/5.1a/7.6r | L5: 27.4p/5.6a/7.6r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior(TOR,80G): 18.1p/5.9a/7.5r | Status: Questionable (Left Adductor / Groin Soreness)
+  [Scorers] RJ Barrett (F) | 8/8G (8S) | MIN=32.5 | L10: 20.9p/3.9a/6.0r | L5: 20.8p/4.4a/6.6r | Floor80%(PTS)=20+: 7/8 (87.5%) | Prior(TOR,57G): 19.3p/3.3a/5.3r | Status: Available
+  [Scorers] Immanuel Quickley (G) | 8/8G (8S) | MIN=31.8 | L10: 17.4p/5.8a/3.5r | L5: 17.0p/6.2a/4.0r | Floor80%(PTS)=10+: 8/8 (100.0%) | Prior(TOR,70G): 16.4p/5.9a/4.0r | Status: Available
+  [Assists] Immanuel Quickley (G) | 8/8G (8S) | MIN=31.8 | L10: 17.4p/5.8a/3.5r | L5: 17.0p/6.2a/4.0r | Floor80%(AST)=Below base thresh | Prior(TOR,70G): 16.4p/5.9a/4.0r | Status: Available
+  [Assists] Jamal Shead (G) | 8/8G (0S) | MIN=21.5 | L10: 5.5p/5.4a/2.0r | L5: 6.6p/6.6a/2.2r | Floor80%(AST)=5+: 7/8 (87.5%) | Prior(TOR,82G): 6.6p/5.4a/1.7r | Status: Available
+  [Rebounds] Scottie Barnes (F) | 8/8G (8S) | MIN=33.4 | L10: 23.5p/5.1a/7.6r | L5: 27.4p/5.6a/7.6r | Floor80%(REB)=5+: 7/8 (87.5%) | Prior(TOR,80G): 18.1p/5.9a/7.5r | Status: Questionable (Left Adductor / Groin Soreness)
+  [Rebounds] RJ Barrett (F) | 8/8G (8S) | MIN=32.5 | L10: 20.9p/3.9a/6.0r | L5: 20.8p/4.4a/6.6r | Floor80%(REB)=Below base thresh | Prior(TOR,57G): 19.3p/3.3a/5.3r | Status: Available
+TEAM UTA (1-7, GP=8) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Keyonte George (G) | 8/8G (8S) | MIN=32.4 | L10: 22.0p/5.9a/4.0r | L5: 22.2p/4.4a/3.8r | Floor80%(PTS)=Below base thresh | Prior(UTA,54G): 23.6p/6.1a/3.7r | Status: Available
+  [Scorers] Lauri Markkanen (F) | 7/8G (7S) | MIN=30.4 | L10: 17.1p/2.1a/6.6r | L5: 17.2p/1.8a/6.2r | Floor80%(PTS)=10+: 6/7 (85.7%) | Prior(UTA,42G): 26.7p/2.1a/6.9r | Status: Available
+  [Scorers] Jaren Jackson Jr. (F) | 4/8G (4S) | MIN=26.0 | L10: 16.2p/2.0a/5.0r | L5: 16.2p/2.0a/5.0r | Floor80%(PTS)=Below base thresh | Prior(2TM,48G): 19.4p/2.0a/5.7r | Status: Out (Right MCL Tear)
+  [Assists] Keyonte George (G) | 8/8G (8S) | MIN=32.4 | L10: 22.0p/5.9a/4.0r | L5: 22.2p/4.4a/3.8r | Floor80%(AST)=3+: 7/8 (87.5%) | Prior(UTA,54G): 23.6p/6.1a/3.7r | Status: Available
+  [Assists] Isaiah Collier (G) | 8/8G (0S) | MIN=15.9 | L10: 6.5p/4.5a/3.4r | L5: 5.8p/4.0a/3.8r | Floor80%(AST)=Below base thresh | Prior(UTA,59G): 11.7p/7.2a/2.5r | Status: Available
+  [Rebounds] Ace Bailey (G) | 8/8G (7S) | MIN=30.6 | L10: 12.5p/2.0a/7.2r | L5: 13.0p/1.4a/6.8r | Floor80%(REB)=5+: 8/8 (100.0%) | Prior(UTA,72G): 13.8p/1.8a/4.2r | Status: Available
+  [Rebounds] Lauri Markkanen (F) | 7/8G (7S) | MIN=30.4 | L10: 17.1p/2.1a/6.6r | L5: 17.2p/1.8a/6.2r | Floor80%(REB)=5+: 6/7 (85.7%) | Prior(UTA,42G): 26.7p/2.1a/6.9r | Status: Available
+TEAM WAS (4-4, GP=8) [PLAYING TODAY] | SmallOutliers=[]
+  [Scorers] Anthony Davis (F) | 8/8G (8S) | MIN=33.1 | L10: 23.4p/2.1a/9.2r | L5: 25.0p/1.6a/9.4r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior(DAL,20G): 20.4p/2.8a/11.1r | Status: Questionable (Right Ankle Sprain)
+  [Scorers] Trae Young (G) | 8/8G (8S) | MIN=35.9 | L10: 19.6p/9.5a/3.4r | L5: 18.0p/8.4a/4.4r | Floor80%(PTS)=15+: 7/8 (87.5%) | Prior(2TM,15G): 17.9p/8.0a/2.0r | Status: Available
+  [Scorers] Kyshawn George (F) | 8/8G (8S) | MIN=32.8 | L10: 17.2p/4.8a/4.2r | L5: 17.4p/5.6a/3.4r | Floor80%(PTS)=10+: 7/8 (87.5%) | Prior(WAS,48G): 14.8p/4.5a/5.1r | Status: Available
+  [Assists] Trae Young (G) | 8/8G (8S) | MIN=35.9 | L10: 19.6p/9.5a/3.4r | L5: 18.0p/8.4a/4.4r | Floor80%(AST)=8+: 7/8 (87.5%) | Prior(2TM,15G): 17.9p/8.0a/2.0r | Status: Available
+  [Assists] Kyshawn George (F) | 8/8G (8S) | MIN=32.8 | L10: 17.2p/4.8a/4.2r | L5: 17.4p/5.6a/3.4r | Floor80%(AST)=3+: 7/8 (87.5%) | Prior(WAS,48G): 14.8p/4.5a/5.1r | Status: Available
+  [Rebounds] Anthony Davis (F) | 8/8G (8S) | MIN=33.1 | L10: 23.4p/2.1a/9.2r | L5: 25.0p/1.6a/9.4r | Floor80%(REB)=5+: 8/8 (100.0%) | Prior(DAL,20G): 20.4p/2.8a/11.1r | Status: Questionable (Right Ankle Sprain)
+  [Rebounds] Justin Champagnie (F) | 4/8G (0S) | MIN=18.5 | L10: 7.2p/1.2a/7.5r | L5: 7.2p/1.2a/7.5r | Floor80%(REB)=Below base thresh | Prior(WAS,69G): 8.7p/1.2a/5.6r | Status: Out (Right Foot Surgery)
