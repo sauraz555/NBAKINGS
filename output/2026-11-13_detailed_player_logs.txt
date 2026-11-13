@@ -1,0 +1,1312 @@
+==========================================================
+TEAM NYK DETAILED KEY PLAYERS (NYK @ IND)
+==========================================================
+
+>>> Jalen Brunson (NYK - G) | Roles: Primary Scorer #1, Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=26.5 / L5=26.6 / Sea=26.0 | AST L10=5.4 / L5=5.2 / Sea=5.2 | REB L10=2.9 / L5=3.4 / Sea=3.1 (OREB=0.7/DREB=2.2)
+  Prior-Season Context (Separate): 26.0 PPG, 6.8 APG, 3.3 RPG, 35.0 MPG (74 GP w/ NYK)
+  Minutes: Mean=33.4 (L5=31.8), Med=34.5, Min=28.0, Max=37.0, SD=2.97 | 30+m=8/10, 35+m=5/10 | CloseMin=34.7, BlowoutMin=28.0
+  Consistency: PTS[Med=25.5, Min=19, Max=38, SD=5.84] | AST[Med=5.5, Min=2, Max=9, SD=1.91] | REB[Med=2.5, Min=1, Max=6, SD=1.58]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 10/10 (100.0%, L5:5/5) | 20+: 8/10 (80.0%, L5:4/5) | 25+: 5/10 (50.0%, L5:3/5) | 30+: 3/10 (30.0%, L5:2/5) | 35+: 1/10 (10.0%, L5:0/5) --> Floor80=20, Floor90=15, Floor100=15
+  AST Thresholds: 3+: 9/10 (90.0%, L5:4/5) | 5+: 6/10 (60.0%, L5:3/5) | 7+: 3/10 (30.0%, L5:1/5) | 8+: 1/10 (10.0%, L5:1/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 2/10 (20.0%, L5:1/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | @ BOS | L 103-107 | Start | MIN:37 | PTS:19 | AST:4 | REB:2(0o/2d) | FG:7-17 | 3PT:2-5 | FT:3-6 | TO:3 PF:1 +/-:+6 | Normal
+    G2 | 2026-10-25 | vs ORL | L 102-111 | Start | MIN:32 | PTS:28 | AST:4 | REB:3(0o/3d) | FG:12-28 | 3PT:1-7 | FT:3-6 | TO:3 PF:1 +/-:-3 | Normal
+    G3 | 2026-10-27 | vs DET | W 111-97 | Start | MIN:36 | PTS:23 | AST:7 | REB:1(1o/0d) | FG:5-18 | 3PT:0-5 | FT:13-16 | TO:1 PF:1 +/-:+14 | Normal
+    G4 | 2026-10-28 | @ CHI | W 133-127 | Start | MIN:35 | PTS:38 | AST:7 | REB:1(1o/0d) | FG:13-25 | 3PT:6-10 | FT:6-8 | TO:2 PF:3 +/-:+3 | Normal
+    G5 | 2026-10-30 | @ PHI | L 93-98 | Start | MIN:35 | PTS:24 | AST:6 | REB:5(1o/4d) | FG:8-22 | 3PT:3-10 | FT:5-6 | TO:2 PF:2 +/-:-5 | Normal
+    G6 | 2026-11-02 | vs BKN | W 103-90 | Start | MIN:34 | PTS:19 | AST:6 | REB:2(1o/1d) | FG:6-16 | 3PT:4-11 | FT:3-6 | TO:1 PF:0 +/-:+6 | Normal
+    G7 | 2026-11-04 | vs CHI | W 135-105 | Start | MIN:28 | PTS:33 | AST:4 | REB:2(1o/1d) | FG:10-17 | 3PT:5-10 | FT:8-9 | TO:0 PF:2 +/-:+33 | Blowout(+30)
+    G8 | 2026-11-07 | @ CLE | W 109-97 | Start | MIN:34 | PTS:31 | AST:9 | REB:6(2o/4d) | FG:12-25 | 3PT:3-7 | FT:4-5 | TO:1 PF:0 +/-:+13 | Normal
+    G9 | 2026-11-10 | vs MIL | W 117-85 | Start | MIN:28 | PTS:23 | AST:2 | REB:4(0o/4d) | FG:7-18 | 3PT:1-3 | FT:8-8 | TO:1 PF:1 +/-:+5 | Blowout(+32)
+    G10 | 2026-11-11 | vs CLE | L 107-115 | Start | MIN:35 | PTS:27 | AST:5 | REB:3(0o/3d) | FG:12-23 | 3PT:3-8 | FT:0-0 | TO:2 PF:3 +/-:-20 | Normal
+
+>>> Karl-Anthony Towns (NYK - C) | Roles: Primary Scorer #2, Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=21.1 / L5=19.8 / Sea=20.9 | AST L10=3.8 / L5=4.0 / Sea=3.5 | REB L10=13.7 / L5=13.6 / Sea=13.5 (OREB=3.0/DREB=10.7)
+  Prior-Season Context (Separate): 20.1 PPG, 3.0 APG, 11.9 RPG, 31.0 MPG (75 GP w/ NYK)
+  Minutes: Mean=32.1 (L5=31.0), Med=33.5, Min=25.0, Max=37.0, SD=3.78 | 30+m=7/10, 35+m=3/10 | CloseMin=33.5, BlowoutMin=26.0
+  Consistency: PTS[Med=21.5, Min=11, Max=29, SD=4.72] | AST[Med=3.0, Min=1, Max=8, SD=1.78] | REB[Med=13.0, Min=10, Max=20, SD=2.79]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 9/10 (90.0%, L5:4/5) | 20+: 7/10 (70.0%, L5:3/5) | 25+: 2/10 (20.0%, L5:1/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=15, Floor100=10
+  AST Thresholds: 3+: 9/10 (90.0%, L5:4/5) | 5+: 3/10 (30.0%, L5:2/5) | 7+: 1/10 (10.0%, L5:1/5) | 8+: 1/10 (10.0%, L5:1/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 10/10 (100.0%, L5:5/5) | 7+: 10/10 (100.0%, L5:5/5) | 8+: 10/10 (100.0%, L5:5/5) | 10+: 10/10 (100.0%, L5:5/5) | 12+: 8/10 (80.0%, L5:4/5) | 15+: 3/10 (30.0%, L5:2/5) --> Floor80=12, Floor90=10, Floor100=10
+  Chronological Game Log:
+    G1 | 2026-10-23 | @ BOS | L 103-107 | Start | MIN:37 | PTS:22 | AST:3 | REB:10(3o/7d) | FG:9-13 | 3PT:2-3 | FT:2-3 | TO:4 PF:5 +/-:+2 | FoulTrbl(5PF)
+    G2 | 2026-10-25 | vs ORL | L 102-111 | Start | MIN:33 | PTS:22 | AST:4 | REB:14(5o/9d) | FG:8-15 | 3PT:0-4 | FT:6-7 | TO:4 PF:2 +/-:-1 | Normal
+    G3 | 2026-10-27 | vs DET | W 111-97 | Start | MIN:33 | PTS:27 | AST:3 | REB:20(8o/12d) | FG:12-21 | 3PT:1-5 | FT:2-2 | TO:7 PF:5 +/-:-4 | FoulTrbl(5PF)
+    G4 | 2026-10-28 | @ CHI | W 133-127 | Start | MIN:28 | PTS:19 | AST:5 | REB:13(3o/10d) | FG:7-14 | 3PT:3-6 | FT:2-2 | TO:4 PF:5 +/-:+5 | FoulTrbl(5PF)
+    G5 | 2026-10-30 | @ PHI | L 93-98 | Start | MIN:35 | PTS:22 | AST:3 | REB:12(0o/12d) | FG:8-15 | 3PT:3-7 | FT:3-3 | TO:3 PF:0 +/-:+2 | Normal
+    G6 | 2026-11-02 | vs BKN | W 103-90 | Start | MIN:35 | PTS:11 | AST:5 | REB:16(1o/15d) | FG:4-11 | 3PT:1-4 | FT:2-3 | TO:4 PF:3 +/-:+13 | Normal
+    G7 | 2026-11-04 | vs CHI | W 135-105 | Start | MIN:25 | PTS:17 | AST:1 | REB:12(2o/10d) | FG:5-5 | 3PT:2-2 | FT:5-7 | TO:1 PF:1 +/-:+34 | Blowout(+30)
+    G8 | 2026-11-07 | @ CLE | W 109-97 | Start | MIN:34 | PTS:29 | AST:3 | REB:13(5o/8d) | FG:11-21 | 3PT:2-4 | FT:5-5 | TO:0 PF:2 +/-:+2 | Normal
+    G9 | 2026-11-10 | vs MIL | W 117-85 | Start | MIN:27 | PTS:21 | AST:3 | REB:16(3o/13d) | FG:5-14 | 3PT:2-9 | FT:9-14 | TO:3 PF:1 +/-:+21 | Blowout(+32)
+    G10 | 2026-11-11 | vs CLE | L 107-115 | Start | MIN:34 | PTS:21 | AST:8 | REB:11(0o/11d) | FG:7-11 | 3PT:2-5 | FT:5-5 | TO:2 PF:3 +/-:+3 | Normal
+
+>>> OG Anunoby (NYK - F) | Roles: Secondary Scoring/Matchup Candidate | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=17.1 / L5=16.8 / Sea=16.5 | AST L10=2.6 / L5=2.0 / Sea=2.4 | REB L10=5.4 / L5=4.8 / Sea=5.4 (OREB=1.7/DREB=3.7)
+  Prior-Season Context (Separate): 16.7 PPG, 2.2 APG, 5.2 RPG, 33.2 MPG (67 GP w/ NYK)
+  Minutes: Mean=32.9 (L5=31.8), Med=34.0, Min=24.0, Max=38.0, SD=3.78 | 30+m=8/10, 35+m=3/10 | CloseMin=33.7, BlowoutMin=26.5
+  Consistency: PTS[Med=18.0, Min=9, Max=23, SD=4.11] | AST[Med=2.0, Min=1, Max=8, SD=1.85] | REB[Med=5.5, Min=3, Max=10, SD=2.01]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:5/5) | 15+: 7/10 (70.0%, L5:4/5) | 20+: 3/10 (30.0%, L5:0/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 2/10 (20.0%, L5:0/5) | 5+: 1/10 (10.0%, L5:0/5) | 7+: 1/10 (10.0%, L5:0/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 6/10 (60.0%, L5:3/5) | 7+: 2/10 (20.0%, L5:0/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 1/10 (10.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | @ BOS | L 103-107 | Start | MIN:34 | PTS:20 | AST:8 | REB:10(5o/5d) | FG:5-11 | 3PT:2-6 | FT:8-10 | TO:3 PF:4 +/-:-11 | FoulTrbl(4PF)
+    G2 | 2026-10-25 | vs ORL | L 102-111 | Start | MIN:35 | PTS:22 | AST:2 | REB:3(1o/2d) | FG:6-11 | 3PT:3-6 | FT:7-9 | TO:2 PF:4 +/-:-11 | FoulTrbl(4PF)
+    G3 | 2026-10-27 | vs DET | W 111-97 | Start | MIN:36 | PTS:13 | AST:2 | REB:7(4o/3d) | FG:5-15 | 3PT:1-6 | FT:2-2 | TO:2 PF:5 +/-:+13 | FoulTrbl(5PF)
+    G4 | 2026-10-28 | @ CHI | W 133-127 | Start | MIN:31 | PTS:23 | AST:1 | REB:6(0o/6d) | FG:7-16 | 3PT:2-6 | FT:7-8 | TO:1 PF:3 +/-:-10 | Normal
+    G5 | 2026-10-30 | @ PHI | L 93-98 | Start | MIN:34 | PTS:9 | AST:3 | REB:4(2o/2d) | FG:4-10 | 3PT:1-3 | FT:0-0 | TO:2 PF:2 +/-:-4 | Normal
+    G6 | 2026-11-02 | vs BKN | W 103-90 | Start | MIN:38 | PTS:18 | AST:2 | REB:4(1o/3d) | FG:4-10 | 3PT:3-7 | FT:7-8 | TO:3 PF:5 +/-:+11 | FoulTrbl(5PF)
+    G7 | 2026-11-04 | vs CHI | W 135-105 | Start | MIN:24 | PTS:18 | AST:2 | REB:5(1o/4d) | FG:3-10 | 3PT:1-6 | FT:11-12 | TO:2 PF:4 +/-:+31 | Blowout(+30), FoulTrbl(4PF)
+    G8 | 2026-11-07 | @ CLE | W 109-97 | Start | MIN:34 | PTS:15 | AST:2 | REB:6(1o/5d) | FG:4-13 | 3PT:3-9 | FT:4-4 | TO:2 PF:3 +/-:-4 | Normal
+    G9 | 2026-11-10 | vs MIL | W 117-85 | Start | MIN:29 | PTS:19 | AST:2 | REB:3(1o/2d) | FG:6-12 | 3PT:5-8 | FT:2-2 | TO:1 PF:0 +/-:+26 | Blowout(+32)
+    G10 | 2026-11-11 | vs CLE | L 107-115 | Start | MIN:34 | PTS:14 | AST:2 | REB:6(1o/5d) | FG:3-9 | 3PT:2-6 | FT:6-6 | TO:3 PF:1 +/-:-2 | Normal
+==========================================================
+TEAM IND DETAILED KEY PLAYERS (NYK @ IND)
+==========================================================
+
+>>> Pascal Siakam (IND - F) | Roles: Primary Scorer #1 | Status: Available
+  Sample: L10 Window N=10 (Season 11/12 GP, 10 Starts) | DNPs: [('2026-11-02', 'ATL', 'REST')]
+  Averages: PTS L10=22.0 / L5=23.4 / Sea=22.7 | AST L10=4.7 / L5=5.0 / Sea=4.4 | REB L10=6.8 / L5=5.8 / Sea=6.9 (OREB=1.2/DREB=5.6)
+  Prior-Season Context (Separate): 24.0 PPG, 3.8 APG, 6.6 RPG, 33.2 MPG (62 GP w/ IND)
+  Minutes: Mean=32.0 (L5=33.0), Med=32.0, Min=26.0, Max=37.0, SD=3.35 | 30+m=7/10, 35+m=3/10 | CloseMin=34.0, BlowoutMin=28.0
+  Consistency: PTS[Med=22.0, Min=13, Max=29, SD=4.67] | AST[Med=5.0, Min=2, Max=8, SD=1.68] | REB[Med=6.0, Min=2, Max=13, SD=3.31]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 9/10 (90.0%, L5:5/5) | 20+: 8/10 (80.0%, L5:4/5) | 25+: 3/10 (30.0%, L5:2/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=20, Floor90=15, Floor100=10
+  AST Thresholds: 3+: 9/10 (90.0%, L5:4/5) | 5+: 6/10 (60.0%, L5:4/5) | 7+: 1/10 (10.0%, L5:1/5) | 8+: 1/10 (10.0%, L5:1/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 8/10 (80.0%, L5:4/5) | 7+: 5/10 (50.0%, L5:2/5) | 8+: 4/10 (40.0%, L5:2/5) | 10+: 2/10 (20.0%, L5:0/5) | 12+: 1/10 (10.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=5, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | vs DAL | L 105-121 | Start | MIN:29 | PTS:23 | AST:3 | REB:3(0o/3d) | FG:8-13 | 3PT:3-5 | FT:4-7 | TO:5 PF:3 +/-:-4 | Blowout(-16)
+    G2 | 2026-10-25 | @ BKN | W 136-109 | Start | MIN:26 | PTS:21 | AST:6 | REB:7(0o/7d) | FG:7-15 | 3PT:3-6 | FT:4-6 | TO:1 PF:3 +/-:+13 | Blowout(+27)
+    G3 | 2026-10-26 | @ MIL | L 102-110 | Start | MIN:37 | PTS:20 | AST:6 | REB:13(4o/9d) | FG:8-17 | 3PT:1-4 | FT:3-4 | TO:4 PF:1 +/-:-9 | Normal
+    G4 | 2026-10-28 | vs PHI | L 109-114 | Start | MIN:34 | PTS:26 | AST:3 | REB:11(1o/10d) | FG:11-17 | 3PT:0-3 | FT:4-4 | TO:3 PF:6 +/-:0 | FoulTrbl(6PF)
+    G5 | 2026-10-30 | @ MIA | L 125-145 | Start | MIN:29 | PTS:13 | AST:4 | REB:5(2o/3d) | FG:5-17 | 3PT:0-5 | FT:3-5 | TO:3 PF:1 +/-:-25 | Blowout(-20)
+    G6 | 2026-11-01 | vs BKN | L 90-98 | Start | MIN:36 | PTS:17 | AST:5 | REB:5(2o/3d) | FG:6-14 | 3PT:0-2 | FT:5-6 | TO:3 PF:3 +/-:+4 | Normal
+    G7 | 2026-11-04 | @ MEM | W 107-103 | Start | MIN:30 | PTS:20 | AST:2 | REB:5(0o/5d) | FG:8-13 | 3PT:2-5 | FT:2-2 | TO:0 PF:3 +/-:+3 | Normal
+    G8 | 2026-11-07 | vs DEN | L 102-114 | Start | MIN:32 | PTS:23 | AST:5 | REB:2(0o/2d) | FG:10-18 | 3PT:2-7 | FT:1-2 | TO:0 PF:3 +/-:0 | Normal
+    G9 | 2026-11-09 | @ DAL | L 122-125 | Start | MIN:35 | PTS:29 | AST:8 | REB:9(0o/9d) | FG:9-16 | 3PT:5-8 | FT:6-8 | TO:0 PF:3 +/-:-5 | Normal
+    G10 | 2026-11-11 | vs WSH | W 114-101 | Start | MIN:32 | PTS:28 | AST:5 | REB:8(3o/5d) | FG:7-17 | 3PT:2-7 | FT:12-12 | TO:2 PF:1 +/-:+15 | Normal
+
+>>> Tyrese Haliburton (IND - G) | Roles: Primary Scorer #2, Primary Assist Leader | Status: Out (Left Hamstring)
+  Sample: L10 Window N=4 (Season 4/12 GP, 4 Starts) | DNPs: []
+  Averages: PTS L10=21.8 / L5=21.8 / Sea=21.8 | AST L10=9.5 / L5=9.5 / Sea=9.5 | REB L10=4.5 / L5=4.5 / Sea=4.5 (OREB=0.5/DREB=4.0)
+  Prior-Season Context (Separate): Rookie / No Prior NBA Regular-Season GP
+  Minutes: Mean=33.0 (L5=33.0), Med=33.0, Min=31.0, Max=35.0, SD=1.58 | 30+m=4/4, 35+m=1/4 | CloseMin=34.5, BlowoutMin=31.5
+  Consistency: PTS[Med=22.5, Min=18, Max=24, SD=2.28] | AST[Med=9.5, Min=7, Max=12, SD=1.8] | REB[Med=5.0, Min=2, Max=6, SD=1.66]
+  PTS Thresholds: 10+: 4/4 (100.0%, L5:4/4) | 15+: 4/4 (100.0%, L5:4/4) | 20+: 3/4 (75.0%, L5:3/4) | 25+: 0/4 (0.0%, L5:0/4) | 30+: 0/4 (0.0%, L5:0/4) | 35+: 0/4 (0.0%, L5:0/4) --> Floor80=15, Floor90=15, Floor100=15
+  AST Thresholds: 3+: 4/4 (100.0%, L5:4/4) | 5+: 4/4 (100.0%, L5:4/4) | 7+: 4/4 (100.0%, L5:4/4) | 8+: 3/4 (75.0%, L5:3/4) | 10+: 2/4 (50.0%, L5:2/4) | 12+: 1/4 (25.0%, L5:1/4) --> Floor80=7, Floor90=7, Floor100=7
+  REB Thresholds: 5+: 2/4 (50.0%, L5:2/4) | 7+: 0/4 (0.0%, L5:0/4) | 8+: 0/4 (0.0%, L5:0/4) | 10+: 0/4 (0.0%, L5:0/4) | 12+: 0/4 (0.0%, L5:0/4) | 15+: 0/4 (0.0%, L5:0/4) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ NO | W 123-120 | Start | MIN:34 | PTS:23 | AST:12 | REB:2(0o/2d) | FG:8-15 | 3PT:2-6 | FT:5-5 | TO:3 PF:0 +/-:-4 | Normal
+    G2 | 2026-10-23 | vs DAL | L 105-121 | Start | MIN:32 | PTS:18 | AST:7 | REB:6(2o/4d) | FG:8-17 | 3PT:0-4 | FT:2-2 | TO:3 PF:0 +/-:0 | Blowout(-16)
+    G3 | 2026-10-25 | @ BKN | W 136-109 | Start | MIN:31 | PTS:24 | AST:10 | REB:4(0o/4d) | FG:8-13 | 3PT:4-7 | FT:4-5 | TO:2 PF:0 +/-:+29 | Blowout(+27)
+    G4 | 2026-10-26 | @ MIL | L 102-110 | Start | MIN:35 | PTS:22 | AST:9 | REB:6(0o/6d) | FG:8-17 | 3PT:4-10 | FT:2-3 | TO:1 PF:1 +/-:-6 | Normal
+
+>>> Andrew Nembhard (IND - G) | Roles: Replacement/Active Scorer, Co-Primary/Replacement Playmaker | Status: Available
+  Sample: L10 Window N=10 (Season 10/12 GP, 10 Starts) | DNPs: [('2026-10-26', 'MIL', 'INJURY/ILLNESS'), ('2026-11-02', 'ATL', 'CERVICAL STRAIN')]
+  Averages: PTS L10=17.1 / L5=16.6 / Sea=17.1 | AST L10=7.8 / L5=7.6 / Sea=7.8 | REB L10=2.1 / L5=2.2 / Sea=2.1 (OREB=0.1/DREB=2.0)
+  Prior-Season Context (Separate): 16.9 PPG, 7.7 APG, 2.8 RPG, 31.3 MPG (57 GP w/ IND)
+  Minutes: Mean=33.3 (L5=34.4), Med=34.0, Min=30.0, Max=38.0, SD=2.41 | 30+m=10/10, 35+m=3/10 | CloseMin=34.5, BlowoutMin=30.7
+  Consistency: PTS[Med=17.5, Min=9, Max=23, SD=4.32] | AST[Med=8.5, Min=3, Max=14, SD=3.52] | REB[Med=2.0, Min=1, Max=3, SD=0.7]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:4/5) | 15+: 7/10 (70.0%, L5:3/5) | 20+: 3/10 (30.0%, L5:2/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 10/10 (100.0%, L5:5/5) | 5+: 7/10 (70.0%, L5:3/5) | 7+: 6/10 (60.0%, L5:3/5) | 8+: 6/10 (60.0%, L5:3/5) | 10+: 3/10 (30.0%, L5:2/5) | 12+: 2/10 (20.0%, L5:1/5) --> Floor80=3, Floor90=3, Floor100=3
+  REB Thresholds: 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ NO | W 123-120 | Start | MIN:34 | PTS:18 | AST:9 | REB:2(0o/2d) | FG:6-10 | 3PT:0-3 | FT:6-7 | TO:2 PF:4 +/-:+9 | FoulTrbl(4PF)
+    G2 | 2026-10-23 | vs DAL | L 105-121 | Start | MIN:32 | PTS:16 | AST:5 | REB:2(0o/2d) | FG:5-11 | 3PT:1-2 | FT:5-5 | TO:1 PF:1 +/-:-6 | Blowout(-16)
+    G3 | 2026-10-25 | @ BKN | W 136-109 | Start | MIN:30 | PTS:14 | AST:3 | REB:1(0o/1d) | FG:5-8 | 3PT:4-6 | FT:0-0 | TO:3 PF:2 +/-:+14 | Blowout(+27)
+    G4 | 2026-10-28 | vs PHI | L 109-114 | Start | MIN:35 | PTS:18 | AST:14 | REB:3(1o/2d) | FG:5-16 | 3PT:1-7 | FT:7-8 | TO:4 PF:1 +/-:0 | Normal
+    G5 | 2026-10-30 | @ MIA | L 125-145 | Start | MIN:30 | PTS:22 | AST:9 | REB:2(0o/2d) | FG:8-16 | 3PT:5-8 | FT:1-1 | TO:2 PF:2 +/-:-28 | Blowout(-20)
+    G6 | 2026-11-01 | vs BKN | L 90-98 | Start | MIN:35 | PTS:23 | AST:4 | REB:3(0o/3d) | FG:7-19 | 3PT:4-10 | FT:5-6 | TO:3 PF:4 +/-:-1 | FoulTrbl(4PF)
+    G7 | 2026-11-04 | @ MEM | W 107-103 | Start | MIN:38 | PTS:22 | AST:4 | REB:2(0o/2d) | FG:8-15 | 3PT:2-7 | FT:4-4 | TO:2 PF:2 +/-:-4 | Normal
+    G8 | 2026-11-07 | vs DEN | L 102-114 | Start | MIN:31 | PTS:9 | AST:8 | REB:1(0o/1d) | FG:3-9 | 3PT:3-6 | FT:0-1 | TO:1 PF:2 +/-:-8 | Normal
+    G9 | 2026-11-09 | @ DAL | L 122-125 | Start | MIN:34 | PTS:12 | AST:12 | REB:3(0o/3d) | FG:5-10 | 3PT:1-2 | FT:1-1 | TO:3 PF:4 +/-:+15 | FoulTrbl(4PF)
+    G10 | 2026-11-11 | vs WSH | W 114-101 | Start | MIN:34 | PTS:17 | AST:10 | REB:2(0o/2d) | FG:6-11 | 3PT:3-5 | FT:2-2 | TO:1 PF:3 +/-:+17 | Normal
+
+>>> Ivica Zubac (IND - C) | Roles: Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=7 (Season 7/12 GP, 7 Starts) | DNPs: [('2026-10-26', 'MIL', 'INJURY/ILLNESS'), ('2026-10-28', 'PHI', 'LEFT ANKLE SPRAIN'), ('2026-10-30', 'MIA', "COACH'S DECISION"), ('2026-11-01', 'BKN', 'LEFT ANKLE INJURY'), ('2026-11-02', 'ATL', 'LEFT ANKLE SPRAIN')]
+  Averages: PTS L10=10.6 / L5=9.8 / Sea=10.6 | AST L10=1.7 / L5=2.0 / Sea=1.7 | REB L10=8.3 / L5=6.4 / Sea=8.3 (OREB=2.9/DREB=5.4)
+  Prior-Season Context (Separate): 14.1 PPG, 2.2 APG, 10.6 RPG, 30.1 MPG (48 GP w/ 2TM)
+  Minutes: Mean=23.1 (L5=20.8), Med=24.0, Min=7.0, Max=34.0, SD=8.44 | 30+m=2/7, 35+m=0/7 | CloseMin=25.0, BlowoutMin=15.5
+  Consistency: PTS[Med=10, Min=1, Max=20, SD=6.72] | AST[Med=2, Min=0, Max=5, SD=1.58] | REB[Med=11, Min=1, Max=15, SD=5.06]
+  PTS Thresholds: 10+: 4/7 (57.1%, L5:3/5) | 15+: 3/7 (42.9%, L5:2/5) | 20+: 1/7 (14.3%, L5:1/5) | 25+: 0/7 (0.0%, L5:0/5) | 30+: 0/7 (0.0%, L5:0/5) | 35+: 0/7 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 1/7 (14.3%, L5:1/5) | 5+: 1/7 (14.3%, L5:1/5) | 7+: 0/7 (0.0%, L5:0/5) | 8+: 0/7 (0.0%, L5:0/5) | 10+: 0/7 (0.0%, L5:0/5) | 12+: 0/7 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 4/7 (57.1%, L5:2/5) | 7+: 4/7 (57.1%, L5:2/5) | 8+: 4/7 (57.1%, L5:2/5) | 10+: 4/7 (57.1%, L5:2/5) | 12+: 3/7 (42.9%, L5:2/5) | 15+: 1/7 (14.3%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ NO | W 123-120 | Start | MIN:34 | PTS:16 | AST:0 | REB:15(4o/11d) | FG:7-12 | 3PT:0-0 | FT:2-4 | TO:1 PF:5 +/-:+11 | FoulTrbl(5PF)
+    G2 | 2026-10-23 | vs DAL | L 105-121 | Start | MIN:24 | PTS:9 | AST:2 | REB:11(4o/7d) | FG:4-7 | 3PT:0-0 | FT:1-2 | TO:3 PF:2 +/-:-23 | Blowout(-16)
+    G3 | 2026-10-25 | @ BKN | W 136-109 | Start | MIN:7 | PTS:2 | AST:2 | REB:1(0o/1d) | FG:1-1 | 3PT:0-0 | FT:0-0 | TO:1 PF:1 +/-:+6 | Blowout(+27)
+    G4 | 2026-11-04 | @ MEM | W 107-103 | Start | MIN:19 | PTS:1 | AST:2 | REB:4(2o/2d) | FG:0-5 | 3PT:0-0 | FT:1-2 | TO:2 PF:1 +/-:-22 | Normal
+    G5 | 2026-11-07 | vs DEN | L 102-114 | Start | MIN:19 | PTS:10 | AST:5 | REB:12(4o/8d) | FG:4-5 | 3PT:0-0 | FT:2-2 | TO:2 PF:4 +/-:-6 | FoulTrbl(4PF)
+    G6 | 2026-11-09 | @ DAL | L 122-125 | Start | MIN:28 | PTS:16 | AST:0 | REB:3(0o/3d) | FG:5-7 | 3PT:0-0 | FT:6-8 | TO:1 PF:1 +/-:+6 | Normal
+    G7 | 2026-11-11 | vs WSH | W 114-101 | Start | MIN:31 | PTS:20 | AST:1 | REB:12(6o/6d) | FG:9-15 | 3PT:0-0 | FT:2-2 | TO:2 PF:2 +/-:+9 | Normal
+==========================================================
+TEAM MIL DETAILED KEY PLAYERS (MIL @ ORL)
+==========================================================
+
+>>> Tyler Herro (MIL - G) | Roles: Primary Scorer #1, Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 11/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=21.7 / L5=21.8 / Sea=21.9 | AST L10=4.1 / L5=5.0 / Sea=4.5 | REB L10=4.6 / L5=3.8 / Sea=4.4 (OREB=0.9/DREB=3.7)
+  Prior-Season Context (Separate): 20.5 PPG, 4.1 APG, 4.8 RPG, 31.3 MPG (33 GP w/ MIA)
+  Minutes: Mean=31.0 (L5=32.2), Med=31.5, Min=27.0, Max=35.0, SD=2.93 | 30+m=7/10, 35+m=2/10 | CloseMin=32.3, BlowoutMin=27.0
+  Consistency: PTS[Med=23.0, Min=13, Max=34, SD=6.26] | AST[Med=3.0, Min=0, Max=10, SD=2.84] | REB[Med=5.0, Min=1, Max=10, SD=2.42]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 8/10 (80.0%, L5:4/5) | 20+: 7/10 (70.0%, L5:4/5) | 25+: 3/10 (30.0%, L5:2/5) | 30+: 1/10 (10.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=10, Floor100=10
+  AST Thresholds: 3+: 7/10 (70.0%, L5:4/5) | 5+: 3/10 (30.0%, L5:2/5) | 7+: 3/10 (30.0%, L5:2/5) | 8+: 1/10 (10.0%, L5:1/5) | 10+: 1/10 (10.0%, L5:1/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 6/10 (60.0%, L5:3/5) | 7+: 1/10 (10.0%, L5:0/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 1/10 (10.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | vs CHI | L 125-132 | Start | MIN:32 | PTS:34 | AST:4 | REB:5(1o/4d) | FG:12-24 | 3PT:5-10 | FT:5-7 | TO:1 PF:0 +/-:+1 | Normal
+    G2 | 2026-10-24 | @ PHI | L 116-127 | Start | MIN:31 | PTS:13 | AST:3 | REB:6(3o/3d) | FG:6-14 | 3PT:1-3 | FT:0-0 | TO:3 PF:0 +/-:-15 | Normal
+    G3 | 2026-10-26 | vs IND | W 110-102 | Start | MIN:32 | PTS:23 | AST:7 | REB:10(1o/9d) | FG:7-14 | 3PT:3-6 | FT:6-10 | TO:2 PF:3 +/-:+1 | Normal
+    G4 | 2026-10-28 | vs HOU | L 100-132 | Start | MIN:27 | PTS:23 | AST:0 | REB:3(0o/3d) | FG:9-13 | 3PT:4-6 | FT:1-1 | TO:2 PF:0 +/-:-12 | Blowout(-32)
+    G5 | 2026-10-31 | vs CLE | L 111-136 | Start | MIN:27 | PTS:15 | AST:2 | REB:3(2o/1d) | FG:5-18 | 3PT:4-11 | FT:1-1 | TO:2 PF:0 +/-:-19 | Blowout(-25)
+    G6 | 2026-11-02 | @ MIN | L 100-112 | Start | MIN:31 | PTS:21 | AST:3 | REB:6(2o/4d) | FG:8-18 | 3PT:4-11 | FT:1-2 | TO:2 PF:0 +/-:-10 | Normal
+    G7 | 2026-11-04 | @ BOS | L 102-109 | Start | MIN:33 | PTS:25 | AST:3 | REB:5(0o/5d) | FG:8-17 | 3PT:4-10 | FT:5-5 | TO:1 PF:0 +/-:-8 | Normal
+    G8 | 2026-11-06 | vs TOR | L 107-121 | Start | MIN:35 | PTS:23 | AST:10 | REB:5(0o/5d) | FG:7-16 | 3PT:1-5 | FT:8-10 | TO:3 PF:3 +/-:0 | Normal
+    G9 | 2026-11-08 | vs BOS | L 97-117 | Start | MIN:27 | PTS:13 | AST:2 | REB:1(0o/1d) | FG:5-12 | 3PT:1-5 | FT:2-2 | TO:1 PF:0 +/-:-3 | Blowout(-20)
+    G10 | 2026-11-11 | vs LAL | L 112-123 | Start | MIN:35 | PTS:27 | AST:7 | REB:2(0o/2d) | FG:8-16 | 3PT:2-7 | FT:9-10 | TO:3 PF:3 +/-:-17 | Normal
+
+>>> Jaime Jaquez Jr. (MIL - F) | Roles: Primary Scorer #2, Co-Primary/Replacement Rebounder | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 9 Starts) | DNPs: []
+  Averages: PTS L10=15.2 / L5=15.4 / Sea=16.1 | AST L10=2.6 / L5=2.6 / Sea=2.8 | REB L10=5.0 / L5=3.4 / Sea=5.7 (OREB=1.7/DREB=3.3)
+  Prior-Season Context (Separate): 15.4 PPG, 4.7 APG, 5.0 RPG, 28.3 MPG (75 GP w/ MIA)
+  Minutes: Mean=26.7 (L5=27.4), Med=27.0, Min=23.0, Max=31.0, SD=2.57 | 30+m=2/10, 35+m=0/10 | CloseMin=28.2, BlowoutMin=24.5
+  Consistency: PTS[Med=17.0, Min=4, Max=25, SD=6.31] | AST[Med=2.5, Min=0, Max=5, SD=1.28] | REB[Med=5.0, Min=2, Max=8, SD=2.14]
+  PTS Thresholds: 10+: 7/10 (70.0%, L5:4/5) | 15+: 6/10 (60.0%, L5:3/5) | 20+: 2/10 (20.0%, L5:1/5) | 25+: 1/10 (10.0%, L5:1/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 5/10 (50.0%, L5:3/5) | 5+: 1/10 (10.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 6/10 (60.0%, L5:2/5) | 7+: 3/10 (30.0%, L5:0/5) | 8+: 2/10 (20.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-24 | @ PHI | L 116-127 | Start | MIN:27 | PTS:21 | AST:4 | REB:8(2o/6d) | FG:7-13 | 3PT:2-3 | FT:5-7 | TO:2 PF:0 +/-:-15 | Normal
+    G2 | 2026-10-26 | vs IND | W 110-102 | Start | MIN:25 | PTS:8 | AST:0 | REB:6(2o/4d) | FG:4-13 | 3PT:0-4 | FT:0-0 | TO:0 PF:0 +/-:-1 | Normal
+    G3 | 2026-10-28 | vs HOU | L 100-132 | Start | MIN:27 | PTS:19 | AST:2 | REB:4(2o/2d) | FG:7-13 | 3PT:3-6 | FT:2-2 | TO:1 PF:1 +/-:-14 | Blowout(-32)
+    G4 | 2026-10-31 | vs CLE | L 111-136 | Start | MIN:23 | PTS:8 | AST:5 | REB:7(1o/6d) | FG:3-8 | 3PT:1-2 | FT:1-2 | TO:2 PF:1 +/-:-15 | Blowout(-25)
+    G5 | 2026-11-02 | @ MIN | L 100-112 | Start | MIN:28 | PTS:19 | AST:2 | REB:8(3o/5d) | FG:8-17 | 3PT:2-4 | FT:1-1 | TO:3 PF:4 +/-:-14 | FoulTrbl(4PF)
+    G6 | 2026-11-04 | @ BOS | L 102-109 | Start | MIN:31 | PTS:18 | AST:2 | REB:2(1o/1d) | FG:7-16 | 3PT:4-6 | FT:0-2 | TO:1 PF:2 +/-:-3 | Normal
+    G7 | 2026-11-06 | vs TOR | L 107-121 | Start | MIN:28 | PTS:14 | AST:3 | REB:3(2o/1d) | FG:4-10 | 3PT:2-7 | FT:4-4 | TO:1 PF:1 +/-:-6 | Normal
+    G8 | 2026-11-08 | vs BOS | L 97-117 | Start | MIN:23 | PTS:4 | AST:2 | REB:2(0o/2d) | FG:1-3 | 3PT:0-2 | FT:2-2 | TO:0 PF:0 +/-:-6 | Blowout(-20)
+    G9 | 2026-11-10 | @ NY | L 85-117 | Start | MIN:25 | PTS:16 | AST:3 | REB:5(2o/3d) | FG:6-13 | 3PT:2-5 | FT:2-2 | TO:4 PF:3 +/-:-2 | Blowout(-32)
+    G10 | 2026-11-11 | vs LAL | L 112-123 | Bench | MIN:30 | PTS:25 | AST:3 | REB:5(2o/3d) | FG:7-16 | 3PT:2-7 | FT:9-9 | TO:1 PF:1 +/-:-13 | Normal
+
+>>> Kel'el Ware (MIL - C) | Roles: Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 1 Starts) | DNPs: []
+  Averages: PTS L10=8.4 / L5=4.4 / Sea=8.5 | AST L10=0.8 / L5=0.8 / Sea=0.8 | REB L10=7.1 / L5=3.4 / Sea=6.5 (OREB=3.1/DREB=4.0)
+  Prior-Season Context (Separate): 11.1 PPG, 0.7 APG, 9.0 RPG, 22.1 MPG (77 GP w/ MIA)
+  Minutes: Mean=18.4 (L5=15.6), Med=17.0, Min=9.0, Max=29.0, SD=5.43 | 30+m=0/10, 35+m=0/10 | CloseMin=20.8, BlowoutMin=16.8
+  Consistency: PTS[Med=7.0, Min=0, Max=19, SD=6.79] | AST[Med=1.0, Min=0, Max=3, SD=0.87] | REB[Med=6.5, Min=0, Max=14, SD=4.25]
+  PTS Thresholds: 10+: 3/10 (30.0%, L5:0/5) | 15+: 3/10 (30.0%, L5:0/5) | 20+: 0/10 (0.0%, L5:0/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 1/10 (10.0%, L5:0/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 7/10 (70.0%, L5:2/5) | 7+: 5/10 (50.0%, L5:0/5) | 8+: 5/10 (50.0%, L5:0/5) | 10+: 3/10 (30.0%, L5:0/5) | 12+: 2/10 (20.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-24 | @ PHI | L 116-127 | Bench | MIN:29 | PTS:19 | AST:1 | REB:13(5o/8d) | FG:6-11 | 3PT:2-5 | FT:5-5 | TO:3 PF:4 +/-:+4 | FoulTrbl(4PF)
+    G2 | 2026-10-26 | vs IND | W 110-102 | Bench | MIN:19 | PTS:16 | AST:0 | REB:14(5o/9d) | FG:7-13 | 3PT:0-4 | FT:2-2 | TO:0 PF:3 +/-:-5 | Normal
+    G3 | 2026-10-28 | vs HOU | L 100-132 | Bench | MIN:17 | PTS:6 | AST:0 | REB:8(5o/3d) | FG:2-9 | 3PT:0-3 | FT:2-2 | TO:1 PF:0 +/-:-31 | Blowout(-32)
+    G4 | 2026-10-31 | vs CLE | L 111-136 | Bench | MIN:24 | PTS:19 | AST:3 | REB:10(4o/6d) | FG:6-16 | 3PT:3-8 | FT:4-5 | TO:4 PF:2 +/-:-14 | Blowout(-25)
+    G5 | 2026-11-02 | @ MIN | L 100-112 | Bench | MIN:17 | PTS:2 | AST:0 | REB:9(3o/6d) | FG:1-6 | 3PT:0-1 | FT:0-0 | TO:1 PF:3 +/-:+2 | Normal
+    G6 | 2026-11-04 | @ BOS | L 102-109 | Bench | MIN:16 | PTS:2 | AST:1 | REB:5(2o/3d) | FG:1-6 | 3PT:0-2 | FT:0-0 | TO:1 PF:2 +/-:-6 | Normal
+    G7 | 2026-11-06 | vs TOR | L 107-121 | Bench | MIN:13 | PTS:4 | AST:0 | REB:3(2o/1d) | FG:2-7 | 3PT:0-4 | FT:0-0 | TO:1 PF:2 +/-:0 | Normal
+    G8 | 2026-11-08 | vs BOS | L 97-117 | Bench | MIN:9 | PTS:0 | AST:1 | REB:0(0o/0d) | FG:0-2 | 3PT:0-0 | FT:0-0 | TO:1 PF:0 +/-:-15 | Blowout(-20)
+    G9 | 2026-11-10 | @ NY | L 85-117 | Bench | MIN:17 | PTS:8 | AST:1 | REB:4(1o/3d) | FG:2-6 | 3PT:0-0 | FT:4-4 | TO:2 PF:5 +/-:+1 | Blowout(-32), FoulTrbl(5PF)
+    G10 | 2026-11-11 | vs LAL | L 112-123 | Start | MIN:23 | PTS:8 | AST:1 | REB:5(4o/1d) | FG:3-8 | 3PT:0-2 | FT:2-2 | TO:1 PF:2 +/-:-16 | Normal
+==========================================================
+TEAM ORL DETAILED KEY PLAYERS (MIL @ ORL)
+==========================================================
+
+>>> Franz Wagner (ORL - F) | Roles: Primary Scorer #1, Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=23.6 / L5=28.0 / Sea=23.5 | AST L10=8.2 / L5=8.0 / Sea=7.9 | REB L10=6.6 / L5=6.4 / Sea=6.5 (OREB=1.2/DREB=5.4)
+  Prior-Season Context (Separate): 20.6 PPG, 3.3 APG, 5.2 RPG, 30.0 MPG (34 GP w/ ORL)
+  Minutes: Mean=37.6 (L5=38.6), Med=38.0, Min=33.0, Max=40.0, SD=2.24 | 30+m=10/10, 35+m=8/10 | CloseMin=38.7, BlowoutMin=35.3
+  Consistency: PTS[Med=23.5, Min=14, Max=38, SD=7.84] | AST[Med=8.0, Min=1, Max=15, SD=3.94] | REB[Med=6.0, Min=3, Max=13, SD=2.62]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 9/10 (90.0%, L5:5/5) | 20+: 6/10 (60.0%, L5:4/5) | 25+: 4/10 (40.0%, L5:3/5) | 30+: 3/10 (30.0%, L5:3/5) | 35+: 1/10 (10.0%, L5:1/5) --> Floor80=15, Floor90=15, Floor100=10
+  AST Thresholds: 3+: 9/10 (90.0%, L5:4/5) | 5+: 9/10 (90.0%, L5:4/5) | 7+: 6/10 (60.0%, L5:3/5) | 8+: 5/10 (50.0%, L5:2/5) | 10+: 4/10 (40.0%, L5:2/5) | 12+: 2/10 (20.0%, L5:1/5) --> Floor80=5, Floor90=5, Floor100=None
+  REB Thresholds: 5+: 8/10 (80.0%, L5:4/5) | 7+: 4/10 (40.0%, L5:3/5) | 8+: 3/10 (30.0%, L5:2/5) | 10+: 1/10 (10.0%, L5:0/5) | 12+: 1/10 (10.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=5, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | vs MIN | L 93-115 | Start | MIN:33 | PTS:18 | AST:5 | REB:6(1o/5d) | FG:7-14 | 3PT:1-6 | FT:3-6 | TO:6 PF:6 +/-:-18 | Blowout(-22), FoulTrbl(6PF)
+    G2 | 2026-10-25 | @ NY | W 111-102 | Start | MIN:37 | PTS:23 | AST:9 | REB:13(3o/10d) | FG:9-23 | 3PT:0-3 | FT:5-5 | TO:3 PF:2 +/-:+6 | Normal
+    G3 | 2026-10-28 | @ TOR | L 99-129 | Start | MIN:34 | PTS:15 | AST:5 | REB:4(0o/4d) | FG:4-11 | 3PT:0-3 | FT:7-8 | TO:7 PF:3 +/-:-15 | Blowout(-30)
+    G4 | 2026-10-30 | @ TOR | W 121-114 | Start | MIN:39 | PTS:26 | AST:11 | REB:5(0o/5d) | FG:8-18 | 3PT:2-7 | FT:8-9 | TO:4 PF:3 +/-:+13 | Normal
+    G5 | 2026-11-01 | vs BOS | L 97-108 | Start | MIN:40 | PTS:14 | AST:12 | REB:6(3o/3d) | FG:5-20 | 3PT:1-4 | FT:3-4 | TO:3 PF:4 +/-:-7 | FoulTrbl(4PF)
+    G6 | 2026-11-02 | vs WSH | L 94-103 | Start | MIN:38 | PTS:24 | AST:6 | REB:3(0o/3d) | FG:10-18 | 3PT:1-4 | FT:3-3 | TO:3 PF:3 +/-:-11 | Normal
+    G7 | 2026-11-05 | @ PHX | L 104-117 | Start | MIN:38 | PTS:15 | AST:15 | REB:8(1o/7d) | FG:7-13 | 3PT:0-1 | FT:1-4 | TO:6 PF:3 +/-:-7 | Normal
+    G8 | 2026-11-07 | @ GS | L 119-126 (OT) | Start | MIN:40 | PTS:30 | AST:11 | REB:6(1o/5d) | FG:11-22 | 3PT:3-7 | FT:5-5 | TO:6 PF:4 +/-:-2 | OT, FoulTrbl(4PF)
+    G9 | 2026-11-10 | @ SAC | W 107-100 | Start | MIN:38 | PTS:33 | AST:7 | REB:7(1o/6d) | FG:11-23 | 3PT:1-5 | FT:10-10 | TO:3 PF:1 +/-:+8 | Normal
+    G10 | 2026-11-11 | @ UTAH | W 123-108 | Start | MIN:39 | PTS:38 | AST:1 | REB:8(2o/6d) | FG:13-23 | 3PT:3-8 | FT:9-10 | TO:4 PF:2 +/-:+10 | Blowout(+15)
+
+>>> Desmond Bane (ORL - G) | Roles: Primary Scorer #2 | Status: Available
+  Sample: L10 Window N=10 (Season 10/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=18.0 / L5=18.8 / Sea=18.0 | AST L10=2.4 / L5=2.0 / Sea=2.4 | REB L10=4.0 / L5=4.0 / Sea=4.0 (OREB=0.7/DREB=3.3)
+  Prior-Season Context (Separate): 20.1 PPG, 4.1 APG, 4.1 RPG, 33.6 MPG (82 GP w/ ORL)
+  Minutes: Mean=34.6 (L5=35.6), Med=34.5, Min=27.0, Max=40.0, SD=3.47 | 30+m=9/10, 35+m=5/10 | CloseMin=36.5, BlowoutMin=31.7
+  Consistency: PTS[Med=18.5, Min=5, Max=28, SD=6.18] | AST[Med=2.0, Min=0, Max=6, SD=1.8] | REB[Med=4.0, Min=2, Max=6, SD=1.67]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:5/5) | 15+: 8/10 (80.0%, L5:5/5) | 20+: 4/10 (40.0%, L5:2/5) | 25+: 2/10 (20.0%, L5:1/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 4/10 (40.0%, L5:2/5) | 5+: 1/10 (10.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 5/10 (50.0%, L5:2/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | vs ATL | L 125-132 | Start | MIN:33 | PTS:18 | AST:2 | REB:5(0o/5d) | FG:5-15 | 3PT:3-10 | FT:5-7 | TO:2 PF:4 +/-:-9 | FoulTrbl(4PF)
+    G2 | 2026-10-23 | vs MIN | L 93-115 | Start | MIN:27 | PTS:5 | AST:0 | REB:2(0o/2d) | FG:2-11 | 3PT:1-9 | FT:0-0 | TO:3 PF:6 +/-:-2 | Blowout(-22), FoulTrbl(6PF)
+    G3 | 2026-10-25 | @ NY | W 111-102 | Start | MIN:35 | PTS:22 | AST:2 | REB:6(2o/4d) | FG:6-13 | 3PT:4-9 | FT:6-8 | TO:3 PF:2 +/-:+8 | Normal
+    G4 | 2026-10-28 | @ TOR | L 99-129 | Start | MIN:34 | PTS:13 | AST:4 | REB:5(1o/4d) | FG:3-14 | 3PT:2-8 | FT:5-5 | TO:0 PF:2 +/-:-12 | Blowout(-30)
+    G5 | 2026-10-30 | @ TOR | W 121-114 | Start | MIN:39 | PTS:28 | AST:6 | REB:2(0o/2d) | FG:8-18 | 3PT:6-12 | FT:6-6 | TO:4 PF:5 +/-:+10 | FoulTrbl(5PF)
+    G6 | 2026-11-01 | vs BOS | L 97-108 | Start | MIN:40 | PTS:19 | AST:1 | REB:2(1o/1d) | FG:7-13 | 3PT:5-9 | FT:0-0 | TO:3 PF:4 +/-:-10 | FoulTrbl(4PF)
+    G7 | 2026-11-02 | vs WSH | L 94-103 | Start | MIN:36 | PTS:20 | AST:3 | REB:3(2o/1d) | FG:8-17 | 3PT:4-10 | FT:0-0 | TO:4 PF:4 +/-:-11 | FoulTrbl(4PF)
+    G8 | 2026-11-05 | @ PHX | L 104-117 | Start | MIN:32 | PTS:15 | AST:0 | REB:6(1o/5d) | FG:5-12 | 3PT:3-9 | FT:2-3 | TO:2 PF:3 +/-:-6 | Normal
+    G9 | 2026-11-10 | @ SAC | W 107-100 | Start | MIN:36 | PTS:15 | AST:4 | REB:6(0o/6d) | FG:5-19 | 3PT:4-13 | FT:1-2 | TO:2 PF:2 +/-:-2 | Normal
+    G10 | 2026-11-11 | @ UTAH | W 123-108 | Start | MIN:34 | PTS:25 | AST:2 | REB:3(0o/3d) | FG:9-16 | 3PT:7-11 | FT:0-0 | TO:1 PF:4 +/-:+16 | Blowout(+15), FoulTrbl(4PF)
+
+>>> Wendell Carter Jr. (ORL - C) | Roles: Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=12.8 / L5=13.8 / Sea=13.6 | AST L10=1.3 / L5=1.2 / Sea=1.2 | REB L10=9.7 / L5=10.2 / Sea=9.5 (OREB=2.8/DREB=6.9)
+  Prior-Season Context (Separate): 11.8 PPG, 2.0 APG, 7.4 RPG, 29.3 MPG (78 GP w/ ORL)
+  Minutes: Mean=33.1 (L5=33.8), Med=33.5, Min=26.0, Max=40.0, SD=4.25 | 30+m=7/10, 35+m=3/10 | CloseMin=35.7, BlowoutMin=27.7
+  Consistency: PTS[Med=9.0, Min=3, Max=27, SD=7.56] | AST[Med=1.0, Min=0, Max=3, SD=1.1] | REB[Med=10.0, Min=7, Max=13, SD=1.73]
+  PTS Thresholds: 10+: 4/10 (40.0%, L5:2/5) | 15+: 4/10 (40.0%, L5:2/5) | 20+: 3/10 (30.0%, L5:1/5) | 25+: 1/10 (10.0%, L5:1/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 2/10 (20.0%, L5:1/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 10/10 (100.0%, L5:5/5) | 7+: 10/10 (100.0%, L5:5/5) | 8+: 8/10 (80.0%, L5:4/5) | 10+: 6/10 (60.0%, L5:3/5) | 12+: 1/10 (10.0%, L5:1/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=8, Floor90=7, Floor100=7
+  Chronological Game Log:
+    G1 | 2026-10-23 | vs MIN | L 93-115 | Start | MIN:29 | PTS:20 | AST:1 | REB:9(2o/7d) | FG:8-9 | 3PT:3-4 | FT:1-1 | TO:2 PF:4 +/-:-6 | Blowout(-22), FoulTrbl(4PF)
+    G2 | 2026-10-25 | @ NY | W 111-102 | Start | MIN:33 | PTS:9 | AST:2 | REB:10(1o/9d) | FG:3-6 | 3PT:0-1 | FT:3-4 | TO:2 PF:4 +/-:+6 | FoulTrbl(4PF)
+    G3 | 2026-10-28 | @ TOR | L 99-129 | Start | MIN:26 | PTS:3 | AST:3 | REB:10(4o/6d) | FG:1-4 | 3PT:0-2 | FT:1-2 | TO:2 PF:2 +/-:-9 | Blowout(-30)
+    G4 | 2026-10-30 | @ TOR | W 121-114 | Start | MIN:39 | PTS:20 | AST:1 | REB:7(2o/5d) | FG:6-11 | 3PT:1-3 | FT:7-8 | TO:2 PF:2 +/-:+17 | Normal
+    G5 | 2026-11-01 | vs BOS | L 97-108 | Start | MIN:35 | PTS:7 | AST:0 | REB:10(2o/8d) | FG:2-6 | 3PT:1-5 | FT:2-4 | TO:3 PF:3 +/-:-7 | Normal
+    G6 | 2026-11-02 | vs WSH | L 94-103 | Start | MIN:34 | PTS:6 | AST:0 | REB:9(2o/7d) | FG:2-3 | 3PT:0-0 | FT:2-2 | TO:1 PF:2 +/-:-8 | Normal
+    G7 | 2026-11-05 | @ PHX | L 104-117 | Start | MIN:34 | PTS:27 | AST:2 | REB:13(4o/9d) | FG:10-12 | 3PT:2-2 | FT:5-6 | TO:3 PF:3 +/-:-6 | Normal
+    G8 | 2026-11-07 | @ GS | L 119-126 (OT) | Start | MIN:40 | PTS:19 | AST:0 | REB:11(6o/5d) | FG:6-12 | 3PT:3-3 | FT:4-9 | TO:2 PF:6 +/-:-9 | OT, FoulTrbl(6PF)
+    G9 | 2026-11-10 | @ SAC | W 107-100 | Start | MIN:33 | PTS:8 | AST:1 | REB:11(3o/8d) | FG:4-9 | 3PT:0-2 | FT:0-0 | TO:0 PF:4 +/-:+14 | FoulTrbl(4PF)
+    G10 | 2026-11-11 | @ UTAH | W 123-108 | Start | MIN:28 | PTS:9 | AST:3 | REB:7(2o/5d) | FG:3-5 | 3PT:0-1 | FT:3-3 | TO:2 PF:5 +/-:+2 | Blowout(+15), FoulTrbl(5PF)
+==========================================================
+TEAM CLE DETAILED KEY PLAYERS (CLE @ MIA)
+==========================================================
+
+>>> Donovan Mitchell (CLE - G) | Roles: Primary Scorer #1 | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=22.0 / L5=24.2 / Sea=22.8 | AST L10=5.9 / L5=5.6 / Sea=5.5 | REB L10=4.5 / L5=4.6 / Sea=5.0 (OREB=0.4/DREB=4.1)
+  Prior-Season Context (Separate): 27.9 PPG, 5.7 APG, 4.5 RPG, 33.5 MPG (70 GP w/ CLE)
+  Minutes: Mean=32.4 (L5=32.4), Med=33.0, Min=23.0, Max=38.0, SD=4.9 | 30+m=8/10, 35+m=4/10 | CloseMin=33.4, BlowoutMin=28.5
+  Consistency: PTS[Med=22.5, Min=11, Max=37, SD=6.87] | AST[Med=6.0, Min=3, Max=11, SD=2.39] | REB[Med=4.5, Min=2, Max=7, SD=1.57]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 9/10 (90.0%, L5:4/5) | 20+: 6/10 (60.0%, L5:4/5) | 25+: 3/10 (30.0%, L5:2/5) | 30+: 1/10 (10.0%, L5:1/5) | 35+: 1/10 (10.0%, L5:1/5) --> Floor80=15, Floor90=15, Floor100=10
+  AST Thresholds: 3+: 10/10 (100.0%, L5:5/5) | 5+: 6/10 (60.0%, L5:3/5) | 7+: 4/10 (40.0%, L5:1/5) | 8+: 2/10 (20.0%, L5:1/5) | 10+: 1/10 (10.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=3
+  REB Thresholds: 5+: 5/10 (50.0%, L5:2/5) | 7+: 2/10 (20.0%, L5:2/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-26 | vs MIN | W 127-125 (OT) | Start | MIN:38 | PTS:26 | AST:7 | REB:5(1o/4d) | FG:10-21 | 3PT:5-9 | FT:1-1 | TO:3 PF:2 +/-:-4 | OT
+    G2 | 2026-10-28 | vs WSH | W 121-111 | Start | MIN:31 | PTS:19 | AST:7 | REB:5(1o/4d) | FG:6-13 | 3PT:2-5 | FT:5-5 | TO:5 PF:2 +/-:+2 | Normal
+    G3 | 2026-10-29 | @ ATL | L 111-114 | Start | MIN:33 | PTS:22 | AST:3 | REB:3(1o/2d) | FG:7-19 | 3PT:1-9 | FT:7-8 | TO:0 PF:2 +/-:+2 | Normal
+    G4 | 2026-10-31 | @ MIL | W 136-111 | Start | MIN:24 | PTS:15 | AST:3 | REB:4(0o/4d) | FG:5-7 | 3PT:2-4 | FT:3-3 | TO:2 PF:5 +/-:+31 | Blowout(+25), FoulTrbl(5PF)
+    G5 | 2026-11-02 | vs OKC | L 112-117 | Start | MIN:36 | PTS:17 | AST:11 | REB:5(0o/5d) | FG:6-17 | 3PT:4-9 | FT:1-4 | TO:3 PF:3 +/-:+5 | Normal
+    G6 | 2026-11-04 | @ OKC | L 116-124 | Start | MIN:33 | PTS:27 | AST:6 | REB:3(0o/3d) | FG:10-17 | 3PT:5-10 | FT:2-2 | TO:2 PF:5 +/-:+1 | FoulTrbl(5PF)
+    G7 | 2026-11-06 | vs PHI | W 119-95 | Start | MIN:33 | PTS:23 | AST:8 | REB:7(1o/6d) | FG:7-18 | 3PT:1-6 | FT:8-10 | TO:4 PF:1 +/-:+28 | Blowout(+24)
+    G8 | 2026-11-07 | vs NY | L 97-109 | Start | MIN:37 | PTS:37 | AST:4 | REB:4(0o/4d) | FG:13-22 | 3PT:5-13 | FT:6-11 | TO:5 PF:4 +/-:-3 | FoulTrbl(4PF)
+    G9 | 2026-11-09 | @ CHA | L 112-124 | Start | MIN:23 | PTS:11 | AST:4 | REB:2(0o/2d) | FG:4-11 | 3PT:1-3 | FT:2-2 | TO:0 PF:1 +/-:-3 | Normal
+    G10 | 2026-11-11 | @ NY | W 115-107 | Start | MIN:36 | PTS:23 | AST:6 | REB:7(0o/7d) | FG:8-15 | 3PT:2-7 | FT:5-5 | TO:4 PF:2 +/-:+15 | Normal
+
+>>> Evan Mobley (CLE - C) | Roles: Primary Scorer #2 | Status: Out (Toe)
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=16.5 / L5=13.8 / Sea=16.9 | AST L10=3.7 / L5=3.6 / Sea=3.6 | REB L10=7.0 / L5=6.4 / Sea=7.3 (OREB=2.2/DREB=4.8)
+  Prior-Season Context (Separate): 18.2 PPG, 3.6 APG, 9.0 RPG, 31.9 MPG (65 GP w/ CLE)
+  Minutes: Mean=31.6 (L5=31.0), Med=33.0, Min=24.0, Max=38.0, SD=3.9 | 30+m=8/10, 35+m=1/10 | CloseMin=32.4, BlowoutMin=28.5
+  Consistency: PTS[Med=16.0, Min=9, Max=27, SD=5.9] | AST[Med=3.0, Min=2, Max=7, SD=1.35] | REB[Med=6.5, Min=2, Max=12, SD=3.0]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:4/5) | 15+: 6/10 (60.0%, L5:2/5) | 20+: 3/10 (30.0%, L5:1/5) | 25+: 1/10 (10.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 9/10 (90.0%, L5:5/5) | 5+: 2/10 (20.0%, L5:1/5) | 7+: 1/10 (10.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 8/10 (80.0%, L5:4/5) | 7+: 5/10 (50.0%, L5:2/5) | 8+: 4/10 (40.0%, L5:2/5) | 10+: 3/10 (30.0%, L5:1/5) | 12+: 1/10 (10.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=5, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-26 | vs MIN | W 127-125 (OT) | Start | MIN:38 | PTS:18 | AST:3 | REB:10(4o/6d) | FG:6-12 | 3PT:4-5 | FT:2-6 | TO:1 PF:3 +/-:-1 | OT
+    G2 | 2026-10-28 | vs WSH | W 121-111 | Start | MIN:32 | PTS:24 | AST:2 | REB:12(3o/9d) | FG:8-12 | 3PT:5-6 | FT:3-4 | TO:3 PF:1 +/-:-1 | Normal
+    G3 | 2026-10-29 | @ ATL | L 111-114 | Start | MIN:33 | PTS:11 | AST:7 | REB:4(1o/3d) | FG:4-9 | 3PT:0-3 | FT:3-4 | TO:1 PF:0 +/-:-2 | Normal
+    G4 | 2026-10-31 | @ MIL | W 136-111 | Start | MIN:25 | PTS:27 | AST:3 | REB:5(1o/4d) | FG:11-16 | 3PT:3-5 | FT:2-3 | TO:0 PF:1 +/-:+6 | Blowout(+25)
+    G5 | 2026-11-02 | vs OKC | L 112-117 | Start | MIN:33 | PTS:16 | AST:4 | REB:7(2o/5d) | FG:6-11 | 3PT:1-4 | FT:3-4 | TO:2 PF:1 +/-:-3 | Normal
+    G6 | 2026-11-04 | @ OKC | L 116-124 | Start | MIN:33 | PTS:16 | AST:3 | REB:10(3o/7d) | FG:7-15 | 3PT:1-5 | FT:1-2 | TO:2 PF:3 +/-:-1 | Normal
+    G7 | 2026-11-06 | vs PHI | W 119-95 | Start | MIN:32 | PTS:22 | AST:4 | REB:6(2o/4d) | FG:8-13 | 3PT:3-4 | FT:3-4 | TO:0 PF:1 +/-:+17 | Blowout(+24)
+    G8 | 2026-11-07 | vs NY | L 97-109 | Start | MIN:33 | PTS:12 | AST:5 | REB:9(3o/6d) | FG:5-11 | 3PT:1-5 | FT:1-2 | TO:3 PF:3 +/-:+7 | Normal
+    G9 | 2026-11-09 | @ CHA | L 112-124 | Start | MIN:24 | PTS:9 | AST:3 | REB:2(0o/2d) | FG:3-5 | 3PT:2-2 | FT:1-2 | TO:4 PF:0 +/-:-24 | Normal
+    G10 | 2026-11-11 | @ NY | W 115-107 | Start | MIN:33 | PTS:10 | AST:3 | REB:5(3o/2d) | FG:4-8 | 3PT:0-2 | FT:2-4 | TO:0 PF:2 +/-:+5 | Normal
+
+>>> James Harden (CLE - G) | Roles: Replacement/Active Scorer, Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=17.2 / L5=17.2 / Sea=16.7 | AST L10=5.5 / L5=4.6 / Sea=5.6 | REB L10=4.4 / L5=4.4 / Sea=4.6 (OREB=0.3/DREB=4.1)
+  Prior-Season Context (Separate): 23.6 PPG, 8.0 APG, 4.8 RPG, 34.8 MPG (70 GP w/ 2TM)
+  Minutes: Mean=32.5 (L5=31.4), Med=33.5, Min=25.0, Max=39.0, SD=4.13 | 30+m=8/10, 35+m=3/10 | CloseMin=33.6, BlowoutMin=28.0
+  Consistency: PTS[Med=16.5, Min=7, Max=32, SD=6.66] | AST[Med=5.5, Min=3, Max=9, SD=1.63] | REB[Med=4.5, Min=2, Max=9, SD=2.15]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:4/5) | 15+: 6/10 (60.0%, L5:3/5) | 20+: 2/10 (20.0%, L5:1/5) | 25+: 1/10 (10.0%, L5:1/5) | 30+: 1/10 (10.0%, L5:1/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 10/10 (100.0%, L5:5/5) | 5+: 7/10 (70.0%, L5:3/5) | 7+: 2/10 (20.0%, L5:0/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=3
+  REB Thresholds: 5+: 5/10 (50.0%, L5:2/5) | 7+: 1/10 (10.0%, L5:1/5) | 8+: 1/10 (10.0%, L5:1/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-26 | vs MIN | W 127-125 (OT) | Start | MIN:39 | PTS:19 | AST:9 | REB:5(1o/4d) | FG:7-17 | 3PT:3-9 | FT:2-2 | TO:3 PF:5 +/-:0 | OT, FoulTrbl(5PF)
+    G2 | 2026-10-28 | vs WSH | W 121-111 | Start | MIN:34 | PTS:16 | AST:6 | REB:2(0o/2d) | FG:5-18 | 3PT:2-10 | FT:4-4 | TO:2 PF:2 +/-:+5 | Normal
+    G3 | 2026-10-29 | @ ATL | L 111-114 | Start | MIN:36 | PTS:24 | AST:4 | REB:5(0o/5d) | FG:7-14 | 3PT:3-8 | FT:7-9 | TO:3 PF:4 +/-:0 | FoulTrbl(4PF)
+    G4 | 2026-10-31 | @ MIL | W 136-111 | Start | MIN:26 | PTS:13 | AST:7 | REB:6(0o/6d) | FG:4-8 | 3PT:3-4 | FT:2-2 | TO:2 PF:0 +/-:+17 | Blowout(+25)
+    G5 | 2026-11-02 | vs OKC | L 112-117 | Start | MIN:33 | PTS:14 | AST:6 | REB:4(1o/3d) | FG:5-10 | 3PT:3-7 | FT:1-3 | TO:1 PF:3 +/-:-12 | Normal
+    G6 | 2026-11-04 | @ OKC | L 116-124 | Start | MIN:35 | PTS:19 | AST:6 | REB:9(1o/8d) | FG:5-16 | 3PT:3-8 | FT:6-6 | TO:3 PF:1 +/-:0 | Normal
+    G7 | 2026-11-06 | vs PHI | W 119-95 | Start | MIN:30 | PTS:17 | AST:3 | REB:6(0o/6d) | FG:4-11 | 3PT:3-7 | FT:6-7 | TO:3 PF:1 +/-:+7 | Blowout(+24)
+    G8 | 2026-11-07 | vs NY | L 97-109 | Start | MIN:34 | PTS:7 | AST:5 | REB:2(0o/2d) | FG:2-9 | 3PT:1-4 | FT:2-2 | TO:2 PF:1 +/-:-15 | Normal
+    G9 | 2026-11-09 | @ CHA | L 112-124 | Start | MIN:25 | PTS:11 | AST:5 | REB:3(0o/3d) | FG:3-9 | 3PT:2-7 | FT:3-3 | TO:4 PF:2 +/-:-22 | Normal
+    G10 | 2026-11-11 | @ NY | W 115-107 | Start | MIN:33 | PTS:32 | AST:4 | REB:2(0o/2d) | FG:9-14 | 3PT:5-7 | FT:9-11 | TO:2 PF:1 +/-:+8 | Normal
+
+>>> Jarrett Allen (CLE - C) | Roles: Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 10/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=12.9 / L5=12.4 / Sea=12.9 | AST L10=1.4 / L5=1.8 / Sea=1.4 | REB L10=8.3 / L5=7.8 / Sea=8.3 (OREB=2.3/DREB=6.0)
+  Prior-Season Context (Separate): 15.4 PPG, 1.8 APG, 8.5 RPG, 27.1 MPG (56 GP w/ CLE)
+  Minutes: Mean=25.2 (L5=22.0), Med=27.5, Min=7.0, Max=32.0, SD=6.97 | 30+m=3/10, 35+m=0/10 | CloseMin=25.3, BlowoutMin=24.0
+  Consistency: PTS[Med=13.0, Min=0, Max=25, SD=6.47] | AST[Med=1.0, Min=0, Max=4, SD=1.28] | REB[Med=8.0, Min=1, Max=14, SD=3.41]
+  PTS Thresholds: 10+: 8/10 (80.0%, L5:4/5) | 15+: 2/10 (20.0%, L5:1/5) | 20+: 2/10 (20.0%, L5:1/5) | 25+: 1/10 (10.0%, L5:1/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 2/10 (20.0%, L5:2/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 9/10 (90.0%, L5:4/5) | 7+: 8/10 (80.0%, L5:3/5) | 8+: 6/10 (60.0%, L5:2/5) | 10+: 3/10 (30.0%, L5:2/5) | 12+: 2/10 (20.0%, L5:1/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=7, Floor90=5, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-22 | @ PHI | L 106-114 | Start | MIN:28 | PTS:14 | AST:0 | REB:7(3o/4d) | FG:6-10 | 3PT:0-0 | FT:2-4 | TO:1 PF:1 +/-:-2 | Normal
+    G2 | 2026-10-24 | vs BKN | W 125-121 | Start | MIN:27 | PTS:21 | AST:0 | REB:8(3o/5d) | FG:7-8 | 3PT:1-1 | FT:6-8 | TO:3 PF:3 +/-:+3 | Normal
+    G3 | 2026-10-26 | vs MIN | W 127-125 (OT) | Start | MIN:27 | PTS:10 | AST:2 | REB:9(2o/7d) | FG:3-7 | 3PT:0-0 | FT:4-4 | TO:0 PF:2 +/-:-1 | OT
+    G4 | 2026-10-28 | vs WSH | W 121-111 | Start | MIN:30 | PTS:8 | AST:2 | REB:12(2o/10d) | FG:3-6 | 3PT:0-0 | FT:2-2 | TO:0 PF:1 +/-:+6 | Normal
+    G5 | 2026-10-29 | @ ATL | L 111-114 | Start | MIN:30 | PTS:14 | AST:1 | REB:8(3o/5d) | FG:5-8 | 3PT:1-1 | FT:3-4 | TO:1 PF:1 +/-:+6 | Normal
+    G6 | 2026-10-31 | @ MIL | W 136-111 | Start | MIN:24 | PTS:25 | AST:4 | REB:11(3o/8d) | FG:12-16 | 3PT:0-1 | FT:1-4 | TO:2 PF:1 +/-:+24 | Blowout(+25)
+    G7 | 2026-11-02 | vs OKC | L 112-117 | Start | MIN:28 | PTS:14 | AST:1 | REB:6(3o/3d) | FG:5-10 | 3PT:0-0 | FT:4-6 | TO:0 PF:2 +/-:+11 | Normal
+    G8 | 2026-11-04 | @ OKC | L 116-124 | Start | MIN:7 | PTS:0 | AST:0 | REB:1(0o/1d) | FG:0-1 | 3PT:0-0 | FT:0-0 | TO:0 PF:0 +/-:-8 | Normal
+    G9 | 2026-11-09 | @ CHA | L 112-124 | Start | MIN:19 | PTS:12 | AST:1 | REB:7(0o/7d) | FG:5-5 | 3PT:1-1 | FT:1-2 | TO:1 PF:0 +/-:-9 | Normal
+    G10 | 2026-11-11 | @ NY | W 115-107 | Start | MIN:32 | PTS:11 | AST:3 | REB:14(4o/10d) | FG:4-7 | 3PT:0-0 | FT:3-3 | TO:0 PF:2 +/-:+9 | Normal
+==========================================================
+TEAM MIA DETAILED KEY PLAYERS (CLE @ MIA)
+==========================================================
+
+>>> Giannis Antetokounmpo (MIA - F) | Roles: Primary Scorer #1, Primary Rebound Leader | Status: Day-To-Day (Wrist)
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=27.0 / L5=27.2 / Sea=27.7 | AST L10=5.6 / L5=4.8 / Sea=5.2 | REB L10=13.3 / L5=13.0 / Sea=12.6 (OREB=3.8/DREB=9.5)
+  Prior-Season Context (Separate): 27.6 PPG, 5.4 APG, 9.8 RPG, 28.9 MPG (36 GP w/ MIL)
+  Minutes: Mean=33.0 (L5=34.2), Med=32.0, Min=25.0, Max=41.0, SD=4.27 | 30+m=9/10, 35+m=2/10 | CloseMin=33.5, BlowoutMin=32.2
+  Consistency: PTS[Med=29.0, Min=14, Max=36, SD=5.92] | AST[Med=4.5, Min=3, Max=11, SD=2.76] | REB[Med=14.0, Min=6, Max=18, SD=3.29]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 9/10 (90.0%, L5:5/5) | 20+: 9/10 (90.0%, L5:5/5) | 25+: 7/10 (70.0%, L5:4/5) | 30+: 4/10 (40.0%, L5:2/5) | 35+: 1/10 (10.0%, L5:0/5) --> Floor80=20, Floor90=20, Floor100=10
+  AST Thresholds: 3+: 10/10 (100.0%, L5:5/5) | 5+: 5/10 (50.0%, L5:2/5) | 7+: 3/10 (30.0%, L5:1/5) | 8+: 2/10 (20.0%, L5:0/5) | 10+: 2/10 (20.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=3
+  REB Thresholds: 5+: 10/10 (100.0%, L5:5/5) | 7+: 9/10 (90.0%, L5:5/5) | 8+: 9/10 (90.0%, L5:5/5) | 10+: 9/10 (90.0%, L5:5/5) | 12+: 8/10 (80.0%, L5:4/5) | 15+: 2/10 (20.0%, L5:0/5) --> Floor80=12, Floor90=10, Floor100=5
+  Chronological Game Log:
+    G1 | 2026-10-23 | vs DET | L 111-128 | Start | MIN:33 | PTS:36 | AST:5 | REB:12(6o/6d) | FG:15-26 | 3PT:1-3 | FT:5-8 | TO:3 PF:3 +/-:-23 | Blowout(-17)
+    G2 | 2026-10-24 | @ CHA | L 110-115 | Start | MIN:25 | PTS:14 | AST:3 | REB:6(4o/2d) | FG:4-11 | 3PT:0-1 | FT:6-8 | TO:3 PF:6 +/-:-20 | FoulTrbl(6PF)
+    G3 | 2026-10-26 | vs DAL | L 109-113 | Start | MIN:39 | PTS:29 | AST:11 | REB:14(4o/10d) | FG:12-23 | 3PT:2-4 | FT:3-7 | TO:5 PF:0 +/-:-1 | Normal
+    G4 | 2026-10-28 | @ ATL | W 129-117 | Start | MIN:31 | PTS:24 | AST:3 | REB:18(5o/13d) | FG:11-18 | 3PT:0-2 | FT:2-5 | TO:2 PF:2 +/-:-6 | Normal
+    G5 | 2026-10-30 | vs IND | W 145-125 | Start | MIN:31 | PTS:31 | AST:10 | REB:18(6o/12d) | FG:13-19 | 3PT:1-2 | FT:4-6 | TO:1 PF:3 +/-:+31 | Blowout(+20)
+    G6 | 2026-11-02 | @ LAL | L 117-138 | Start | MIN:34 | PTS:30 | AST:7 | REB:12(1o/11d) | FG:10-17 | 3PT:0-3 | FT:10-15 | TO:7 PF:3 +/-:-7 | Blowout(-21)
+    G7 | 2026-11-04 | @ LAC | W 117-116 (OT) | Start | MIN:41 | PTS:27 | AST:6 | REB:14(4o/10d) | FG:8-20 | 3PT:0-2 | FT:11-13 | TO:3 PF:2 +/-:+11 | OT
+    G8 | 2026-11-05 | @ GS | L 100-120 | Start | MIN:31 | PTS:20 | AST:4 | REB:14(3o/11d) | FG:7-13 | 3PT:1-5 | FT:5-7 | TO:4 PF:2 +/-:-22 | Blowout(-20)
+    G9 | 2026-11-08 | @ SAC | W 114-108 | Start | MIN:34 | PTS:29 | AST:3 | REB:14(3o/11d) | FG:14-23 | 3PT:0-1 | FT:1-7 | TO:5 PF:2 +/-:+19 | Normal
+    G10 | 2026-11-10 | @ UTAH | W 115-109 | Start | MIN:31 | PTS:30 | AST:4 | REB:11(2o/9d) | FG:12-21 | 3PT:1-2 | FT:5-9 | TO:1 PF:3 +/-:+11 | Normal
+
+>>> Bam Adebayo (MIA - C) | Roles: Primary Scorer #2 | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=18.1 / L5=19.6 / Sea=17.8 | AST L10=3.2 / L5=3.2 / Sea=3.3 | REB L10=8.5 / L5=9.0 / Sea=8.4 (OREB=2.9/DREB=5.6)
+  Prior-Season Context (Separate): 20.1 PPG, 3.2 APG, 10.0 RPG, 32.4 MPG (73 GP w/ MIA)
+  Minutes: Mean=33.4 (L5=35.2), Med=33.0, Min=23.0, Max=41.0, SD=4.78 | 30+m=9/10, 35+m=3/10 | CloseMin=35.7, BlowoutMin=30.0
+  Consistency: PTS[Med=18.0, Min=4, Max=35, SD=8.71] | AST[Med=3.5, Min=0, Max=4, SD=1.17] | REB[Med=8.5, Min=6, Max=10, SD=1.12]
+  PTS Thresholds: 10+: 8/10 (80.0%, L5:5/5) | 15+: 7/10 (70.0%, L5:4/5) | 20+: 4/10 (40.0%, L5:1/5) | 25+: 2/10 (20.0%, L5:1/5) | 30+: 1/10 (10.0%, L5:1/5) | 35+: 1/10 (10.0%, L5:1/5) --> Floor80=10, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 9/10 (90.0%, L5:4/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 10/10 (100.0%, L5:5/5) | 7+: 9/10 (90.0%, L5:5/5) | 8+: 9/10 (90.0%, L5:5/5) | 10+: 2/10 (20.0%, L5:2/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=8, Floor90=8, Floor100=5
+  Chronological Game Log:
+    G1 | 2026-10-23 | vs DET | L 111-128 | Start | MIN:23 | PTS:4 | AST:3 | REB:6(3o/3d) | FG:2-6 | 3PT:0-2 | FT:0-2 | TO:1 PF:6 +/-:-22 | Blowout(-17), FoulTrbl(6PF)
+    G2 | 2026-10-24 | @ CHA | L 110-115 | Start | MIN:39 | PTS:20 | AST:4 | REB:8(2o/6d) | FG:7-17 | 3PT:2-6 | FT:4-4 | TO:4 PF:1 +/-:+9 | Normal
+    G3 | 2026-10-26 | vs DAL | L 109-113 | Start | MIN:30 | PTS:8 | AST:3 | REB:8(3o/5d) | FG:3-10 | 3PT:0-5 | FT:2-4 | TO:1 PF:0 +/-:-8 | Normal
+    G4 | 2026-10-28 | @ ATL | W 129-117 | Start | MIN:33 | PTS:24 | AST:3 | REB:9(4o/5d) | FG:8-16 | 3PT:0-1 | FT:8-9 | TO:3 PF:2 +/-:+22 | Normal
+    G5 | 2026-10-30 | vs IND | W 145-125 | Start | MIN:33 | PTS:27 | AST:3 | REB:9(4o/5d) | FG:11-14 | 3PT:0-2 | FT:5-5 | TO:2 PF:4 +/-:+7 | Blowout(+20), FoulTrbl(4PF)
+    G6 | 2026-11-02 | @ LAL | L 117-138 | Start | MIN:31 | PTS:16 | AST:4 | REB:9(4o/5d) | FG:5-10 | 3PT:1-2 | FT:5-7 | TO:3 PF:1 +/-:-23 | Blowout(-21)
+    G7 | 2026-11-04 | @ LAC | W 117-116 (OT) | Start | MIN:41 | PTS:35 | AST:4 | REB:10(3o/7d) | FG:14-20 | 3PT:1-3 | FT:6-8 | TO:1 PF:2 +/-:+12 | OT
+    G8 | 2026-11-05 | @ GS | L 100-120 | Start | MIN:33 | PTS:18 | AST:0 | REB:10(3o/7d) | FG:7-12 | 3PT:0-2 | FT:4-7 | TO:0 PF:1 +/-:-9 | Blowout(-20)
+    G9 | 2026-11-08 | @ SAC | W 114-108 | Start | MIN:34 | PTS:18 | AST:4 | REB:8(3o/5d) | FG:7-15 | 3PT:1-5 | FT:3-3 | TO:1 PF:2 +/-:-5 | Normal
+    G10 | 2026-11-10 | @ UTAH | W 115-109 | Start | MIN:37 | PTS:11 | AST:4 | REB:8(0o/8d) | FG:1-8 | 3PT:0-2 | FT:9-12 | TO:0 PF:4 +/-:0 | FoulTrbl(4PF)
+
+>>> Davion Mitchell (MIA - G) | Roles: Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=17.0 / L5=16.8 / Sea=16.5 | AST L10=8.2 / L5=8.8 / Sea=8.5 | REB L10=2.2 / L5=2.4 / Sea=2.0 (OREB=0.3/DREB=1.9)
+  Prior-Season Context (Separate): 9.3 PPG, 6.5 APG, 2.7 RPG, 28.6 MPG (70 GP w/ MIA)
+  Minutes: Mean=36.0 (L5=37.6), Med=36.0, Min=29.0, Max=43.0, SD=3.82 | 30+m=9/10, 35+m=6/10 | CloseMin=37.5, BlowoutMin=33.8
+  Consistency: PTS[Med=17.5, Min=10, Max=22, SD=4.05] | AST[Med=9.0, Min=2, Max=11, SD=2.75] | REB[Med=2.0, Min=0, Max=6, SD=1.89]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 8/10 (80.0%, L5:4/5) | 20+: 3/10 (30.0%, L5:1/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=10, Floor100=10
+  AST Thresholds: 3+: 9/10 (90.0%, L5:5/5) | 5+: 9/10 (90.0%, L5:5/5) | 7+: 8/10 (80.0%, L5:5/5) | 8+: 7/10 (70.0%, L5:4/5) | 10+: 5/10 (50.0%, L5:2/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=7, Floor90=5, Floor100=None
+  REB Thresholds: 5+: 2/10 (20.0%, L5:1/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | vs DET | L 111-128 | Start | MIN:33 | PTS:18 | AST:5 | REB:2(0o/2d) | FG:6-14 | 3PT:3-9 | FT:3-5 | TO:1 PF:4 +/-:-24 | Blowout(-17), FoulTrbl(4PF)
+    G2 | 2026-10-24 | @ CHA | L 110-115 | Start | MIN:37 | PTS:22 | AST:10 | REB:1(0o/1d) | FG:8-13 | 3PT:3-4 | FT:3-3 | TO:2 PF:2 +/-:+7 | Normal
+    G3 | 2026-10-26 | vs DAL | L 109-113 | Start | MIN:33 | PTS:21 | AST:2 | REB:0(0o/0d) | FG:9-15 | 3PT:2-5 | FT:1-2 | TO:4 PF:2 +/-:-10 | Normal
+    G4 | 2026-10-28 | @ ATL | W 129-117 | Start | MIN:34 | PTS:10 | AST:10 | REB:1(0o/1d) | FG:5-12 | 3PT:0-3 | FT:0-0 | TO:2 PF:2 +/-:+8 | Normal
+    G5 | 2026-10-30 | vs IND | W 145-125 | Start | MIN:35 | PTS:15 | AST:11 | REB:6(2o/4d) | FG:6-16 | 3PT:3-8 | FT:0-0 | TO:3 PF:3 +/-:+32 | Blowout(+20)
+    G6 | 2026-11-02 | @ LAL | L 117-138 | Start | MIN:29 | PTS:15 | AST:7 | REB:0(0o/0d) | FG:5-5 | 3PT:4-4 | FT:1-2 | TO:1 PF:2 +/-:-13 | Blowout(-21)
+    G7 | 2026-11-04 | @ LAC | W 117-116 (OT) | Start | MIN:43 | PTS:11 | AST:10 | REB:2(0o/2d) | FG:5-13 | 3PT:0-5 | FT:1-1 | TO:1 PF:2 +/-:+4 | OT
+    G8 | 2026-11-05 | @ GS | L 100-120 | Start | MIN:38 | PTS:22 | AST:8 | REB:2(0o/2d) | FG:9-18 | 3PT:4-9 | FT:0-0 | TO:5 PF:4 +/-:-16 | Blowout(-20), FoulTrbl(4PF)
+    G9 | 2026-11-08 | @ SAC | W 114-108 | Start | MIN:40 | PTS:17 | AST:11 | REB:3(0o/3d) | FG:6-10 | 3PT:2-6 | FT:3-6 | TO:2 PF:2 +/-:-5 | Normal
+    G10 | 2026-11-10 | @ UTAH | W 115-109 | Start | MIN:38 | PTS:19 | AST:8 | REB:5(1o/4d) | FG:5-13 | 3PT:3-7 | FT:6-8 | TO:2 PF:3 +/-:-6 | Normal
+==========================================================
+TEAM ATL DETAILED KEY PLAYERS (ATL @ CHI)
+==========================================================
+
+>>> Nickeil Alexander-Walker (ATL - G) | Roles: Primary Scorer #1 | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=21.8 / L5=25.6 / Sea=21.9 | AST L10=2.3 / L5=2.6 / Sea=2.6 | REB L10=3.2 / L5=3.4 / Sea=3.2 (OREB=1.3/DREB=1.9)
+  Prior-Season Context (Separate): 20.8 PPG, 3.7 APG, 3.4 RPG, 33.4 MPG (78 GP w/ ATL)
+  Minutes: Mean=31.4 (L5=32.2), Med=31.5, Min=29.0, Max=34.0, SD=1.5 | 30+m=8/10, 35+m=0/10 | CloseMin=31.6, BlowoutMin=30.5
+  Consistency: PTS[Med=21.5, Min=12, Max=34, SD=6.55] | AST[Med=2.0, Min=1, Max=4, SD=1.27] | REB[Med=3.0, Min=2, Max=5, SD=0.98]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 8/10 (80.0%, L5:5/5) | 20+: 7/10 (70.0%, L5:5/5) | 25+: 4/10 (40.0%, L5:3/5) | 30+: 1/10 (10.0%, L5:1/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=10, Floor100=10
+  AST Thresholds: 3+: 4/10 (40.0%, L5:2/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 1/10 (10.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-24 | vs HOU | L 114-121 | Start | MIN:32 | PTS:18 | AST:4 | REB:5(2o/3d) | FG:7-16 | 3PT:4-12 | FT:0-1 | TO:1 PF:1 +/-:-2 | Normal
+    G2 | 2026-10-26 | @ HOU | L 110-120 | Start | MIN:29 | PTS:12 | AST:3 | REB:2(1o/1d) | FG:5-13 | 3PT:2-7 | FT:0-2 | TO:3 PF:4 +/-:-12 | FoulTrbl(4PF)
+    G3 | 2026-10-28 | vs MIA | L 117-129 | Start | MIN:32 | PTS:23 | AST:1 | REB:3(0o/3d) | FG:8-18 | 3PT:5-9 | FT:2-2 | TO:2 PF:3 +/-:+6 | Normal
+    G4 | 2026-10-29 | vs CLE | W 114-111 | Start | MIN:31 | PTS:25 | AST:1 | REB:3(2o/1d) | FG:8-17 | 3PT:4-12 | FT:5-5 | TO:0 PF:3 +/-:0 | Normal
+    G5 | 2026-10-31 | @ NO | L 99-121 | Start | MIN:29 | PTS:12 | AST:1 | REB:2(2o/0d) | FG:3-12 | 3PT:0-7 | FT:6-6 | TO:3 PF:1 +/-:-12 | Blowout(-22)
+    G6 | 2026-11-02 | @ IND | W 108-104 | Start | MIN:31 | PTS:34 | AST:4 | REB:4(3o/1d) | FG:12-25 | 3PT:9-15 | FT:1-1 | TO:4 PF:4 +/-:+6 | FoulTrbl(4PF)
+    G7 | 2026-11-04 | @ WSH | W 120-105 | Start | MIN:32 | PTS:26 | AST:2 | REB:4(1o/3d) | FG:9-20 | 3PT:6-14 | FT:2-2 | TO:3 PF:3 +/-:-3 | Blowout(+15)
+    G8 | 2026-11-06 | vs WSH | W 139-132 | Start | MIN:33 | PTS:28 | AST:2 | REB:2(1o/1d) | FG:7-20 | 3PT:4-12 | FT:10-10 | TO:3 PF:0 +/-:+2 | Normal
+    G9 | 2026-11-07 | vs BKN | W 124-121 | Start | MIN:31 | PTS:20 | AST:1 | REB:3(1o/2d) | FG:7-17 | 3PT:2-9 | FT:4-5 | TO:1 PF:3 +/-:-3 | Normal
+    G10 | 2026-11-09 | vs LAL | L 114-124 | Start | MIN:34 | PTS:20 | AST:4 | REB:4(0o/4d) | FG:6-19 | 3PT:4-14 | FT:4-4 | TO:0 PF:3 +/-:-14 | Normal
+
+>>> Jalen Johnson (ATL - F) | Roles: Primary Scorer #2, Primary Assist Leader, Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=9 (Season 9/12 GP, 9 Starts) | DNPs: []
+  Averages: PTS L10=19.2 / L5=17.4 / Sea=19.2 | AST L10=7.2 / L5=6.4 / Sea=7.2 | REB L10=8.6 / L5=7.6 / Sea=8.6 (OREB=1.0/DREB=7.6)
+  Prior-Season Context (Separate): 22.5 PPG, 7.9 APG, 10.3 RPG, 35.2 MPG (72 GP w/ ATL)
+  Minutes: Mean=33.7 (L5=34.4), Med=36.0, Min=28.0, Max=38.0, SD=3.94 | 30+m=6/9, 35+m=5/9 | CloseMin=35.1, BlowoutMin=28.5
+  Consistency: PTS[Med=19, Min=12, Max=30, SD=5.57] | AST[Med=6, Min=3, Max=16, SD=3.85] | REB[Med=8, Min=7, Max=14, SD=2.11]
+  PTS Thresholds: 10+: 9/9 (100.0%, L5:5/5) | 15+: 7/9 (77.8%, L5:3/5) | 20+: 4/9 (44.4%, L5:1/5) | 25+: 2/9 (22.2%, L5:1/5) | 30+: 1/9 (11.1%, L5:1/5) | 35+: 0/9 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=10
+  AST Thresholds: 3+: 9/9 (100.0%, L5:5/5) | 5+: 6/9 (66.7%, L5:3/5) | 7+: 4/9 (44.4%, L5:2/5) | 8+: 3/9 (33.3%, L5:1/5) | 10+: 2/9 (22.2%, L5:1/5) | 12+: 1/9 (11.1%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=3
+  REB Thresholds: 5+: 9/9 (100.0%, L5:5/5) | 7+: 9/9 (100.0%, L5:5/5) | 8+: 5/9 (55.6%, L5:2/5) | 10+: 1/9 (11.1%, L5:0/5) | 12+: 1/9 (11.1%, L5:0/5) | 15+: 0/9 (0.0%, L5:0/5) --> Floor80=7, Floor90=7, Floor100=7
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ ORL | W 132-125 | Start | MIN:28 | PTS:20 | AST:6 | REB:14(0o/14d) | FG:7-19 | 3PT:0-4 | FT:6-7 | TO:2 PF:5 +/-:+8 | FoulTrbl(5PF)
+    G2 | 2026-10-23 | @ CHA | W 128-81 | Start | MIN:29 | PTS:19 | AST:8 | REB:7(1o/6d) | FG:9-16 | 3PT:0-3 | FT:1-1 | TO:3 PF:2 +/-:+26 | Blowout(+47)
+    G3 | 2026-10-24 | vs HOU | L 114-121 | Start | MIN:38 | PTS:26 | AST:16 | REB:9(4o/5d) | FG:8-19 | 3PT:2-7 | FT:8-10 | TO:2 PF:2 +/-:+3 | Normal
+    G4 | 2026-10-26 | @ HOU | L 110-120 | Start | MIN:36 | PTS:21 | AST:3 | REB:9(1o/8d) | FG:5-14 | 3PT:1-5 | FT:10-12 | TO:4 PF:5 +/-:-9 | FoulTrbl(5PF)
+    G5 | 2026-10-28 | vs MIA | L 117-129 | Start | MIN:36 | PTS:12 | AST:11 | REB:9(0o/9d) | FG:4-12 | 3PT:2-4 | FT:2-3 | TO:3 PF:3 +/-:-23 | Normal
+    G6 | 2026-10-29 | vs CLE | W 114-111 | Start | MIN:34 | PTS:17 | AST:7 | REB:8(1o/7d) | FG:7-16 | 3PT:2-5 | FT:1-1 | TO:4 PF:3 +/-:-2 | Normal
+    G7 | 2026-10-31 | @ NO | L 99-121 | Start | MIN:28 | PTS:13 | AST:4 | REB:7(0o/7d) | FG:5-11 | 3PT:1-3 | FT:2-2 | TO:4 PF:3 +/-:-20 | Blowout(-22)
+    G8 | 2026-11-07 | vs BKN | W 124-121 | Start | MIN:36 | PTS:30 | AST:6 | REB:7(1o/6d) | FG:11-17 | 3PT:0-5 | FT:8-10 | TO:3 PF:2 +/-:-2 | Normal
+    G9 | 2026-11-09 | vs LAL | L 114-124 | Start | MIN:38 | PTS:15 | AST:4 | REB:7(1o/6d) | FG:6-14 | 3PT:0-3 | FT:3-4 | TO:4 PF:0 +/-:+5 | Normal
+
+>>> Aaron Wiggins (ATL - G) | Roles: Secondary Scoring/Matchup Candidate | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 0 Starts) | DNPs: []
+  Averages: PTS L10=14.4 / L5=15.2 / Sea=14.9 | AST L10=2.8 / L5=3.2 / Sea=2.4 | REB L10=4.0 / L5=3.6 / Sea=3.7 (OREB=0.7/DREB=3.3)
+  Prior-Season Context (Separate): 9.4 PPG, 1.7 APG, 3.1 RPG, 21.8 MPG (65 GP w/ OKC)
+  Minutes: Mean=25.8 (L5=26.2), Med=25.0, Min=23.0, Max=29.0, SD=2.4 | 30+m=0/10, 35+m=0/10 | CloseMin=25.8, BlowoutMin=26.0
+  Consistency: PTS[Med=15.0, Min=7, Max=20, SD=4.32] | AST[Med=3.0, Min=1, Max=6, SD=1.25] | REB[Med=4.0, Min=2, Max=7, SD=1.26]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:4/5) | 15+: 6/10 (60.0%, L5:4/5) | 20+: 2/10 (20.0%, L5:1/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 6/10 (60.0%, L5:3/5) | 5+: 1/10 (10.0%, L5:1/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 2/10 (20.0%, L5:0/5) | 7+: 1/10 (10.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-24 | vs HOU | L 114-121 | Bench | MIN:29 | PTS:16 | AST:2 | REB:5(2o/3d) | FG:6-13 | 3PT:4-9 | FT:0-0 | TO:0 PF:2 +/-:-2 | Normal
+    G2 | 2026-10-26 | @ HOU | L 110-120 | Bench | MIN:27 | PTS:12 | AST:3 | REB:4(0o/4d) | FG:5-12 | 3PT:2-6 | FT:0-0 | TO:0 PF:3 +/-:-12 | Normal
+    G3 | 2026-10-28 | vs MIA | L 117-129 | Bench | MIN:24 | PTS:10 | AST:3 | REB:4(0o/4d) | FG:4-11 | 3PT:2-7 | FT:0-0 | TO:1 PF:3 +/-:-2 | Normal
+    G4 | 2026-10-29 | vs CLE | W 114-111 | Bench | MIN:24 | PTS:20 | AST:3 | REB:7(1o/6d) | FG:8-14 | 3PT:4-7 | FT:0-0 | TO:1 PF:0 +/-:+17 | Normal
+    G5 | 2026-10-31 | @ NO | L 99-121 | Bench | MIN:23 | PTS:10 | AST:1 | REB:2(0o/2d) | FG:4-11 | 3PT:2-7 | FT:0-0 | TO:2 PF:2 +/-:-7 | Blowout(-22)
+    G6 | 2026-11-02 | @ IND | W 108-104 | Bench | MIN:24 | PTS:7 | AST:2 | REB:3(0o/3d) | FG:3-12 | 3PT:1-6 | FT:0-1 | TO:2 PF:2 +/-:+7 | Normal
+    G7 | 2026-11-04 | @ WSH | W 120-105 | Bench | MIN:29 | PTS:15 | AST:2 | REB:4(0o/4d) | FG:6-14 | 3PT:3-7 | FT:0-0 | TO:2 PF:1 +/-:+15 | Blowout(+15)
+    G8 | 2026-11-06 | vs WSH | W 139-132 | Bench | MIN:29 | PTS:19 | AST:3 | REB:4(1o/3d) | FG:8-12 | 3PT:3-7 | FT:0-0 | TO:2 PF:1 +/-:-4 | Normal
+    G9 | 2026-11-07 | vs BKN | W 124-121 | Bench | MIN:26 | PTS:20 | AST:6 | REB:4(2o/2d) | FG:7-19 | 3PT:5-13 | FT:1-2 | TO:0 PF:1 +/-:+12 | Normal
+    G10 | 2026-11-09 | vs LAL | L 114-124 | Bench | MIN:23 | PTS:15 | AST:3 | REB:3(1o/2d) | FG:5-11 | 3PT:4-7 | FT:1-1 | TO:3 PF:1 +/-:-11 | Normal
+==========================================================
+TEAM CHI DETAILED KEY PLAYERS (ATL @ CHI)
+==========================================================
+
+>>> Norman Powell (CHI - G) | Roles: Primary Scorer #1 | Status: Day-To-Day (Right Shoulder)
+  Sample: L10 Window N=8 (Season 8/10 GP, 8 Starts) | DNPs: []
+  Averages: PTS L10=19.2 / L5=19.2 / Sea=19.2 | AST L10=1.6 / L5=1.6 / Sea=1.6 | REB L10=2.5 / L5=1.8 / Sea=2.5 (OREB=0.5/DREB=2.0)
+  Prior-Season Context (Separate): 21.7 PPG, 2.5 APG, 3.5 RPG, 29.6 MPG (58 GP w/ MIA)
+  Minutes: Mean=28.9 (L5=28.6), Med=30.0, Min=22.0, Max=37.0, SD=5.28 | 30+m=4/8, 35+m=1/8 | CloseMin=34.3, BlowoutMin=24.2
+  Consistency: PTS[Med=18.0, Min=12, Max=30, SD=5.4] | AST[Med=1.5, Min=0, Max=3, SD=0.99] | REB[Med=2.0, Min=1, Max=5, SD=1.32]
+  PTS Thresholds: 10+: 8/8 (100.0%, L5:5/5) | 15+: 7/8 (87.5%, L5:4/5) | 20+: 3/8 (37.5%, L5:2/5) | 25+: 2/8 (25.0%, L5:1/5) | 30+: 1/8 (12.5%, L5:1/5) | 35+: 0/8 (0.0%, L5:0/5) --> Floor80=15, Floor90=15, Floor100=10
+  AST Thresholds: 3+: 2/8 (25.0%, L5:1/5) | 5+: 0/8 (0.0%, L5:0/5) | 7+: 0/8 (0.0%, L5:0/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 1/8 (12.5%, L5:0/5) | 7+: 0/8 (0.0%, L5:0/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) | 15+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ TOR | L 92-135 | Start | MIN:22 | PTS:15 | AST:1 | REB:5(0o/5d) | FG:3-9 | 3PT:2-6 | FT:7-11 | TO:1 PF:4 +/-:-13 | Blowout(-43), FoulTrbl(4PF)
+    G2 | 2026-10-23 | @ MIL | W 132-125 | Start | MIN:33 | PTS:25 | AST:1 | REB:4(1o/3d) | FG:7-20 | 3PT:2-12 | FT:9-9 | TO:1 PF:1 +/-:-1 | Normal
+    G3 | 2026-10-24 | vs WSH | L 120-124 | Start | MIN:33 | PTS:18 | AST:3 | REB:2(2o/0d) | FG:4-12 | 3PT:3-7 | FT:7-7 | TO:4 PF:1 +/-:+1 | Normal
+    G4 | 2026-10-26 | @ BOS | L 99-134 | Start | MIN:24 | PTS:20 | AST:2 | REB:1(0o/1d) | FG:5-11 | 3PT:4-7 | FT:6-7 | TO:2 PF:3 +/-:-3 | Blowout(-35)
+    G5 | 2026-10-28 | vs NY | L 127-133 | Start | MIN:37 | PTS:30 | AST:2 | REB:2(0o/2d) | FG:10-15 | 3PT:4-9 | FT:6-9 | TO:4 PF:1 +/-:+13 | Normal
+    G6 | 2026-10-30 | @ BOS | L 111-125 | Start | MIN:31 | PTS:16 | AST:3 | REB:2(1o/1d) | FG:4-11 | 3PT:1-5 | FT:7-8 | TO:0 PF:4 +/-:-4 | FoulTrbl(4PF)
+    G7 | 2026-11-02 | @ PHI | L 107-126 | Start | MIN:29 | PTS:18 | AST:0 | REB:3(0o/3d) | FG:5-13 | 3PT:1-4 | FT:7-11 | TO:0 PF:2 +/-:-24 | Blowout(-19)
+    G8 | 2026-11-04 | @ NY | L 105-135 | Start | MIN:22 | PTS:12 | AST:1 | REB:1(0o/1d) | FG:3-12 | 3PT:0-5 | FT:6-7 | TO:2 PF:2 +/-:-34 | Blowout(-30)
+
+>>> Caleb Wilson (CHI - F) | Roles: Primary Scorer #2 | Status: Out (Right Hand)
+  Sample: L10 Window N=10 (Season 10/10 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=18.9 / L5=17.0 / Sea=18.9 | AST L10=1.9 / L5=1.6 / Sea=1.9 | REB L10=6.2 / L5=5.4 / Sea=6.2 (OREB=1.7/DREB=4.5)
+  Prior-Season Context (Separate): Rookie / No Prior NBA Regular-Season GP
+  Minutes: Mean=30.7 (L5=26.8), Med=32.0, Min=15.0, Max=38.0, SD=6.71 | 30+m=8/10, 35+m=2/10 | CloseMin=31.2, BlowoutMin=30.0
+  Consistency: PTS[Med=19.0, Min=5, Max=30, SD=6.27] | AST[Med=2.0, Min=0, Max=4, SD=1.76] | REB[Med=5.0, Min=4, Max=14, SD=2.71]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:4/5) | 15+: 9/10 (90.0%, L5:4/5) | 20+: 5/10 (50.0%, L5:2/5) | 25+: 1/10 (10.0%, L5:0/5) | 30+: 1/10 (10.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=15, Floor100=None
+  AST Thresholds: 3+: 5/10 (50.0%, L5:2/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 9/10 (90.0%, L5:5/5) | 7+: 2/10 (20.0%, L5:1/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 1/10 (10.0%, L5:0/5) | 12+: 1/10 (10.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=5, Floor90=5, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ TOR | L 92-135 | Start | MIN:32 | PTS:16 | AST:0 | REB:4(3o/1d) | FG:7-21 | 3PT:1-8 | FT:1-2 | TO:9 PF:4 +/-:-45 | Blowout(-43), FoulTrbl(4PF)
+    G2 | 2026-10-23 | @ MIL | W 132-125 | Start | MIN:33 | PTS:21 | AST:1 | REB:6(2o/4d) | FG:7-14 | 3PT:2-6 | FT:5-6 | TO:3 PF:2 +/-:-3 | Normal
+    G3 | 2026-10-24 | vs WSH | L 120-124 | Start | MIN:38 | PTS:30 | AST:3 | REB:14(4o/10d) | FG:10-24 | 3PT:1-9 | FT:9-11 | TO:0 PF:2 +/-:+14 | Normal
+    G4 | 2026-10-26 | @ BOS | L 99-134 | Start | MIN:32 | PTS:17 | AST:3 | REB:5(0o/5d) | FG:7-15 | 3PT:1-5 | FT:2-4 | TO:3 PF:3 +/-:-3 | Blowout(-35)
+    G5 | 2026-10-28 | vs NY | L 127-133 | Start | MIN:38 | PTS:20 | AST:4 | REB:6(2o/4d) | FG:7-18 | 3PT:3-8 | FT:3-4 | TO:1 PF:3 +/-:-1 | Normal
+    G6 | 2026-10-30 | @ BOS | L 111-125 | Start | MIN:31 | PTS:23 | AST:4 | REB:5(1o/4d) | FG:7-16 | 3PT:6-11 | FT:3-6 | TO:1 PF:5 +/-:-3 | FoulTrbl(5PF)
+    G7 | 2026-11-02 | @ PHI | L 107-126 | Start | MIN:34 | PTS:24 | AST:4 | REB:7(1o/6d) | FG:9-17 | 3PT:4-9 | FT:2-3 | TO:2 PF:2 +/-:-20 | Blowout(-19)
+    G8 | 2026-11-04 | @ NY | L 105-135 | Start | MIN:22 | PTS:5 | AST:0 | REB:5(2o/3d) | FG:2-12 | 3PT:1-7 | FT:0-0 | TO:3 PF:1 +/-:-22 | Blowout(-30)
+    G9 | 2026-11-08 | vs PHI | L 121-127 | Start | MIN:32 | PTS:18 | AST:0 | REB:5(1o/4d) | FG:7-18 | 3PT:2-6 | FT:2-2 | TO:3 PF:2 +/-:-1 | Normal
+    G10 | 2026-11-11 | vs SA | L 119-124 | Start | MIN:15 | PTS:15 | AST:0 | REB:5(1o/4d) | FG:5-7 | 3PT:2-2 | FT:3-3 | TO:2 PF:0 +/-:-12 | ShortMin(15)
+
+>>> Matas Buzelis (CHI - F) | Roles: Replacement/Active Scorer | Status: Available
+  Sample: L10 Window N=10 (Season 10/10 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=13.5 / L5=12.4 / Sea=13.5 | AST L10=2.0 / L5=2.0 / Sea=2.0 | REB L10=4.3 / L5=4.2 / Sea=4.3 (OREB=0.7/DREB=3.6)
+  Prior-Season Context (Separate): 16.3 PPG, 2.1 APG, 5.8 RPG, 29.2 MPG (77 GP w/ CHI)
+  Minutes: Mean=26.3 (L5=26.2), Med=25.5, Min=17.0, Max=35.0, SD=5.68 | 30+m=4/10, 35+m=1/10 | CloseMin=29.4, BlowoutMin=24.0
+  Consistency: PTS[Med=13.5, Min=4, Max=21, SD=5.02] | AST[Med=2.0, Min=0, Max=3, SD=0.89] | REB[Med=5.0, Min=1, Max=6, SD=1.42]
+  PTS Thresholds: 10+: 8/10 (80.0%, L5:4/5) | 15+: 4/10 (40.0%, L5:1/5) | 20+: 1/10 (10.0%, L5:0/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 3/10 (30.0%, L5:1/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 7/10 (70.0%, L5:3/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ TOR | L 92-135 | Start | MIN:25 | PTS:17 | AST:0 | REB:6(1o/5d) | FG:2-8 | 3PT:0-4 | FT:13-16 | TO:3 PF:2 +/-:-24 | Blowout(-43)
+    G2 | 2026-10-23 | @ MIL | W 132-125 | Start | MIN:17 | PTS:7 | AST:3 | REB:5(1o/4d) | FG:2-9 | 3PT:0-4 | FT:3-4 | TO:2 PF:3 +/-:-10 | ShortMin(17)
+    G3 | 2026-10-24 | vs WSH | L 120-124 | Start | MIN:35 | PTS:21 | AST:2 | REB:5(0o/5d) | FG:7-13 | 3PT:2-7 | FT:5-5 | TO:3 PF:4 +/-:+3 | FoulTrbl(4PF)
+    G4 | 2026-10-26 | @ BOS | L 99-134 | Start | MIN:22 | PTS:11 | AST:2 | REB:1(1o/0d) | FG:3-6 | 3PT:2-4 | FT:3-4 | TO:2 PF:2 +/-:-27 | Blowout(-35)
+    G5 | 2026-10-28 | vs NY | L 127-133 | Start | MIN:33 | PTS:17 | AST:3 | REB:5(2o/3d) | FG:5-13 | 3PT:3-6 | FT:4-6 | TO:4 PF:1 +/-:+1 | Normal
+    G6 | 2026-10-30 | @ BOS | L 111-125 | Start | MIN:20 | PTS:14 | AST:1 | REB:5(1o/4d) | FG:5-11 | 3PT:2-5 | FT:2-2 | TO:2 PF:4 +/-:-14 | FoulTrbl(4PF), ShortMin(20)
+    G7 | 2026-11-02 | @ PHI | L 107-126 | Start | MIN:23 | PTS:4 | AST:2 | REB:3(1o/2d) | FG:2-5 | 3PT:0-1 | FT:0-0 | TO:5 PF:4 +/-:-7 | Blowout(-19), FoulTrbl(4PF)
+    G8 | 2026-11-04 | @ NY | L 105-135 | Start | MIN:26 | PTS:12 | AST:3 | REB:5(0o/5d) | FG:5-11 | 3PT:1-6 | FT:1-1 | TO:1 PF:2 +/-:-19 | Blowout(-30)
+    G9 | 2026-11-08 | vs PHI | L 121-127 | Start | MIN:31 | PTS:19 | AST:2 | REB:5(0o/5d) | FG:6-10 | 3PT:3-7 | FT:4-4 | TO:0 PF:0 +/-:-10 | Normal
+    G10 | 2026-11-11 | vs SA | L 119-124 | Start | MIN:31 | PTS:13 | AST:2 | REB:3(0o/3d) | FG:5-12 | 3PT:3-7 | FT:0-0 | TO:6 PF:1 +/-:-21 | Normal
+
+>>> Josh Giddey (CHI - G) | Roles: Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 10/10 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=10.2 / L5=12.8 / Sea=10.2 | AST L10=8.3 / L5=8.6 / Sea=8.3 | REB L10=4.6 / L5=3.6 / Sea=4.6 (OREB=0.7/DREB=3.9)
+  Prior-Season Context (Separate): 17.0 PPG, 9.1 APG, 8.3 RPG, 32.1 MPG (54 GP w/ CHI)
+  Minutes: Mean=27.7 (L5=28.6), Med=26.0, Min=24.0, Max=34.0, SD=3.52 | 30+m=4/10, 35+m=0/10 | CloseMin=29.0, BlowoutMin=26.8
+  Consistency: PTS[Med=10.0, Min=2, Max=19, SD=4.26] | AST[Med=8.0, Min=4, Max=15, SD=3.16] | REB[Med=4.0, Min=1, Max=8, SD=2.62]
+  PTS Thresholds: 10+: 6/10 (60.0%, L5:4/5) | 15+: 1/10 (10.0%, L5:1/5) | 20+: 0/10 (0.0%, L5:0/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 10/10 (100.0%, L5:5/5) | 5+: 9/10 (90.0%, L5:5/5) | 7+: 6/10 (60.0%, L5:3/5) | 8+: 5/10 (50.0%, L5:2/5) | 10+: 4/10 (40.0%, L5:2/5) | 12+: 1/10 (10.0%, L5:1/5) --> Floor80=5, Floor90=5, Floor100=3
+  REB Thresholds: 5+: 4/10 (40.0%, L5:1/5) | 7+: 4/10 (40.0%, L5:1/5) | 8+: 2/10 (20.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ TOR | L 92-135 | Start | MIN:24 | PTS:2 | AST:6 | REB:7(2o/5d) | FG:1-10 | 3PT:0-4 | FT:0-2 | TO:5 PF:2 +/-:-39 | Blowout(-43)
+    G2 | 2026-10-23 | @ MIL | W 132-125 | Start | MIN:25 | PTS:6 | AST:9 | REB:4(0o/4d) | FG:3-9 | 3PT:0-2 | FT:0-0 | TO:1 PF:1 +/-:-15 | Normal
+    G3 | 2026-10-24 | vs WSH | L 120-124 | Start | MIN:30 | PTS:9 | AST:10 | REB:8(0o/8d) | FG:3-7 | 3PT:1-3 | FT:2-2 | TO:0 PF:1 +/-:+5 | Normal
+    G4 | 2026-10-26 | @ BOS | L 99-134 | Start | MIN:24 | PTS:11 | AST:4 | REB:1(1o/0d) | FG:4-7 | 3PT:1-4 | FT:2-2 | TO:2 PF:2 +/-:-11 | Blowout(-35)
+    G5 | 2026-10-28 | vs NY | L 127-133 | Start | MIN:31 | PTS:10 | AST:11 | REB:8(0o/8d) | FG:4-9 | 3PT:1-1 | FT:1-1 | TO:2 PF:1 +/-:+12 | Normal
+    G6 | 2026-10-30 | @ BOS | L 111-125 | Start | MIN:25 | PTS:13 | AST:5 | REB:4(1o/3d) | FG:4-8 | 3PT:2-5 | FT:3-4 | TO:4 PF:1 +/-:+2 | Normal
+    G7 | 2026-11-02 | @ PHI | L 107-126 | Start | MIN:32 | PTS:13 | AST:10 | REB:4(0o/4d) | FG:5-15 | 3PT:2-7 | FT:1-2 | TO:3 PF:1 +/-:-15 | Blowout(-19)
+    G8 | 2026-11-04 | @ NY | L 105-135 | Start | MIN:27 | PTS:10 | AST:6 | REB:1(0o/1d) | FG:4-7 | 3PT:1-2 | FT:1-2 | TO:3 PF:2 +/-:-26 | Blowout(-30)
+    G9 | 2026-11-08 | vs PHI | L 121-127 | Start | MIN:34 | PTS:19 | AST:15 | REB:7(3o/4d) | FG:7-12 | 3PT:1-4 | FT:4-5 | TO:5 PF:2 +/-:+9 | Normal
+    G10 | 2026-11-11 | vs SA | L 119-124 | Start | MIN:25 | PTS:9 | AST:7 | REB:2(0o/2d) | FG:4-9 | 3PT:1-3 | FT:0-0 | TO:7 PF:3 +/-:-19 | Normal
+
+>>> Jalen Smith (CHI - F) | Roles: Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 10/10 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=12.8 / L5=12.2 / Sea=12.8 | AST L10=1.9 / L5=2.0 / Sea=1.9 | REB L10=7.4 / L5=6.6 / Sea=7.4 (OREB=2.2/DREB=5.2)
+  Prior-Season Context (Separate): 10.2 PPG, 1.2 APG, 6.7 RPG, 20.7 MPG (53 GP w/ CHI)
+  Minutes: Mean=23.9 (L5=24.4), Med=25.5, Min=7.0, Max=30.0, SD=6.8 | 30+m=3/10, 35+m=0/10 | CloseMin=27.6, BlowoutMin=18.5
+  Consistency: PTS[Med=14.0, Min=3, Max=23, SD=5.81] | AST[Med=1.0, Min=0, Max=5, SD=1.51] | REB[Med=7.5, Min=2, Max=13, SD=3.58]
+  PTS Thresholds: 10+: 7/10 (70.0%, L5:3/5) | 15+: 4/10 (40.0%, L5:2/5) | 20+: 1/10 (10.0%, L5:1/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 3/10 (30.0%, L5:2/5) | 5+: 1/10 (10.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 7/10 (70.0%, L5:3/5) | 7+: 6/10 (60.0%, L5:3/5) | 8+: 5/10 (50.0%, L5:2/5) | 10+: 3/10 (30.0%, L5:1/5) | 12+: 2/10 (20.0%, L5:1/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ TOR | L 92-135 | Start | MIN:19 | PTS:15 | AST:1 | REB:8(4o/4d) | FG:5-10 | 3PT:0-3 | FT:5-6 | TO:0 PF:3 +/-:-19 | Blowout(-43)
+    G2 | 2026-10-23 | @ MIL | W 132-125 | Start | MIN:24 | PTS:14 | AST:1 | REB:13(5o/8d) | FG:6-10 | 3PT:2-5 | FT:0-0 | TO:1 PF:1 +/-:+4 | Normal
+    G3 | 2026-10-24 | vs WSH | L 120-124 | Start | MIN:24 | PTS:14 | AST:1 | REB:3(1o/2d) | FG:5-11 | 3PT:2-7 | FT:2-2 | TO:2 PF:4 +/-:-8 | FoulTrbl(4PF)
+    G4 | 2026-10-26 | @ BOS | L 99-134 | Start | MIN:20 | PTS:7 | AST:1 | REB:6(2o/4d) | FG:2-8 | 3PT:2-5 | FT:1-1 | TO:2 PF:3 +/-:0 | Blowout(-35)
+    G5 | 2026-10-28 | vs NY | L 127-133 | Start | MIN:30 | PTS:17 | AST:5 | REB:11(1o/10d) | FG:7-12 | 3PT:3-7 | FT:0-0 | TO:0 PF:4 +/-:+12 | FoulTrbl(4PF)
+    G6 | 2026-10-30 | @ BOS | L 111-125 | Start | MIN:27 | PTS:5 | AST:1 | REB:12(4o/8d) | FG:2-8 | 3PT:0-5 | FT:1-2 | TO:1 PF:4 +/-:+3 | FoulTrbl(4PF)
+    G7 | 2026-11-02 | @ PHI | L 107-126 | Start | MIN:28 | PTS:13 | AST:4 | REB:7(1o/6d) | FG:6-10 | 3PT:1-4 | FT:0-1 | TO:0 PF:2 +/-:-15 | Blowout(-19)
+    G8 | 2026-11-04 | @ NY | L 105-135 | Start | MIN:7 | PTS:3 | AST:0 | REB:2(1o/1d) | FG:1-3 | 3PT:1-3 | FT:0-0 | TO:0 PF:1 +/-:-15 | Blowout(-30)
+    G9 | 2026-11-08 | vs PHI | L 121-127 | Start | MIN:30 | PTS:17 | AST:2 | REB:8(0o/8d) | FG:7-11 | 3PT:2-5 | FT:1-2 | TO:0 PF:4 +/-:+3 | FoulTrbl(4PF)
+    G10 | 2026-11-11 | vs SA | L 119-124 | Start | MIN:30 | PTS:23 | AST:3 | REB:4(3o/1d) | FG:8-9 | 3PT:5-5 | FT:2-2 | TO:0 PF:4 +/-:-31 | FoulTrbl(4PF)
+==========================================================
+TEAM MEM DETAILED KEY PLAYERS (MEM @ NOP)
+==========================================================
+
+>>> Ty Jerome (MEM - G) | Roles: Primary Scorer #1 | Status: Available
+  Sample: L10 Window N=10 (Season 10/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=26.2 / L5=26.6 / Sea=26.2 | AST L10=4.9 / L5=4.0 / Sea=4.9 | REB L10=3.5 / L5=3.8 / Sea=3.5 (OREB=0.7/DREB=2.8)
+  Prior-Season Context (Separate): 19.7 PPG, 5.7 APG, 2.8 RPG, 22.6 MPG (15 GP w/ MEM)
+  Minutes: Mean=30.8 (L5=31.6), Med=32.0, Min=24.0, Max=37.0, SD=3.22 | 30+m=7/10, 35+m=1/10 | CloseMin=32.0, BlowoutMin=29.0
+  Consistency: PTS[Med=25.0, Min=10, Max=45, SD=10.07] | AST[Med=5.0, Min=2, Max=8, SD=1.76] | REB[Med=3.0, Min=1, Max=7, SD=1.91]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 9/10 (90.0%, L5:5/5) | 20+: 8/10 (80.0%, L5:5/5) | 25+: 5/10 (50.0%, L5:2/5) | 30+: 3/10 (30.0%, L5:1/5) | 35+: 2/10 (20.0%, L5:1/5) --> Floor80=20, Floor90=15, Floor100=10
+  AST Thresholds: 3+: 9/10 (90.0%, L5:4/5) | 5+: 7/10 (70.0%, L5:3/5) | 7+: 2/10 (20.0%, L5:0/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 3/10 (30.0%, L5:2/5) | 7+: 1/10 (10.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | vs UTAH | W 123-103 | Start | MIN:32 | PTS:45 | AST:6 | REB:7(1o/6d) | FG:17-25 | 3PT:5-10 | FT:6-7 | TO:1 PF:4 +/-:+22 | Blowout(+20), FoulTrbl(4PF)
+    G2 | 2026-10-23 | @ GS | W 111-108 | Start | MIN:32 | PTS:28 | AST:5 | REB:2(2o/0d) | FG:11-22 | 3PT:3-5 | FT:3-5 | TO:4 PF:1 +/-:+10 | Normal
+    G3 | 2026-10-25 | @ SAC | W 123-112 | Start | MIN:32 | PTS:31 | AST:7 | REB:4(2o/2d) | FG:8-17 | 3PT:1-6 | FT:14-14 | TO:1 PF:1 +/-:+27 | Normal
+    G4 | 2026-10-26 | @ UTAH | W 110-105 | Start | MIN:30 | PTS:15 | AST:8 | REB:1(0o/1d) | FG:4-15 | 3PT:1-6 | FT:6-7 | TO:1 PF:4 +/-:+4 | FoulTrbl(4PF)
+    G5 | 2026-10-29 | @ POR | W 124-103 | Start | MIN:24 | PTS:10 | AST:3 | REB:2(0o/2d) | FG:3-12 | 3PT:1-5 | FT:3-3 | TO:3 PF:1 +/-:0 | Blowout(+21)
+    G6 | 2026-11-02 | vs NO | L 134-135 (OT) | Start | MIN:37 | PTS:40 | AST:5 | REB:5(0o/5d) | FG:14-22 | 3PT:5-6 | FT:7-8 | TO:4 PF:0 +/-:+3 | OT
+    G7 | 2026-11-04 | vs IND | L 103-107 | Start | MIN:29 | PTS:23 | AST:3 | REB:4(0o/4d) | FG:10-20 | 3PT:2-10 | FT:1-2 | TO:3 PF:2 +/-:+11 | Normal
+    G8 | 2026-11-06 | vs OKC | L 97-128 | Start | MIN:28 | PTS:21 | AST:5 | REB:2(0o/2d) | FG:7-14 | 3PT:2-7 | FT:5-5 | TO:3 PF:0 +/-:-16 | Blowout(-31)
+    G9 | 2026-11-09 | @ TOR | W 118-102 | Start | MIN:32 | PTS:27 | AST:2 | REB:6(2o/4d) | FG:9-19 | 3PT:5-11 | FT:4-4 | TO:3 PF:4 +/-:+14 | Blowout(+16), FoulTrbl(4PF)
+    G10 | 2026-11-11 | vs DEN | L 118-123 | Start | MIN:32 | PTS:22 | AST:5 | REB:2(0o/2d) | FG:9-18 | 3PT:1-5 | FT:3-3 | TO:1 PF:0 +/-:+9 | Normal
+
+>>> Cameron Boozer (MEM - F) | Roles: Primary Scorer #2, Primary Assist Leader, Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=16.8 / L5=14.2 / Sea=15.9 | AST L10=5.5 / L5=5.2 / Sea=5.5 | REB L10=9.7 / L5=9.0 / Sea=9.8 (OREB=1.9/DREB=7.8)
+  Prior-Season Context (Separate): Rookie / No Prior NBA Regular-Season GP
+  Minutes: Mean=32.1 (L5=33.6), Med=32.0, Min=26.0, Max=38.0, SD=3.45 | 30+m=8/10, 35+m=2/10 | CloseMin=33.8, BlowoutMin=29.5
+  Consistency: PTS[Med=16.0, Min=8, Max=27, SD=6.01] | AST[Med=4.5, Min=3, Max=12, SD=2.54] | REB[Med=10.0, Min=6, Max=13, SD=2.33]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:4/5) | 15+: 5/10 (50.0%, L5:2/5) | 20+: 3/10 (30.0%, L5:1/5) | 25+: 2/10 (20.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 10/10 (100.0%, L5:5/5) | 5+: 5/10 (50.0%, L5:3/5) | 7+: 2/10 (20.0%, L5:1/5) | 8+: 2/10 (20.0%, L5:1/5) | 10+: 1/10 (10.0%, L5:0/5) | 12+: 1/10 (10.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=3
+  REB Thresholds: 5+: 10/10 (100.0%, L5:5/5) | 7+: 9/10 (90.0%, L5:4/5) | 8+: 7/10 (70.0%, L5:3/5) | 10+: 5/10 (50.0%, L5:2/5) | 12+: 3/10 (30.0%, L5:1/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=7, Floor90=7, Floor100=5
+  Chronological Game Log:
+    G1 | 2026-10-23 | @ GS | W 111-108 | Start | MIN:37 | PTS:25 | AST:6 | REB:13(2o/11d) | FG:6-13 | 3PT:4-7 | FT:9-9 | TO:6 PF:1 +/-:+12 | Normal
+    G2 | 2026-10-25 | @ SAC | W 123-112 | Start | MIN:31 | PTS:14 | AST:4 | REB:11(0o/11d) | FG:5-21 | 3PT:2-8 | FT:2-2 | TO:1 PF:3 +/-:+1 | Normal
+    G3 | 2026-10-26 | @ UTAH | W 110-105 | Start | MIN:31 | PTS:13 | AST:4 | REB:7(0o/7d) | FG:4-12 | 3PT:1-6 | FT:4-4 | TO:1 PF:3 +/-:-9 | Normal
+    G4 | 2026-10-29 | @ POR | W 124-103 | Start | MIN:28 | PTS:18 | AST:12 | REB:12(2o/10d) | FG:6-10 | 3PT:4-5 | FT:2-2 | TO:2 PF:1 +/-:+20 | Blowout(+21)
+    G5 | 2026-10-31 | vs SAC | W 136-105 | Start | MIN:26 | PTS:27 | AST:3 | REB:9(3o/6d) | FG:8-14 | 3PT:3-7 | FT:8-8 | TO:7 PF:1 +/-:-9 | Blowout(+31)
+    G6 | 2026-11-02 | vs NO | L 134-135 (OT) | Start | MIN:38 | PTS:18 | AST:5 | REB:9(1o/8d) | FG:5-11 | 3PT:2-5 | FT:6-7 | TO:3 PF:5 +/-:-2 | OT, FoulTrbl(5PF)
+    G7 | 2026-11-04 | vs IND | L 103-107 | Start | MIN:33 | PTS:10 | AST:4 | REB:6(2o/4d) | FG:4-14 | 3PT:2-5 | FT:0-0 | TO:5 PF:0 +/-:-4 | Normal
+    G8 | 2026-11-06 | vs OKC | L 97-128 | Start | MIN:31 | PTS:8 | AST:4 | REB:12(3o/9d) | FG:2-14 | 3PT:0-8 | FT:4-4 | TO:2 PF:3 +/-:-30 | Blowout(-31)
+    G9 | 2026-11-09 | @ TOR | W 118-102 | Start | MIN:33 | PTS:22 | AST:8 | REB:7(3o/4d) | FG:9-16 | 3PT:0-5 | FT:4-5 | TO:6 PF:3 +/-:+17 | Blowout(+16)
+    G10 | 2026-11-11 | vs DEN | L 118-123 | Start | MIN:33 | PTS:13 | AST:5 | REB:11(3o/8d) | FG:5-13 | 3PT:2-7 | FT:1-2 | TO:2 PF:2 +/-:-2 | Normal
+
+>>> Cedric Coward (MEM - F) | Roles: Secondary Scoring/Matchup Candidate | Status: Available
+  Sample: L10 Window N=10 (Season 10/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=12.8 / L5=12.2 / Sea=12.8 | AST L10=2.7 / L5=3.0 / Sea=2.7 | REB L10=8.7 / L5=8.8 / Sea=8.7 (OREB=1.5/DREB=7.2)
+  Prior-Season Context (Separate): 13.6 PPG, 2.8 APG, 5.9 RPG, 25.8 MPG (62 GP w/ MEM)
+  Minutes: Mean=28.3 (L5=28.4), Med=28.0, Min=23.0, Max=33.0, SD=3.32 | 30+m=4/10, 35+m=0/10 | CloseMin=30.8, BlowoutMin=25.8
+  Consistency: PTS[Med=12.5, Min=3, Max=23, SD=5.55] | AST[Med=3.0, Min=0, Max=4, SD=1.35] | REB[Med=9.0, Min=6, Max=11, SD=1.79]
+  PTS Thresholds: 10+: 8/10 (80.0%, L5:4/5) | 15+: 5/10 (50.0%, L5:2/5) | 20+: 1/10 (10.0%, L5:1/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 6/10 (60.0%, L5:4/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 10/10 (100.0%, L5:5/5) | 7+: 9/10 (90.0%, L5:4/5) | 8+: 6/10 (60.0%, L5:4/5) | 10+: 3/10 (30.0%, L5:1/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=7, Floor90=7, Floor100=5
+  Chronological Game Log:
+    G1 | 2026-10-21 | vs UTAH | W 123-103 | Start | MIN:28 | PTS:7 | AST:2 | REB:7(0o/7d) | FG:3-6 | 3PT:1-2 | FT:0-0 | TO:0 PF:5 +/-:+23 | Blowout(+20), FoulTrbl(5PF)
+    G2 | 2026-10-25 | @ SAC | W 123-112 | Start | MIN:32 | PTS:17 | AST:1 | REB:11(3o/8d) | FG:7-13 | 3PT:3-5 | FT:0-0 | TO:2 PF:4 +/-:+12 | FoulTrbl(4PF)
+    G3 | 2026-10-26 | @ UTAH | W 110-105 | Start | MIN:31 | PTS:16 | AST:3 | REB:11(1o/10d) | FG:6-12 | 3PT:4-4 | FT:0-0 | TO:2 PF:5 +/-:+8 | FoulTrbl(5PF)
+    G4 | 2026-10-29 | @ POR | W 124-103 | Start | MIN:27 | PTS:17 | AST:4 | REB:7(1o/6d) | FG:7-14 | 3PT:3-5 | FT:0-0 | TO:2 PF:5 +/-:+16 | Blowout(+21), FoulTrbl(5PF)
+    G5 | 2026-10-31 | vs SAC | W 136-105 | Start | MIN:23 | PTS:10 | AST:2 | REB:7(0o/7d) | FG:3-8 | 3PT:2-5 | FT:2-2 | TO:1 PF:1 +/-:+21 | Blowout(+31)
+    G6 | 2026-11-02 | vs NO | L 134-135 (OT) | Start | MIN:31 | PTS:10 | AST:3 | REB:9(0o/9d) | FG:3-6 | 3PT:2-5 | FT:2-4 | TO:0 PF:4 +/-:+8 | OT, FoulTrbl(4PF)
+    G7 | 2026-11-04 | vs IND | L 103-107 | Start | MIN:33 | PTS:23 | AST:4 | REB:9(4o/5d) | FG:8-19 | 3PT:4-12 | FT:3-4 | TO:3 PF:0 +/-:-2 | Normal
+    G8 | 2026-11-06 | vs OKC | L 97-128 | Start | MIN:23 | PTS:10 | AST:0 | REB:9(3o/6d) | FG:4-9 | 3PT:2-5 | FT:0-0 | TO:4 PF:4 +/-:-9 | Blowout(-31), FoulTrbl(4PF)
+    G9 | 2026-11-09 | @ TOR | W 118-102 | Start | MIN:28 | PTS:3 | AST:4 | REB:6(0o/6d) | FG:1-6 | 3PT:1-4 | FT:0-0 | TO:0 PF:2 +/-:+19 | Blowout(+16)
+    G10 | 2026-11-11 | vs DEN | L 118-123 | Start | MIN:27 | PTS:15 | AST:4 | REB:11(3o/8d) | FG:5-12 | 3PT:1-4 | FT:4-4 | TO:1 PF:2 +/-:0 | Normal
+==========================================================
+TEAM NOP DETAILED KEY PLAYERS (MEM @ NOP)
+==========================================================
+
+>>> Zion Williamson (NOP - F) | Roles: Primary Scorer #1, Co-Primary/Replacement Rebounder | Status: Available
+  Sample: L10 Window N=10 (Season 11/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=21.7 / L5=23.0 / Sea=21.7 | AST L10=2.6 / L5=2.8 / Sea=2.6 | REB L10=5.4 / L5=6.2 / Sea=5.2 (OREB=1.7/DREB=3.7)
+  Prior-Season Context (Separate): 21.0 PPG, 3.2 APG, 5.7 RPG, 29.7 MPG (62 GP w/ NOP)
+  Minutes: Mean=32.9 (L5=34.0), Med=32.5, Min=30.0, Max=38.0, SD=2.55 | 30+m=10/10, 35+m=3/10 | CloseMin=34.3, BlowoutMin=30.3
+  Consistency: PTS[Med=23.0, Min=13, Max=29, SD=4.82] | AST[Med=2.0, Min=2, Max=4, SD=0.92] | REB[Med=5.0, Min=1, Max=11, SD=2.54]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 9/10 (90.0%, L5:4/5) | 20+: 7/10 (70.0%, L5:4/5) | 25+: 4/10 (40.0%, L5:3/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=15, Floor100=10
+  AST Thresholds: 3+: 3/10 (30.0%, L5:2/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 6/10 (60.0%, L5:2/5) | 7+: 2/10 (20.0%, L5:2/5) | 8+: 2/10 (20.0%, L5:2/5) | 10+: 1/10 (10.0%, L5:1/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | @ UTAH | L 119-120 | Start | MIN:33 | PTS:23 | AST:2 | REB:5(1o/4d) | FG:8-12 | 3PT:0-1 | FT:7-8 | TO:2 PF:5 +/-:+1 | FoulTrbl(5PF)
+    G2 | 2026-10-24 | @ DEN | L 135-141 (OT) | Start | MIN:33 | PTS:17 | AST:2 | REB:1(1o/0d) | FG:7-11 | 3PT:0-1 | FT:3-5 | TO:3 PF:5 +/-:-1 | OT, FoulTrbl(5PF)
+    G3 | 2026-10-28 | vs DEN | L 91-104 | Start | MIN:32 | PTS:25 | AST:2 | REB:5(2o/3d) | FG:10-14 | 3PT:1-1 | FT:4-6 | TO:1 PF:3 +/-:-15 | Normal
+    G4 | 2026-10-29 | vs SAC | W 132-120 | Start | MIN:31 | PTS:22 | AST:2 | REB:6(0o/6d) | FG:10-12 | 3PT:0-0 | FT:2-4 | TO:3 PF:0 +/-:+5 | Normal
+    G5 | 2026-10-31 | vs ATL | W 121-99 | Start | MIN:30 | PTS:15 | AST:4 | REB:6(3o/3d) | FG:5-8 | 3PT:0-0 | FT:5-8 | TO:3 PF:2 +/-:+22 | Blowout(+22)
+    G6 | 2026-11-02 | @ MEM | W 135-134 (OT) | Start | MIN:35 | PTS:25 | AST:4 | REB:11(4o/7d) | FG:9-15 | 3PT:0-0 | FT:7-9 | TO:0 PF:4 +/-:+3 | OT, FoulTrbl(4PF)
+    G7 | 2026-11-04 | vs UTAH | W 120-113 (OT) | Start | MIN:38 | PTS:23 | AST:2 | REB:4(2o/2d) | FG:6-14 | 3PT:0-0 | FT:11-13 | TO:2 PF:4 +/-:+7 | OT, FoulTrbl(4PF)
+    G8 | 2026-11-06 | vs MIN | L 109-115 | Start | MIN:36 | PTS:13 | AST:4 | REB:8(1o/7d) | FG:5-10 | 3PT:0-0 | FT:3-4 | TO:0 PF:2 +/-:-2 | Normal
+    G9 | 2026-11-08 | @ LAC | L 123-139 | Start | MIN:31 | PTS:25 | AST:2 | REB:4(1o/3d) | FG:9-9 | 3PT:0-0 | FT:7-9 | TO:2 PF:3 +/-:0 | Blowout(-16)
+    G10 | 2026-11-11 | vs BKN | L 111-145 | Start | MIN:30 | PTS:29 | AST:2 | REB:4(2o/2d) | FG:8-14 | 3PT:1-1 | FT:12-14 | TO:2 PF:4 +/-:-23 | Blowout(-34), FoulTrbl(4PF)
+
+>>> Trey Murphy III (NOP - F) | Roles: Primary Scorer #2 | Status: Day-To-Day (Not Specified Knee)
+  Sample: L10 Window N=9 (Season 9/12 GP, 9 Starts) | DNPs: []
+  Averages: PTS L10=15.6 / L5=17.6 / Sea=15.6 | AST L10=3.6 / L5=4.2 / Sea=3.6 | REB L10=4.8 / L5=5.2 / Sea=4.8 (OREB=1.0/DREB=3.8)
+  Prior-Season Context (Separate): 21.5 PPG, 3.8 APG, 5.7 RPG, 35.5 MPG (66 GP w/ NOP)
+  Minutes: Mean=32.8 (L5=33.0), Med=32.0, Min=29.0, Max=40.0, SD=3.42 | 30+m=8/9, 35+m=2/9 | CloseMin=34.3, BlowoutMin=29.5
+  Consistency: PTS[Med=15, Min=6, Max=26, SD=6.85] | AST[Med=3, Min=1, Max=5, SD=1.26] | REB[Med=5, Min=1, Max=7, SD=1.62]
+  PTS Thresholds: 10+: 7/9 (77.8%, L5:5/5) | 15+: 5/9 (55.6%, L5:4/5) | 20+: 2/9 (22.2%, L5:1/5) | 25+: 2/9 (22.2%, L5:1/5) | 30+: 0/9 (0.0%, L5:0/5) | 35+: 0/9 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 8/9 (88.9%, L5:5/5) | 5+: 3/9 (33.3%, L5:3/5) | 7+: 0/9 (0.0%, L5:0/5) | 8+: 0/9 (0.0%, L5:0/5) | 10+: 0/9 (0.0%, L5:0/5) | 12+: 0/9 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 6/9 (66.7%, L5:4/5) | 7+: 1/9 (11.1%, L5:1/5) | 8+: 0/9 (0.0%, L5:0/5) | 10+: 0/9 (0.0%, L5:0/5) | 12+: 0/9 (0.0%, L5:0/5) | 15+: 0/9 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | vs IND | L 120-123 | Start | MIN:32 | PTS:11 | AST:1 | REB:4(0o/4d) | FG:4-11 | 3PT:2-5 | FT:1-1 | TO:0 PF:2 +/-:-8 | Normal
+    G2 | 2026-10-23 | @ UTAH | L 119-120 | Start | MIN:31 | PTS:9 | AST:3 | REB:6(1o/5d) | FG:4-9 | 3PT:1-4 | FT:0-0 | TO:2 PF:4 +/-:+1 | FoulTrbl(4PF)
+    G3 | 2026-10-24 | @ DEN | L 135-141 (OT) | Start | MIN:37 | PTS:26 | AST:4 | REB:6(3o/3d) | FG:10-17 | 3PT:4-8 | FT:2-2 | TO:4 PF:2 +/-:-17 | OT
+    G4 | 2026-10-28 | vs DEN | L 91-104 | Start | MIN:30 | PTS:6 | AST:3 | REB:1(0o/1d) | FG:2-7 | 3PT:2-7 | FT:0-1 | TO:2 PF:3 +/-:-12 | Normal
+    G5 | 2026-10-29 | vs SAC | W 132-120 | Start | MIN:32 | PTS:19 | AST:3 | REB:5(1o/4d) | FG:6-12 | 3PT:2-7 | FT:5-8 | TO:0 PF:2 +/-:+4 | Normal
+    G6 | 2026-10-31 | vs ATL | W 121-99 | Start | MIN:29 | PTS:15 | AST:5 | REB:5(0o/5d) | FG:4-10 | 3PT:1-3 | FT:6-6 | TO:2 PF:2 +/-:+24 | Blowout(+22)
+    G7 | 2026-11-02 | @ MEM | W 135-134 (OT) | Start | MIN:40 | PTS:18 | AST:5 | REB:5(1o/4d) | FG:5-11 | 3PT:3-5 | FT:5-5 | TO:0 PF:1 +/-:-4 | OT
+    G8 | 2026-11-06 | vs MIN | L 109-115 | Start | MIN:34 | PTS:10 | AST:5 | REB:4(1o/3d) | FG:3-7 | 3PT:1-5 | FT:3-3 | TO:2 PF:3 +/-:-1 | Normal
+    G9 | 2026-11-08 | @ LAC | L 123-139 | Start | MIN:30 | PTS:26 | AST:3 | REB:7(2o/5d) | FG:9-17 | 3PT:4-9 | FT:4-4 | TO:3 PF:4 +/-:-10 | Blowout(-16), FoulTrbl(4PF)
+
+>>> Jeremiah Fears (NOP - G) | Roles: Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=16.8 / L5=18.6 / Sea=15.2 | AST L10=5.7 / L5=5.0 / Sea=4.9 | REB L10=5.1 / L5=4.8 / Sea=4.5 (OREB=1.2/DREB=3.9)
+  Prior-Season Context (Separate): 14.3 PPG, 3.4 APG, 3.7 RPG, 25.8 MPG (82 GP w/ NOP)
+  Minutes: Mean=30.1 (L5=31.2), Med=29.0, Min=23.0, Max=38.0, SD=4.57 | 30+m=4/10, 35+m=2/10 | CloseMin=32.0, BlowoutMin=29.2
+  Consistency: PTS[Med=16.5, Min=10, Max=25, SD=5.53] | AST[Med=5.0, Min=2, Max=13, SD=3.13] | REB[Med=5.0, Min=3, Max=8, SD=1.37]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 5/10 (50.0%, L5:3/5) | 20+: 4/10 (40.0%, L5:2/5) | 25+: 1/10 (10.0%, L5:1/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=10
+  AST Thresholds: 3+: 8/10 (80.0%, L5:4/5) | 5+: 7/10 (70.0%, L5:4/5) | 7+: 4/10 (40.0%, L5:1/5) | 8+: 2/10 (20.0%, L5:1/5) | 10+: 1/10 (10.0%, L5:0/5) | 12+: 1/10 (10.0%, L5:0/5) --> Floor80=3, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 6/10 (60.0%, L5:3/5) | 7+: 1/10 (10.0%, L5:0/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-24 | @ DEN | L 135-141 (OT) | Start | MIN:23 | PTS:10 | AST:2 | REB:6(2o/4d) | FG:4-12 | 3PT:0-2 | FT:2-2 | TO:3 PF:3 +/-:+8 | OT
+    G2 | 2026-10-28 | vs DEN | L 91-104 | Start | MIN:24 | PTS:11 | AST:3 | REB:4(2o/2d) | FG:5-14 | 3PT:1-5 | FT:0-0 | TO:3 PF:3 +/-:-8 | Normal
+    G3 | 2026-10-29 | vs SAC | W 132-120 | Start | MIN:29 | PTS:22 | AST:13 | REB:8(1o/7d) | FG:9-16 | 3PT:3-5 | FT:1-3 | TO:3 PF:2 +/-:+3 | Normal
+    G4 | 2026-10-31 | vs ATL | W 121-99 | Start | MIN:31 | PTS:20 | AST:7 | REB:5(0o/5d) | FG:9-12 | 3PT:1-2 | FT:1-2 | TO:3 PF:3 +/-:+21 | Blowout(+22)
+    G5 | 2026-11-02 | @ MEM | W 135-134 (OT) | Start | MIN:38 | PTS:12 | AST:7 | REB:4(2o/2d) | FG:5-17 | 3PT:0-6 | FT:2-2 | TO:4 PF:5 +/-:-1 | OT, FoulTrbl(5PF)
+    G6 | 2026-11-04 | vs UTAH | W 120-113 (OT) | Start | MIN:34 | PTS:19 | AST:2 | REB:6(2o/4d) | FG:6-16 | 3PT:1-4 | FT:6-6 | TO:2 PF:4 +/-:-2 | OT, FoulTrbl(4PF)
+    G7 | 2026-11-06 | vs MIN | L 109-115 | Start | MIN:36 | PTS:24 | AST:5 | REB:5(3o/2d) | FG:9-16 | 3PT:0-1 | FT:6-7 | TO:2 PF:1 +/-:-3 | Normal
+    G8 | 2026-11-08 | @ LAC | L 123-139 | Start | MIN:29 | PTS:25 | AST:5 | REB:6(0o/6d) | FG:10-14 | 3PT:3-5 | FT:2-4 | TO:2 PF:4 +/-:-1 | Blowout(-16), FoulTrbl(4PF)
+    G9 | 2026-11-09 | @ GS | L 87-138 | Start | MIN:29 | PTS:11 | AST:8 | REB:3(0o/3d) | FG:4-12 | 3PT:1-5 | FT:2-2 | TO:6 PF:2 +/-:-33 | Blowout(-51)
+    G10 | 2026-11-11 | vs BKN | L 111-145 | Start | MIN:28 | PTS:14 | AST:5 | REB:4(0o/4d) | FG:6-12 | 3PT:2-3 | FT:0-0 | TO:4 PF:3 +/-:-21 | Blowout(-34)
+
+>>> Derik Queen (NOP - C) | Roles: Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 0 Starts) | DNPs: []
+  Averages: PTS L10=12.4 / L5=11.8 / Sea=12.2 | AST L10=2.5 / L5=2.0 / Sea=2.3 | REB L10=5.9 / L5=4.4 / Sea=6.3 (OREB=1.2/DREB=4.7)
+  Prior-Season Context (Separate): 11.7 PPG, 3.7 APG, 7.1 RPG, 25.0 MPG (81 GP w/ NOP)
+  Minutes: Mean=21.2 (L5=18.6), Med=22.5, Min=10.0, Max=27.0, SD=5.02 | 30+m=0/10, 35+m=0/10 | CloseMin=21.6, BlowoutMin=19.8
+  Consistency: PTS[Med=10.0, Min=6, Max=20, SD=5.04] | AST[Med=2.5, Min=0, Max=6, SD=1.96] | REB[Med=6.0, Min=0, Max=12, SD=3.39]
+  PTS Thresholds: 10+: 5/10 (50.0%, L5:2/5) | 15+: 4/10 (40.0%, L5:2/5) | 20+: 2/10 (20.0%, L5:1/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 5/10 (50.0%, L5:2/5) | 5+: 2/10 (20.0%, L5:1/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 6/10 (60.0%, L5:2/5) | 7+: 5/10 (50.0%, L5:1/5) | 8+: 4/10 (40.0%, L5:1/5) | 10+: 1/10 (10.0%, L5:0/5) | 12+: 1/10 (10.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-24 | @ DEN | L 135-141 (OT) | Bench | MIN:25 | PTS:17 | AST:2 | REB:8(2o/6d) | FG:6-10 | 3PT:0-1 | FT:5-5 | TO:0 PF:3 +/-:+2 | OT
+    G2 | 2026-10-28 | vs DEN | L 91-104 | Bench | MIN:25 | PTS:11 | AST:1 | REB:12(1o/11d) | FG:3-6 | 3PT:0-0 | FT:5-7 | TO:5 PF:3 +/-:-5 | Normal
+    G3 | 2026-10-29 | vs SAC | W 132-120 | Bench | MIN:22 | PTS:9 | AST:3 | REB:2(0o/2d) | FG:4-7 | 3PT:1-2 | FT:0-0 | TO:4 PF:0 +/-:+8 | Normal
+    G4 | 2026-10-31 | vs ATL | W 121-99 | Bench | MIN:23 | PTS:8 | AST:4 | REB:8(2o/6d) | FG:3-6 | 3PT:0-0 | FT:2-2 | TO:3 PF:1 +/-:+9 | Blowout(+22)
+    G5 | 2026-11-02 | @ MEM | W 135-134 (OT) | Bench | MIN:24 | PTS:20 | AST:5 | REB:7(1o/6d) | FG:7-13 | 3PT:1-2 | FT:5-6 | TO:1 PF:3 +/-:-6 | OT
+    G6 | 2026-11-04 | vs UTAH | W 120-113 (OT) | Bench | MIN:27 | PTS:20 | AST:6 | REB:9(3o/6d) | FG:8-21 | 3PT:0-2 | FT:4-4 | TO:2 PF:2 +/-:+2 | OT
+    G7 | 2026-11-06 | vs MIN | L 109-115 | Bench | MIN:10 | PTS:6 | AST:1 | REB:4(1o/3d) | FG:2-4 | 3PT:0-0 | FT:2-4 | TO:4 PF:2 +/-:-2 | Normal
+    G8 | 2026-11-08 | @ LAC | L 123-139 | Bench | MIN:21 | PTS:8 | AST:3 | REB:5(2o/3d) | FG:1-5 | 3PT:0-0 | FT:6-6 | TO:4 PF:2 +/-:-14 | Blowout(-16)
+    G9 | 2026-11-09 | @ GS | L 87-138 | Bench | MIN:21 | PTS:16 | AST:0 | REB:4(0o/4d) | FG:4-8 | 3PT:0-1 | FT:8-10 | TO:1 PF:2 +/-:-30 | Blowout(-51)
+    G10 | 2026-11-11 | vs BKN | L 111-145 | Bench | MIN:14 | PTS:9 | AST:0 | REB:0(0o/0d) | FG:2-3 | 3PT:1-1 | FT:4-4 | TO:1 PF:3 +/-:-22 | Blowout(-34)
+==========================================================
+TEAM UTA DETAILED KEY PLAYERS (UTA @ HOU)
+==========================================================
+
+>>> Keyonte George (UTA - G) | Roles: Primary Scorer #1, Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 11/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=20.2 / L5=18.8 / Sea=20.4 | AST L10=6.6 / L5=6.6 / Sea=6.5 | REB L10=4.7 / L5=5.4 / Sea=4.5 (OREB=0.2/DREB=4.5)
+  Prior-Season Context (Separate): 23.6 PPG, 6.1 APG, 3.7 RPG, 33.1 MPG (54 GP w/ UTA)
+  Minutes: Mean=32.5 (L5=32.2), Med=32.5, Min=22.0, Max=44.0, SD=5.32 | 30+m=8/10, 35+m=2/10 | CloseMin=35.2, BlowoutMin=28.5
+  Consistency: PTS[Med=19.0, Min=7, Max=39, SD=9.56] | AST[Med=7.5, Min=0, Max=10, SD=3.17] | REB[Med=4.5, Min=1, Max=9, SD=2.41]
+  PTS Thresholds: 10+: 8/10 (80.0%, L5:4/5) | 15+: 7/10 (70.0%, L5:3/5) | 20+: 4/10 (40.0%, L5:1/5) | 25+: 3/10 (30.0%, L5:1/5) | 30+: 2/10 (20.0%, L5:1/5) | 35+: 1/10 (10.0%, L5:1/5) --> Floor80=10, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 9/10 (90.0%, L5:4/5) | 5+: 7/10 (70.0%, L5:4/5) | 7+: 6/10 (60.0%, L5:4/5) | 8+: 5/10 (50.0%, L5:3/5) | 10+: 2/10 (20.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 5/10 (50.0%, L5:4/5) | 7+: 3/10 (30.0%, L5:2/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | vs NO | W 120-119 | Start | MIN:32 | PTS:19 | AST:10 | REB:1(0o/1d) | FG:6-12 | 3PT:3-7 | FT:4-6 | TO:6 PF:2 +/-:-1 | Normal
+    G2 | 2026-10-25 | vs LAL | L 123-132 | Start | MIN:33 | PTS:24 | AST:10 | REB:9(0o/9d) | FG:7-13 | 3PT:2-6 | FT:8-10 | TO:6 PF:4 +/-:-12 | FoulTrbl(4PF)
+    G3 | 2026-10-26 | vs MEM | L 105-110 | Start | MIN:33 | PTS:26 | AST:6 | REB:3(1o/2d) | FG:9-17 | 3PT:0-3 | FT:8-9 | TO:2 PF:4 +/-:+9 | FoulTrbl(4PF)
+    G4 | 2026-10-28 | vs SA | L 111-117 (OT) | Start | MIN:37 | PTS:31 | AST:3 | REB:4(0o/4d) | FG:11-27 | 3PT:5-12 | FT:4-4 | TO:5 PF:2 +/-:-5 | OT
+    G5 | 2026-10-31 | vs POR | L 90-112 | Start | MIN:29 | PTS:8 | AST:4 | REB:3(0o/3d) | FG:2-10 | 3PT:0-4 | FT:4-4 | TO:3 PF:3 +/-:-10 | Blowout(-22)
+    G6 | 2026-11-02 | @ SA | L 97-119 | Start | MIN:22 | PTS:7 | AST:0 | REB:7(1o/6d) | FG:3-12 | 3PT:1-5 | FT:0-0 | TO:3 PF:0 +/-:-30 | Blowout(-22)
+    G7 | 2026-11-04 | @ NO | L 113-120 (OT) | Start | MIN:44 | PTS:39 | AST:9 | REB:2(0o/2d) | FG:14-27 | 3PT:2-9 | FT:9-13 | TO:3 PF:3 +/-:0 | OT
+    G8 | 2026-11-06 | @ DAL | L 100-112 | Start | MIN:32 | PTS:16 | AST:9 | REB:6(0o/6d) | FG:6-13 | 3PT:1-4 | FT:3-4 | TO:5 PF:3 +/-:-10 | Normal
+    G9 | 2026-11-08 | @ MIN | L 100-115 | Start | MIN:30 | PTS:19 | AST:8 | REB:5(0o/5d) | FG:5-13 | 3PT:0-3 | FT:9-10 | TO:2 PF:2 +/-:-12 | Blowout(-15)
+    G10 | 2026-11-11 | vs ORL | L 108-123 | Start | MIN:33 | PTS:13 | AST:7 | REB:7(0o/7d) | FG:3-13 | 3PT:2-8 | FT:5-5 | TO:3 PF:3 +/-:-3 | Blowout(-15)
+
+>>> Lauri Markkanen (UTA - F) | Roles: Primary Scorer #2, Primary Rebound Leader | Status: Out (Right Hand)
+  Sample: L10 Window N=8 (Season 8/12 GP, 8 Starts) | DNPs: []
+  Averages: PTS L10=18.0 / L5=16.4 / Sea=18.0 | AST L10=2.0 / L5=1.8 / Sea=2.0 | REB L10=6.8 / L5=6.4 / Sea=6.8 (OREB=1.5/DREB=5.2)
+  Prior-Season Context (Separate): 26.7 PPG, 2.1 APG, 6.9 RPG, 34.4 MPG (42 GP w/ UTA)
+  Minutes: Mean=30.9 (L5=27.8), Med=34.0, Min=6.0, Max=39.0, SD=9.91 | 30+m=6/8, 35+m=3/8 | CloseMin=30.2, BlowoutMin=32.0
+  Consistency: PTS[Med=19.5, Min=2, Max=28, SD=7.47] | AST[Med=2.0, Min=0, Max=4, SD=1.32] | REB[Med=7.5, Min=0, Max=10, SD=2.86]
+  PTS Thresholds: 10+: 7/8 (87.5%, L5:4/5) | 15+: 6/8 (75.0%, L5:3/5) | 20+: 4/8 (50.0%, L5:3/5) | 25+: 1/8 (12.5%, L5:0/5) | 30+: 0/8 (0.0%, L5:0/5) | 35+: 0/8 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 4/8 (50.0%, L5:2/5) | 5+: 0/8 (0.0%, L5:0/5) | 7+: 0/8 (0.0%, L5:0/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 7/8 (87.5%, L5:4/5) | 7+: 5/8 (62.5%, L5:3/5) | 8+: 4/8 (50.0%, L5:3/5) | 10+: 1/8 (12.5%, L5:1/5) | 12+: 0/8 (0.0%, L5:0/5) | 15+: 0/8 (0.0%, L5:0/5) --> Floor80=5, Floor90=5, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ MEM | L 103-123 | Start | MIN:36 | PTS:18 | AST:3 | REB:9(0o/9d) | FG:4-13 | 3PT:1-7 | FT:9-10 | TO:3 PF:1 +/-:-2 | Blowout(-20)
+    G2 | 2026-10-23 | vs NO | W 120-119 | Start | MIN:34 | PTS:16 | AST:3 | REB:6(2o/4d) | FG:6-13 | 3PT:4-9 | FT:0-0 | TO:1 PF:0 +/-:-6 | Normal
+    G3 | 2026-10-25 | vs LAL | L 123-132 | Start | MIN:38 | PTS:28 | AST:1 | REB:7(4o/3d) | FG:9-20 | 3PT:5-11 | FT:5-6 | TO:1 PF:2 +/-:-6 | Normal
+    G4 | 2026-10-26 | vs MEM | L 105-110 | Start | MIN:6 | PTS:2 | AST:0 | REB:0(0o/0d) | FG:0-2 | 3PT:0-1 | FT:2-2 | TO:0 PF:0 +/-:+2 | ShortMin(6)
+    G5 | 2026-10-31 | vs POR | L 90-112 | Start | MIN:29 | PTS:13 | AST:1 | REB:6(0o/6d) | FG:3-14 | 3PT:2-11 | FT:5-6 | TO:2 PF:6 +/-:-17 | Blowout(-22), FoulTrbl(6PF)
+    G6 | 2026-11-02 | @ SA | L 97-119 | Start | MIN:31 | PTS:22 | AST:3 | REB:8(3o/5d) | FG:8-16 | 3PT:4-7 | FT:2-2 | TO:0 PF:2 +/-:-23 | Blowout(-22)
+    G7 | 2026-11-04 | @ NO | L 113-120 (OT) | Start | MIN:39 | PTS:21 | AST:4 | REB:10(2o/8d) | FG:6-15 | 3PT:5-12 | FT:4-6 | TO:3 PF:4 +/-:-11 | OT, FoulTrbl(4PF)
+    G8 | 2026-11-06 | @ DAL | L 100-112 | Start | MIN:34 | PTS:24 | AST:1 | REB:8(1o/7d) | FG:8-20 | 3PT:8-15 | FT:0-0 | TO:2 PF:3 +/-:-15 | Normal
+
+>>> Jaren Jackson Jr. (UTA - F) | Roles: Replacement/Active Scorer, Secondary Scoring/Matchup Candidate | Status: Out (Right Knee)
+  Sample: L10 Window N=4 (Season 4/12 GP, 4 Starts) | DNPs: []
+  Averages: PTS L10=16.2 / L5=16.2 / Sea=16.2 | AST L10=2.0 / L5=2.0 / Sea=2.0 | REB L10=5.0 / L5=5.0 / Sea=5.0 (OREB=1.0/DREB=4.0)
+  Prior-Season Context (Separate): 19.4 PPG, 2.0 APG, 5.7 RPG, 30.3 MPG (48 GP w/ 2TM)
+  Minutes: Mean=26.0 (L5=26.0), Med=30.5, Min=10.0, Max=33.0, SD=9.46 | 30+m=2/4, 35+m=0/4 | CloseMin=25.3, BlowoutMin=28.0
+  Consistency: PTS[Med=17.5, Min=6, Max=24, SD=6.72] | AST[Med=2.0, Min=1, Max=3, SD=0.71] | REB[Med=4.0, Min=2, Max=10, SD=3.08]
+  PTS Thresholds: 10+: 3/4 (75.0%, L5:3/4) | 15+: 3/4 (75.0%, L5:3/4) | 20+: 2/4 (50.0%, L5:2/4) | 25+: 0/4 (0.0%, L5:0/4) | 30+: 0/4 (0.0%, L5:0/4) | 35+: 0/4 (0.0%, L5:0/4) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 1/4 (25.0%, L5:1/4) | 5+: 0/4 (0.0%, L5:0/4) | 7+: 0/4 (0.0%, L5:0/4) | 8+: 0/4 (0.0%, L5:0/4) | 10+: 0/4 (0.0%, L5:0/4) | 12+: 0/4 (0.0%, L5:0/4) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 2/4 (50.0%, L5:2/4) | 7+: 1/4 (25.0%, L5:1/4) | 8+: 1/4 (25.0%, L5:1/4) | 10+: 1/4 (25.0%, L5:1/4) | 12+: 0/4 (0.0%, L5:0/4) | 15+: 0/4 (0.0%, L5:0/4) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ MEM | L 103-123 | Start | MIN:28 | PTS:15 | AST:2 | REB:5(0o/5d) | FG:6-10 | 3PT:2-4 | FT:1-2 | TO:5 PF:6 +/-:-17 | Blowout(-20), FoulTrbl(6PF)
+    G2 | 2026-10-23 | vs NO | W 120-119 | Start | MIN:33 | PTS:24 | AST:3 | REB:10(4o/6d) | FG:7-15 | 3PT:2-4 | FT:8-10 | TO:3 PF:4 +/-:-5 | FoulTrbl(4PF)
+    G3 | 2026-10-25 | vs LAL | L 123-132 | Start | MIN:33 | PTS:20 | AST:1 | REB:2(0o/2d) | FG:7-14 | 3PT:1-4 | FT:5-6 | TO:4 PF:5 +/-:-11 | FoulTrbl(5PF)
+    G4 | 2026-10-26 | vs MEM | L 105-110 | Start | MIN:10 | PTS:6 | AST:2 | REB:3(0o/3d) | FG:2-5 | 3PT:0-2 | FT:2-3 | TO:0 PF:1 +/-:-4 | ShortMin(10)
+
+>>> Ace Bailey (UTA - G) | Roles: Co-Primary/Replacement Rebounder | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=14.2 / L5=15.0 / Sea=13.3 | AST L10=1.8 / L5=1.6 / Sea=1.9 | REB L10=6.7 / L5=5.2 / Sea=6.6 (OREB=1.9/DREB=4.8)
+  Prior-Season Context (Separate): 13.8 PPG, 1.8 APG, 4.2 RPG, 27.6 MPG (72 GP w/ UTA)
+  Minutes: Mean=32.6 (L5=32.4), Med=33.0, Min=24.0, Max=40.0, SD=4.36 | 30+m=7/10, 35+m=4/10 | CloseMin=33.7, BlowoutMin=31.0
+  Consistency: PTS[Med=16.0, Min=5, Max=23, SD=5.47] | AST[Med=2.0, Min=0, Max=4, SD=1.25] | REB[Med=6.5, Min=2, Max=12, SD=2.61]
+  PTS Thresholds: 10+: 7/10 (70.0%, L5:4/5) | 15+: 6/10 (60.0%, L5:3/5) | 20+: 1/10 (10.0%, L5:1/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 3/10 (30.0%, L5:1/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 9/10 (90.0%, L5:4/5) | 7+: 5/10 (50.0%, L5:2/5) | 8+: 2/10 (20.0%, L5:0/5) | 10+: 2/10 (20.0%, L5:0/5) | 12+: 1/10 (10.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=5, Floor90=5, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-25 | vs LAL | L 123-132 | Start | MIN:29 | PTS:17 | AST:4 | REB:12(6o/6d) | FG:8-11 | 3PT:1-2 | FT:0-0 | TO:2 PF:1 +/-:-3 | Normal
+    G2 | 2026-10-26 | vs MEM | L 105-110 | Start | MIN:34 | PTS:17 | AST:3 | REB:10(4o/6d) | FG:6-10 | 3PT:3-6 | FT:2-2 | TO:1 PF:2 +/-:+11 | Normal
+    G3 | 2026-10-28 | vs SA | L 111-117 (OT) | Start | MIN:40 | PTS:19 | AST:0 | REB:6(2o/4d) | FG:9-18 | 3PT:1-6 | FT:0-0 | TO:3 PF:2 +/-:-6 | OT
+    G4 | 2026-10-31 | vs POR | L 90-112 | Start | MIN:37 | PTS:9 | AST:1 | REB:7(0o/7d) | FG:4-10 | 3PT:1-6 | FT:0-0 | TO:3 PF:2 +/-:-16 | Blowout(-22)
+    G5 | 2026-11-02 | @ SA | L 97-119 | Start | MIN:24 | PTS:5 | AST:2 | REB:6(1o/5d) | FG:2-11 | 3PT:1-5 | FT:0-0 | TO:0 PF:1 +/-:-26 | Blowout(-22)
+    G6 | 2026-11-04 | @ NO | L 113-120 (OT) | Start | MIN:35 | PTS:15 | AST:1 | REB:5(1o/4d) | FG:6-14 | 3PT:1-9 | FT:2-3 | TO:3 PF:6 +/-:0 | OT, FoulTrbl(6PF)
+    G7 | 2026-11-06 | @ DAL | L 100-112 | Start | MIN:29 | PTS:12 | AST:0 | REB:5(2o/3d) | FG:6-11 | 3PT:0-4 | FT:0-0 | TO:3 PF:2 +/-:-5 | Normal
+    G8 | 2026-11-08 | @ MIN | L 100-115 | Start | MIN:32 | PTS:7 | AST:3 | REB:2(1o/1d) | FG:3-9 | 3PT:1-4 | FT:0-0 | TO:2 PF:4 +/-:-8 | Blowout(-15), FoulTrbl(4PF)
+    G9 | 2026-11-10 | vs MIA | L 109-115 | Start | MIN:35 | PTS:23 | AST:2 | REB:7(0o/7d) | FG:10-15 | 3PT:3-5 | FT:0-0 | TO:2 PF:4 +/-:-3 | FoulTrbl(4PF)
+    G10 | 2026-11-11 | vs ORL | L 108-123 | Start | MIN:31 | PTS:18 | AST:2 | REB:7(2o/5d) | FG:6-17 | 3PT:3-11 | FT:3-4 | TO:2 PF:1 +/-:-9 | Blowout(-15)
+==========================================================
+TEAM HOU DETAILED KEY PLAYERS (UTA @ HOU)
+==========================================================
+
+>>> Alperen Sengun (HOU - C) | Roles: Primary Scorer #1, Primary Assist Leader, Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 10/12 GP, 10 Starts) | DNPs: [('2026-10-28', 'MIL', 'LOW BACK SORENESS'), ('2026-10-30', 'DAL', 'LOW BACK SORENESS')]
+  Averages: PTS L10=21.1 / L5=19.4 / Sea=21.1 | AST L10=7.9 / L5=8.4 / Sea=7.9 | REB L10=9.4 / L5=9.8 / Sea=9.4 (OREB=3.1/DREB=6.3)
+  Prior-Season Context (Separate): 20.4 PPG, 6.2 APG, 8.9 RPG, 33.3 MPG (72 GP w/ HOU)
+  Minutes: Mean=35.0 (L5=36.2), Med=35.5, Min=30.0, Max=39.0, SD=2.76 | 30+m=10/10, 35+m=6/10 | CloseMin=35.6, BlowoutMin=33.7
+  Consistency: PTS[Med=19.5, Min=15, Max=29, SD=5.05] | AST[Med=8.5, Min=5, Max=10, SD=1.76] | REB[Med=9.5, Min=6, Max=13, SD=2.15]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 10/10 (100.0%, L5:5/5) | 20+: 5/10 (50.0%, L5:2/5) | 25+: 3/10 (30.0%, L5:1/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=15, Floor100=15
+  AST Thresholds: 3+: 10/10 (100.0%, L5:5/5) | 5+: 10/10 (100.0%, L5:5/5) | 7+: 8/10 (80.0%, L5:4/5) | 8+: 6/10 (60.0%, L5:4/5) | 10+: 2/10 (20.0%, L5:2/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=7, Floor90=5, Floor100=5
+  REB Thresholds: 5+: 10/10 (100.0%, L5:5/5) | 7+: 9/10 (90.0%, L5:4/5) | 8+: 7/10 (70.0%, L5:3/5) | 10+: 5/10 (50.0%, L5:3/5) | 12+: 2/10 (20.0%, L5:2/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=7, Floor90=7, Floor100=5
+  Chronological Game Log:
+    G1 | 2026-10-21 | vs DAL | W 128-110 | Start | MIN:30 | PTS:23 | AST:5 | REB:10(5o/5d) | FG:9-15 | 3PT:2-2 | FT:3-4 | TO:4 PF:4 +/-:+23 | Blowout(+18), FoulTrbl(4PF)
+    G2 | 2026-10-23 | @ SA | W 114-110 | Start | MIN:36 | PTS:29 | AST:7 | REB:7(1o/6d) | FG:10-20 | 3PT:2-4 | FT:7-8 | TO:3 PF:2 +/-:+6 | Normal
+    G3 | 2026-10-24 | @ ATL | W 121-114 | Start | MIN:33 | PTS:17 | AST:7 | REB:10(0o/10d) | FG:6-12 | 3PT:1-2 | FT:4-6 | TO:3 PF:2 +/-:+13 | Normal
+    G4 | 2026-10-26 | vs ATL | W 120-110 | Start | MIN:37 | PTS:29 | AST:9 | REB:9(5o/4d) | FG:11-15 | 3PT:1-1 | FT:6-8 | TO:6 PF:4 +/-:+29 | FoulTrbl(4PF)
+    G5 | 2026-10-31 | vs OKC | W 119-98 | Start | MIN:33 | PTS:16 | AST:9 | REB:9(4o/5d) | FG:6-17 | 3PT:0-2 | FT:4-6 | TO:2 PF:4 +/-:+19 | Blowout(+21), FoulTrbl(4PF)
+    G6 | 2026-11-02 | vs BOS | W 109-93 | Start | MIN:38 | PTS:26 | AST:10 | REB:7(3o/4d) | FG:12-15 | 3PT:1-2 | FT:1-2 | TO:1 PF:4 +/-:+21 | Blowout(+16), FoulTrbl(4PF)
+    G7 | 2026-11-04 | vs MIN | L 107-117 | Start | MIN:39 | PTS:17 | AST:10 | REB:12(3o/9d) | FG:5-15 | 3PT:0-1 | FT:7-9 | TO:5 PF:3 +/-:-7 | Normal
+    G8 | 2026-11-07 | @ PHX | L 99-102 | Start | MIN:32 | PTS:15 | AST:5 | REB:6(1o/5d) | FG:5-16 | 3PT:1-2 | FT:4-4 | TO:2 PF:2 +/-:-16 | Normal
+    G9 | 2026-11-09 | vs DEN | W 110-100 | Start | MIN:35 | PTS:20 | AST:8 | REB:11(5o/6d) | FG:9-17 | 3PT:1-3 | FT:1-3 | TO:2 PF:4 +/-:-3 | FoulTrbl(4PF)
+    G10 | 2026-11-11 | vs GS | W 115-108 | Start | MIN:37 | PTS:19 | AST:9 | REB:13(4o/9d) | FG:8-14 | 3PT:1-2 | FT:2-4 | TO:2 PF:4 +/-:+11 | FoulTrbl(4PF)
+
+>>> Kevin Durant (HOU - F) | Roles: Primary Scorer #2 | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=20.1 / L5=19.4 / Sea=20.9 | AST L10=3.5 / L5=4.2 / Sea=3.6 | REB L10=6.0 / L5=6.8 / Sea=6.1 (OREB=0.3/DREB=5.7)
+  Prior-Season Context (Separate): 26.0 PPG, 4.8 APG, 5.5 RPG, 36.4 MPG (78 GP w/ HOU)
+  Minutes: Mean=33.8 (L5=35.2), Med=34.5, Min=27.0, Max=38.0, SD=3.37 | 30+m=9/10, 35+m=5/10 | CloseMin=35.3, BlowoutMin=30.3
+  Consistency: PTS[Med=21.0, Min=12, Max=28, SD=4.32] | AST[Med=3.0, Min=1, Max=8, SD=1.86] | REB[Med=5.0, Min=3, Max=12, SD=3.0]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 8/10 (80.0%, L5:4/5) | 20+: 7/10 (70.0%, L5:4/5) | 25+: 1/10 (10.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=10, Floor100=10
+  AST Thresholds: 3+: 7/10 (70.0%, L5:4/5) | 5+: 2/10 (20.0%, L5:2/5) | 7+: 1/10 (10.0%, L5:1/5) | 8+: 1/10 (10.0%, L5:1/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 6/10 (60.0%, L5:3/5) | 7+: 3/10 (30.0%, L5:2/5) | 8+: 3/10 (30.0%, L5:2/5) | 10+: 2/10 (20.0%, L5:2/5) | 12+: 1/10 (10.0%, L5:1/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-24 | @ ATL | W 121-114 | Start | MIN:37 | PTS:22 | AST:2 | REB:4(0o/4d) | FG:8-15 | 3PT:3-7 | FT:3-3 | TO:2 PF:3 +/-:+19 | Normal
+    G2 | 2026-10-26 | vs ATL | W 120-110 | Start | MIN:30 | PTS:22 | AST:3 | REB:9(0o/9d) | FG:6-13 | 3PT:1-4 | FT:9-10 | TO:4 PF:4 +/-:+9 | FoulTrbl(4PF)
+    G3 | 2026-10-28 | @ MIL | W 132-100 | Start | MIN:31 | PTS:18 | AST:4 | REB:5(1o/4d) | FG:5-9 | 3PT:2-3 | FT:6-7 | TO:3 PF:1 +/-:+6 | Blowout(+32)
+    G4 | 2026-10-30 | @ DAL | L 111-116 | Start | MIN:37 | PTS:28 | AST:1 | REB:5(1o/4d) | FG:9-20 | 3PT:1-6 | FT:9-13 | TO:3 PF:2 +/-:+8 | Normal
+    G5 | 2026-10-31 | vs OKC | W 119-98 | Start | MIN:27 | PTS:14 | AST:4 | REB:3(0o/3d) | FG:4-9 | 3PT:0-1 | FT:6-6 | TO:1 PF:1 +/-:+6 | Blowout(+21)
+    G6 | 2026-11-02 | vs BOS | W 109-93 | Start | MIN:33 | PTS:12 | AST:3 | REB:3(0o/3d) | FG:5-6 | 3PT:0-0 | FT:2-3 | TO:4 PF:2 +/-:+10 | Blowout(+16)
+    G7 | 2026-11-04 | vs MIN | L 107-117 | Start | MIN:35 | PTS:21 | AST:2 | REB:5(1o/4d) | FG:7-14 | 3PT:2-5 | FT:5-6 | TO:5 PF:3 +/-:-6 | Normal
+    G8 | 2026-11-07 | @ PHX | L 99-102 | Start | MIN:38 | PTS:21 | AST:3 | REB:10(0o/10d) | FG:5-14 | 3PT:1-7 | FT:10-11 | TO:2 PF:0 +/-:+8 | Normal
+    G9 | 2026-11-09 | vs DEN | W 110-100 | Start | MIN:36 | PTS:23 | AST:8 | REB:12(0o/12d) | FG:6-15 | 3PT:1-3 | FT:10-10 | TO:6 PF:4 +/-:+3 | FoulTrbl(4PF)
+    G10 | 2026-11-11 | vs GS | W 115-108 | Start | MIN:34 | PTS:20 | AST:5 | REB:4(0o/4d) | FG:8-17 | 3PT:1-4 | FT:3-4 | TO:2 PF:2 +/-:+17 | Normal
+
+>>> Jabari Smith Jr. (HOU - F) | Roles: Secondary Scoring/Matchup Candidate | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=16.4 / L5=13.6 / Sea=16.8 | AST L10=2.4 / L5=1.4 / Sea=2.2 | REB L10=6.9 / L5=7.6 / Sea=6.6 (OREB=1.6/DREB=5.3)
+  Prior-Season Context (Separate): 15.8 PPG, 1.9 APG, 6.9 RPG, 35.1 MPG (77 GP w/ HOU)
+  Minutes: Mean=35.3 (L5=36.6), Med=35.0, Min=30.0, Max=39.0, SD=2.72 | 30+m=10/10, 35+m=7/10 | CloseMin=36.3, BlowoutMin=33.0
+  Consistency: PTS[Med=14.0, Min=11, Max=30, SD=5.26] | AST[Med=2.0, Min=0, Max=5, SD=1.62] | REB[Med=7.5, Min=2, Max=12, SD=3.11]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 4/10 (40.0%, L5:1/5) | 20+: 2/10 (20.0%, L5:0/5) | 25+: 1/10 (10.0%, L5:0/5) | 30+: 1/10 (10.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=10
+  AST Thresholds: 3+: 4/10 (40.0%, L5:1/5) | 5+: 2/10 (20.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 7/10 (70.0%, L5:4/5) | 7+: 6/10 (60.0%, L5:4/5) | 8+: 5/10 (50.0%, L5:3/5) | 10+: 2/10 (20.0%, L5:1/5) | 12+: 1/10 (10.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-24 | @ ATL | W 121-114 | Start | MIN:33 | PTS:14 | AST:3 | REB:5(4o/1d) | FG:5-12 | 3PT:2-6 | FT:2-2 | TO:0 PF:4 +/-:-2 | FoulTrbl(4PF)
+    G2 | 2026-10-26 | vs ATL | W 120-110 | Start | MIN:39 | PTS:16 | AST:5 | REB:12(0o/12d) | FG:6-13 | 3PT:2-6 | FT:2-3 | TO:1 PF:2 +/-:+12 | Normal
+    G3 | 2026-10-28 | @ MIL | W 132-100 | Start | MIN:30 | PTS:14 | AST:2 | REB:2(0o/2d) | FG:4-12 | 3PT:3-6 | FT:3-3 | TO:0 PF:1 +/-:+23 | Blowout(+32)
+    G4 | 2026-10-30 | @ DAL | L 111-116 | Start | MIN:35 | PTS:22 | AST:2 | REB:3(0o/3d) | FG:7-15 | 3PT:3-7 | FT:5-5 | TO:3 PF:2 +/-:-9 | Normal
+    G5 | 2026-10-31 | vs OKC | W 119-98 | Start | MIN:33 | PTS:30 | AST:5 | REB:9(1o/8d) | FG:10-18 | 3PT:6-12 | FT:4-5 | TO:1 PF:0 +/-:+33 | Blowout(+21)
+    G6 | 2026-11-02 | vs BOS | W 109-93 | Start | MIN:36 | PTS:14 | AST:0 | REB:10(2o/8d) | FG:5-10 | 3PT:4-5 | FT:0-0 | TO:0 PF:0 +/-:+20 | Blowout(+16)
+    G7 | 2026-11-04 | vs MIN | L 107-117 | Start | MIN:35 | PTS:11 | AST:2 | REB:4(1o/3d) | FG:3-4 | 3PT:2-3 | FT:3-4 | TO:1 PF:1 +/-:-8 | Normal
+    G8 | 2026-11-07 | @ PHX | L 99-102 | Start | MIN:39 | PTS:15 | AST:2 | REB:9(3o/6d) | FG:7-12 | 3PT:1-4 | FT:0-0 | TO:1 PF:3 +/-:+9 | Normal
+    G9 | 2026-11-09 | vs DEN | W 110-100 | Start | MIN:38 | PTS:14 | AST:3 | REB:7(3o/4d) | FG:6-13 | 3PT:2-8 | FT:0-0 | TO:0 PF:3 +/-:+10 | Normal
+    G10 | 2026-11-11 | vs GS | W 115-108 | Start | MIN:35 | PTS:14 | AST:0 | REB:8(2o/6d) | FG:5-14 | 3PT:2-9 | FT:2-2 | TO:2 PF:3 +/-:+20 | Normal
+==========================================================
+TEAM GSW DETAILED KEY PLAYERS (GSW @ SAS)
+==========================================================
+
+>>> Stephen Curry (GSW - G) | Roles: Primary Scorer #1 | Status: Out (Right Abdomen)
+  Sample: L10 Window N=10 (Season 10/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=27.8 / L5=26.4 / Sea=27.8 | AST L10=3.9 / L5=3.8 / Sea=3.9 | REB L10=3.7 / L5=3.6 / Sea=3.7 (OREB=0.3/DREB=3.4)
+  Prior-Season Context (Separate): 26.6 PPG, 4.7 APG, 3.6 RPG, 30.9 MPG (43 GP w/ GSW)
+  Minutes: Mean=26.5 (L5=24.8), Med=29.0, Min=6.0, Max=36.0, SD=8.24 | 30+m=5/10, 35+m=1/10 | CloseMin=27.4, BlowoutMin=25.6
+  Consistency: PTS[Med=27.0, Min=3, Max=44, SD=10.78] | AST[Med=4.0, Min=0, Max=7, SD=2.26] | REB[Med=3.5, Min=0, Max=8, SD=2.41]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:4/5) | 15+: 9/10 (90.0%, L5:4/5) | 20+: 9/10 (90.0%, L5:4/5) | 25+: 6/10 (60.0%, L5:4/5) | 30+: 4/10 (40.0%, L5:2/5) | 35+: 2/10 (20.0%, L5:1/5) --> Floor80=20, Floor90=20, Floor100=None
+  AST Thresholds: 3+: 7/10 (70.0%, L5:3/5) | 5+: 4/10 (40.0%, L5:2/5) | 7+: 1/10 (10.0%, L5:1/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 4/10 (40.0%, L5:3/5) | 7+: 1/10 (10.0%, L5:0/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ LAL | L 105-127 | Start | MIN:21 | PTS:23 | AST:1 | REB:2(1o/1d) | FG:7-15 | 3PT:2-7 | FT:7-7 | TO:2 PF:2 +/-:-22 | Blowout(-22), ShortMin(21)
+    G2 | 2026-10-23 | vs MEM | L 108-111 | Start | MIN:30 | PTS:24 | AST:4 | REB:2(0o/2d) | FG:5-15 | 3PT:3-10 | FT:11-11 | TO:0 PF:4 +/-:-4 | FoulTrbl(4PF)
+    G3 | 2026-10-26 | @ DEN | W 134-114 | Start | MIN:27 | PTS:24 | AST:3 | REB:3(0o/3d) | FG:8-8 | 3PT:3-3 | FT:5-5 | TO:3 PF:1 +/-:+7 | Blowout(+20)
+    G4 | 2026-10-28 | @ MIN | W 119-114 | Start | MIN:32 | PTS:44 | AST:6 | REB:8(1o/7d) | FG:11-27 | 3PT:6-16 | FT:16-16 | TO:2 PF:0 +/-:+10 | Normal
+    G5 | 2026-10-30 | vs LAL | W 112-95 | Start | MIN:31 | PTS:31 | AST:6 | REB:4(0o/4d) | FG:11-23 | 3PT:8-14 | FT:1-1 | TO:2 PF:0 +/-:+19 | Blowout(+17)
+    G6 | 2026-11-02 | vs PHX | W 116-113 | Start | MIN:33 | PTS:34 | AST:7 | REB:6(1o/5d) | FG:9-21 | 3PT:5-13 | FT:11-12 | TO:3 PF:2 +/-:+21 | Normal
+    G7 | 2026-11-05 | vs MIA | W 120-100 | Start | MIN:28 | PTS:29 | AST:4 | REB:1(0o/1d) | FG:9-19 | 3PT:6-12 | FT:5-5 | TO:0 PF:1 +/-:+17 | Blowout(+20)
+    G8 | 2026-11-07 | vs ORL | W 126-119 (OT) | Start | MIN:36 | PTS:41 | AST:6 | REB:6(0o/6d) | FG:13-19 | 3PT:5-10 | FT:10-10 | TO:3 PF:3 +/-:+11 | OT
+    G9 | 2026-11-09 | vs NO | W 138-87 | Start | MIN:21 | PTS:25 | AST:2 | REB:5(0o/5d) | FG:6-10 | 3PT:4-7 | FT:9-9 | TO:1 PF:0 +/-:+32 | Blowout(+51), ShortMin(21)
+    G10 | 2026-11-11 | @ HOU | L 108-115 | Start | MIN:6 | PTS:3 | AST:0 | REB:0(0o/0d) | FG:1-3 | 3PT:1-2 | FT:0-0 | TO:1 PF:0 +/-:-9 | ShortMin(6)
+
+>>> Yaxel Lendeborg (GSW - F) | Roles: Primary Scorer #2, Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=23.0 / L5=20.8 / Sea=21.7 | AST L10=3.6 / L5=3.6 / Sea=3.7 | REB L10=7.3 / L5=7.6 / Sea=7.4 (OREB=2.0/DREB=5.3)
+  Prior-Season Context (Separate): Rookie / No Prior NBA Regular-Season GP
+  Minutes: Mean=31.9 (L5=31.8), Med=32.5, Min=24.0, Max=37.0, SD=4.16 | 30+m=7/10, 35+m=4/10 | CloseMin=34.5, BlowoutMin=28.0
+  Consistency: PTS[Med=24.0, Min=6, Max=37, SD=8.1] | AST[Med=4.5, Min=0, Max=6, SD=2.33] | REB[Med=8.0, Min=1, Max=12, SD=3.03]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:5/5) | 15+: 9/10 (90.0%, L5:5/5) | 20+: 7/10 (70.0%, L5:3/5) | 25+: 5/10 (50.0%, L5:1/5) | 30+: 2/10 (20.0%, L5:0/5) | 35+: 1/10 (10.0%, L5:0/5) --> Floor80=15, Floor90=15, Floor100=None
+  AST Thresholds: 3+: 7/10 (70.0%, L5:4/5) | 5+: 5/10 (50.0%, L5:2/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 8/10 (80.0%, L5:5/5) | 7+: 7/10 (70.0%, L5:4/5) | 8+: 6/10 (60.0%, L5:3/5) | 10+: 2/10 (20.0%, L5:1/5) | 12+: 1/10 (10.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=5, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-24 | @ PHX | L 122-131 | Start | MIN:36 | PTS:26 | AST:5 | REB:9(5o/4d) | FG:9-19 | 3PT:6-11 | FT:2-3 | TO:2 PF:0 +/-:+5 | Normal
+    G2 | 2026-10-26 | @ DEN | W 134-114 | Start | MIN:31 | PTS:31 | AST:6 | REB:12(4o/8d) | FG:9-19 | 3PT:1-8 | FT:12-13 | TO:3 PF:2 +/-:+27 | Blowout(+20)
+    G3 | 2026-10-28 | @ MIN | W 119-114 | Start | MIN:35 | PTS:26 | AST:1 | REB:9(2o/7d) | FG:11-20 | 3PT:2-5 | FT:2-4 | TO:7 PF:3 +/-:+2 | Normal
+    G4 | 2026-10-30 | vs LAL | W 112-95 | Start | MIN:24 | PTS:6 | AST:0 | REB:1(0o/1d) | FG:2-3 | 3PT:1-2 | FT:1-2 | TO:5 PF:6 +/-:-20 | Blowout(+17), FoulTrbl(6PF)
+    G5 | 2026-11-01 | vs LAC | W 124-112 | Start | MIN:34 | PTS:37 | AST:6 | REB:4(2o/2d) | FG:13-19 | 3PT:6-11 | FT:5-6 | TO:2 PF:1 +/-:+6 | Normal
+    G6 | 2026-11-02 | vs PHX | W 116-113 | Start | MIN:29 | PTS:16 | AST:5 | REB:5(2o/3d) | FG:3-10 | 3PT:2-6 | FT:8-9 | TO:2 PF:4 +/-:-11 | FoulTrbl(4PF)
+    G7 | 2026-11-05 | vs MIA | W 120-100 | Start | MIN:30 | PTS:17 | AST:6 | REB:8(1o/7d) | FG:6-14 | 3PT:1-3 | FT:4-6 | TO:2 PF:4 +/-:-1 | Blowout(+20), FoulTrbl(4PF)
+    G8 | 2026-11-07 | vs ORL | W 126-119 (OT) | Start | MIN:37 | PTS:23 | AST:3 | REB:8(1o/7d) | FG:9-15 | 3PT:2-4 | FT:3-4 | TO:6 PF:5 +/-:+6 | OT, FoulTrbl(5PF)
+    G9 | 2026-11-09 | vs NO | W 138-87 | Start | MIN:27 | PTS:23 | AST:4 | REB:7(1o/6d) | FG:8-10 | 3PT:4-4 | FT:3-4 | TO:2 PF:3 +/-:+34 | Blowout(+51)
+    G10 | 2026-11-11 | @ HOU | L 108-115 | Start | MIN:36 | PTS:25 | AST:0 | REB:10(2o/8d) | FG:9-19 | 3PT:2-7 | FT:5-8 | TO:2 PF:2 +/-:-15 | Normal
+
+>>> Brandin Podziemski (GSW - G) | Roles: Replacement/Active Scorer | Status: Available
+  Sample: L10 Window N=10 (Season 10/12 GP, 10 Starts) | DNPs: [('2026-10-24', 'PHX', 'LOWER BACK INJURY MANAGEMENT')]
+  Averages: PTS L10=17.3 / L5=18.2 / Sea=17.3 | AST L10=4.2 / L5=2.8 / Sea=4.2 | REB L10=5.1 / L5=4.8 / Sea=5.1 (OREB=1.2/DREB=3.9)
+  Prior-Season Context (Separate): 13.8 PPG, 3.7 APG, 5.1 RPG, 28.5 MPG (82 GP w/ GSW)
+  Minutes: Mean=33.5 (L5=33.4), Med=33.0, Min=26.0, Max=39.0, SD=3.41 | 30+m=9/10, 35+m=3/10 | CloseMin=35.2, BlowoutMin=31.0
+  Consistency: PTS[Med=18.0, Min=8, Max=25, SD=5.14] | AST[Med=4.0, Min=1, Max=8, SD=1.99] | REB[Med=5.5, Min=2, Max=8, SD=2.02]
+  PTS Thresholds: 10+: 8/10 (80.0%, L5:4/5) | 15+: 8/10 (80.0%, L5:4/5) | 20+: 4/10 (40.0%, L5:3/5) | 25+: 1/10 (10.0%, L5:1/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 8/10 (80.0%, L5:3/5) | 5+: 4/10 (40.0%, L5:0/5) | 7+: 1/10 (10.0%, L5:0/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 7/10 (70.0%, L5:3/5) | 7+: 3/10 (30.0%, L5:1/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | vs MEM | L 108-111 | Start | MIN:33 | PTS:18 | AST:3 | REB:2(1o/1d) | FG:7-17 | 3PT:2-8 | FT:2-2 | TO:4 PF:3 +/-:0 | Normal
+    G2 | 2026-10-26 | @ DEN | W 134-114 | Start | MIN:33 | PTS:18 | AST:5 | REB:7(3o/4d) | FG:7-14 | 3PT:3-7 | FT:1-1 | TO:0 PF:2 +/-:+33 | Blowout(+20)
+    G3 | 2026-10-28 | @ MIN | W 119-114 | Start | MIN:32 | PTS:8 | AST:6 | REB:5(0o/5d) | FG:2-5 | 3PT:0-1 | FT:4-7 | TO:2 PF:5 +/-:+3 | FoulTrbl(5PF)
+    G4 | 2026-10-30 | vs LAL | W 112-95 | Start | MIN:33 | PTS:21 | AST:6 | REB:5(2o/3d) | FG:7-15 | 3PT:4-9 | FT:3-5 | TO:1 PF:1 +/-:+7 | Blowout(+17)
+    G5 | 2026-11-01 | vs LAC | W 124-112 | Start | MIN:37 | PTS:17 | AST:8 | REB:8(3o/5d) | FG:7-14 | 3PT:2-7 | FT:1-1 | TO:1 PF:3 +/-:+11 | Normal
+    G6 | 2026-11-02 | vs PHX | W 116-113 | Start | MIN:33 | PTS:20 | AST:2 | REB:3(1o/2d) | FG:7-15 | 3PT:3-8 | FT:3-4 | TO:3 PF:2 +/-:-4 | Normal
+    G7 | 2026-11-05 | vs MIA | W 120-100 | Start | MIN:32 | PTS:9 | AST:3 | REB:6(0o/6d) | FG:3-8 | 3PT:2-6 | FT:1-2 | TO:1 PF:3 +/-:+5 | Blowout(+20)
+    G8 | 2026-11-07 | vs ORL | W 126-119 (OT) | Start | MIN:39 | PTS:15 | AST:1 | REB:7(1o/6d) | FG:5-7 | 3PT:4-5 | FT:1-2 | TO:0 PF:3 +/-:+6 | OT
+    G9 | 2026-11-09 | vs NO | W 138-87 | Start | MIN:26 | PTS:25 | AST:4 | REB:2(0o/2d) | FG:10-19 | 3PT:5-11 | FT:0-0 | TO:0 PF:0 +/-:+36 | Blowout(+51)
+    G10 | 2026-11-11 | @ HOU | L 108-115 | Start | MIN:37 | PTS:22 | AST:4 | REB:6(1o/5d) | FG:7-15 | 3PT:4-11 | FT:4-5 | TO:1 PF:3 +/-:-17 | Normal
+
+>>> Draymond Green (GSW - F) | Roles: Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 10/12 GP, 10 Starts) | DNPs: [('2026-10-24', 'PHX', 'LOW BACK SORENESS')]
+  Averages: PTS L10=3.2 / L5=3.4 / Sea=3.2 | AST L10=7.5 / L5=7.8 / Sea=7.5 | REB L10=4.9 / L5=4.6 / Sea=4.9 (OREB=1.1/DREB=3.8)
+  Prior-Season Context (Separate): 8.4 PPG, 5.5 APG, 5.5 RPG, 27.5 MPG (68 GP w/ GSW)
+  Minutes: Mean=26.9 (L5=25.2), Med=27.0, Min=17.0, Max=34.0, SD=5.36 | 30+m=4/10, 35+m=0/10 | CloseMin=28.2, BlowoutMin=25.6
+  Consistency: PTS[Med=2.5, Min=2, Max=7, SD=1.6] | AST[Med=7.0, Min=2, Max=13, SD=2.87] | REB[Med=4.5, Min=3, Max=9, SD=1.58]
+  PTS Thresholds: 10+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) | 20+: 0/10 (0.0%, L5:0/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 9/10 (90.0%, L5:4/5) | 5+: 9/10 (90.0%, L5:4/5) | 7+: 6/10 (60.0%, L5:3/5) | 8+: 4/10 (40.0%, L5:2/5) | 10+: 2/10 (20.0%, L5:2/5) | 12+: 1/10 (10.0%, L5:1/5) --> Floor80=5, Floor90=5, Floor100=None
+  REB Thresholds: 5+: 5/10 (50.0%, L5:3/5) | 7+: 1/10 (10.0%, L5:0/5) | 8+: 1/10 (10.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ LAL | L 105-127 | Start | MIN:21 | PTS:2 | AST:8 | REB:4(0o/4d) | FG:1-4 | 3PT:0-1 | FT:0-0 | TO:4 PF:3 +/-:-22 | Blowout(-22), ShortMin(21)
+    G2 | 2026-10-23 | vs MEM | L 108-111 | Start | MIN:31 | PTS:5 | AST:6 | REB:5(1o/4d) | FG:2-4 | 3PT:1-2 | FT:0-0 | TO:5 PF:5 +/-:-5 | FoulTrbl(5PF)
+    G3 | 2026-10-26 | @ DEN | W 134-114 | Start | MIN:27 | PTS:3 | AST:7 | REB:4(1o/3d) | FG:1-2 | 3PT:1-2 | FT:0-0 | TO:5 PF:2 +/-:+7 | Blowout(+20)
+    G4 | 2026-10-28 | @ MIN | W 119-114 | Start | MIN:32 | PTS:3 | AST:6 | REB:9(2o/7d) | FG:1-3 | 3PT:0-0 | FT:1-2 | TO:3 PF:5 +/-:+3 | FoulTrbl(5PF)
+    G5 | 2026-10-30 | vs LAL | W 112-95 | Start | MIN:32 | PTS:2 | AST:9 | REB:4(1o/3d) | FG:1-3 | 3PT:0-2 | FT:0-0 | TO:1 PF:1 +/-:+17 | Blowout(+17)
+    G6 | 2026-11-02 | vs PHX | W 116-113 | Start | MIN:17 | PTS:4 | AST:2 | REB:4(1o/3d) | FG:1-2 | 3PT:0-0 | FT:2-2 | TO:1 PF:1 +/-:-6 | ShortMin(17)
+    G7 | 2026-11-05 | vs MIA | W 120-100 | Start | MIN:27 | PTS:2 | AST:11 | REB:5(1o/4d) | FG:1-3 | 3PT:0-2 | FT:0-0 | TO:3 PF:1 +/-:+13 | Blowout(+20)
+    G8 | 2026-11-07 | vs ORL | W 126-119 (OT) | Start | MIN:34 | PTS:2 | AST:13 | REB:6(0o/6d) | FG:1-5 | 3PT:0-1 | FT:0-2 | TO:4 PF:2 +/-:+11 | OT
+    G9 | 2026-11-09 | vs NO | W 138-87 | Start | MIN:21 | PTS:2 | AST:6 | REB:3(1o/2d) | FG:1-1 | 3PT:0-0 | FT:0-0 | TO:2 PF:1 +/-:+32 | Blowout(+51), ShortMin(21)
+    G10 | 2026-11-11 | @ HOU | L 108-115 | Start | MIN:27 | PTS:7 | AST:7 | REB:5(3o/2d) | FG:3-5 | 3PT:1-1 | FT:0-0 | TO:1 PF:2 +/-:-20 | Normal
+==========================================================
+TEAM SAS DETAILED KEY PLAYERS (GSW @ SAS)
+==========================================================
+
+>>> Victor Wembanyama (SAS - F) | Roles: Primary Scorer #1, Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=32.6 / L5=36.6 / Sea=30.2 | AST L10=2.9 / L5=2.2 / Sea=2.8 | REB L10=11.4 / L5=13.0 / Sea=11.7 (OREB=2.6/DREB=8.8)
+  Prior-Season Context (Separate): 25.0 PPG, 3.1 APG, 11.5 RPG, 29.2 MPG (64 GP w/ SAS)
+  Minutes: Mean=29.4 (L5=28.2), Med=28.0, Min=24.0, Max=39.0, SD=4.86 | 30+m=4/10, 35+m=1/10 | CloseMin=34.8, BlowoutMin=25.8
+  Consistency: PTS[Med=31.0, Min=12, Max=52, SD=10.49] | AST[Med=2.5, Min=1, Max=5, SD=1.3] | REB[Med=10.5, Min=7, Max=24, SD=4.88]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 9/10 (90.0%, L5:5/5) | 20+: 9/10 (90.0%, L5:5/5) | 25+: 8/10 (80.0%, L5:5/5) | 30+: 6/10 (60.0%, L5:4/5) | 35+: 4/10 (40.0%, L5:2/5) --> Floor80=25, Floor90=20, Floor100=10
+  AST Thresholds: 3+: 5/10 (50.0%, L5:2/5) | 5+: 2/10 (20.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 10/10 (100.0%, L5:5/5) | 7+: 10/10 (100.0%, L5:5/5) | 8+: 7/10 (70.0%, L5:4/5) | 10+: 6/10 (60.0%, L5:3/5) | 12+: 3/10 (30.0%, L5:2/5) | 15+: 1/10 (10.0%, L5:1/5) --> Floor80=7, Floor90=7, Floor100=7
+  Chronological Game Log:
+    G1 | 2026-10-24 | @ DAL | W 122-106 | Start | MIN:29 | PTS:23 | AST:2 | REB:7(1o/6d) | FG:9-18 | 3PT:2-6 | FT:3-5 | TO:2 PF:0 +/-:+32 | Blowout(+16)
+    G2 | 2026-10-27 | vs SAC | W 130-103 | Start | MIN:27 | PTS:29 | AST:2 | REB:10(3o/7d) | FG:14-21 | 3PT:0-3 | FT:1-1 | TO:0 PF:0 +/-:+22 | Blowout(+27)
+    G3 | 2026-10-28 | @ UTAH | W 117-111 (OT) | Start | MIN:39 | PTS:36 | AST:5 | REB:14(2o/12d) | FG:14-25 | 3PT:4-10 | FT:4-4 | TO:0 PF:4 +/-:+14 | OT, FoulTrbl(4PF)
+    G4 | 2026-10-31 | vs MIN | W 121-111 | Start | MIN:34 | PTS:43 | AST:4 | REB:7(3o/4d) | FG:17-34 | 3PT:3-8 | FT:6-9 | TO:3 PF:2 +/-:+11 | Normal
+    G5 | 2026-11-02 | vs UTAH | W 119-97 | Start | MIN:24 | PTS:12 | AST:5 | REB:11(1o/10d) | FG:5-15 | 3PT:0-5 | FT:2-3 | TO:5 PF:2 +/-:+9 | Blowout(+22)
+    G6 | 2026-11-04 | vs DAL | W 112-111 | Start | MIN:34 | PTS:52 | AST:2 | REB:24(9o/15d) | FG:16-28 | 3PT:1-8 | FT:19-23 | TO:1 PF:2 +/-:+23 | Normal
+    G7 | 2026-11-06 | @ SAC | W 124-109 | Start | MIN:26 | PTS:30 | AST:2 | REB:14(3o/11d) | FG:10-18 | 3PT:4-6 | FT:6-9 | TO:3 PF:0 +/-:+31 | Blowout(+15)
+    G8 | 2026-11-07 | @ POR | W 125-103 | Start | MIN:24 | PTS:29 | AST:3 | REB:7(1o/6d) | FG:9-13 | 3PT:3-6 | FT:8-9 | TO:2 PF:3 +/-:+23 | Blowout(+22)
+    G9 | 2026-11-09 | @ PHX | W 122-96 | Start | MIN:25 | PTS:40 | AST:3 | REB:11(2o/9d) | FG:15-19 | 3PT:2-3 | FT:8-10 | TO:1 PF:2 +/-:+30 | Blowout(+26)
+    G10 | 2026-11-11 | @ CHI | W 124-119 | Start | MIN:32 | PTS:32 | AST:1 | REB:9(1o/8d) | FG:13-18 | 3PT:2-6 | FT:4-5 | TO:1 PF:3 +/-:+29 | Normal
+
+>>> Dylan Harper (SAS - G) | Roles: Primary Scorer #2 | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=17.8 / L5=17.6 / Sea=18.0 | AST L10=5.1 / L5=4.2 / Sea=4.8 | REB L10=5.5 / L5=5.0 / Sea=5.4 (OREB=0.9/DREB=4.6)
+  Prior-Season Context (Separate): 11.8 PPG, 3.9 APG, 3.4 RPG, 22.6 MPG (69 GP w/ SAS)
+  Minutes: Mean=31.5 (L5=30.8), Med=29.0, Min=26.0, Max=39.0, SD=4.65 | 30+m=5/10, 35+m=4/10 | CloseMin=37.0, BlowoutMin=27.8
+  Consistency: PTS[Med=17.5, Min=13, Max=25, SD=3.89] | AST[Med=5.0, Min=0, Max=10, SD=2.91] | REB[Med=5.5, Min=2, Max=7, SD=1.43]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 7/10 (70.0%, L5:4/5) | 20+: 3/10 (30.0%, L5:1/5) | 25+: 1/10 (10.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=10
+  AST Thresholds: 3+: 8/10 (80.0%, L5:4/5) | 5+: 5/10 (50.0%, L5:1/5) | 7+: 3/10 (30.0%, L5:1/5) | 8+: 3/10 (30.0%, L5:1/5) | 10+: 1/10 (10.0%, L5:1/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 9/10 (90.0%, L5:4/5) | 7+: 3/10 (30.0%, L5:1/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=5, Floor90=5, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-24 | @ DAL | W 122-106 | Start | MIN:28 | PTS:22 | AST:2 | REB:5(2o/3d) | FG:9-18 | 3PT:3-8 | FT:1-1 | TO:2 PF:2 +/-:+18 | Blowout(+16)
+    G2 | 2026-10-27 | vs SAC | W 130-103 | Start | MIN:30 | PTS:13 | AST:6 | REB:6(2o/4d) | FG:6-7 | 3PT:0-0 | FT:1-1 | TO:1 PF:3 +/-:+23 | Blowout(+27)
+    G3 | 2026-10-28 | @ UTAH | W 117-111 (OT) | Start | MIN:37 | PTS:13 | AST:8 | REB:5(0o/5d) | FG:4-17 | 3PT:2-4 | FT:3-3 | TO:3 PF:1 +/-:+1 | OT
+    G4 | 2026-10-31 | vs MIN | W 121-111 | Start | MIN:39 | PTS:25 | AST:6 | REB:7(1o/6d) | FG:9-17 | 3PT:2-5 | FT:5-6 | TO:2 PF:3 +/-:+10 | Normal
+    G5 | 2026-11-02 | vs UTAH | W 119-97 | Start | MIN:27 | PTS:17 | AST:8 | REB:7(0o/7d) | FG:6-10 | 3PT:1-2 | FT:4-5 | TO:2 PF:0 +/-:+16 | Blowout(+22)
+    G6 | 2026-11-04 | vs DAL | W 112-111 | Start | MIN:36 | PTS:21 | AST:0 | REB:5(1o/4d) | FG:9-15 | 3PT:1-2 | FT:2-2 | TO:2 PF:3 +/-:+8 | Normal
+    G7 | 2026-11-06 | @ SAC | W 124-109 | Start | MIN:28 | PTS:19 | AST:3 | REB:2(1o/1d) | FG:5-10 | 3PT:1-2 | FT:8-9 | TO:1 PF:3 +/-:+22 | Blowout(+15)
+    G8 | 2026-11-07 | @ POR | W 125-103 | Start | MIN:28 | PTS:13 | AST:4 | REB:7(1o/6d) | FG:6-13 | 3PT:1-5 | FT:0-0 | TO:1 PF:5 +/-:+29 | Blowout(+22), FoulTrbl(5PF)
+    G9 | 2026-11-09 | @ PHX | W 122-96 | Start | MIN:26 | PTS:17 | AST:4 | REB:5(0o/5d) | FG:7-10 | 3PT:0-2 | FT:3-5 | TO:0 PF:1 +/-:+30 | Blowout(+26)
+    G10 | 2026-11-11 | @ CHI | W 124-119 | Start | MIN:36 | PTS:18 | AST:10 | REB:6(1o/5d) | FG:7-18 | 3PT:2-4 | FT:2-2 | TO:0 PF:2 +/-:+19 | Normal
+
+>>> De'Aaron Fox (SAS - G) | Roles: Primary Assist Leader | Status: Day-To-Day (Left Hip)
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=13.7 / L5=11.8 / Sea=14.2 | AST L10=5.8 / L5=5.8 / Sea=6.2 | REB L10=4.1 / L5=4.2 / Sea=4.3 (OREB=0.6/DREB=3.5)
+  Prior-Season Context (Separate): 18.6 PPG, 6.2 APG, 3.8 RPG, 31.0 MPG (72 GP w/ SAS)
+  Minutes: Mean=29.1 (L5=28.2), Med=28.5, Min=22.0, Max=39.0, SD=5.22 | 30+m=4/10, 35+m=2/10 | CloseMin=34.5, BlowoutMin=25.5
+  Consistency: PTS[Med=13.0, Min=8, Max=22, SD=4.34] | AST[Med=6.0, Min=3, Max=9, SD=1.99] | REB[Med=3.0, Min=2, Max=9, SD=2.3]
+  PTS Thresholds: 10+: 8/10 (80.0%, L5:3/5) | 15+: 4/10 (40.0%, L5:2/5) | 20+: 1/10 (10.0%, L5:0/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=10, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 10/10 (100.0%, L5:5/5) | 5+: 6/10 (60.0%, L5:3/5) | 7+: 3/10 (30.0%, L5:1/5) | 8+: 2/10 (20.0%, L5:1/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=3
+  REB Thresholds: 5+: 2/10 (20.0%, L5:1/5) | 7+: 2/10 (20.0%, L5:1/5) | 8+: 2/10 (20.0%, L5:1/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-24 | @ DAL | W 122-106 | Start | MIN:28 | PTS:19 | AST:9 | REB:3(1o/2d) | FG:6-11 | 3PT:2-4 | FT:5-7 | TO:2 PF:1 +/-:+25 | Blowout(+16)
+    G2 | 2026-10-27 | vs SAC | W 130-103 | Start | MIN:26 | PTS:11 | AST:6 | REB:4(0o/4d) | FG:3-6 | 3PT:2-2 | FT:3-4 | TO:3 PF:3 +/-:+22 | Blowout(+27)
+    G3 | 2026-10-28 | @ UTAH | W 117-111 (OT) | Start | MIN:39 | PTS:14 | AST:4 | REB:3(1o/2d) | FG:5-12 | 3PT:1-5 | FT:3-4 | TO:3 PF:4 +/-:+9 | OT, FoulTrbl(4PF)
+    G4 | 2026-10-31 | vs MIN | W 121-111 | Start | MIN:35 | PTS:22 | AST:7 | REB:8(2o/6d) | FG:8-10 | 3PT:0-1 | FT:6-7 | TO:4 PF:3 +/-:+23 | Normal
+    G5 | 2026-11-02 | vs UTAH | W 119-97 | Start | MIN:22 | PTS:12 | AST:3 | REB:2(0o/2d) | FG:5-8 | 3PT:1-1 | FT:1-2 | TO:1 PF:5 +/-:+14 | Blowout(+22), FoulTrbl(5PF)
+    G6 | 2026-11-04 | vs DAL | W 112-111 | Start | MIN:33 | PTS:10 | AST:4 | REB:3(0o/3d) | FG:3-10 | 3PT:0-2 | FT:4-4 | TO:3 PF:0 +/-:+12 | Normal
+    G7 | 2026-11-06 | @ SAC | W 124-109 | Start | MIN:26 | PTS:9 | AST:4 | REB:2(0o/2d) | FG:2-6 | 3PT:0-2 | FT:5-6 | TO:2 PF:4 +/-:+13 | Blowout(+15), FoulTrbl(4PF)
+    G8 | 2026-11-07 | @ POR | W 125-103 | Start | MIN:22 | PTS:8 | AST:6 | REB:3(1o/2d) | FG:1-3 | 3PT:1-2 | FT:5-6 | TO:1 PF:1 +/-:+23 | Blowout(+22)
+    G9 | 2026-11-09 | @ PHX | W 122-96 | Start | MIN:29 | PTS:15 | AST:6 | REB:9(0o/9d) | FG:5-8 | 3PT:2-4 | FT:3-3 | TO:1 PF:1 +/-:+20 | Blowout(+26)
+    G10 | 2026-11-11 | @ CHI | W 124-119 | Start | MIN:31 | PTS:17 | AST:9 | REB:4(1o/3d) | FG:7-17 | 3PT:2-7 | FT:1-2 | TO:1 PF:1 +/-:+15 | Normal
+==========================================================
+TEAM POR DETAILED KEY PLAYERS (POR @ SAC)
+==========================================================
+
+>>> Deni Avdija (POR - F) | Roles: Primary Scorer #1, Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=23.5 / L5=22.0 / Sea=23.0 | AST L10=6.7 / L5=7.6 / Sea=6.5 | REB L10=5.7 / L5=5.8 / Sea=6.1 (OREB=0.6/DREB=5.1)
+  Prior-Season Context (Separate): 24.2 PPG, 6.7 APG, 6.9 RPG, 33.3 MPG (66 GP w/ POR)
+  Minutes: Mean=33.5 (L5=33.4), Med=34.5, Min=24.0, Max=39.0, SD=4.03 | 30+m=9/10, 35+m=5/10 | CloseMin=36.0, BlowoutMin=30.0
+  Consistency: PTS[Med=24.0, Min=15, Max=28, SD=3.58] | AST[Med=6.5, Min=1, Max=12, SD=3.35] | REB[Med=5.5, Min=3, Max=9, SD=2.15]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 10/10 (100.0%, L5:5/5) | 20+: 9/10 (90.0%, L5:4/5) | 25+: 3/10 (30.0%, L5:1/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=20, Floor90=20, Floor100=15
+  AST Thresholds: 3+: 8/10 (80.0%, L5:4/5) | 5+: 8/10 (80.0%, L5:4/5) | 7+: 5/10 (50.0%, L5:3/5) | 8+: 4/10 (40.0%, L5:3/5) | 10+: 2/10 (20.0%, L5:2/5) | 12+: 1/10 (10.0%, L5:1/5) --> Floor80=5, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 6/10 (60.0%, L5:3/5) | 7+: 4/10 (40.0%, L5:2/5) | 8+: 2/10 (20.0%, L5:1/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | @ SAC | W 128-120 | Start | MIN:38 | PTS:26 | AST:6 | REB:7(1o/6d) | FG:8-16 | 3PT:1-5 | FT:9-12 | TO:3 PF:2 +/-:+12 | Normal
+    G2 | 2026-10-27 | @ LAL | W 136-129 | Start | MIN:33 | PTS:23 | AST:9 | REB:4(2o/2d) | FG:8-15 | 3PT:4-7 | FT:3-7 | TO:3 PF:4 +/-:+8 | FoulTrbl(4PF)
+    G3 | 2026-10-29 | vs MEM | L 103-124 | Start | MIN:32 | PTS:24 | AST:7 | REB:9(1o/8d) | FG:8-16 | 3PT:0-4 | FT:8-12 | TO:0 PF:1 +/-:-9 | Blowout(-21)
+    G4 | 2026-10-31 | @ UTAH | W 112-90 | Start | MIN:30 | PTS:24 | AST:2 | REB:5(0o/5d) | FG:6-12 | 3PT:2-4 | FT:10-13 | TO:3 PF:3 +/-:+32 | Blowout(+22)
+    G5 | 2026-11-02 | @ DEN | W 118-110 | Start | MIN:35 | PTS:28 | AST:5 | REB:3(0o/3d) | FG:10-22 | 3PT:2-9 | FT:6-9 | TO:2 PF:3 +/-:-7 | Normal
+    G6 | 2026-11-04 | @ PHX | W 132-119 | Start | MIN:35 | PTS:21 | AST:12 | REB:7(0o/7d) | FG:7-16 | 3PT:1-5 | FT:6-9 | TO:3 PF:1 +/-:+16 | Normal
+    G7 | 2026-11-06 | @ LAL | L 118-124 | Start | MIN:39 | PTS:22 | AST:11 | REB:9(2o/7d) | FG:6-12 | 3PT:1-4 | FT:9-14 | TO:8 PF:5 +/-:0 | FoulTrbl(5PF)
+    G8 | 2026-11-07 | vs SA | L 103-125 | Start | MIN:24 | PTS:15 | AST:1 | REB:4(0o/4d) | FG:5-13 | 3PT:2-3 | FT:3-4 | TO:3 PF:2 +/-:-19 | Blowout(-22)
+    G9 | 2026-11-10 | vs OKC | W 123-103 | Start | MIN:34 | PTS:24 | AST:8 | REB:6(0o/6d) | FG:8-15 | 3PT:2-4 | FT:6-8 | TO:3 PF:0 +/-:+21 | Blowout(+20)
+    G10 | 2026-11-11 | vs OKC | W 118-108 | Start | MIN:35 | PTS:28 | AST:6 | REB:3(0o/3d) | FG:9-20 | 3PT:4-13 | FT:6-6 | TO:5 PF:4 +/-:+10 | FoulTrbl(4PF)
+
+>>> Damian Lillard (POR - G) | Roles: Primary Scorer #2 | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=19.3 / L5=20.4 / Sea=19.8 | AST L10=4.0 / L5=4.4 / Sea=4.2 | REB L10=3.2 / L5=1.8 / Sea=3.2 (OREB=0.3/DREB=2.9)
+  Prior-Season Context (Separate): Rookie / No Prior NBA Regular-Season GP
+  Minutes: Mean=29.7 (L5=29.2), Med=30.5, Min=20.0, Max=37.0, SD=4.65 | 30+m=7/10, 35+m=1/10 | CloseMin=32.6, BlowoutMin=25.2
+  Consistency: PTS[Med=20.5, Min=9, Max=25, SD=4.94] | AST[Med=4.0, Min=2, Max=7, SD=1.55] | REB[Med=3.0, Min=0, Max=6, SD=1.99]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:5/5) | 15+: 8/10 (80.0%, L5:4/5) | 20+: 6/10 (60.0%, L5:3/5) | 25+: 2/10 (20.0%, L5:2/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 8/10 (80.0%, L5:5/5) | 5+: 3/10 (30.0%, L5:2/5) | 7+: 1/10 (10.0%, L5:1/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 4/10 (40.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | @ SAC | W 128-120 | Start | MIN:33 | PTS:19 | AST:2 | REB:5(0o/5d) | FG:7-18 | 3PT:2-10 | FT:3-3 | TO:2 PF:1 +/-:+19 | Normal
+    G2 | 2026-10-27 | @ LAL | W 136-129 | Start | MIN:31 | PTS:21 | AST:4 | REB:5(0o/5d) | FG:5-12 | 3PT:4-8 | FT:7-11 | TO:2 PF:2 +/-:-1 | Normal
+    G3 | 2026-10-29 | vs MEM | L 103-124 | Start | MIN:30 | PTS:9 | AST:2 | REB:2(0o/2d) | FG:3-13 | 3PT:1-9 | FT:2-4 | TO:1 PF:0 +/-:-11 | Blowout(-21)
+    G4 | 2026-10-31 | @ UTAH | W 112-90 | Start | MIN:27 | PTS:22 | AST:4 | REB:5(1o/4d) | FG:6-17 | 3PT:3-10 | FT:7-8 | TO:5 PF:2 +/-:+21 | Blowout(+22)
+    G5 | 2026-11-02 | @ DEN | W 118-110 | Start | MIN:30 | PTS:20 | AST:6 | REB:6(2o/4d) | FG:5-11 | 3PT:1-5 | FT:9-10 | TO:2 PF:2 +/-:+3 | Normal
+    G6 | 2026-11-04 | @ PHX | W 132-119 | Start | MIN:33 | PTS:25 | AST:5 | REB:3(0o/3d) | FG:9-17 | 3PT:2-8 | FT:5-5 | TO:1 PF:2 +/-:+16 | Normal
+    G7 | 2026-11-06 | @ LAL | L 118-124 | Start | MIN:37 | PTS:22 | AST:4 | REB:0(0o/0d) | FG:5-13 | 3PT:4-10 | FT:8-8 | TO:4 PF:0 +/-:+5 | Normal
+    G8 | 2026-11-07 | vs SA | L 103-125 | Start | MIN:20 | PTS:12 | AST:7 | REB:0(0o/0d) | FG:4-8 | 3PT:2-3 | FT:2-3 | TO:3 PF:1 +/-:-15 | Blowout(-22), ShortMin(20)
+    G9 | 2026-11-10 | vs OKC | W 123-103 | Start | MIN:24 | PTS:25 | AST:3 | REB:3(0o/3d) | FG:8-15 | 3PT:4-10 | FT:5-5 | TO:0 PF:2 +/-:+20 | Blowout(+20)
+    G10 | 2026-11-11 | vs OKC | W 118-108 | Start | MIN:32 | PTS:18 | AST:3 | REB:3(0o/3d) | FG:5-14 | 3PT:2-10 | FT:6-6 | TO:2 PF:2 +/-:+16 | Normal
+
+>>> Donovan Clingan (POR - C) | Roles: Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=10.8 / L5=11.8 / Sea=10.8 | AST L10=1.5 / L5=1.4 / Sea=1.5 | REB L10=10.8 / L5=10.4 / Sea=10.5 (OREB=3.8/DREB=7.0)
+  Prior-Season Context (Separate): 12.1 PPG, 2.1 APG, 11.6 RPG, 27.2 MPG (77 GP w/ POR)
+  Minutes: Mean=25.8 (L5=27.0), Med=27.0, Min=15.0, Max=32.0, SD=4.85 | 30+m=2/10, 35+m=0/10 | CloseMin=27.4, BlowoutMin=23.0
+  Consistency: PTS[Med=8.5, Min=4, Max=24, SD=6.16] | AST[Med=1.0, Min=0, Max=3, SD=1.12] | REB[Med=11.0, Min=5, Max=18, SD=3.22]
+  PTS Thresholds: 10+: 4/10 (40.0%, L5:2/5) | 15+: 3/10 (30.0%, L5:2/5) | 20+: 1/10 (10.0%, L5:1/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 3/10 (30.0%, L5:1/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 10/10 (100.0%, L5:5/5) | 7+: 9/10 (90.0%, L5:4/5) | 8+: 9/10 (90.0%, L5:4/5) | 10+: 7/10 (70.0%, L5:4/5) | 12+: 3/10 (30.0%, L5:2/5) | 15+: 1/10 (10.0%, L5:0/5) --> Floor80=8, Floor90=8, Floor100=5
+  Chronological Game Log:
+    G1 | 2026-10-23 | @ SAC | W 128-120 | Start | MIN:21 | PTS:8 | AST:3 | REB:11(5o/6d) | FG:3-5 | 3PT:0-0 | FT:2-2 | TO:0 PF:4 +/-:+8 | FoulTrbl(4PF)
+    G2 | 2026-10-27 | @ LAL | W 136-129 | Start | MIN:26 | PTS:9 | AST:1 | REB:10(1o/9d) | FG:3-4 | 3PT:2-2 | FT:1-4 | TO:1 PF:1 +/-:-4 | Normal
+    G3 | 2026-10-29 | vs MEM | L 103-124 | Start | MIN:29 | PTS:11 | AST:1 | REB:8(4o/4d) | FG:5-9 | 3PT:1-3 | FT:0-1 | TO:2 PF:2 +/-:+4 | Blowout(-21)
+    G4 | 2026-10-31 | @ UTAH | W 112-90 | Start | MIN:15 | PTS:4 | AST:0 | REB:9(4o/5d) | FG:1-3 | 3PT:0-1 | FT:2-2 | TO:0 PF:5 +/-:+20 | Blowout(+22), FoulTrbl(5PF)
+    G5 | 2026-11-02 | @ DEN | W 118-110 | Start | MIN:32 | PTS:17 | AST:3 | REB:18(9o/9d) | FG:8-16 | 3PT:1-3 | FT:0-0 | TO:2 PF:4 +/-:+10 | FoulTrbl(4PF)
+    G6 | 2026-11-04 | @ PHX | W 132-119 | Start | MIN:29 | PTS:24 | AST:1 | REB:11(4o/7d) | FG:9-12 | 3PT:1-2 | FT:5-6 | TO:4 PF:1 +/-:+13 | Normal
+    G7 | 2026-11-06 | @ LAL | L 118-124 | Start | MIN:28 | PTS:17 | AST:1 | REB:11(2o/9d) | FG:6-8 | 3PT:3-5 | FT:2-3 | TO:3 PF:5 +/-:-7 | FoulTrbl(5PF)
+    G8 | 2026-11-07 | vs SA | L 103-125 | Start | MIN:22 | PTS:6 | AST:0 | REB:5(1o/4d) | FG:3-6 | 3PT:0-2 | FT:0-0 | TO:0 PF:3 +/-:-18 | Blowout(-22)
+    G9 | 2026-11-10 | vs OKC | W 123-103 | Start | MIN:26 | PTS:7 | AST:3 | REB:13(4o/9d) | FG:3-6 | 3PT:1-2 | FT:0-0 | TO:1 PF:3 +/-:+16 | Blowout(+20)
+    G10 | 2026-11-11 | vs OKC | W 118-108 | Start | MIN:30 | PTS:5 | AST:2 | REB:12(4o/8d) | FG:2-4 | 3PT:1-2 | FT:0-0 | TO:2 PF:2 +/-:+3 | Normal
+==========================================================
+TEAM SAC DETAILED KEY PLAYERS (POR @ SAC)
+==========================================================
+
+>>> Darius Acuff Jr. (SAC - G) | Roles: Primary Scorer #1, Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=27.6 / L5=26.0 / Sea=26.2 | AST L10=7.7 / L5=8.4 / Sea=7.3 | REB L10=3.9 / L5=4.0 / Sea=3.8 (OREB=0.2/DREB=3.7)
+  Prior-Season Context (Separate): Rookie / No Prior NBA Regular-Season GP
+  Minutes: Mean=37.5 (L5=38.2), Med=37.0, Min=33.0, Max=42.0, SD=2.91 | 30+m=10/10, 35+m=8/10 | CloseMin=38.6, BlowoutMin=35.0
+  Consistency: PTS[Med=27.0, Min=19, Max=38, SD=6.12] | AST[Med=6.5, Min=4, Max=14, SD=3.13] | REB[Med=3.5, Min=2, Max=6, SD=1.22]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 10/10 (100.0%, L5:5/5) | 20+: 9/10 (90.0%, L5:5/5) | 25+: 6/10 (60.0%, L5:3/5) | 30+: 4/10 (40.0%, L5:1/5) | 35+: 1/10 (10.0%, L5:0/5) --> Floor80=20, Floor90=20, Floor100=15
+  AST Thresholds: 3+: 10/10 (100.0%, L5:5/5) | 5+: 9/10 (90.0%, L5:5/5) | 7+: 5/10 (50.0%, L5:3/5) | 8+: 4/10 (40.0%, L5:3/5) | 10+: 3/10 (30.0%, L5:2/5) | 12+: 2/10 (20.0%, L5:1/5) --> Floor80=5, Floor90=5, Floor100=3
+  REB Thresholds: 5+: 4/10 (40.0%, L5:2/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | vs POR | L 120-128 | Start | MIN:37 | PTS:33 | AST:4 | REB:2(0o/2d) | FG:10-26 | 3PT:2-11 | FT:11-12 | TO:3 PF:3 +/-:-2 | Normal
+    G2 | 2026-10-25 | vs MEM | L 112-123 | Start | MIN:36 | PTS:22 | AST:7 | REB:3(0o/3d) | FG:9-23 | 3PT:2-9 | FT:2-2 | TO:1 PF:4 +/-:-8 | FoulTrbl(4PF)
+    G3 | 2026-10-27 | @ SA | L 103-130 | Start | MIN:33 | PTS:19 | AST:5 | REB:3(0o/3d) | FG:8-20 | 3PT:3-7 | FT:0-0 | TO:3 PF:2 +/-:-14 | Blowout(-27)
+    G4 | 2026-10-29 | @ NO | L 120-132 | Start | MIN:41 | PTS:34 | AST:14 | REB:6(1o/5d) | FG:13-26 | 3PT:3-11 | FT:5-5 | TO:6 PF:4 +/-:+3 | FoulTrbl(4PF)
+    G5 | 2026-10-31 | @ MEM | L 105-136 | Start | MIN:37 | PTS:38 | AST:5 | REB:5(0o/5d) | FG:12-25 | 3PT:9-14 | FT:5-5 | TO:3 PF:3 +/-:-18 | Blowout(-31)
+    G6 | 2026-11-02 | @ DAL | W 115-100 | Start | MIN:37 | PTS:25 | AST:6 | REB:5(0o/5d) | FG:10-21 | 3PT:2-8 | FT:3-4 | TO:5 PF:3 +/-:+1 | Blowout(+15)
+    G7 | 2026-11-04 | vs LAL | L 103-116 | Start | MIN:42 | PTS:22 | AST:12 | REB:3(0o/3d) | FG:8-24 | 3PT:3-11 | FT:3-4 | TO:4 PF:2 +/-:-8 | Normal
+    G8 | 2026-11-06 | vs SA | L 109-124 | Start | MIN:33 | PTS:22 | AST:8 | REB:3(1o/2d) | FG:9-20 | 3PT:3-9 | FT:1-2 | TO:2 PF:5 +/-:-11 | Blowout(-15), FoulTrbl(5PF)
+    G9 | 2026-11-08 | vs MIA | L 108-114 | Start | MIN:39 | PTS:32 | AST:10 | REB:5(0o/5d) | FG:11-21 | 3PT:3-7 | FT:7-7 | TO:5 PF:2 +/-:-12 | Normal
+    G10 | 2026-11-10 | vs ORL | L 100-107 | Start | MIN:40 | PTS:29 | AST:6 | REB:4(0o/4d) | FG:10-21 | 3PT:4-9 | FT:5-6 | TO:4 PF:2 +/-:-5 | Normal
+
+>>> Zach LaVine (SAC - G) | Roles: Primary Scorer #2 | Status: Available
+  Sample: L10 Window N=10 (Season 11/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=21.7 / L5=20.8 / Sea=22.3 | AST L10=2.4 / L5=1.8 / Sea=2.5 | REB L10=3.2 / L5=3.8 / Sea=3.3 (OREB=0.4/DREB=2.8)
+  Prior-Season Context (Separate): 19.2 PPG, 2.3 APG, 2.8 RPG, 31.4 MPG (39 GP w/ SAC)
+  Minutes: Mean=32.6 (L5=31.2), Med=34.0, Min=21.0, Max=40.0, SD=6.04 | 30+m=7/10, 35+m=5/10 | CloseMin=35.2, BlowoutMin=28.8
+  Consistency: PTS[Med=21.5, Min=11, Max=37, SD=7.36] | AST[Med=2.0, Min=1, Max=5, SD=1.5] | REB[Med=3.5, Min=0, Max=5, SD=1.33]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 8/10 (80.0%, L5:4/5) | 20+: 7/10 (70.0%, L5:3/5) | 25+: 2/10 (20.0%, L5:1/5) | 30+: 2/10 (20.0%, L5:1/5) | 35+: 1/10 (10.0%, L5:0/5) --> Floor80=15, Floor90=10, Floor100=10
+  AST Thresholds: 3+: 4/10 (40.0%, L5:1/5) | 5+: 2/10 (20.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 1/10 (10.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-23 | vs POR | L 120-128 | Start | MIN:39 | PTS:22 | AST:1 | REB:5(0o/5d) | FG:6-15 | 3PT:3-10 | FT:7-7 | TO:3 PF:1 +/-:-2 | Normal
+    G2 | 2026-10-25 | vs MEM | L 112-123 | Start | MIN:40 | PTS:37 | AST:5 | REB:2(0o/2d) | FG:13-25 | 3PT:3-10 | FT:8-8 | TO:4 PF:0 +/-:-21 | Normal
+    G3 | 2026-10-27 | @ SA | L 103-130 | Start | MIN:31 | PTS:22 | AST:3 | REB:3(0o/3d) | FG:7-10 | 3PT:3-4 | FT:5-7 | TO:2 PF:3 +/-:-20 | Blowout(-27)
+    G4 | 2026-10-29 | @ NO | L 120-132 | Start | MIN:39 | PTS:21 | AST:5 | REB:3(2o/1d) | FG:7-17 | 3PT:3-10 | FT:4-6 | TO:3 PF:2 +/-:-25 | Normal
+    G5 | 2026-10-31 | @ MEM | L 105-136 | Start | MIN:21 | PTS:11 | AST:1 | REB:0(0o/0d) | FG:4-9 | 3PT:0-3 | FT:3-3 | TO:2 PF:3 +/-:-23 | Blowout(-31), ShortMin(21)
+    G6 | 2026-11-02 | @ DAL | W 115-100 | Start | MIN:28 | PTS:23 | AST:1 | REB:4(1o/3d) | FG:8-14 | 3PT:5-9 | FT:2-2 | TO:3 PF:1 +/-:+9 | Blowout(+15)
+    G7 | 2026-11-04 | vs LAL | L 103-116 | Start | MIN:35 | PTS:21 | AST:1 | REB:4(1o/3d) | FG:6-14 | 3PT:3-7 | FT:6-7 | TO:6 PF:5 +/-:-5 | FoulTrbl(5PF)
+    G8 | 2026-11-06 | vs SA | L 109-124 | Start | MIN:35 | PTS:14 | AST:3 | REB:4(0o/4d) | FG:4-12 | 3PT:1-6 | FT:5-5 | TO:0 PF:2 +/-:-26 | Blowout(-15)
+    G9 | 2026-11-08 | vs MIA | L 108-114 | Start | MIN:25 | PTS:15 | AST:2 | REB:4(0o/4d) | FG:6-10 | 3PT:1-5 | FT:2-2 | TO:2 PF:1 +/-:-6 | Normal
+    G10 | 2026-11-10 | vs ORL | L 100-107 | Start | MIN:33 | PTS:31 | AST:2 | REB:3(0o/3d) | FG:10-16 | 3PT:6-9 | FT:5-5 | TO:5 PF:2 +/-:+8 | Normal
+
+>>> Domantas Sabonis (SAC - F) | Roles: Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 10/11 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=13.8 / L5=10.6 / Sea=13.8 | AST L10=5.9 / L5=4.6 / Sea=5.9 | REB L10=13.3 / L5=10.4 / Sea=13.3 (OREB=3.9/DREB=9.4)
+  Prior-Season Context (Separate): 15.8 PPG, 4.1 APG, 11.4 RPG, 29.7 MPG (19 GP w/ SAC)
+  Minutes: Mean=34.4 (L5=31.8), Med=35.0, Min=24.0, Max=40.0, SD=4.52 | 30+m=9/10, 35+m=6/10 | CloseMin=34.5, BlowoutMin=34.2
+  Consistency: PTS[Med=14.5, Min=0, Max=27, SD=6.88] | AST[Med=6.0, Min=1, Max=10, SD=2.62] | REB[Med=14.5, Min=2, Max=19, SD=4.94]
+  PTS Thresholds: 10+: 7/10 (70.0%, L5:3/5) | 15+: 5/10 (50.0%, L5:2/5) | 20+: 2/10 (20.0%, L5:0/5) | 25+: 1/10 (10.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 9/10 (90.0%, L5:4/5) | 5+: 7/10 (70.0%, L5:3/5) | 7+: 5/10 (50.0%, L5:1/5) | 8+: 4/10 (40.0%, L5:1/5) | 10+: 1/10 (10.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=3, Floor100=None
+  REB Thresholds: 5+: 9/10 (90.0%, L5:4/5) | 7+: 9/10 (90.0%, L5:4/5) | 8+: 8/10 (80.0%, L5:3/5) | 10+: 8/10 (80.0%, L5:3/5) | 12+: 8/10 (80.0%, L5:3/5) | 15+: 5/10 (50.0%, L5:1/5) --> Floor80=12, Floor90=7, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | @ LAC | L 96-121 | Start | MIN:34 | PTS:14 | AST:8 | REB:18(1o/17d) | FG:5-5 | 3PT:0-0 | FT:4-4 | TO:3 PF:3 +/-:-9 | Blowout(-25)
+    G2 | 2026-10-23 | vs POR | L 120-128 | Start | MIN:39 | PTS:27 | AST:10 | REB:19(7o/12d) | FG:10-13 | 3PT:1-1 | FT:6-7 | TO:5 PF:5 +/-:-3 | FoulTrbl(5PF)
+    G3 | 2026-10-25 | vs MEM | L 112-123 | Start | MIN:35 | PTS:15 | AST:3 | REB:15(5o/10d) | FG:6-9 | 3PT:0-0 | FT:3-4 | TO:3 PF:5 +/-:-11 | FoulTrbl(5PF)
+    G4 | 2026-10-27 | @ SA | L 103-130 | Start | MIN:37 | PTS:20 | AST:8 | REB:14(6o/8d) | FG:10-16 | 3PT:0-0 | FT:0-0 | TO:2 PF:1 +/-:-15 | Blowout(-27)
+    G5 | 2026-10-29 | @ NO | L 120-132 | Start | MIN:40 | PTS:9 | AST:7 | REB:15(2o/13d) | FG:4-7 | 3PT:0-0 | FT:1-2 | TO:7 PF:4 +/-:-12 | FoulTrbl(4PF)
+    G6 | 2026-10-31 | @ MEM | L 105-136 | Start | MIN:38 | PTS:11 | AST:8 | REB:14(5o/9d) | FG:3-5 | 3PT:0-1 | FT:5-6 | TO:2 PF:4 +/-:-11 | Blowout(-31), FoulTrbl(4PF)
+    G7 | 2026-11-02 | @ DAL | W 115-100 | Start | MIN:31 | PTS:9 | AST:4 | REB:7(5o/2d) | FG:4-4 | 3PT:0-0 | FT:1-2 | TO:4 PF:4 +/-:+2 | Blowout(+15), FoulTrbl(4PF)
+    G8 | 2026-11-04 | vs LAL | L 103-116 | Start | MIN:35 | PTS:16 | AST:1 | REB:17(6o/11d) | FG:5-10 | 3PT:0-0 | FT:6-9 | TO:2 PF:1 +/-:-17 | Normal
+    G9 | 2026-11-06 | vs SA | L 109-124 | Start | MIN:31 | PTS:17 | AST:5 | REB:12(2o/10d) | FG:8-12 | 3PT:1-2 | FT:0-1 | TO:4 PF:3 +/-:-22 | Blowout(-15)
+    G10 | 2026-11-10 | vs ORL | L 100-107 | Start | MIN:24 | PTS:0 | AST:5 | REB:2(0o/2d) | FG:0-2 | 3PT:0-1 | FT:0-2 | TO:0 PF:1 +/-:-14 | Normal
+==========================================================
+TEAM OKC DETAILED KEY PLAYERS (OKC @ LAC)
+==========================================================
+
+>>> Shai Gilgeous-Alexander (OKC - G) | Roles: Primary Scorer #1, Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=30.7 / L5=31.4 / Sea=29.7 | AST L10=4.7 / L5=5.2 / Sea=4.5 | REB L10=4.3 / L5=4.2 / Sea=4.2 (OREB=0.8/DREB=3.5)
+  Prior-Season Context (Separate): 31.1 PPG, 6.6 APG, 4.3 RPG, 33.2 MPG (68 GP w/ OKC)
+  Minutes: Mean=32.3 (L5=31.8), Med=30.5, Min=28.0, Max=39.0, SD=3.63 | 30+m=7/10, 35+m=4/10 | CloseMin=35.2, BlowoutMin=29.4
+  Consistency: PTS[Med=29.0, Min=21, Max=43, SD=6.77] | AST[Med=3.5, Min=2, Max=9, SD=2.53] | REB[Med=4.0, Min=2, Max=8, SD=1.73]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 10/10 (100.0%, L5:5/5) | 20+: 10/10 (100.0%, L5:5/5) | 25+: 9/10 (90.0%, L5:5/5) | 30+: 5/10 (50.0%, L5:3/5) | 35+: 2/10 (20.0%, L5:1/5) --> Floor80=25, Floor90=25, Floor100=20
+  AST Thresholds: 3+: 8/10 (80.0%, L5:4/5) | 5+: 4/10 (40.0%, L5:2/5) | 7+: 3/10 (30.0%, L5:2/5) | 8+: 3/10 (30.0%, L5:2/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 3/10 (30.0%, L5:1/5) | 7+: 1/10 (10.0%, L5:1/5) | 8+: 1/10 (10.0%, L5:1/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-25 | vs LAC | W 108-101 | Start | MIN:36 | PTS:34 | AST:5 | REB:6(0o/6d) | FG:13-26 | 3PT:1-5 | FT:7-8 | TO:2 PF:2 +/-:+17 | Normal
+    G2 | 2026-10-26 | vs PHX | W 125-114 | Start | MIN:30 | PTS:26 | AST:3 | REB:3(0o/3d) | FG:11-18 | 3PT:1-5 | FT:3-4 | TO:4 PF:5 +/-:+10 | FoulTrbl(5PF)
+    G3 | 2026-10-28 | @ DAL | L 96-120 | Start | MIN:28 | PTS:21 | AST:2 | REB:6(2o/4d) | FG:7-19 | 3PT:1-6 | FT:6-6 | TO:1 PF:3 +/-:-21 | Blowout(-24)
+    G4 | 2026-10-31 | @ HOU | L 98-119 | Start | MIN:31 | PTS:26 | AST:3 | REB:4(1o/3d) | FG:10-20 | 3PT:3-6 | FT:3-4 | TO:2 PF:1 +/-:-7 | Blowout(-21)
+    G5 | 2026-11-02 | @ CLE | W 117-112 | Start | MIN:39 | PTS:43 | AST:8 | REB:3(0o/3d) | FG:14-35 | 3PT:4-8 | FT:11-12 | TO:1 PF:2 +/-:+7 | Normal
+    G6 | 2026-11-04 | vs CLE | W 124-116 | Start | MIN:35 | PTS:42 | AST:8 | REB:4(1o/3d) | FG:11-26 | 3PT:5-11 | FT:15-19 | TO:4 PF:2 +/-:+5 | Normal
+    G7 | 2026-11-06 | @ MEM | W 128-97 | Start | MIN:30 | PTS:28 | AST:4 | REB:3(0o/3d) | FG:11-22 | 3PT:3-5 | FT:3-3 | TO:4 PF:1 +/-:+12 | Blowout(+31)
+    G8 | 2026-11-07 | vs WSH | W 114-75 | Start | MIN:29 | PTS:30 | AST:9 | REB:2(0o/2d) | FG:11-20 | 3PT:3-5 | FT:5-6 | TO:2 PF:1 +/-:+21 | Blowout(+39)
+    G9 | 2026-11-10 | @ POR | L 103-123 | Start | MIN:29 | PTS:26 | AST:3 | REB:8(2o/6d) | FG:8-22 | 3PT:0-4 | FT:10-11 | TO:2 PF:1 +/-:-17 | Blowout(-20)
+    G10 | 2026-11-11 | @ POR | L 108-118 | Start | MIN:36 | PTS:31 | AST:2 | REB:4(2o/2d) | FG:9-20 | 3PT:0-7 | FT:13-14 | TO:2 PF:3 +/-:-7 | Normal
+
+>>> Ajay Mitchell (OKC - G) | Roles: Primary Scorer #2 | Status: Day-To-Day (Left Ankle)
+  Sample: L10 Window N=10 (Season 11/12 GP, 8 Starts) | DNPs: []
+  Averages: PTS L10=19.9 / L5=20.8 / Sea=18.5 | AST L10=3.0 / L5=2.6 / Sea=3.3 | REB L10=3.5 / L5=4.0 / Sea=3.6 (OREB=0.6/DREB=2.9)
+  Prior-Season Context (Separate): 13.6 PPG, 3.6 APG, 3.3 RPG, 25.8 MPG (57 GP w/ OKC)
+  Minutes: Mean=27.7 (L5=29.4), Med=28.0, Min=22.0, Max=35.0, SD=3.77 | 30+m=3/10, 35+m=1/10 | CloseMin=28.6, BlowoutMin=26.8
+  Consistency: PTS[Med=19.0, Min=6, Max=35, SD=8.83] | AST[Med=3.5, Min=0, Max=5, SD=1.9] | REB[Med=3.5, Min=0, Max=7, SD=2.06]
+  PTS Thresholds: 10+: 9/10 (90.0%, L5:5/5) | 15+: 6/10 (60.0%, L5:3/5) | 20+: 5/10 (50.0%, L5:3/5) | 25+: 3/10 (30.0%, L5:1/5) | 30+: 2/10 (20.0%, L5:1/5) | 35+: 1/10 (10.0%, L5:1/5) --> Floor80=10, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 7/10 (70.0%, L5:3/5) | 5+: 3/10 (30.0%, L5:1/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 3/10 (30.0%, L5:2/5) | 7+: 1/10 (10.0%, L5:1/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-22 | vs DEN | W 96-84 | Bench | MIN:23 | PTS:12 | AST:0 | REB:0(0o/0d) | FG:5-11 | 3PT:0-4 | FT:2-2 | TO:3 PF:2 +/-:+10 | Normal
+    G2 | 2026-10-25 | vs LAC | W 108-101 | Bench | MIN:28 | PTS:18 | AST:4 | REB:6(2o/4d) | FG:8-14 | 3PT:1-2 | FT:1-1 | TO:2 PF:2 +/-:+3 | Normal
+    G3 | 2026-10-26 | vs PHX | W 125-114 | Start | MIN:25 | PTS:30 | AST:5 | REB:2(0o/2d) | FG:10-16 | 3PT:1-3 | FT:9-10 | TO:1 PF:4 +/-:+18 | FoulTrbl(4PF)
+    G4 | 2026-10-28 | @ DAL | L 96-120 | Start | MIN:28 | PTS:29 | AST:3 | REB:4(0o/4d) | FG:12-20 | 3PT:2-5 | FT:3-3 | TO:2 PF:1 +/-:+4 | Blowout(-24)
+    G5 | 2026-10-31 | @ HOU | L 98-119 | Start | MIN:26 | PTS:6 | AST:5 | REB:3(1o/2d) | FG:3-9 | 3PT:0-3 | FT:0-0 | TO:1 PF:4 +/-:-27 | Blowout(-21), FoulTrbl(4PF)
+    G6 | 2026-11-02 | @ CLE | W 117-112 | Start | MIN:35 | PTS:20 | AST:1 | REB:5(1o/4d) | FG:7-16 | 3PT:0-3 | FT:6-6 | TO:0 PF:1 +/-:+1 | Normal
+    G7 | 2026-11-04 | vs CLE | W 124-116 | Start | MIN:32 | PTS:23 | AST:4 | REB:7(0o/7d) | FG:9-17 | 3PT:1-3 | FT:4-6 | TO:1 PF:1 +/-:+2 | Normal
+    G8 | 2026-11-06 | @ MEM | W 128-97 | Start | MIN:30 | PTS:35 | AST:5 | REB:1(0o/1d) | FG:14-20 | 3PT:4-7 | FT:3-5 | TO:2 PF:2 +/-:+33 | Blowout(+31)
+    G9 | 2026-11-07 | vs WSH | W 114-75 | Start | MIN:22 | PTS:12 | AST:0 | REB:4(1o/3d) | FG:5-14 | 3PT:0-2 | FT:2-3 | TO:1 PF:2 +/-:+12 | Blowout(+39)
+    G10 | 2026-11-10 | @ POR | L 103-123 | Start | MIN:28 | PTS:14 | AST:3 | REB:3(1o/2d) | FG:6-10 | 3PT:0-1 | FT:2-2 | TO:2 PF:4 +/-:-18 | Blowout(-20), FoulTrbl(4PF)
+
+>>> Isaiah Hartenstein (OKC - C) | Roles: Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=10 (Season 12/12 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=8.6 / L5=6.8 / Sea=8.0 | AST L10=3.9 / L5=5.6 / Sea=3.7 | REB L10=11.2 / L5=10.4 / Sea=10.1 (OREB=3.1/DREB=8.1)
+  Prior-Season Context (Separate): 9.2 PPG, 3.5 APG, 9.4 RPG, 24.2 MPG (47 GP w/ OKC)
+  Minutes: Mean=26.0 (L5=25.6), Med=26.0, Min=18.0, Max=34.0, SD=3.71 | 30+m=1/10, 35+m=0/10 | CloseMin=28.2, BlowoutMin=23.8
+  Consistency: PTS[Med=8.5, Min=2, Max=20, SD=5.66] | AST[Med=4.0, Min=0, Max=7, SD=2.12] | REB[Med=12.0, Min=6, Max=14, SD=2.79]
+  PTS Thresholds: 10+: 5/10 (50.0%, L5:1/5) | 15+: 2/10 (20.0%, L5:1/5) | 20+: 1/10 (10.0%, L5:1/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 8/10 (80.0%, L5:5/5) | 5+: 4/10 (40.0%, L5:4/5) | 7+: 1/10 (10.0%, L5:1/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=3, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 10/10 (100.0%, L5:5/5) | 7+: 9/10 (90.0%, L5:4/5) | 8+: 8/10 (80.0%, L5:4/5) | 10+: 7/10 (70.0%, L5:3/5) | 12+: 6/10 (60.0%, L5:2/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=8, Floor90=7, Floor100=5
+  Chronological Game Log:
+    G1 | 2026-10-25 | vs LAC | W 108-101 | Start | MIN:27 | PTS:12 | AST:1 | REB:12(4o/8d) | FG:5-9 | 3PT:0-0 | FT:2-2 | TO:2 PF:4 +/-:+1 | FoulTrbl(4PF)
+    G2 | 2026-10-26 | vs PHX | W 125-114 | Start | MIN:26 | PTS:15 | AST:3 | REB:13(6o/7d) | FG:6-7 | 3PT:0-0 | FT:3-3 | TO:1 PF:2 +/-:-1 | Normal
+    G3 | 2026-10-28 | @ DAL | L 96-120 | Start | MIN:26 | PTS:10 | AST:3 | REB:14(4o/10d) | FG:4-6 | 3PT:0-0 | FT:2-2 | TO:2 PF:1 +/-:-12 | Blowout(-24)
+    G4 | 2026-10-31 | @ HOU | L 98-119 | Start | MIN:25 | PTS:10 | AST:0 | REB:7(1o/6d) | FG:3-8 | 3PT:0-2 | FT:4-4 | TO:2 PF:3 +/-:-10 | Blowout(-21)
+    G5 | 2026-11-02 | @ CLE | W 117-112 | Start | MIN:28 | PTS:5 | AST:4 | REB:14(7o/7d) | FG:2-8 | 3PT:0-0 | FT:1-2 | TO:1 PF:2 +/-:-7 | Normal
+    G6 | 2026-11-04 | vs CLE | W 124-116 | Start | MIN:26 | PTS:3 | AST:4 | REB:12(1o/11d) | FG:1-2 | 3PT:0-0 | FT:1-2 | TO:0 PF:2 +/-:+3 | Normal
+    G7 | 2026-11-06 | @ MEM | W 128-97 | Start | MIN:26 | PTS:2 | AST:7 | REB:6(0o/6d) | FG:1-4 | 3PT:0-0 | FT:0-0 | TO:3 PF:3 +/-:+31 | Blowout(+31)
+    G8 | 2026-11-07 | vs WSH | W 114-75 | Start | MIN:18 | PTS:2 | AST:6 | REB:14(3o/11d) | FG:1-5 | 3PT:0-0 | FT:0-0 | TO:0 PF:1 +/-:+25 | Blowout(+39), ShortMin(18)
+    G9 | 2026-11-10 | @ POR | L 103-123 | Start | MIN:24 | PTS:7 | AST:5 | REB:9(2o/7d) | FG:3-6 | 3PT:0-0 | FT:1-2 | TO:0 PF:3 +/-:-7 | Blowout(-20)
+    G10 | 2026-11-11 | @ POR | L 108-118 | Start | MIN:34 | PTS:20 | AST:6 | REB:11(3o/8d) | FG:10-14 | 3PT:0-0 | FT:0-0 | TO:6 PF:5 +/-:-4 | FoulTrbl(5PF)
+==========================================================
+TEAM LAC DETAILED KEY PLAYERS (OKC @ LAC)
+==========================================================
+
+>>> Darius Garland (LAC - G) | Roles: Primary Scorer #1, Primary Assist Leader | Status: Available
+  Sample: L10 Window N=10 (Season 10/10 GP, 10 Starts) | DNPs: []
+  Averages: PTS L10=20.4 / L5=18.8 / Sea=20.4 | AST L10=6.9 / L5=7.6 / Sea=6.9 | REB L10=1.8 / L5=2.0 / Sea=1.8 (OREB=0.2/DREB=1.6)
+  Prior-Season Context (Separate): 18.8 PPG, 6.7 APG, 2.4 RPG, 29.9 MPG (45 GP w/ 2TM)
+  Minutes: Mean=32.7 (L5=33.0), Med=32.5, Min=25.0, Max=39.0, SD=4.34 | 30+m=8/10, 35+m=4/10 | CloseMin=36.2, BlowoutMin=29.2
+  Consistency: PTS[Med=20.0, Min=13, Max=30, SD=5.87] | AST[Med=6.5, Min=4, Max=11, SD=2.12] | REB[Med=1.0, Min=0, Max=5, SD=1.78]
+  PTS Thresholds: 10+: 10/10 (100.0%, L5:5/5) | 15+: 8/10 (80.0%, L5:4/5) | 20+: 5/10 (50.0%, L5:2/5) | 25+: 3/10 (30.0%, L5:1/5) | 30+: 1/10 (10.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=15, Floor90=10, Floor100=10
+  AST Thresholds: 3+: 10/10 (100.0%, L5:5/5) | 5+: 9/10 (90.0%, L5:5/5) | 7+: 5/10 (50.0%, L5:4/5) | 8+: 3/10 (30.0%, L5:2/5) | 10+: 2/10 (20.0%, L5:1/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=5, Floor90=5, Floor100=3
+  REB Thresholds: 5+: 1/10 (10.0%, L5:1/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | vs SAC | W 121-96 | Start | MIN:32 | PTS:30 | AST:4 | REB:1(0o/1d) | FG:11-19 | 3PT:3-8 | FT:5-8 | TO:3 PF:1 +/-:+15 | Blowout(+25)
+    G2 | 2026-10-23 | @ LAL | L 117-125 | Start | MIN:37 | PTS:26 | AST:6 | REB:0(0o/0d) | FG:9-19 | 3PT:4-10 | FT:4-5 | TO:9 PF:2 +/-:-16 | Normal
+    G3 | 2026-10-25 | @ OKC | L 101-108 | Start | MIN:36 | PTS:16 | AST:11 | REB:4(0o/4d) | FG:7-17 | 3PT:2-8 | FT:0-0 | TO:6 PF:3 +/-:-20 | Normal
+    G4 | 2026-10-28 | vs LAL | L 87-103 | Start | MIN:26 | PTS:14 | AST:5 | REB:1(1o/0d) | FG:4-12 | 3PT:1-3 | FT:5-5 | TO:5 PF:2 +/-:-11 | Blowout(-16)
+    G5 | 2026-10-30 | @ MIN | L 101-127 | Start | MIN:31 | PTS:24 | AST:5 | REB:2(1o/1d) | FG:10-22 | 3PT:4-8 | FT:0-0 | TO:5 PF:1 +/-:-19 | Blowout(-26)
+    G6 | 2026-11-01 | @ GS | L 112-124 | Start | MIN:33 | PTS:15 | AST:7 | REB:0(0o/0d) | FG:4-12 | 3PT:1-7 | FT:6-6 | TO:3 PF:1 +/-:-17 | Normal
+    G7 | 2026-11-02 | vs TOR | L 118-125 | Start | MIN:36 | PTS:16 | AST:8 | REB:4(0o/4d) | FG:5-14 | 3PT:1-5 | FT:5-6 | TO:7 PF:5 +/-:-16 | FoulTrbl(5PF)
+    G8 | 2026-11-04 | vs MIA | L 116-117 (OT) | Start | MIN:39 | PTS:26 | AST:7 | REB:1(0o/1d) | FG:10-14 | 3PT:4-6 | FT:2-2 | TO:6 PF:3 +/-:-16 | OT
+    G9 | 2026-11-08 | vs NO | W 139-123 | Start | MIN:32 | PTS:24 | AST:10 | REB:0(0o/0d) | FG:6-11 | 3PT:3-7 | FT:9-12 | TO:2 PF:1 +/-:+2 | Blowout(+16)
+    G10 | 2026-11-10 | @ PHX | L 110-133 | Start | MIN:25 | PTS:13 | AST:6 | REB:5(0o/5d) | FG:5-12 | 3PT:1-6 | FT:2-2 | TO:4 PF:2 +/-:-21 | Blowout(-23)
+
+>>> Rui Hachimura (LAC - F) | Roles: Primary Scorer #2, Primary Rebound Leader | Status: Available
+  Sample: L10 Window N=8 (Season 8/10 GP, 8 Starts) | DNPs: []
+  Averages: PTS L10=14.4 / L5=16.8 / Sea=14.4 | AST L10=1.6 / L5=2.0 / Sea=1.6 | REB L10=5.9 / L5=5.8 / Sea=5.9 (OREB=0.6/DREB=5.2)
+  Prior-Season Context (Separate): 11.5 PPG, 0.8 APG, 3.3 RPG, 28.3 MPG (68 GP w/ LAL)
+  Minutes: Mean=29.5 (L5=28.4), Med=29.5, Min=23.0, Max=37.0, SD=4.21 | 30+m=4/8, 35+m=1/8 | CloseMin=32.2, BlowoutMin=26.8
+  Consistency: PTS[Med=13.5, Min=5, Max=24, SD=5.63] | AST[Med=1.0, Min=0, Max=7, SD=2.18] | REB[Med=5.5, Min=3, Max=9, SD=1.9]
+  PTS Thresholds: 10+: 7/8 (87.5%, L5:5/5) | 15+: 3/8 (37.5%, L5:2/5) | 20+: 2/8 (25.0%, L5:2/5) | 25+: 0/8 (0.0%, L5:0/5) | 30+: 0/8 (0.0%, L5:0/5) | 35+: 0/8 (0.0%, L5:0/5) --> Floor80=10, Floor90=10, Floor100=None
+  AST Thresholds: 3+: 1/8 (12.5%, L5:1/5) | 5+: 1/8 (12.5%, L5:1/5) | 7+: 1/8 (12.5%, L5:1/5) | 8+: 0/8 (0.0%, L5:0/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 6/8 (75.0%, L5:4/5) | 7+: 3/8 (37.5%, L5:2/5) | 8+: 2/8 (25.0%, L5:1/5) | 10+: 0/8 (0.0%, L5:0/5) | 12+: 0/8 (0.0%, L5:0/5) | 15+: 0/8 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | vs SAC | W 121-96 | Start | MIN:32 | PTS:10 | AST:2 | REB:8(2o/6d) | FG:3-13 | 3PT:2-7 | FT:2-5 | TO:3 PF:2 +/-:+13 | Blowout(+25)
+    G2 | 2026-10-23 | @ LAL | L 117-125 | Start | MIN:33 | PTS:16 | AST:1 | REB:6(1o/5d) | FG:5-14 | 3PT:3-6 | FT:3-4 | TO:2 PF:1 +/-:-17 | Normal
+    G3 | 2026-10-25 | @ OKC | L 101-108 | Start | MIN:29 | PTS:5 | AST:0 | REB:4(0o/4d) | FG:2-11 | 3PT:1-6 | FT:0-0 | TO:3 PF:2 +/-:-17 | Normal
+    G4 | 2026-10-30 | @ MIN | L 101-127 | Start | MIN:26 | PTS:12 | AST:0 | REB:5(1o/4d) | FG:4-11 | 3PT:2-5 | FT:2-3 | TO:2 PF:2 +/-:-4 | Blowout(-26)
+    G5 | 2026-11-01 | @ GS | L 112-124 | Start | MIN:30 | PTS:24 | AST:0 | REB:7(1o/6d) | FG:10-16 | 3PT:4-7 | FT:0-0 | TO:2 PF:0 +/-:-28 | Normal
+    G6 | 2026-11-04 | vs MIA | L 116-117 (OT) | Start | MIN:37 | PTS:21 | AST:7 | REB:9(0o/9d) | FG:7-18 | 3PT:1-7 | FT:6-7 | TO:1 PF:4 +/-:+8 | OT, FoulTrbl(4PF)
+    G7 | 2026-11-08 | vs NO | W 139-123 | Start | MIN:26 | PTS:14 | AST:2 | REB:3(0o/3d) | FG:6-13 | 3PT:2-6 | FT:0-0 | TO:0 PF:2 +/-:+2 | Blowout(+16)
+    G8 | 2026-11-10 | @ PHX | L 110-133 | Start | MIN:23 | PTS:13 | AST:1 | REB:5(0o/5d) | FG:4-10 | 3PT:3-5 | FT:2-3 | TO:1 PF:0 +/-:-17 | Blowout(-23)
+
+>>> Brook Lopez (LAC - C) | Roles: Secondary Scoring/Matchup Candidate | Status: Available
+  Sample: L10 Window N=10 (Season 10/10 GP, 4 Starts) | DNPs: []
+  Averages: PTS L10=13.6 / L5=13.4 / Sea=13.6 | AST L10=1.0 / L5=0.8 / Sea=1.0 | REB L10=5.2 / L5=5.4 / Sea=5.2 (OREB=1.1/DREB=4.1)
+  Prior-Season Context (Separate): 8.5 PPG, 1.3 APG, 3.6 RPG, 21.8 MPG (75 GP w/ LAC)
+  Minutes: Mean=23.4 (L5=24.2), Med=22.0, Min=19.0, Max=35.0, SD=4.63 | 30+m=1/10, 35+m=1/10 | CloseMin=23.8, BlowoutMin=23.0
+  Consistency: PTS[Med=14.0, Min=2, Max=22, SD=6.15] | AST[Med=1.0, Min=0, Max=3, SD=0.89] | REB[Med=5.0, Min=1, Max=11, SD=2.86]
+  PTS Thresholds: 10+: 7/10 (70.0%, L5:3/5) | 15+: 5/10 (50.0%, L5:2/5) | 20+: 3/10 (30.0%, L5:2/5) | 25+: 0/10 (0.0%, L5:0/5) | 30+: 0/10 (0.0%, L5:0/5) | 35+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  AST Thresholds: 3+: 1/10 (10.0%, L5:0/5) | 5+: 0/10 (0.0%, L5:0/5) | 7+: 0/10 (0.0%, L5:0/5) | 8+: 0/10 (0.0%, L5:0/5) | 10+: 0/10 (0.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  REB Thresholds: 5+: 5/10 (50.0%, L5:3/5) | 7+: 3/10 (30.0%, L5:2/5) | 8+: 2/10 (20.0%, L5:1/5) | 10+: 1/10 (10.0%, L5:0/5) | 12+: 0/10 (0.0%, L5:0/5) | 15+: 0/10 (0.0%, L5:0/5) --> Floor80=None, Floor90=None, Floor100=None
+  Chronological Game Log:
+    G1 | 2026-10-21 | vs SAC | W 121-96 | Bench | MIN:27 | PTS:17 | AST:1 | REB:11(1o/10d) | FG:7-12 | 3PT:1-3 | FT:2-2 | TO:2 PF:2 +/-:+18 | Blowout(+25)
+    G2 | 2026-10-23 | @ LAL | L 117-125 | Bench | MIN:20 | PTS:22 | AST:0 | REB:4(3o/1d) | FG:8-9 | 3PT:2-2 | FT:4-5 | TO:2 PF:2 +/-:+1 | Normal
+    G3 | 2026-10-25 | @ OKC | L 101-108 | Bench | MIN:23 | PTS:15 | AST:2 | REB:1(0o/1d) | FG:5-10 | 3PT:3-6 | FT:2-3 | TO:0 PF:3 +/-:-1 | Normal
+    G4 | 2026-10-28 | vs LAL | L 87-103 | Bench | MIN:22 | PTS:2 | AST:3 | REB:3(1o/2d) | FG:1-5 | 3PT:0-2 | FT:0-0 | TO:1 PF:2 +/-:-21 | Blowout(-16)
+    G5 | 2026-10-30 | @ MIN | L 101-127 | Bench | MIN:21 | PTS:13 | AST:0 | REB:6(1o/5d) | FG:5-10 | 3PT:1-3 | FT:2-2 | TO:2 PF:3 +/-:-14 | Blowout(-26)
+    G6 | 2026-11-01 | @ GS | L 112-124 | Bench | MIN:19 | PTS:7 | AST:0 | REB:2(1o/1d) | FG:3-8 | 3PT:1-2 | FT:0-0 | TO:2 PF:3 +/-:+1 | Normal
+    G7 | 2026-11-02 | vs TOR | L 118-125 | Start | MIN:22 | PTS:12 | AST:1 | REB:6(1o/5d) | FG:5-10 | 3PT:1-3 | FT:1-2 | TO:0 PF:6 +/-:+8 | FoulTrbl(6PF)
+    G8 | 2026-11-04 | vs MIA | L 116-117 (OT) | Start | MIN:35 | PTS:20 | AST:1 | REB:8(0o/8d) | FG:8-11 | 3PT:2-5 | FT:2-5 | TO:1 PF:3 +/-:-1 | OT
+    G9 | 2026-11-08 | vs NO | W 139-123 | Start | MIN:26 | PTS:20 | AST:1 | REB:7(3o/4d) | FG:8-11 | 3PT:1-2 | FT:3-4 | TO:0 PF:5 +/-:+9 | Blowout(+16), FoulTrbl(5PF)
+    G10 | 2026-11-10 | @ PHX | L 110-133 | Start | MIN:19 | PTS:8 | AST:1 | REB:4(0o/4d) | FG:3-7 | 3PT:1-2 | FT:1-3 | TO:0 PF:0 +/-:-9 | Blowout(-23)
