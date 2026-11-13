@@ -1,0 +1,216 @@
+{
+ "owner": "Sid",
+ "slate_date": "2026-11-13",
+ "picks": [
+  {
+   "player": "Jalen Brunson",
+   "game": "New York Knicks @ Indiana Pacers",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+"
+  },
+  {
+   "player": "Jalen Brunson",
+   "game": "New York Knicks @ Indiana Pacers",
+   "stat": "tpm",
+   "line": 1,
+   "label": "1+ Threes"
+  },
+  {
+   "player": "Andre Drummond",
+   "game": "New York Knicks @ Indiana Pacers",
+   "stat": "reb",
+   "line": 4,
+   "label": "4+ Rebounds"
+  },
+  {
+   "player": "Franz Wagner",
+   "game": "Milwaukee Bucks @ Orlando Magic",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+"
+  },
+  {
+   "player": "Tyler Herro",
+   "game": "Milwaukee Bucks @ Orlando Magic",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+"
+  },
+  {
+   "player": "Tyler Herro",
+   "game": "Milwaukee Bucks @ Orlando Magic",
+   "stat": "ast",
+   "line": 2,
+   "label": "2+ Assists"
+  },
+  {
+   "player": "Tyler Herro",
+   "game": "Milwaukee Bucks @ Orlando Magic",
+   "stat": "tpm",
+   "line": 1,
+   "label": "1+ Threes"
+  },
+  {
+   "player": "Wendell Carter Jr.",
+   "game": "Milwaukee Bucks @ Orlando Magic",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Donovan Mitchell",
+   "game": "Cleveland Cavaliers @ Miami Heat",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+"
+  },
+  {
+   "player": "James Harden",
+   "game": "Cleveland Cavaliers @ Miami Heat",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+"
+  },
+  {
+   "player": "James Harden",
+   "game": "Cleveland Cavaliers @ Miami Heat",
+   "stat": "tpm",
+   "line": 1,
+   "label": "1+ Threes"
+  },
+  {
+   "player": "Bam Adebayo",
+   "game": "Cleveland Cavaliers @ Miami Heat",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Klay Thompson",
+   "game": "Cleveland Cavaliers @ Miami Heat",
+   "stat": "pts",
+   "line": 5,
+   "label": "5+"
+  },
+  {
+   "player": "Klay Thompson",
+   "game": "Cleveland Cavaliers @ Miami Heat",
+   "stat": "tpm",
+   "line": 1,
+   "label": "1+ Threes"
+  },
+  {
+   "player": "Jalen Johnson",
+   "game": "Atlanta Hawks @ Chicago Bulls",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Jalen Johnson",
+   "game": "Atlanta Hawks @ Chicago Bulls",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Josh Giddey",
+   "game": "Atlanta Hawks @ Chicago Bulls",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Alperen Sengun",
+   "game": "Utah Jazz @ Houston Rockets",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Reed Sheppard",
+   "game": "Utah Jazz @ Houston Rockets",
+   "stat": "tpm",
+   "line": 1,
+   "label": "1+ Threes"
+  },
+  {
+   "player": "Yaxel Lendeborg",
+   "game": "Golden State Warriors @ San Antonio Spurs",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+"
+  },
+  {
+   "player": "Yaxel Lendeborg",
+   "game": "Golden State Warriors @ San Antonio Spurs",
+   "stat": "reb",
+   "line": 4,
+   "label": "4+ Rebounds"
+  },
+  {
+   "player": "Victor Wembanyama",
+   "game": "Golden State Warriors @ San Antonio Spurs",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Victor Wembanyama",
+   "game": "Golden State Warriors @ San Antonio Spurs",
+   "stat": "blk",
+   "line": 2,
+   "label": "2+ Blocks"
+  },
+  {
+   "player": "Zach LaVine",
+   "game": "Portland Trail Blazers @ Sacramento Kings",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+"
+  },
+  {
+   "player": "Deni Avdija",
+   "game": "Portland Trail Blazers @ Sacramento Kings",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+"
+  },
+  {
+   "player": "Donovan Clingan",
+   "game": "Portland Trail Blazers @ Sacramento Kings",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Damian Lillard",
+   "game": "Portland Trail Blazers @ Sacramento Kings",
+   "stat": "tpm",
+   "line": 1,
+   "label": "1+ Threes"
+  },
+  {
+   "player": "Shai Gilgeous-Alexander",
+   "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+   "stat": "pts",
+   "line": 20,
+   "label": "20+"
+  },
+  {
+   "player": "Darius Garland",
+   "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+"
+  },
+  {
+   "player": "Isaiah Hartenstein",
+   "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  }
+ ]
+}

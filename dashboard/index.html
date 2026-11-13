@@ -71,6 +71,19 @@
   .nba details.method summary { cursor: pointer; }
   .nba details.method ul { margin: var(--cds-gap-sm) 0 0; padding-left: 1.2em; line-height: 1.5; font-size: var(--cds-font-size-caption); max-width: 75ch; }
   .nba [data-dash-source-state=refreshing] { opacity: .5; }
+  .nba .tally { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--cds-gap-md); }
+  .nba .tally button { appearance: none; text-align: left; font: inherit; color: var(--color-fg); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-md) var(--cds-pad-lg); display: grid; gap: 2px; cursor: pointer; min-width: 0; }
+  .nba .tally button.on { border-color: var(--color-fg); }
+  .nba .tally button:focus-visible { outline: 2px solid var(--color-fg); outline-offset: 2px; }
+  .nba .tally .big { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; line-height: 1.1; }
+  .nba .tally .keep .lbl { color: var(--color-ok); }
+  .nba .tally .border .lbl { color: var(--color-warn); }
+  .nba .tally .remove .lbl { color: var(--color-bad); }
+  .nba td.v-Keep { color: var(--color-ok); font-weight: var(--cds-font-weight-medium); }
+  .nba td.v-Borderline { color: var(--color-warn); font-weight: var(--cds-font-weight-medium); }
+  .nba td.v-Remove { color: var(--color-bad); font-weight: var(--cds-font-weight-medium); }
+  .nba tr.cut td:not(.v-Remove) { opacity: .6; }
+  .nba td.why { white-space: normal; min-width: 260px; max-width: 420px; text-align: left; }
 </style>
 
 <div class="nba">
@@ -85,6 +98,7 @@
     <button class="tab" role="tab" data-tab="slate" aria-selected="true">Upcoming games</button>
     <button class="tab" role="tab" data-tab="players" aria-selected="false">Player projections</button>
     <button class="tab" role="tab" data-tab="past" aria-selected="false">Past results</button>
+    <button class="tab" role="tab" data-tab="picks" aria-selected="false">Sid's picks</button>
   </nav>
 
   <section id="slate" aria-label="Upcoming games">
@@ -229,6 +243,48 @@
       <div class="split" data-draw="boxTables" data-source="logs"></div>
     </div>
   </section>
+
+  <section id="picks" aria-label="Sid's picks" hidden>
+    <div class="head">
+      <h2>Sid's picks: what to keep</h2>
+      <p class="note">Each pick is checked against the player's last 10 games played, the official injury report and their minutes. Remove: injured or questionable, under 18 minutes a game, or hit the line in fewer than 8 of 10. Borderline: blocks or steals, or a game under 16 minutes. Past hit rates are not guarantees.</p>
+    </div>
+    <div class="tally" id="picks-tally">
+      <button type="button" class="keep" data-verdict="Keep"><span class="lbl small">Keep</span><span class="big" data-draw="nKeep">—</span></button>
+      <button type="button" class="border" data-verdict="Borderline"><span class="lbl small">Borderline</span><span class="big" data-draw="nBorder">—</span></button>
+      <button type="button" class="remove" data-verdict="Remove"><span class="lbl small">Remove</span><span class="big" data-draw="nRemove">—</span></button>
+    </div>
+    <p class="note">Tap a box to show only those picks. In one multi-leg bet, every extra leg adds risk: at a 90% chance per leg, 10 legs all land about 35% of the time and 20 legs about 12%.</p>
+    <div class="toolbar">
+      <label for="picks-game">Game
+        <select class="dash-select" id="picks-game" data-draw="picksGame" data-source="picks"></select>
+      </label>
+    </div>
+    <div class="tablewrap">
+      <table id="picks-table" data-source="picks" data-row-key="pick_id">
+        <thead>
+          <tr>
+            <th data-field="verdict">Verdict</th>
+            <th data-field="player" class="l">Player</th>
+            <th data-field="pick" class="l">Pick</th>
+            <th data-field="syd_time" class="l">Sydney</th>
+            <th data-field="opp" class="l">Opp</th>
+            <th data-field="l10_hits">L10 hits</th>
+            <th data-field="l10_games">of</th>
+            <th data-field="l10_low">L10 low</th>
+            <th data-field="l10_avg">L10 avg</th>
+            <th data-field="projection">Projection</th>
+            <th data-field="min_low">Min low</th>
+            <th data-field="min_high">Min high</th>
+            <th data-field="status" class="l">Status</th>
+            <th data-field="reason" class="l">Why</th>
+            <th data-field="l10_values" class="l">Last 10 (oldest first)</th>
+          </tr>
+        </thead>
+        <tbody data-draw="picksRows"></tbody>
+      </table>
+    </div>
+  </section>
 </div>
 
 <script>
@@ -252,7 +308,7 @@
   };
   document.querySelectorAll('.nba .tab').forEach((b) => b.addEventListener('click', () => N.showTab(b.dataset.tab)));
   const startTab = (location.hash || '').replace('#', '');
-  if (['slate', 'players', 'past'].includes(startTab)) N.showTab(startTab);
+  if (['slate', 'players', 'past', 'picks'].includes(startTab)) N.showTab(startTab);
 
   document.querySelectorAll('#stat-seg button').forEach((b) => b.addEventListener('click', () => dash.setParams({ stat: b.dataset.stat })));
 
@@ -623,6 +679,66 @@
       tr.className = 'click'; tr.tabIndex = 0;
       [r.date, r.opp, r.ha, r.min, r.pts, r.reb, r.ast, r.fg, r.tp, r.ft, r.pm].forEach((v, i) => { const td = document.createElement('td'); if (i === 1 || i === 2) td.className = 'l'; td.textContent = String(v); tr.append(td); });
       tr.addEventListener('click', () => dash.setParams({ pgame: r.game_id }));
+      return tr;
+    }));
+  });
+})();
+</script>
+
+<script>
+(() => {
+  const S = window.NBA;
+  dash.calc('pick_counts', {
+    inputs: ['picks'],
+    title: "Sid's picks by verdict",
+    description: 'Number of picks in each verdict group.',
+    fn: (picks) => ['Keep', 'Borderline', 'Remove'].map((verdict) => ({ verdict, n: picks.filter((p) => p.verdict === verdict).length })),
+  });
+  document.querySelectorAll('#picks-tally button').forEach((b) => b.addEventListener('click', () => {
+    const v = b.dataset.verdict;
+    dash.setParams({ verdict: S.p().verdict === v ? null : v });
+  }));
+  dash.onData(() => {
+    const v = S.p().verdict || '';
+    document.querySelectorAll('#picks-tally button').forEach((b) => {
+      b.classList.toggle('on', b.dataset.verdict === v);
+      b.setAttribute('aria-pressed', String(b.dataset.verdict === v));
+    });
+  });
+  const count = (verdict) => (el) => {
+    const c = dash.data('pick_counts');
+    el.dataset.source = 'pick_counts'; el.dataset.field = 'n'; el.dataset.where = 'verdict=' + verdict;
+    const row = c.status === 'ok' ? (c.data || []).find((r) => r.verdict === verdict) : null;
+    el.textContent = row ? String(row.n) : '—';
+  };
+  dash.draw('nKeep', count('Keep'));
+  dash.draw('nBorder', count('Borderline'));
+  dash.draw('nRemove', count('Remove'));
+
+  dash.draw('picksGame', (sel) => {
+    const games = [...new Map(S.rows('picks').map((r) => [r.game, r.syd_time])).entries()];
+    sel.replaceChildren(new Option('All games', ''), ...games.map(([g, t]) => new Option(`${(t || '').replace(' AEDT', '')} · ${g}`, g)));
+    sel.value = S.p().pickgame || '';
+    sel.onchange = () => dash.setParams({ pickgame: sel.value || null });
+  });
+
+  dash.draw('picksRows', (tb) => {
+    if (dash.data('picks').status !== 'ok') { tb.replaceChildren(); return; }
+    const p = S.p();
+    const order = { Remove: 0, Borderline: 1, Keep: 2 };
+    const rows = S.rows('picks')
+      .filter((r) => (!p.verdict || r.verdict === p.verdict) && (!p.pickgame || r.game === p.pickgame))
+      .slice().sort((a, b) => order[a.verdict] - order[b.verdict] || a.pick_id - b.pick_id);
+    tb.replaceChildren(...rows.map((r) => {
+      const tr = document.createElement('tr');
+      tr.dataset.key = S.enc(r.pick_id);
+      if (r.verdict === 'Remove') tr.className = 'cut';
+      const td = (v, cls) => { const c = document.createElement('td'); if (cls) c.className = cls; c.textContent = v === null || v === undefined ? '—' : String(v); return c; };
+      tr.append(
+        td(r.verdict, 'v-' + r.verdict), td(r.player, 'l'), td(r.pick, 'l'), td((r.syd_time || '').replace(' AEDT', ''), 'l'), td(r.opp, 'l'),
+        td(r.l10_hits), td(r.l10_games), td(r.l10_low), td(r.l10_avg), td(r.projection),
+        td(r.min_low), td(r.min_high), td(r.status, 'l'), td(r.reason, 'why'), td(r.l10_values, 'l'),
+      );
       return tr;
     }));
   });
