@@ -67,6 +67,17 @@ python run_pipeline.py --date 2026-11-06 --skip-fetch
 | `--output-dir` | `./output` | Directory for exported matchup and player-floor text dumps |
 | `--skip-fetch` | `False` | Reuse existing cached JSON/HTML files in `--data-dir` |
 
+## Predictions, Report & Dashboard
+
+`run_pipeline.py` now also:
+
+- **Parses the Official NBA Injury Report PDF** (`src/parse_injury_pdf.py`, needs `pdftotext` from poppler-utils) into `data/injury_overrides_<date>.json`, so official Out/Doubtful/Questionable/Probable statuses override ESPN's "Day-To-Day".
+- **Builds predictions** (`src/build_predictions.py`): game winner, win %, score, margin, total, confidence and blowout risk (possession model blended 50/50 with DraftKings lines, win % averaged with vig-free moneyline and ESPN BPI), plus PTS/REB/AST projections with likely ranges for every rotation player on the slate.
+- **Writes the full Parts A–I report** to `reports/<date>_nba_elite_analyst_report.md`. Part I (analyst summary) is written by hand and kept when the report is regenerated.
+- **Exports dashboard data** to `output/dashboard/` (`slate_games.json`, `player_projections.json`, `past_games.json`, `player_logs.json`). The dashboard page source is `dashboard/index.html`.
+
+Network hosts needed: `site.api.espn.com`, `www.basketball-reference.com`, `official.nba.com`, `ak-static.cms.nba.com`.
+
 ## Methodology & Data Integrity Rules
 
 1. **No Blended Seasons**: When early-season sample sizes are `< 10` games, actual current-season appearances (`N`) are evaluated transparently and prior-season averages are displayed strictly as separate reference context.
