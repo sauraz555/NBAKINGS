@@ -88,10 +88,10 @@
 
 <div class="nba">
   <header class="head" id="top">
-    <p class="eyebrow">NBA 2026-27 · Emirates NBA Cup group play · Times in Sydney (AEDT)</p>
-    <h1>Saturday 14 November slate</h1>
+    <p class="eyebrow">NBA 2026-27 · Times in Sydney (AEDT)</p>
+    <h1><span data-draw="slateDay">—</span> slate</h1>
     <p class="lede">Strongest pick: <b data-draw="topPick">—</b> at <b data-draw="topPct">—</b>. Closest game: <b data-draw="closeGame">—</b>, where the blended margin is <b data-draw="closeMargin">—</b> points.</p>
-    <p class="note">Predictions blend a possession model with DraftKings lines and ESPN BPI. Player numbers are projections from the last 10 games, not guarantees. Injury statuses are from the official NBA report of 13 Nov, 7:15 AM ET (11:15 PM Friday Sydney).</p>
+    <p class="note">Predictions blend a possession model with DraftKings lines and ESPN BPI. Player numbers are projections from the last 10 games, not guarantees. Injury statuses come from the latest official NBA report when the data was built; teams that had not yet submitted use ESPN. Check again close to tip-off.</p>
   </header>
 
   <nav class="tabs" role="tablist" aria-label="Dashboard sections">
@@ -246,8 +246,8 @@
 
   <section id="picks" aria-label="Sid's picks" hidden>
     <div class="head">
-      <h2>Sid's picks: what to keep</h2>
-      <p class="note">Each pick is checked against the player's last 10 games played, the official injury report and their minutes. Remove: injured or questionable, under 18 minutes a game, or hit the line in fewer than 8 of 10. Borderline: blocks or steals, or a game under 16 minutes. Past hit rates are not guarantees.</p>
+      <h2>Sid's picks: Saturday 14 November (last night)</h2>
+      <p class="note">Each pick is checked against the player's last 10 games played, the official injury report and their minutes. Remove: injured or questionable, under 18 minutes a game, or hit the line in fewer than 8 of 10. Borderline: blocks or steals, or a game under 16 minutes. Past hit rates are not guarantees. Send new picks to have them reviewed for the next slate.</p>
     </div>
     <div class="tally" id="picks-tally">
       <button type="button" class="keep" data-verdict="Keep"><span class="lbl small">Keep</span><span class="big" data-draw="nKeep">—</span></button>
@@ -332,6 +332,12 @@
   const topGame = () => { const r = H.rows('slate'); return r.length ? r.reduce((a, b) => (b.win_prob > a.win_prob ? b : a)) : null; };
   const closeGame = () => { const r = H.rows('slate'); return r.length ? r.reduce((a, b) => (b.pred_margin < a.pred_margin ? b : a)) : null; };
   const markRow = (el, field, g) => { el.dataset.source = 'slate'; el.dataset.field = field; el.dataset.where = 'game_id=' + H.enc(g.game_id); };
+  dash.draw('slateDay', (el) => {
+    const r = H.rows('slate');
+    if (!r.length) { el.textContent = '—'; return; }
+    el.dataset.source = 'slate'; el.dataset.field = 'syd_date'; el.dataset.where = 'game_id=' + H.enc(r[0].game_id);
+    el.textContent = d3.utcFormat('%A %-d %B')(d3.utcParse('%Y-%m-%d')(r[0].syd_date));
+  });
   dash.draw('topPick', (el) => { const g = topGame(); if (!g) { el.textContent = '—'; return; } markRow(el, 'winner', g); el.textContent = g.winner; });
   dash.draw('topPct', (el) => { const g = topGame(); if (!g) { el.textContent = '—'; return; } markRow(el, 'winner_pct', g); el.textContent = H.fmt1(g.winner_pct) + '%'; });
   dash.draw('closeGame', (el) => { const g = closeGame(); if (!g) { el.textContent = '—'; return; } markRow(el, 'matchup', g); el.textContent = g.matchup; });

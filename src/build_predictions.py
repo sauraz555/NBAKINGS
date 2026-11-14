@@ -18,7 +18,9 @@ PLAYER MODEL
   Per-minute rate = 0.60 * last-10 rate + 0.25 * season rate + 0.15 * last-5 rate.
   Expected minutes = 0.60 * last-10 MIN + 0.40 * last-5 MIN, + share of minutes vacated by teammates
   who played in the team's last 3 games but are Out/Doubtful now, x0.95 for starters when the
-  blended spread is >= 10 (elevated blowout concern), capped at the L10 maximum and 112% of the L10 mean.
+  blended spread is >= 10 (elevated blowout concern), x0.97 for starters on the second night of a
+  back-to-back, capped at the L10 maximum and 112% of the L10 mean.
+  Confidence drops one level (High -> Medium) on the second night of a back-to-back.
   Matchup multiplier (half-strength): PTS by opponent DRtg vs league and game pace vs team pace;
   AST by opponent assists allowed; REB by opponent rebounds allowed.
   Range = projection +/- 0.8 * last-10 standard deviation (scaled to expected minutes).
@@ -228,6 +230,7 @@ def _project_team(team: str, opp: str, game: dict, M: dict, C: dict, lg: dict) -
     m_ast = 1 + 0.5 * ((_f(opp_pg["opp_ast"]) / lg["opp_ast"]) * pace_x - 1)
     m_reb = 1 + 0.5 * ((_f(opp_pg["opp_trb"]) / lg["opp_trb"]) * pace_x - 1)
     elevated = game["blowout"] == "Elevated"
+    b2b = bool(M["team_splits"].get(team, {}).get("rest_info", {}).get("is_b2b_second"))
 
     out = []
     for p in rot:
@@ -238,6 +241,8 @@ def _project_team(team: str, opp: str, game: dict, M: dict, C: dict, lg: dict) -
         starter = p["starts"] >= p["gp"] / 2
         if elevated:
             exp_min *= 0.95 if starter else 1.03
+        if b2b and starter:
+            exp_min *= 0.97
         exp_min = min(exp_min, max(p["min"]["max"], l10m), 1.12 * l10m)
 
         proj = {}
@@ -260,6 +265,8 @@ def _project_team(team: str, opp: str, game: dict, M: dict, C: dict, lg: dict) -
             conf = "High"
         else:
             conf = "Medium"
+        if b2b and conf == "High":
+            conf = "Medium"
         trend_d = (p["l5_pts"] or 0) - p["pts"]["mean"]
         trend = "Rising" if trend_d >= 2.5 else ("Falling" if trend_d <= -2.5 else "Stable")
         risk = []
@@ -269,6 +276,10 @@ def _project_team(team: str, opp: str, game: dict, M: dict, C: dict, lg: dict) -
             risk.append("Probable on injury report")
         if elevated:
             risk.append("Elevated blowout risk could cut 4th-quarter minutes")
+        elif game["blowout"] == "Moderate":
+            risk.append("Moderate blowout risk: either side's starters could sit late")
+        if b2b:
+            risk.append("Second night of a back-to-back: rest or reduced minutes possible")
         if p["min"]["min"] < 0.7 * l10m:
             risk.append(f"Had a {p['min']['min']:.0f}-minute game in last {p['gp']}")
         if (p["pf"] or 0) >= 3.5:
