@@ -1,0 +1,132 @@
+{
+ "owner": "Low-risk slip",
+ "slate_date": "2026-11-15",
+ "picks": [
+  {
+   "player": "Tyrese Maxey",
+   "game": "Indiana Pacers @ Philadelphia 76ers",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Tyrese Maxey",
+   "game": "Indiana Pacers @ Philadelphia 76ers",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Luka Doncic",
+   "game": "Los Angeles Lakers @ Phoenix Suns",
+   "stat": "pts",
+   "line": 20,
+   "label": "20+ Points"
+  },
+  {
+   "player": "Walker Kessler",
+   "game": "Los Angeles Lakers @ Phoenix Suns",
+   "stat": "reb",
+   "line": 8,
+   "label": "8+ Rebounds"
+  },
+  {
+   "player": "Darius Garland",
+   "game": "Charlotte Hornets @ LA Clippers",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Darius Garland",
+   "game": "Charlotte Hornets @ LA Clippers",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Victor Wembanyama",
+   "game": "San Antonio Spurs @ Utah Jazz",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Victor Wembanyama",
+   "game": "San Antonio Spurs @ Utah Jazz",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Jayson Tatum",
+   "game": "Dallas Mavericks @ Boston Celtics",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Jayson Tatum",
+   "game": "Dallas Mavericks @ Boston Celtics",
+   "stat": "reb",
+   "line": 4,
+   "label": "4+ Rebounds"
+  },
+  {
+   "player": "Jalen Brunson",
+   "game": "New York Knicks @ Toronto Raptors",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Karl-Anthony Towns",
+   "game": "New York Knicks @ Toronto Raptors",
+   "stat": "reb",
+   "line": 10,
+   "label": "10+ Rebounds"
+  },
+  {
+   "player": "Alperen Sengun",
+   "game": "Houston Rockets @ Washington Wizards",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Alperen Sengun",
+   "game": "Houston Rockets @ Washington Wizards",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Jalen Johnson",
+   "game": "Atlanta Hawks @ Milwaukee Bucks",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Jalen Johnson",
+   "game": "Atlanta Hawks @ Milwaukee Bucks",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Shai Gilgeous-Alexander",
+   "game": "Oklahoma City Thunder @ Sacramento Kings",
+   "stat": "pts",
+   "line": 20,
+   "label": "20+ Points"
+  },
+  {
+   "player": "Isaiah Hartenstein",
+   "game": "Oklahoma City Thunder @ Sacramento Kings",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  }
+ ]
+}

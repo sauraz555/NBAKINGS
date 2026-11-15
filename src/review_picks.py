@@ -2,7 +2,7 @@
 
 Input:  data/picks_<date>.json   {"owner", "slate_date", "picks": [{player, game, stat, line, label}]}
         stat is one of pts, reb, ast, tpm (threes made), blk, stl.
-Output: output/dashboard/sids_picks.json  ({rows, meta} for the dashboard)
+Output: output/dashboard/picks_review.json  ({rows, meta} for the dashboard)
         output/<date>_picks_review.md
 
 RULES (applied in order)
@@ -10,7 +10,16 @@ RULES (applied in order)
               or averages under 18 minutes over the last 10 games,
               or hit the line in under 80% of the last 10 games.
   Borderline  the stat is blocks or steals (high game-to-game swing),
-              or the player had a game under 16 minutes in the last 10 (unstable role).
+              or the player had a game under 16 minutes in the last 10 (unstable role),
+              or the shot volume behind the stat is falling: for threes, three-point attempts;
+              for points, field-goal attempts. Falling means the last-5 average is under 85% of
+              the last-10 average, or the last game is under 75% of it. (Jamal Murray, 14 Nov ET:
+              3PA fell 16 -> 3 over ten games before he went 0-for on a 2+ threes leg.)
+              Threes also get a shooting-maths check: with n = average three-point attempts and
+              p = three-point percentage over the last 10, the binomial chance of making the line
+              must be at least 85%, or the pick is Borderline. A 9/10 hit rate on 2+ threes can
+              hide a real chance near 80% (Murray: ~8 attempts at 38%).
+              Thin cushion: a note when the last-10 average is less than 25% above the line.
   Keep        everything else.
 A hit rate is what happened in past games, not a probability for the next one.
 
@@ -69,6 +78,26 @@ def review_picks(target_date: str, data_dir: str, output_dir: str) -> list[dict]
         proj_key = {"pts": "proj_pts", "reb": "proj_reb", "ast": "proj_ast"}.get(stat)
 
         rate = hits / len(l10) if l10 else 0
+        shot_flag = ""
+        if stat == "tpm" and l10:
+            att = sum(x.get("tpa", 0) for x in l10)
+            made = sum(x.get("tpm", 0) for x in l10)
+            n_att = round(att / len(l10))
+            pct = made / att if att else 0.0
+            from math import comb
+            p_line = sum(comb(n_att, k) * pct ** k * (1 - pct) ** (n_att - k) for k in range(line, n_att + 1))
+            if p_line < 0.85:
+                shot_flag = (f"Shooting maths: about {n_att} attempts at {pct:.0%} gives roughly a "
+                             f"{p_line:.0%} chance of {line}+ threes, lower than the hit rate suggests.")
+        vol_key = {"tpm": "tpa", "pts": "fga"}.get(stat)
+        vol_flag = ""
+        if vol_key and len(l10) >= 6:
+            vv = [x.get(vol_key, 0) for x in l10]
+            v10, v5, vlast = statistics.mean(vv), statistics.mean(vv[-5:]), vv[-1]
+            label = "three-point attempts" if vol_key == "tpa" else "shot attempts"
+            if v10 and (v5 < 0.85 * v10 or vlast < 0.75 * v10):
+                vol_flag = (f"Falling {label}: last game {vlast}, last-5 average {v5:.1f} "
+                            f"vs last-10 {v10:.1f}.")
         if st.lower() in ("out", "doubtful", "questionable", "day-to-day", "suspension"):
             verdict, reason = "Remove", f"{st} on the official injury report."
         elif avg_min < 18:
@@ -79,11 +108,20 @@ def review_picks(target_date: str, data_dir: str, output_dir: str) -> list[dict]
             verdict, reason = "Borderline", f"{STAT_NAMES[stat].capitalize()} swing a lot from game to game."
         elif min(mins) < 16:
             verdict, reason = "Borderline", f"Minutes are unstable ({min(mins):.0f} to {max(mins):.0f})."
+        elif shot_flag:
+            verdict, reason = "Borderline", shot_flag
+        elif vol_flag:
+            verdict, reason = "Borderline", vol_flag
         else:
             verdict, reason = "Keep", "Steady minutes and a strong recent hit rate."
         starter = sum(1 for x in l10 if x.get("starter")) >= len(l10) / 2
         if verdict != "Remove" and starter and g.get("blowout") in ("Elevated", "Moderate") and min(mins) < 20:
             reason += f" {g['blowout']} blowout risk could cut late minutes."
+        avg_val = statistics.mean(vals) if vals else 0
+        if verdict != "Remove" and line and avg_val < 1.25 * line:
+            reason += f" Thin cushion: averages {avg_val:.1f} against a {line}+ line."
+        if verdict != "Remove" and mins and mins[-1] < 0.8 * avg_min:
+            reason += f" Played only {mins[-1]:.0f} minutes last game (average {avg_min:.0f})."
         if misses and verdict != "Remove":
             reason += " Misses: " + "; ".join(misses) + "."
 
@@ -115,7 +153,7 @@ def _write(rows, spec, C, output_dir, target_date):
         {"label": "Input", "value": f"picks_{target_date}.json ({len(rows)} picks), ESPN game logs fetched {C.get('fetched_at_utc')}, "
                                      "Official NBA injury report"},
     ]
-    with open(os.path.join(output_dir, "dashboard", "sids_picks.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(output_dir, "dashboard", "picks_review.json"), "w", encoding="utf-8") as f:
         json.dump({"rows": rows, "meta": meta}, f, separators=(",", ":"))
 
     lines = [f"# {spec.get('owner', '')}'s picks — {target_date} (US ET) slate\n",
