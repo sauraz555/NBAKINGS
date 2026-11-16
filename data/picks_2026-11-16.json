@@ -1,0 +1,104 @@
+{
+ "owner": "Low-risk slip",
+ "slate_date": "2026-11-16",
+ "picks": [
+  {
+   "player": "Josh Giddey",
+   "game": "Chicago Bulls @ Cleveland Cavaliers",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Donovan Mitchell",
+   "game": "Chicago Bulls @ Cleveland Cavaliers",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Cameron Boozer",
+   "game": "Memphis Grizzlies @ Washington Wizards",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Cedric Coward",
+   "game": "Memphis Grizzlies @ Washington Wizards",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Julius Randle",
+   "game": "Philadelphia 76ers @ Brooklyn Nets",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Michael Porter Jr.",
+   "game": "Philadelphia 76ers @ Brooklyn Nets",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "game": "Houston Rockets @ Miami Heat",
+   "stat": "pts",
+   "line": 20,
+   "label": "20+ Points"
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "game": "Houston Rockets @ Miami Heat",
+   "stat": "reb",
+   "line": 10,
+   "label": "10+ Rebounds"
+  },
+  {
+   "player": "Jaden McDaniels",
+   "game": "Portland Trail Blazers @ Minnesota Timberwolves",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Deni Avdija",
+   "game": "Portland Trail Blazers @ Minnesota Timberwolves",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Jeremiah Fears",
+   "game": "Golden State Warriors @ New Orleans Pelicans",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Zion Williamson",
+   "game": "Golden State Warriors @ New Orleans Pelicans",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Nikola Jokic",
+   "game": "Phoenix Suns @ Denver Nuggets",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Nikola Jokic",
+   "game": "Phoenix Suns @ Denver Nuggets",
+   "stat": "ast",
+   "line": 8,
+   "label": "8+ Assists"
+  }
+ ]
+}
