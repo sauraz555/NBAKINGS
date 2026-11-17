@@ -1,0 +1,62 @@
+{
+ "owner": "Low-risk slip",
+ "slate_date": "2026-11-17",
+ "picks": [
+  {
+   "player": "Jalen Brunson",
+   "game": "New York Knicks @ Toronto Raptors",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Karl-Anthony Towns",
+   "game": "New York Knicks @ Toronto Raptors",
+   "stat": "reb",
+   "line": 10,
+   "label": "10+ Rebounds"
+  },
+  {
+   "player": "Victor Wembanyama",
+   "game": "Detroit Pistons @ San Antonio Spurs",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Paul Reed",
+   "game": "Detroit Pistons @ San Antonio Spurs",
+   "stat": "reb",
+   "line": 4,
+   "label": "4+ Rebounds"
+  },
+  {
+   "player": "Darius Garland",
+   "game": "Utah Jazz @ LA Clippers",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Darius Garland",
+   "game": "Utah Jazz @ LA Clippers",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Luka Doncic",
+   "game": "Charlotte Hornets @ Los Angeles Lakers",
+   "stat": "pts",
+   "line": 25,
+   "label": "25+ Points"
+  },
+  {
+   "player": "Luka Doncic",
+   "game": "Charlotte Hornets @ Los Angeles Lakers",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  }
+ ]
+}

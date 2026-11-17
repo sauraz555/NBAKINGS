@@ -19,7 +19,8 @@ RULES (applied in order)
               p = three-point percentage over the last 10, the binomial chance of making the line
               must be at least 85%, or the pick is Borderline. A 9/10 hit rate on 2+ threes can
               hide a real chance near 80% (Murray: ~8 attempts at 38%).
-              Thin cushion: a note when the last-10 average is less than 25% above the line.
+              or the cushion is thin: the last-10 average is less than 25% above the line
+              (Jokic 8+ assists, 16 Nov ET: averaged 9.5, got 7).
   Keep        everything else.
 A hit rate is what happened in past games, not a probability for the next one.
 
@@ -112,14 +113,13 @@ def review_picks(target_date: str, data_dir: str, output_dir: str) -> list[dict]
             verdict, reason = "Borderline", shot_flag
         elif vol_flag:
             verdict, reason = "Borderline", vol_flag
+        elif vals and statistics.mean(vals) < 1.25 * line:
+            verdict, reason = "Borderline", f"Thin cushion: averages {statistics.mean(vals):.1f} against a {line}+ line."
         else:
             verdict, reason = "Keep", "Steady minutes and a strong recent hit rate."
         starter = sum(1 for x in l10 if x.get("starter")) >= len(l10) / 2
         if verdict != "Remove" and starter and g.get("blowout") in ("Elevated", "Moderate") and min(mins) < 20:
             reason += f" {g['blowout']} blowout risk could cut late minutes."
-        avg_val = statistics.mean(vals) if vals else 0
-        if verdict != "Remove" and line and avg_val < 1.25 * line:
-            reason += f" Thin cushion: averages {avg_val:.1f} against a {line}+ line."
         if verdict != "Remove" and mins and mins[-1] < 0.8 * avg_min:
             reason += f" Played only {mins[-1]:.0f} minutes last game (average {avg_min:.0f})."
         if misses and verdict != "Remove":
