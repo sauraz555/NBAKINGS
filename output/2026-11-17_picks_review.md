@@ -25,6 +25,10 @@
               p = three-point percentage over the last 10, the binomial chance of making the line
               must be at least 85%, or the pick is Borderline. A 9/10 hit rate on 2+ threes can
               hide a real chance near 80% (Murray: ~8 attempts at 38%).
+              or, for assists and rebounds, the count maths is weak: treating the stat as a
+              Poisson count with the last-10 average as its mean, the chance of reaching the
+              line is under 88% (16 Nov ET: LaMelo Ball 4+ assists ~85%, got 0; Jokic 8+
+              assists ~73%, got 7),
               or the cushion is thin: the last-10 average is less than 25% above the line
               (Jokic 8+ assists, 16 Nov ET: averaged 9.5, got 7).
   Keep        everything else.

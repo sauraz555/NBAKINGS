@@ -19,6 +19,10 @@ RULES (applied in order)
               p = three-point percentage over the last 10, the binomial chance of making the line
               must be at least 85%, or the pick is Borderline. A 9/10 hit rate on 2+ threes can
               hide a real chance near 80% (Murray: ~8 attempts at 38%).
+              or, for assists and rebounds, the count maths is weak: treating the stat as a
+              Poisson count with the last-10 average as its mean, the chance of reaching the
+              line is under 88% (16 Nov ET: LaMelo Ball 4+ assists ~85%, got 0; Jokic 8+
+              assists ~73%, got 7),
               or the cushion is thin: the last-10 average is less than 25% above the line
               (Jokic 8+ assists, 16 Nov ET: averaged 9.5, got 7).
   Keep        everything else.
@@ -90,6 +94,14 @@ def review_picks(target_date: str, data_dir: str, output_dir: str) -> list[dict]
             if p_line < 0.85:
                 shot_flag = (f"Shooting maths: about {n_att} attempts at {pct:.0%} gives roughly a "
                              f"{p_line:.0%} chance of {line}+ threes, lower than the hit rate suggests.")
+        count_flag = ""
+        if stat in ("ast", "reb") and vals:
+            from math import exp, factorial
+            mu = statistics.mean(vals)
+            p_line = 1 - sum(exp(-mu) * mu ** k / factorial(k) for k in range(line))
+            if p_line < 0.88:
+                count_flag = (f"Count maths: averaging {mu:.1f} gives roughly a {p_line:.0%} chance of "
+                              f"{line}+ {STAT_NAMES[stat]}, lower than the hit rate suggests.")
         vol_key = {"tpm": "tpa", "pts": "fga"}.get(stat)
         vol_flag = ""
         if vol_key and len(l10) >= 6:
@@ -113,6 +125,8 @@ def review_picks(target_date: str, data_dir: str, output_dir: str) -> list[dict]
             verdict, reason = "Borderline", shot_flag
         elif vol_flag:
             verdict, reason = "Borderline", vol_flag
+        elif count_flag:
+            verdict, reason = "Borderline", count_flag
         elif vals and statistics.mean(vals) < 1.25 * line:
             verdict, reason = "Borderline", f"Thin cushion: averages {statistics.mean(vals):.1f} against a {line}+ line."
         else:
