@@ -1,0 +1,450 @@
+{
+  "HOU": {
+    "Clint Capela": [
+      "Out",
+      "Right Ankle Sprain"
+    ],
+    "Quadir Copeland": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Julian Phillips": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Amen Thompson": [
+      "Questionable",
+      "Left Knee Soreness"
+    ]
+  },
+  "IND": {
+    "Johnny Furphy": [
+      "Out",
+      "Right ACL Repair / Surgery"
+    ],
+    "Tyrese Haliburton": [
+      "Out",
+      "Left Hamstring Strain"
+    ],
+    "T.J. McConnell": [
+      "Probable",
+      "Right Hamstring Strain"
+    ],
+    "Andrew Nembhard": [
+      "Questionable",
+      "Left Hip Soreness / Tightness"
+    ],
+    "Ben Sheppard": [
+      "Out",
+      "Left Meniscus Surgery"
+    ]
+  },
+  "MEM": {
+    "GG Jackson": [
+      "Out",
+      "Left 5th Metatarsal Fracture"
+    ],
+    "Ty Jerome": [
+      "Out",
+      "Right Hip Impingement"
+    ],
+    "Scotty Pippen Jr.": [
+      "Out",
+      "Lumbar Disc Herniation"
+    ],
+    "Richie Saunders": [
+      "Out",
+      "Right Knee Surgery"
+    ],
+    "Isaiah Stewart": [
+      "Out",
+      "Illness"
+    ]
+  },
+  "CLE": {
+    "Sam Merrill": [
+      "Questionable",
+      "Right Elbow Injury Management"
+    ],
+    "Evan Mobley": [
+      "Out",
+      "Left Great Toe Sprain"
+    ],
+    "Nae'Qwan Tomlin": [
+      "Out",
+      "Low Back Stress Reaction"
+    ],
+    "Jaylon Tyson": [
+      "Doubtful",
+      "Right Ankle Injury Management"
+    ],
+    "Ernest Udeh Jr.": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Peyton Watson": [
+      "Questionable",
+      "Low Back Contusion"
+    ]
+  },
+  "MIL": {
+    "Ousmane Dieng": [
+      "Out",
+      "Left Finger Fracture"
+    ],
+    "Kam Jones": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Bogoljub Markovic": [
+      "Out",
+      "G League - On Assignment"
+    ],
+    "Pete Nance": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Cormac Ryan": [
+      "Out",
+      "G League - Two-Way"
+    ]
+  },
+  "MIA": {
+    "Bam Adebayo": [
+      "Probable",
+      "Right Hip Impingement"
+    ],
+    "Myron Gardner": [
+      "Questionable",
+      "Right Hamstring Tightness / Soreness"
+    ],
+    "Vladislav Goldin": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Nikola Jovic": [
+      "Probable",
+      "Illness"
+    ],
+    "Pelle Larsson": [
+      "Available",
+      "Illness"
+    ],
+    "Klay Thompson": [
+      "Available",
+      "Left Ankle Sprain"
+    ]
+  },
+  "PHI": {
+    "Dominick Barlow": [
+      "Out",
+      "Low Back Stress Reaction"
+    ],
+    "Adem Bona": [
+      "Out",
+      "Cervical Spine Sprain"
+    ],
+    "Jaylen Brown": [
+      "Out",
+      "Left Hamstring Strain"
+    ],
+    "Ariel Hukporti": [
+      "Out",
+      "Right Achilles Tendon Rupture / Tear"
+    ]
+  },
+  "ORL": {
+    "Paolo Banchero": [
+      "Out",
+      "Right High Ankle Sprain"
+    ],
+    "Jonathan Isaac": [
+      "Out",
+      "Left Knee Injury Management"
+    ],
+    "Izaiyah Nelson": [
+      "Out",
+      "Left Ankle Injury Recovery"
+    ],
+    "Noah Penda": [
+      "Out",
+      "Right Partially Torn Hamstring"
+    ]
+  },
+  "CHI": {
+    "Tobe Awaka": [
+      "Out",
+      "Disc Irritation"
+    ],
+    "Orlando Robinson": [
+      "Out",
+      "G League - On Assignment"
+    ],
+    "Jaylin Sellers": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Patrick Williams": [
+      "Probable",
+      "Right Finger Dislocation"
+    ],
+    "Caleb Wilson": [
+      "Out",
+      "Right Metacarpal Fracture"
+    ]
+  },
+  "BKN": {
+    "Tyler Bilodeau": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Joshua Jefferson": [
+      "Out",
+      "G League - On Assignment"
+    ],
+    "Grant Nelson": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Drake Powell": [
+      "Out",
+      "G League - On Assignment"
+    ],
+    "Ben Saraf": [
+      "Out",
+      "G League - On Assignment"
+    ]
+  },
+  "WAS": {
+    "Reece Beekman": [
+      "Out",
+      "Right AC Joint Injury"
+    ],
+    "Justin Champagnie": [
+      "Out",
+      "Right Foot Surgery"
+    ],
+    "Felix Okpara": [
+      "Questionable",
+      "G League - Two-Way"
+    ],
+    "Tristan Vukcevic": [
+      "Out",
+      "Left Hip Impingement"
+    ],
+    "Jamir Watkins": [
+      "Out",
+      "Left ACL Repair / Surgery"
+    ]
+  },
+  "ATL": {
+    "Rafael Castro": [
+      "Doubtful",
+      "G League - Two-Way"
+    ],
+    "Kingston Flemings": [
+      "Out",
+      "Lumbar Strain"
+    ],
+    "Mouhamed Gueye": [
+      "Out",
+      "Left Foot Fracture"
+    ],
+    "Jock Landale": [
+      "Out",
+      "Right Hip Inflammation"
+    ],
+    "CJ McCollum": [
+      "Out",
+      "Left Calf Strain"
+    ],
+    "Asa Newell": [
+      "Out",
+      "Left Great Toe Surgery"
+    ],
+    "Henri Veesaar": [
+      "Out",
+      "Right ACL Tear"
+    ]
+  },
+  "OKC": {
+    "Chet Holmgren": [
+      "Out",
+      "Right Knee/ Injury Recovery"
+    ],
+    "Thomas Sorber": [
+      "Out",
+      "Right Knee Surgery"
+    ],
+    "Cason Wallace": [
+      "Out",
+      "Left Shoulder Surgery"
+    ],
+    "Jalen Williams": [
+      "Out",
+      "Left Ankle Surgery"
+    ],
+    "Jaylin Williams": [
+      "Questionable",
+      "Low Back Spasms"
+    ]
+  },
+  "NOP": {
+    "Malik Dia": [
+      "Probable",
+      "G League - Two-Way"
+    ],
+    "Bennedict Mathurin": [
+      "Out",
+      "Left Plantar Fasciitis"
+    ],
+    "Bryce McGowens": [
+      "Out",
+      "Left Elbow Infection"
+    ],
+    "Trey Murphy III": [
+      "Out",
+      "Bilateral Patellar Tendinopathy"
+    ],
+    "Dejounte Murray": [
+      "Out",
+      "Left Ankle Sprain"
+    ],
+    "Jaron Pierre Jr.": [
+      "Probable",
+      "G League - Two-Way"
+    ],
+    "Julian Reese": [
+      "Probable",
+      "G League - Two-Way"
+    ],
+    "Trendon Watford": [
+      "Out",
+      "Right Ankle Sprain"
+    ]
+  },
+  "GSW": {
+    "Jimmy Butler III": [
+      "Out",
+      "Right ACL Repair / Surgery"
+    ],
+    "Stephen Curry": [
+      "Out",
+      "Right Oblique Tear"
+    ],
+    "Draymond Green": [
+      "Questionable",
+      "Right Elbow Inflammation / Soreness"
+    ],
+    "Al Horford": [
+      "Questionable",
+      "Bilateral Low Back Injury Management"
+    ],
+    "Moses Moody": [
+      "Out",
+      "Left Patellar Tendon Repair / Surgery"
+    ],
+    "Kristaps Porzingis": [
+      "Out",
+      "Not With Team"
+    ],
+    "Brandon Williams": [
+      "Out",
+      "Left Hamstring Strain"
+    ]
+  },
+  "DAL": {
+    "Santi Aldama": [
+      "Probable",
+      "Left Ankle Sprain"
+    ],
+    "Tarik Biberovic": [
+      "Out",
+      "Right Heel Bursitis"
+    ],
+    "Max Christie": [
+      "Questionable",
+      "Left Ankle Sprain"
+    ],
+    "Walter Clayton Jr.": [
+      "Probable",
+      "Right Ankle Sprain"
+    ],
+    "Sergio de Larrea": [
+      "Out",
+      "Right Knee Sprain"
+    ],
+    "Tobi Lawal": [
+      "Doubtful",
+      "Right Groin Tightness"
+    ],
+    "Dereck Lively II": [
+      "Out",
+      "Right Foot Surgery"
+    ],
+    "Caleb Martin": [
+      "Available",
+      "Right Thumb Splint"
+    ]
+  },
+  "BOS": {
+    "Dillon Mitchell": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Amari Williams": [
+      "Out",
+      "G League - Two-Way"
+    ]
+  },
+  "DEN": {
+    "DaRon Holmes II": [
+      "Out",
+      "G League - On Assignment"
+    ],
+    "Ryan Nembhard": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Julian Strawther": [
+      "Out",
+      "Left Knee Sprain"
+    ],
+    "Cam Whitmore": [
+      "Out",
+      "G League - Two-Way"
+    ]
+  },
+  "PHX": {
+    "Mark Williams": [
+      "Out",
+      "Left Shoulder Surgery"
+    ]
+  },
+  "SAC": {
+    "Precious Achiuwa": [
+      "Questionable",
+      "Left Lower Leg Contusion"
+    ],
+    "De'Andre Hunter": [
+      "Questionable",
+      "Left Hip Soreness / Tightness"
+    ],
+    "Jonathan Mogbo": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Sean Pedulla": [
+      "Out",
+      "G League - Two-Way"
+    ],
+    "Maxime Raynaud": [
+      "Out",
+      "Right Patella Subluxation"
+    ],
+    "Ben Simmons": [
+      "Out",
+      "Right Achilles Tendon Repair / Surgery"
+    ]
+  }
+}

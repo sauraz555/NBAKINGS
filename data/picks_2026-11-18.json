@@ -1,0 +1,90 @@
+{
+ "owner": "Low-risk slip",
+ "slate_date": "2026-11-18",
+ "picks": [
+  {
+   "player": "Shai Gilgeous-Alexander",
+   "game": "Atlanta Hawks @ Oklahoma City Thunder",
+   "stat": "pts",
+   "line": 20,
+   "label": "20+ Points"
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "game": "Atlanta Hawks @ Oklahoma City Thunder",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Jayson Tatum",
+   "game": "Boston Celtics @ Denver Nuggets",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Nikola Jokic",
+   "game": "Boston Celtics @ Denver Nuggets",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Alperen Sengun",
+   "game": "Houston Rockets @ Indiana Pacers",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Pascal Siakam",
+   "game": "Houston Rockets @ Indiana Pacers",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "game": "Milwaukee Bucks @ Miami Heat",
+   "stat": "reb",
+   "line": 8,
+   "label": "8+ Rebounds"
+  },
+  {
+   "player": "Davion Mitchell",
+   "game": "Milwaukee Bucks @ Miami Heat",
+   "stat": "ast",
+   "line": 6,
+   "label": "6+ Assists"
+  },
+  {
+   "player": "Tyrese Maxey",
+   "game": "Philadelphia 76ers @ Orlando Magic",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Franz Wagner",
+   "game": "Philadelphia 76ers @ Orlando Magic",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Devin Booker",
+   "game": "Phoenix Suns @ Sacramento Kings",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Darius Acuff Jr.",
+   "game": "Phoenix Suns @ Sacramento Kings",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  }
+ ]
+}
