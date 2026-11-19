@@ -1,0 +1,48 @@
+{
+ "owner": "Low-risk slip",
+ "slate_date": "2026-11-19",
+ "picks": [
+  {
+   "player": "Jalen Brunson",
+   "game": "New York Knicks @ Minnesota Timberwolves",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Karl-Anthony Towns",
+   "game": "New York Knicks @ Minnesota Timberwolves",
+   "stat": "reb",
+   "line": 10,
+   "label": "10+ Rebounds"
+  },
+  {
+   "player": "Jaden McDaniels",
+   "game": "New York Knicks @ Minnesota Timberwolves",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Victor Wembanyama",
+   "game": "LA Clippers @ San Antonio Spurs",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Darius Garland",
+   "game": "LA Clippers @ San Antonio Spurs",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Darius Garland",
+   "game": "LA Clippers @ San Antonio Spurs",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  }
+ ]
+}
