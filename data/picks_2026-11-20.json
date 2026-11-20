@@ -1,0 +1,90 @@
+{
+ "owner": "Low-risk slip",
+ "slate_date": "2026-11-20",
+ "picks": [
+  {
+   "player": "Nickeil Alexander-Walker",
+   "game": "Charlotte Hornets @ Atlanta Hawks",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Jalen Johnson",
+   "game": "Charlotte Hornets @ Atlanta Hawks",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Nikola Jokic",
+   "game": "Houston Rockets @ Denver Nuggets",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Jamal Murray",
+   "game": "Houston Rockets @ Denver Nuggets",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Shai Gilgeous-Alexander",
+   "game": "New Orleans Pelicans @ Oklahoma City Thunder",
+   "stat": "pts",
+   "line": 25,
+   "label": "25+ Points"
+  },
+  {
+   "player": "Zion Williamson",
+   "game": "New Orleans Pelicans @ Oklahoma City Thunder",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Luka Doncic",
+   "game": "Sacramento Kings @ Los Angeles Lakers",
+   "stat": "pts",
+   "line": 25,
+   "label": "25+ Points"
+  },
+  {
+   "player": "Walker Kessler",
+   "game": "Sacramento Kings @ Los Angeles Lakers",
+   "stat": "reb",
+   "line": 8,
+   "label": "8+ Rebounds"
+  },
+  {
+   "player": "Donovan Mitchell",
+   "game": "Indiana Pacers @ Cleveland Cavaliers",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Pascal Siakam",
+   "game": "Indiana Pacers @ Cleveland Cavaliers",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Josh Giddey",
+   "game": "Washington Wizards @ Chicago Bulls",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Norman Powell",
+   "game": "Washington Wizards @ Chicago Bulls",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  }
+ ]
+}
