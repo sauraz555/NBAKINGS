@@ -1,0 +1,48 @@
+{
+ "owner": "Medium-risk slip",
+ "slate_date": "2026-11-21",
+ "picks": [
+  {
+   "player": "Darius Garland",
+   "game": "LA Clippers @ Dallas Mavericks",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Kyrie Irving",
+   "game": "LA Clippers @ Dallas Mavericks",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Jaden McDaniels",
+   "game": "Memphis Grizzlies @ Minnesota Timberwolves",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Rudy Gobert",
+   "game": "Memphis Grizzlies @ Minnesota Timberwolves",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Victor Wembanyama",
+   "game": "New Orleans Pelicans @ San Antonio Spurs",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Stephon Castle",
+   "game": "New Orleans Pelicans @ San Antonio Spurs",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  }
+ ]
+}
