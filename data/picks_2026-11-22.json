@@ -1,0 +1,48 @@
+{
+ "owner": "Low-risk slip",
+ "slate_date": "2026-11-22",
+ "picks": [
+  {
+   "player": "Nikola Jokic",
+   "game": "Denver Nuggets @ Chicago Bulls",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Josh Giddey",
+   "game": "Denver Nuggets @ Chicago Bulls",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Desmond Bane",
+   "game": "Orlando Magic @ Washington Wizards",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Kyshawn George",
+   "game": "Orlando Magic @ Washington Wizards",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Davion Mitchell",
+   "game": "Oklahoma City Thunder @ Miami Heat",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Davion Mitchell",
+   "game": "Oklahoma City Thunder @ Miami Heat",
+   "stat": "ast",
+   "line": 6,
+   "label": "6+ Assists"
+  }
+ ]
+}
