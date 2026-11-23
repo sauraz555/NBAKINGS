@@ -1,0 +1,146 @@
+{
+ "owner": "SGM+ high-chance slip",
+ "slate_date": "2026-11-23",
+ "picks": [
+  {
+   "player": "Luka Doncic",
+   "game": "Utah Jazz @ Los Angeles Lakers",
+   "stat": "pts",
+   "line": 20,
+   "label": "20+ Points"
+  },
+  {
+   "player": "Luka Doncic",
+   "game": "Utah Jazz @ Los Angeles Lakers",
+   "stat": "reb",
+   "line": 3,
+   "label": "3+ Rebounds"
+  },
+  {
+   "player": "Luka Doncic",
+   "game": "Utah Jazz @ Los Angeles Lakers",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Walker Kessler",
+   "game": "Utah Jazz @ Los Angeles Lakers",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Walker Kessler",
+   "game": "Utah Jazz @ Los Angeles Lakers",
+   "stat": "reb",
+   "line": 7,
+   "label": "7+ Rebounds"
+  },
+  {
+   "player": "Kevin Durant",
+   "game": "LA Clippers @ Houston Rockets",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Kevin Durant",
+   "game": "LA Clippers @ Houston Rockets",
+   "stat": "reb",
+   "line": 2,
+   "label": "2+ Rebounds"
+  },
+  {
+   "player": "Fred VanVleet",
+   "game": "LA Clippers @ Houston Rockets",
+   "stat": "pts",
+   "line": 8,
+   "label": "8+ Points"
+  },
+  {
+   "player": "Fred VanVleet",
+   "game": "LA Clippers @ Houston Rockets",
+   "stat": "ast",
+   "line": 2,
+   "label": "2+ Assists"
+  },
+  {
+   "player": "Amen Thompson",
+   "game": "LA Clippers @ Houston Rockets",
+   "stat": "reb",
+   "line": 3,
+   "label": "3+ Rebounds"
+  },
+  {
+   "player": "Jaden McDaniels",
+   "game": "Brooklyn Nets @ Minnesota Timberwolves",
+   "stat": "pts",
+   "line": 12,
+   "label": "12+ Points"
+  },
+  {
+   "player": "Rudy Gobert",
+   "game": "Brooklyn Nets @ Minnesota Timberwolves",
+   "stat": "reb",
+   "line": 4,
+   "label": "4+ Rebounds"
+  },
+  {
+   "player": "Ayo Dosunmu",
+   "game": "Brooklyn Nets @ Minnesota Timberwolves",
+   "stat": "pts",
+   "line": 6,
+   "label": "6+ Points"
+  },
+  {
+   "player": "Michael Porter Jr.",
+   "game": "Brooklyn Nets @ Minnesota Timberwolves",
+   "stat": "pts",
+   "line": 5,
+   "label": "5+ Points"
+  },
+  {
+   "player": "Devin Booker",
+   "game": "Phoenix Suns @ New Orleans Pelicans",
+   "stat": "pts",
+   "line": 17,
+   "label": "17+ Points"
+  },
+  {
+   "player": "Devin Booker",
+   "game": "Phoenix Suns @ New Orleans Pelicans",
+   "stat": "ast",
+   "line": 2,
+   "label": "2+ Assists"
+  },
+  {
+   "player": "Jeremiah Fears",
+   "game": "Phoenix Suns @ New Orleans Pelicans",
+   "stat": "pts",
+   "line": 11,
+   "label": "11+ Points"
+  },
+  {
+   "player": "Jeremiah Fears",
+   "game": "Phoenix Suns @ New Orleans Pelicans",
+   "stat": "reb",
+   "line": 2,
+   "label": "2+ Rebounds"
+  },
+  {
+   "player": "Trey Murphy III",
+   "game": "Phoenix Suns @ New Orleans Pelicans",
+   "stat": "pts",
+   "line": 6,
+   "label": "6+ Points"
+  },
+  {
+   "player": "LaMelo Ball",
+   "game": "Brooklyn Nets @ Minnesota Timberwolves",
+   "stat": "reb",
+   "line": 2,
+   "label": "2+ Rebounds"
+  }
+ ]
+}

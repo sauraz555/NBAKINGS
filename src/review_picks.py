@@ -9,7 +9,9 @@ RULES (applied in order)
   Remove      player is Out/Doubtful/Questionable/Day-To-Day on the latest official report,
               or averages under 18 minutes over the last 10 games,
               or hit the line in under 80% of the last 10 games.
-  Borderline  the stat is blocks or steals (high game-to-game swing),
+  Borderline  the player is listed Probable with an injury (22 Nov ET: Cade Cunningham, Probable
+              with knee soreness, scored 5 against a 12+ line),
+              or the stat is blocks or steals (high game-to-game swing),
               or the player had a game under 16 minutes in the last 10 (unstable role),
               or the shot volume behind the stat is falling: for threes, three-point attempts;
               for points, field-goal attempts. Falling means the last-5 average is under 85% of
@@ -117,6 +119,8 @@ def review_picks(target_date: str, data_dir: str, output_dir: str) -> list[dict]
             verdict, reason = "Remove", f"Bench role: averages {avg_min:.1f} minutes."
         elif rate < 0.8:
             verdict, reason = "Remove", f"Hit in only {hits} of {len(l10)} recent games."
+        elif st.lower().startswith("probable"):
+            verdict, reason = "Borderline", "Listed Probable with an injury: may be limited even if he plays."
         elif stat in ("blk", "stl"):
             verdict, reason = "Borderline", f"{STAT_NAMES[stat].capitalize()} swing a lot from game to game."
         elif min(mins) < 16:
