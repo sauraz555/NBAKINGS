@@ -1,0 +1,118 @@
+{
+ "owner": "SGM+ high-chance slip",
+ "slate_date": "2026-11-25",
+ "picks": [
+  {
+   "player": "Kevin Durant",
+   "game": "Phoenix Suns @ Houston Rockets",
+   "stat": "pts",
+   "line": 13,
+   "label": "13+ Points"
+  },
+  {
+   "player": "Devin Booker",
+   "game": "Phoenix Suns @ Houston Rockets",
+   "stat": "pts",
+   "line": 14,
+   "label": "14+ Points"
+  },
+  {
+   "player": "Devin Booker",
+   "game": "Phoenix Suns @ Houston Rockets",
+   "stat": "ast",
+   "line": 2,
+   "label": "2+ Assists"
+  },
+  {
+   "player": "Amen Thompson",
+   "game": "Phoenix Suns @ Houston Rockets",
+   "stat": "pts",
+   "line": 5,
+   "label": "5+ Points"
+  },
+  {
+   "player": "Amen Thompson",
+   "game": "Phoenix Suns @ Houston Rockets",
+   "stat": "reb",
+   "line": 2,
+   "label": "2+ Rebounds"
+  },
+  {
+   "player": "Jabari Smith Jr.",
+   "game": "Phoenix Suns @ Houston Rockets",
+   "stat": "reb",
+   "line": 2,
+   "label": "2+ Rebounds"
+  },
+  {
+   "player": "Shai Gilgeous-Alexander",
+   "game": "Minnesota Timberwolves @ Oklahoma City Thunder",
+   "stat": "pts",
+   "line": 20,
+   "label": "20+ Points"
+  },
+  {
+   "player": "Jaden McDaniels",
+   "game": "Minnesota Timberwolves @ Oklahoma City Thunder",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Jaden McDaniels",
+   "game": "Minnesota Timberwolves @ Oklahoma City Thunder",
+   "stat": "reb",
+   "line": 3,
+   "label": "3+ Rebounds"
+  },
+  {
+   "player": "Darius Acuff Jr.",
+   "game": "Sacramento Kings @ Golden State Warriors",
+   "stat": "pts",
+   "line": 9,
+   "label": "9+ Points"
+  },
+  {
+   "player": "Darius Acuff Jr.",
+   "game": "Sacramento Kings @ Golden State Warriors",
+   "stat": "ast",
+   "line": 3,
+   "label": "3+ Assists"
+  },
+  {
+   "player": "Zach LaVine",
+   "game": "Sacramento Kings @ Golden State Warriors",
+   "stat": "pts",
+   "line": 9,
+   "label": "9+ Points"
+  },
+  {
+   "player": "Darius Garland",
+   "game": "LA Clippers @ Memphis Grizzlies",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Ty Jerome",
+   "game": "LA Clippers @ Memphis Grizzlies",
+   "stat": "pts",
+   "line": 7,
+   "label": "7+ Points"
+  },
+  {
+   "player": "Julius Randle",
+   "game": "Brooklyn Nets @ Milwaukee Bucks",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Michael Porter Jr.",
+   "game": "Brooklyn Nets @ Milwaukee Bucks",
+   "stat": "reb",
+   "line": 2,
+   "label": "2+ Rebounds"
+  }
+ ]
+}
