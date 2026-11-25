@@ -1,23 +1,15 @@
-# SGM+ high-chance slip's picks — 2026-11-25 (US ET) slate
+# SGM+ high-chance slip (Sportsbet lines)'s picks — 2026-11-25 (US ET) slate
 
 | Verdict | Player | Pick | L10 hits | L10 low | Min range | Status | Reason |
 |---|---|---|---|---|---|---|---|
-| Borderline | Darius Acuff Jr. | 9+ Points | 10/10 | 12 | 33-42 | Available | Falling shot attempts: last game 14, last-5 average 21.4 vs last-10 21.2. |
-| Keep | Kevin Durant | 13+ Points | 10/10 | 16 | 29-38 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Devin Booker | 14+ Points | 10/10 | 17 | 28-42 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Devin Booker | 2+ Assists | 10/10 | 3 | 28-42 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Amen Thompson | 5+ Points | 10/10 | 8 | 25-41 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Amen Thompson | 2+ Rebounds | 10/10 | 3 | 25-41 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Jabari Smith Jr. | 2+ Rebounds | 10/10 | 3 | 24-39 | Available | Steady minutes and a strong recent hit rate. |
+| Borderline | Darius Acuff Jr. | 10+ Points | 10/10 | 12 | 33-42 | Available | Falling shot attempts: last game 14, last-5 average 21.4 vs last-10 21.2. |
 | Keep | Shai Gilgeous-Alexander | 20+ Points | 10/10 | 26 | 29-39 | Available | Steady minutes and a strong recent hit rate. |
 | Keep | Jaden McDaniels | 10+ Points | 10/10 | 13 | 25-40 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Jaden McDaniels | 3+ Rebounds | 10/10 | 4 | 25-40 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Darius Acuff Jr. | 3+ Assists | 10/10 | 4 | 33-42 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Zach LaVine | 9+ Points | 10/10 | 12 | 25-39 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Darius Garland | 10+ Points | 10/10 | 13 | 25-39 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Ty Jerome | 7+ Points | 10/10 | 10 | 24-37 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Julius Randle | 10+ Points | 10/10 | 13 | 27-39 | Available | Steady minutes and a strong recent hit rate. |
-| Keep | Michael Porter Jr. | 2+ Rebounds | 10/10 | 3 | 27-40 | Available | Steady minutes and a strong recent hit rate. |
+| Keep | Kevin Durant | 10+ Points | 10/10 | 16 | 29-38 | Available | Steady minutes and a strong recent hit rate. |
+| Keep | Devin Booker | 15+ Points | 10/10 | 17 | 28-42 | Available | Steady minutes and a strong recent hit rate. |
+| Keep | Zach LaVine | 10+ Points | 10/10 | 12 | 25-39 | Available | Steady minutes and a strong recent hit rate. |
+| Keep | Deni Avdija | 10+ Points | 10/10 | 15 | 24-39 | Available | Steady minutes and a strong recent hit rate. |
+| Keep | Donovan Clingan | 4+ Rebounds | 10/10 | 5 | 22-32 | Available | Steady minutes and a strong recent hit rate. |
 
 (applied in order)
   Remove      player is Out/Doubtful/Questionable/Day-To-Day on the latest official report,
