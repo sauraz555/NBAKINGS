@@ -8,7 +8,8 @@ NBA.com's game pages embed their data as JSON (__NEXT_DATA__), so a plain HTTPS 
 Per player, over the team's last N games, it reports:
   points / rebounds / assists / threes made and attempted, game by game (lowest game shown)
   shot mix: rim (0-4 ft), short (5-14 ft), mid-range (15 ft+ twos), threes
-  fourth-quarter share of points, rebounds and assists (who loses output in a blowout)
+  quarter-by-quarter minutes, points, rebounds and assists (minutes rebuilt from substitutions),
+  and fourth-quarter minutes in close games vs blowouts (15+ going into the 4th)
   who his assists go to, and games missed with the reason NBA.com gives (DNP / injury)
   with/without: his averages in games a key teammate missed vs games that teammate played
 
@@ -83,6 +84,67 @@ def _mins(s: str) -> float:
     return int(m.group(1)) + int(m.group(2)) / 60 if m else 0.0
 
 
+def _clock_secs(c: str) -> float:
+    m = re.match(r"PT(\d+)M([\d.]+)S", c or "")
+    return int(m.group(1)) * 60 + float(m.group(2)) if m else 0.0
+
+
+def _quarter_minutes(actions: list[dict], teams: dict) -> None:
+    """Minutes per quarter from substitutions. A substitution's personId is the player going out and
+    the description names the player coming in ("SUB: In FOR Out"). Quarter-break changes are not
+    logged, so the five on court at the start of a quarter are the players whose first event in that
+    quarter is anything other than being subbed in; gaps are filled from the previous quarter's
+    closing five."""
+    by_period = collections.defaultdict(list)
+    for a in actions:
+        by_period[a.get("period", 1)].append(a)
+    for tri, team in teams.items():
+        fam = {}
+        for pid, p in team["players"].items():
+            fam.setdefault(_plain(p["family"]), pid)
+        prev_end: list[str] = []
+        for per in sorted(by_period):
+            length = 720.0 if per <= 4 else 300.0
+            evs = [a for a in by_period[per] if a.get("teamTricode") == tri]
+            first: dict[str, str] = {}
+            for a in evs:
+                pid = str(a.get("personId"))
+                if a.get("actionType") == "Substitution":
+                    m = re.match(r"SUB: (.+?) FOR ", a.get("description", ""))
+                    pin = fam.get(_plain(m.group(1))) if m else None
+                    first.setdefault(pid, "on")      # subbed out -> was on court
+                    if pin:
+                        first.setdefault(pin, "in")  # subbed in -> was on the bench
+                elif pid in team["players"]:
+                    first.setdefault(pid, "on")
+            on = [pid for pid, f in first.items() if f == "on"][:5]
+            for pid in prev_end:
+                if len(on) >= 5:
+                    break
+                if pid not in first:
+                    on.append(pid)
+            since = {pid: length for pid in on}
+            for a in evs:
+                if a.get("actionType") != "Substitution":
+                    continue
+                t = _clock_secs(a.get("clock"))
+                pout = str(a.get("personId"))
+                m = re.match(r"SUB: (.+?) FOR ", a.get("description", ""))
+                pin = fam.get(_plain(m.group(1))) if m else None
+                if pout in since:
+                    q = team["players"][pout]["q"].setdefault(str(min(per, 5)), {"min": 0.0, "pts": 0, "reb": 0, "ast": 0})
+                    q["min"] += (since.pop(pout) - t) / 60
+                if pin:
+                    since[pin] = t
+            for pid, t0 in since.items():
+                q = team["players"][pid]["q"].setdefault(str(min(per, 5)), {"min": 0.0, "pts": 0, "reb": 0, "ast": 0})
+                q["min"] += t0 / 60
+            prev_end = list(since)
+        for p in team["players"].values():
+            for q in p["q"].values():
+                q["min"] = round(q["min"], 1)
+
+
 def game_detail(slug: str, cache: str) -> dict | None:
     """Compact box score + per-player play-by-play features for one finished game, cached."""
     gid = slug.rsplit("-", 1)[1]
@@ -112,9 +174,12 @@ def game_detail(slug: str, cache: str) -> dict | None:
                 "fga": s.get("fieldGoalsAttempted", 0), "fta": s.get("freeThrowsAttempted", 0),
                 "stl": s.get("steals", 0), "blk": s.get("blocks", 0), "pf": s.get("foulsPersonal", 0),
                 "zones": {"rim": 0, "short": 0, "mid": 0, "three": 0},
-                "q4": {"pts": 0, "reb": 0, "ast": 0}, "ast_to": {},
+                "q": {}, "ast_to": {},
             }
         teams[t["teamTricode"]] = {"score": t.get("score"), "players": players}
+
+    def qstat(pl, period):
+        return pl["q"].setdefault(str(min(period, 5)), {"min": 0.0, "pts": 0, "reb": 0, "ast": 0})
 
     for a in actions:
         tri, pid = a.get("teamTricode"), str(a.get("personId"))
@@ -122,28 +187,30 @@ def game_detail(slug: str, cache: str) -> dict | None:
         if not team or pid not in team["players"]:
             continue
         pl = team["players"][pid]
-        q4 = a.get("period", 0) >= 4
+        per = a.get("period", 1)
         if a.get("isFieldGoal"):
             d = a.get("shotDistance", 0) or 0
             zone = "three" if a.get("shotValue") == 3 else "rim" if d <= 4 else "short" if d <= 14 else "mid"
             pl["zones"][zone] += 1
             if a.get("shotResult") == "Made":
-                if q4:
-                    pl["q4"]["pts"] += a.get("shotValue", 2)
+                qstat(pl, per)["pts"] += a.get("shotValue", 2)
                 m = _AST.search(a.get("description", ""))
                 if m:
                     passer = next((p for p in team["players"].values() if _plain(p["family"]) == _plain(m.group(1))), None)
                     if passer:
                         passer["ast_to"][pl["name"]] = passer["ast_to"].get(pl["name"], 0) + 1
-                        if q4:
-                            passer["q4"]["ast"] += 1
-        elif a.get("actionType") == "Free Throw" and q4 and not a.get("description", "").startswith("MISS"):
-            pl["q4"]["pts"] += 1
-        elif a.get("actionType") == "Rebound" and q4:
-            pl["q4"]["reb"] += 1
+                        qstat(passer, per)["ast"] += 1
+        elif a.get("actionType") == "Free Throw" and not a.get("description", "").startswith("MISS"):
+            qstat(pl, per)["pts"] += 1
+        elif a.get("actionType") == "Rebound":
+            qstat(pl, per)["reb"] += 1
+
+    _quarter_minutes(actions, teams)
 
     home, away = g["homeTeam"]["teamTricode"], g["awayTeam"]["teamTricode"]
-    out = {"game_id": gid, "date": (g.get("gameEt") or "")[:10], "home": home, "away": away,
+    q_scores = {str(a["period"]): [int(a.get("scoreHome") or 0), int(a.get("scoreAway") or 0)]
+                for a in actions if a.get("actionType") == "period" and a.get("subType") == "end"}
+    out = {"game_id": gid, "q_scores": q_scores, "date": (g.get("gameEt") or "")[:10], "home": home, "away": away,
            "margin": abs((g["homeTeam"].get("score") or 0) - (g["awayTeam"].get("score") or 0)), "teams": teams}
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w") as f:
@@ -170,6 +237,26 @@ def last_n_games(target_date: str, n: int, cache: str, max_days: int = 30) -> tu
                 for t in need:
                     found[t].append(det)
     return teams, found
+
+
+def _avg(v):
+    return round(statistics.mean(v), 1) if v else None
+
+
+def _q3_margin(gm: dict) -> int:
+    """Score gap going into the fourth quarter (blowout = 15+)."""
+    sc = gm.get("q_scores", {}).get("3")
+    return abs(sc[0] - sc[1]) if sc else 0
+
+
+def _quarter_avgs(ps: list[dict]) -> dict:
+    """Average minutes, points, rebounds and assists per quarter (OT averaged over games that had it)."""
+    out = {}
+    for q in ("1", "2", "3", "4", "5"):
+        rows = [p["q"][q] for p in ps if q in p["q"]] if q == "5" else [p["q"].get(q, {}) for p in ps]
+        if rows:
+            out["OT" if q == "5" else f"Q{q}"] = {k: _avg([r.get(k, 0) for r in rows]) for k in ("min", "pts", "reb", "ast")}
+    return out
 
 
 def player_report(teams: list[str], found: dict[str, list[dict]]) -> list[dict]:
@@ -212,7 +299,11 @@ def player_report(teams: list[str], found: dict[str, list[dict]]) -> list[dict]:
                 "ast": [p["ast"] for p in ps], "tpm": [p["tpm"] for p in ps], "tpa": [p["tpa"] for p in ps],
                 "dates": [gm["date"][5:] for gm, _ in lg], "margins": [gm["margin"] for gm, _ in lg],
                 "shot_mix": {z: round(100 * c / fga) for z, c in zones.items()},
-                "q4_share": {k: round(100 * sum(p["q4"][k] for p in ps) / tot[k]) if tot[k] else 0 for k in tot},
+                "quarters": _quarter_avgs(ps),
+                "q4_share": {k: round(100 * sum(p["q"].get("4", {}).get(k, 0) for p in ps) / tot[k]) if tot[k] else 0 for k in tot},
+                "q4_min_close": _avg([p["q"].get("4", {}).get("min", 0) for gm, p in lg if _q3_margin(gm) < 15]),
+                "q4_min_blowout": _avg([p["q"].get("4", {}).get("min", 0) for gm, p in lg if _q3_margin(gm) >= 15]),
+                "blowout_games": sum(1 for gm, _ in lg if _q3_margin(gm) >= 15),
                 "ast_to": dict(ast_to.most_common(3)), "missed": missed, "with_without": splits,
             })
     return rows
@@ -232,6 +323,9 @@ def write_outputs(target_date: str, n: int, rows: list[dict], output_dir: str) -
     for team in sorted({r["team"] for r in rows}):
         lines += [f"\n## {team}\n", "| Player | Min | PTS (low) | REB (low) | AST (low) | 3PM/3PA | Shot mix rim/short/mid/3 | Q4 share P/R/A | Assists go to |",
                   "|---|---|---|---|---|---|---|---|---|"]
+        qlines = ["", "Quarter by quarter (average minutes / points / rebounds / assists). "
+                  "Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.", "",
+                  "| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |", "|---|---|---|---|---|---|---|"]
         for r in sorted((r for r in rows if r["team"] == team), key=lambda r: -statistics.mean(r["min"])):
             sm, q = r["shot_mix"], r["q4_share"]
             lines.append(
@@ -239,6 +333,12 @@ def write_outputs(target_date: str, n: int, rows: list[dict], output_dir: str) -
                 f"{avg(r['ast'])} ({min(r['ast'])}) | {sum(r['tpm'])}/{sum(r['tpa'])} | "
                 f"{sm.get('rim', 0)}/{sm.get('short', 0)}/{sm.get('mid', 0)}/{sm.get('three', 0)}% | "
                 f"{q['pts']}/{q['reb']}/{q['ast']}% | {', '.join(f'{k} {v}' for k, v in r['ast_to'].items()) or '-'} |")
+            qa = r.get("quarters", {})
+            cell = lambda k: (f"{qa[k]['min']} / {qa[k]['pts']} / {qa[k]['reb']} / {qa[k]['ast']}" if k in qa else "-")
+            bl = (f"{r['q4_min_close']} vs {r['q4_min_blowout']} ({r['blowout_games']} blowout)" if r.get("q4_min_blowout") is not None
+                  else f"{r.get('q4_min_close')} (no blowouts)")
+            qlines.append(f"| {r['player']} | {cell('Q1')} | {cell('Q2')} | {cell('Q3')} | {cell('Q4')} | {cell('OT')} | {bl} |")
+        lines += qlines
         notes = []
         for r in rows:
             if r["team"] != team:

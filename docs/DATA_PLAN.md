@@ -13,7 +13,7 @@ Reachability was tested from the cloud session on 28 Nov 2026 (Sydney). "Reachab
 
 ## Added: NBA.com game pages (last 6 games)
 
-`src/nbacom_games.py` reads the box score and full play-by-play that NBA.com embeds in each game page (`nba.com/game/<slug>/play-by-play`), walking back through `nba.com/games?date=` until every slate team has 6 finished games. No browser is needed. It adds shot mix (rim / short / mid / three), fourth-quarter share of points, rebounds and assists (blowout exposure), who each player's assists go to, missed games with NBA.com's reason, and with/without-teammate averages. Checked against our ESPN logs on 28 Nov 2026: 420 of 420 player-games matched. Output: `output/<date>_last6_nbacom.md` and `output/dashboard/nbacom_lastn.json`; pages cached in `data/nbacom/`.
+`src/nbacom_games.py` reads the box score and full play-by-play that NBA.com embeds in each game page (`nba.com/game/<slug>/play-by-play`), walking back through `nba.com/games?date=` until every slate team has 6 finished games. No browser is needed. It adds shot mix (rim / short / mid / three), quarter-by-quarter minutes, points, rebounds and assists (minutes rebuilt from substitutions, within 0.2 min of the box score), fourth-quarter minutes in close games vs blowouts, who each player's assists go to, missed games with NBA.com's reason, and with/without-teammate averages. Checked against our ESPN logs on 28 Nov 2026: 420 of 420 player-games matched. Output: `output/<date>_last6_nbacom.md` and `output/dashboard/nbacom_lastn.json`; pages cached in `data/nbacom/`.
 
 ## Priority 2: free sources, small scraper per site
 

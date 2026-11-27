@@ -7,14 +7,27 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 
 | Player | Min | PTS (low) | REB (low) | AST (low) | 3PM/3PA | Shot mix rim/short/mid/3 | Q4 share P/R/A | Assists go to |
 |---|---|---|---|---|---|---|---|---|
-| Jalen Johnson | 35.7 | 18.3 (12) | 9.7 (6) | 6.0 (0) | 4/21 | 49/22/6/23% | 20/17/11% | Onyeka Okongwu 13, Nickeil Alexander-Walker 6, Dyson Daniels 3 |
-| Dyson Daniels | 34.1 | 8.5 (5) | 9.5 (6) | 6.5 (4) | 2/10 | 43/35/0/22% | 20/28/15% | Nickeil Alexander-Walker 10, Jalen Johnson 9, Aaron Wiggins 5 |
-| Nickeil Alexander-Walker | 33.4 | 19.8 (16) | 4.2 (2) | 3.7 (1) | 18/58 | 30/9/7/54% | 24/36/14% | Jalen Johnson 4, CJ McCollum 3, Onyeka Okongwu 2 |
-| Onyeka Okongwu | 33.3 | 16.5 (6) | 8.5 (6) | 1.5 (0) | 15/43 | 28/16/0/57% | 19/24/33% | Nickeil Alexander-Walker 3, Aaron Wiggins 2, Jalen Johnson 1 |
-| CJ McCollum | 28.8 | 20.3 (20) | 3.0 (0) | 3.7 (2) | 6/14 | 20/32/15/34% | 43/22/9% | Jalen Johnson 4, Aaron Wiggins 3, Dyson Daniels 1 |
+| Jalen Johnson | 35.7 | 18.3 (12) | 9.7 (6) | 6.0 (0) | 4/21 | 49/22/6/23% | 19/17/6% | Onyeka Okongwu 13, Nickeil Alexander-Walker 6, Dyson Daniels 3 |
+| Dyson Daniels | 34.1 | 8.5 (5) | 9.5 (6) | 6.5 (4) | 2/10 | 43/35/0/22% | 20/26/15% | Nickeil Alexander-Walker 10, Jalen Johnson 9, Aaron Wiggins 5 |
+| Nickeil Alexander-Walker | 33.4 | 19.8 (16) | 4.2 (2) | 3.7 (1) | 18/58 | 30/9/7/54% | 23/36/14% | Jalen Johnson 4, CJ McCollum 3, Onyeka Okongwu 2 |
+| Onyeka Okongwu | 33.3 | 16.5 (6) | 8.5 (6) | 1.5 (0) | 15/43 | 28/16/0/57% | 17/22/33% | Nickeil Alexander-Walker 3, Aaron Wiggins 2, Jalen Johnson 1 |
+| CJ McCollum | 28.8 | 20.3 (20) | 3.0 (0) | 3.7 (2) | 6/14 | 20/32/15/34% | 39/22/9% | Jalen Johnson 4, Aaron Wiggins 3, Dyson Daniels 1 |
 | Aaron Wiggins | 25.1 | 12.2 (7) | 3.5 (2) | 2.3 (1) | 15/37 | 16/25/2/58% | 42/24/36% | Corey Kispert 2, Nickeil Alexander-Walker 2, Jalen Johnson 2 |
 | Luguentz Dort | 23.5 | 8.5 (2) | 3.2 (1) | 0.8 (0) | 7/27 | 33/4/4/59% | 29/16/20% | Corey Kispert 1, Aaron Wiggins 1, Onyeka Okongwu 1 |
 | Kingston Flemings | 22.5 | 6.0 (0) | 3.0 (1) | 3.7 (1) | 2/6 | 12/38/12/38% | 6/0/9% | Dyson Daniels 3, Nickeil Alexander-Walker 2, Onyeka Okongwu 2 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Jalen Johnson | 9.4 / 5.3 / 1.8 / 0.8 | 7.0 / 5.7 / 2.7 / 1.5 | 9.1 / 3.7 / 3.5 / 1.2 | 6.8 / 3.5 / 1.7 / 0.3 | 5.0 / 1 / 0 / 2 | 6.8 (no blowouts) |
+| Dyson Daniels | 8.1 / 2.2 / 2 / 1.5 | 6.6 / 2.5 / 2.5 / 1.8 | 8.4 / 2.2 / 2.3 / 1.5 | 7.4 / 1.7 / 2.5 / 1 | 4.8 / 0 / 1 / 0 | 7.4 (no blowouts) |
+| Nickeil Alexander-Walker | 7.9 / 3.2 / 1.2 / 0.3 | 6.9 / 5.2 / 1.2 / 1.2 | 7.8 / 6.7 / 0.3 / 0.5 | 7.2 / 4.5 / 1.5 / 0.5 | 5.0 / 2 / 0 / 0 | 7.2 (no blowouts) |
+| Onyeka Okongwu | 7.7 / 4.8 / 2 / 0 | 6.8 / 4.7 / 2.7 / 0.2 | 7.8 / 4.2 / 1.8 / 0.5 | 7.5 / 2.8 / 1.8 / 0.5 | 5.0 / 2 / 1 / 0 | 7.5 (no blowouts) |
+| CJ McCollum | 5.8 / 3.3 / 0.3 / 0.3 | 6.9 / 4.3 / 1.3 / 1.3 | 6.5 / 4 / 0.7 / 1.7 | 7.9 / 8 / 0.7 / 0.3 | 5.0 / 2 / 0 / 0 | 7.9 (no blowouts) |
+| Aaron Wiggins | 5.3 / 1.5 / 0.8 / 0.2 | 5.4 / 2.8 / 0.7 / 0.7 | 5.8 / 2.7 / 1.2 / 0.5 | 7.0 / 5.2 / 0.8 / 0.8 | 0.2 / 0 / 0 / 0 | 7.0 (no blowouts) |
+| Luguentz Dort | 5.5 / 1.7 / 1.3 / 0.3 | 3.9 / 1.5 / 0.5 / 0.2 | 4.8 / 3 / 0.8 / 0.2 | 6.0 / 2.5 / 0.5 / 0.2 | - | 6.0 (no blowouts) |
+| Kingston Flemings | 7.5 / 2 / 1 / 1.3 | 6.3 / 3.3 / 1.3 / 0.3 | 7.3 / 0.3 / 0.7 / 1.7 | 1.4 / 0.3 / 0 / 0.3 | - | 1.4 (no blowouts) |
 
 - Dyson Daniels without CJ McCollum (3 games): reb 8.3 → 10.7
 - Kingston Flemings missed: 11-20: DND - Injury/Illness; 11-18: DNP - Coach's Decision; 11-15: DND - Injury/Illness
@@ -36,6 +49,19 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Nolan Traore | 22.7 | 12.8 (4) | 0.8 (0) | 3.0 (2) | 3/13 | 20/42/5/32% | 22/0/25% | Day'Ron Sharpe 3, Michael Porter Jr. 2, Danny Wolf 2 |
 | Danny Wolf | 21.9 | 9.8 (3) | 4.0 (0) | 1.8 (1) | 14/26 | 36/7/0/58% | 46/42/36% | Noah Clowney 3, Michael Porter Jr. 2, Egor Dëmin 2 |
 
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Julius Randle | 9.3 / 7.3 / 1 / 0.8 | 9.1 / 7.2 / 2.2 / 1.2 | 9.5 / 6.5 / 1.7 / 1.2 | 6.3 / 5 / 0.5 / 0.7 | - | 8.9 vs 3.7 (3 blowout) |
+| Michael Porter Jr. | 9.9 / 4.6 / 1.8 / 0.8 | 8.7 / 3.4 / 1.2 / 1.2 | 8.7 / 4.2 / 1.8 / 0.4 | 5.8 / 1.6 / 1.2 / 0.4 | - | 7.7 vs 2.9 (2 blowout) |
+| Day'Ron Sharpe | 7.5 / 2.5 / 2.8 / 1.2 | 6.9 / 3 / 2.7 / 1.2 | 7.0 / 3.2 / 2.3 / 0.8 | 5.1 / 1.7 / 1.3 / 1 | - | 6.6 vs 3.6 (3 blowout) |
+| Egor Dëmin | 6.0 / 1.5 / 0.5 / 0.8 | 6.3 / 3.2 / 0.3 / 0.3 | 6.5 / 3.7 / 1 / 1.3 | 7.2 / 3.8 / 1 / 0.8 | - | 6.7 vs 7.6 (3 blowout) |
+| Noah Clowney | 5.4 / 1.3 / 0.3 / 0 | 7.3 / 3.7 / 1.2 / 0.7 | 6.0 / 2.2 / 1.2 / 0.7 | 6.9 / 3 / 1 / 0.5 | - | 5.6 vs 8.1 (3 blowout) |
+| Mikel Brown Jr. | 5.1 / 1.3 / 0.2 / 0.8 | 6.6 / 3 / 0.3 / 0.8 | 5.8 / 3.5 / 0.7 / 0.8 | 6.1 / 3 / 0.7 / 0.8 | - | 5.6 vs 6.6 (3 blowout) |
+| Nolan Traore | 7.5 / 3.2 / 0.5 / 0.5 | 6.0 / 4.2 / 0.2 / 1 | 6.5 / 2.5 / 0 / 0.8 | 2.7 / 2.8 / 0 / 0.8 | - | 2.5 vs 2.9 (2 blowout) |
+| Danny Wolf | 5.7 / 1.7 / 1.3 / 0.3 | 4.9 / 2.3 / 0.8 / 0.7 | 4.2 / 1.3 / 0.2 / 0.2 | 7.1 / 4.5 / 1.7 / 0.7 | - | 6.1 vs 8.1 (3 blowout) |
+
 - Michael Porter Jr. missed: 11-14: NWT - Personal
 - Day'Ron Sharpe without Michael Porter Jr. (1 games): pts 9.2 → 16
 - Danny Wolf without Michael Porter Jr. (1 games): pts 9 → 14, reb 3.6 → 6
@@ -54,6 +80,17 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Payton Pritchard | 28.4 | 12.3 (5) | 2.8 (1) | 4.5 (2) | 14/46 | 5/19/15/61% | 24/24/11% | Neemias Queta 5, Sam Hauser 5, Hugo González 4 |
 | Neemias Queta | 25.3 | 13.4 (6) | 7.6 (5) | 2.4 (1) | 2/3 | 61/32/0/7% | 25/29/17% | Jayson Tatum 3, Payton Pritchard 2, Derrick White 2 |
 | Sam Hauser | 21.4 | 8.3 (3) | 2.3 (1) | 1.5 (0) | 15/36 | 2/8/0/90% | 14/14/11% | Jayson Tatum 4, Payton Pritchard 3, Derrick White 1 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Jayson Tatum | 12.0 / 10 / 3.2 / 2.2 | 6.5 / 7.6 / 1.4 / 0.6 | 11.2 / 8.6 / 2.6 / 1.8 | 6.0 / 3.4 / 1.2 / 0.8 | - | 6.2 vs 5.6 (2 blowout) |
+| Paul George | 7.1 / 4.2 / 2.8 / 1 | 9.1 / 5.6 / 2 / 2 | 8.2 / 4.6 / 0.4 / 1 | 6.4 / 2.8 / 1 / 0.8 | - | 9.1 vs 2.4 (2 blowout) |
+| Derrick White | 5.9 / 2.6 / 1.4 / 1.2 | 10.0 / 4.8 / 1.6 / 1 | 6.6 / 2.2 / 0.8 / 1.4 | 8.0 / 1.8 / 0.2 / 0.8 | - | 10.8 vs 3.9 (2 blowout) |
+| Payton Pritchard | 7.0 / 3.3 / 0.5 / 1.5 | 7.4 / 4.2 / 1.2 / 1.3 | 6.8 / 1.8 / 0.5 / 1.2 | 7.2 / 3 / 0.7 / 0.5 | - | 8.7 vs 4.0 (2 blowout) |
+| Neemias Queta | 7.5 / 4 / 1.4 / 0.8 | 5.5 / 1.8 / 1.6 / 0.8 | 6.1 / 4.2 / 2.4 / 0.4 | 6.3 / 3.4 / 2.2 / 0.4 | - | 8.0 vs 3.6 (2 blowout) |
+| Sam Hauser | 5.5 / 2.5 / 0.3 / 0.7 | 6.7 / 2.3 / 1.2 / 0.3 | 5.4 / 2.3 / 0.5 / 0.3 | 3.9 / 1.2 / 0.3 / 0.2 | - | 5.0 vs 1.7 (2 blowout) |
 
 - Jayson Tatum missed: 11-21: not on roster / inactive
 - Jayson Tatum without Paul George (1 games): reb 8 → 10
@@ -85,6 +122,20 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Walter Clayton Jr. | 20.6 | 8.8 (2) | 2.5 (0) | 3.0 (1) | 10/24 | 15/18/8/60% | 26/0/28% | Zaccharie Risacher 4, P.J. Washington 3, Daniel Gafford 2 |
 | Morez Johnson Jr. | 18.6 | 5.7 (2) | 5.3 (1) | 1.7 (0) | 3/11 | 30/35/5/30% | 6/28/50% | Caleb Martin 2, Kyrie Irving 2, Walter Clayton Jr. 2 |
 
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Cooper Flagg | 7.8 / 5.3 / 1.3 / 1.7 | 8.6 / 6.8 / 1.2 / 1 | 9.7 / 6.2 / 1.2 / 2.8 | 6.8 / 5.3 / 1.5 / 1.5 | - | 8.2 vs 5.4 (3 blowout) |
+| Kyrie Irving | 10.7 / 5.6 / 1 / 1.8 | 7.0 / 3.6 / 0.6 / 1 | 9.5 / 6.6 / 2 / 2 | 5.5 / 4.8 / 1.2 / 0.8 | - | 9.1 vs 0.1 (2 blowout) |
+| Caleb Martin | 7.0 / 3 / 1.5 / 0.7 | 8.1 / 2.8 / 1.7 / 1 | 6.9 / 1.7 / 1.3 / 1.3 | 5.6 / 2.7 / 0.8 / 0.7 | - | 6.2 vs 4.9 (3 blowout) |
+| P.J. Washington | 7.5 / 5.8 / 1.2 / 0.2 | 9.7 / 4 / 2.2 / 1.5 | 5.2 / 2.8 / 0.5 / 0 | 2.5 / 0.8 / 0.8 / 0 | - | 5.1 vs 0 (2 blowout) |
+| Daniel Gafford | 6.2 / 0.7 / 1 / 0.3 | 7.7 / 2 / 2.7 / 1.2 | 5.9 / 5 / 1.3 / 0.7 | 4.6 / 1 / 0.5 / 0.3 | - | 4.5 vs 4.6 (3 blowout) |
+| Naji Marshall | 5.6 / 2 / 0.5 / 0.3 | 6.1 / 2.5 / 0.5 / 0.8 | 6.6 / 2.7 / 0.8 / 1 | 5.2 / 3 / 0.5 / 0.5 | - | 6.4 vs 4.0 (3 blowout) |
+| Zaccharie Risacher | 5.6 / 1.8 / 1.2 / 0.3 | 4.4 / 2.5 / 1.2 / 0.3 | 5.6 / 2.5 / 1.5 / 0 | 7.1 / 3.8 / 1.3 / 0 | - | 5.7 vs 8.5 (3 blowout) |
+| Walter Clayton Jr. | 5.0 / 1.5 / 0.8 / 0.5 | 5.5 / 2.2 / 0.8 / 0.7 | 5.0 / 2.8 / 0.8 / 1 | 5.1 / 2.3 / 0 / 0.8 | - | 3.8 vs 6.4 (3 blowout) |
+| Morez Johnson Jr. | 5.5 / 2.8 / 1.8 / 0.3 | 3.4 / 1 / 1 / 0.3 | 5.3 / 1.5 / 1 / 0.2 | 4.4 / 0.3 / 1.5 / 0.8 | - | 3.5 vs 5.3 (3 blowout) |
+
 - Zaccharie Risacher without Kyrie Irving (1 games): pts 9.2 → 18
 - Daniel Gafford without Kyrie Irving (1 games): pts 9.8 → 3
 - Cooper Flagg without Kyrie Irving (1 games): pts 25 → 17, reb 5.6 → 3, ast 7.6 → 4
@@ -99,13 +150,25 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 
 | Player | Min | PTS (low) | REB (low) | AST (low) | 3PM/3PA | Shot mix rim/short/mid/3 | Q4 share P/R/A | Assists go to |
 |---|---|---|---|---|---|---|---|---|
-| Jamal Murray | 37.9 | 25.2 (14) | 4.5 (2) | 5.3 (2) | 12/36 | 22/18/23/36% | 42/37/12% | Nikola Jokić 9, Aaron Gordon 7, Cameron Johnson 5 |
-| Nikola Jokić | 37.7 | 26.5 (18) | 11.2 (7) | 8.8 (5) | 10/24 | 25/43/9/23% | 14/21/26% | Christian Braun 16, Jamal Murray 15, Cameron Johnson 9 |
-| Christian Braun | 32.4 | 16.2 (10) | 5.0 (2) | 2.8 (1) | 13/33 | 43/6/3/48% | 10/23/12% | Nikola Jokić 11, Cameron Johnson 3, Aaron Gordon 2 |
-| Cameron Johnson | 30.3 | 13.5 (8) | 3.3 (0) | 3.0 (1) | 11/38 | 25/12/6/57% | 22/25/17% | Nikola Jokić 7, Christian Braun 3, Spencer Jones 2 |
+| Jamal Murray | 37.9 | 25.2 (14) | 4.5 (2) | 5.3 (2) | 12/36 | 22/18/23/36% | 36/37/12% | Nikola Jokić 9, Aaron Gordon 7, Cameron Johnson 5 |
+| Nikola Jokić | 37.7 | 26.5 (18) | 11.2 (7) | 8.8 (5) | 10/24 | 25/43/9/23% | 11/19/17% | Christian Braun 16, Jamal Murray 15, Cameron Johnson 9 |
+| Christian Braun | 32.4 | 16.2 (10) | 5.0 (2) | 2.8 (1) | 13/33 | 43/6/3/48% | 7/17/6% | Nikola Jokić 11, Cameron Johnson 3, Aaron Gordon 2 |
+| Cameron Johnson | 30.3 | 13.5 (8) | 3.3 (0) | 3.0 (1) | 11/38 | 25/12/6/57% | 16/25/17% | Nikola Jokić 7, Christian Braun 3, Spencer Jones 2 |
 | Aaron Gordon | 29.3 | 12.0 (1) | 4.7 (1) | 2.3 (1) | 5/18 | 55/8/4/34% | 32/21/7% | Christian Braun 7, Nikola Jokić 3, Jamal Murray 2 |
 | DeMar DeRozan | 20.0 | 9.5 (2) | 2.2 (0) | 1.5 (1) | 1/5 | 19/32/38/11% | 44/31/0% | Nikola Jokić 4, Cameron Johnson 2, Marvin Bagley III 1 |
 | Spencer Jones | 18.2 | 3.3 (0) | 2.5 (1) | 1.0 (0) | 3/9 | 40/0/0/60% | 20/20/0% | - |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Jamal Murray | 10.2 / 3.7 / 1 / 2 | 7.5 / 6.2 / 1 / 1 | 10.0 / 4.8 / 0.8 / 1.7 | 9.4 / 9.2 / 1.7 / 0.7 | 5.0 / 8 / 0 / 0 | 9.4 (no blowouts) |
+| Nikola Jokić | 11.6 / 7 / 3.8 / 3 | 6.5 / 4 / 1.7 / 1.7 | 12.0 / 11.8 / 3.3 / 1.8 | 6.7 / 3 / 2.2 / 1.5 | 5.0 / 4 / 1 / 5 | 6.7 (no blowouts) |
+| Christian Braun | 8.4 / 3.8 / 1.2 / 1.2 | 7.1 / 3.8 / 1.2 / 0.2 | 10.1 / 6.8 / 1.5 / 1.2 | 5.9 / 1.2 / 0.8 / 0.2 | 5.0 / 3 / 2 / 1 | 5.9 (no blowouts) |
+| Cameron Johnson | 6.3 / 3.5 / 0.5 / 0.7 | 7.6 / 3.7 / 1.2 / 1 | 7.8 / 3.3 / 0.8 / 0.8 | 7.8 / 2.2 / 0.8 / 0.5 | 5.0 / 5 / 0 / 0 | 7.8 (no blowouts) |
+| Aaron Gordon | 7.1 / 3.3 / 1.2 / 0.3 | 7.1 / 2 / 1.3 / 0.7 | 8.1 / 2.8 / 1.2 / 1.2 | 6.2 / 3.8 / 1 / 0.2 | 5.0 / 0 / 0 / 0 | 6.2 (no blowouts) |
+| DeMar DeRozan | 5.1 / 1.3 / 0.5 / 0.3 | 4.3 / 2.7 / 0.8 / 0.5 | 3.6 / 1.3 / 0.2 / 0.7 | 6.4 / 4.2 / 0.7 / 0 | - | 6.4 (no blowouts) |
+| Spencer Jones | 0.0 / 0.8 / 0.7 / 0 | 4.6 / 0.7 / 0.8 / 0 | 0.0 / 1.2 / 0.5 / 0 | 3.7 / 0.7 / 0.5 / 0 | - | 3.7 (no blowouts) |
 
 ## DET
 
@@ -119,6 +182,19 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Paul Reed | 24.0 | 11.5 (8) | 6.7 (5) | 2.2 (1) | 0/1 | 67/28/2/2% | 33/30/15% | Cade Cunningham 3, Daniss Jenkins 2, Javonte Green 2 |
 | Javonte Green | 22.9 | 8.8 (5) | 3.3 (1) | 0.3 (0) | 10/24 | 22/3/0/75% | 15/25/0% | Elijah Harkless 1, Ausar Thompson 1 |
 | Isaiah Joe | 22.5 | 15.0 (9) | 2.2 (1) | 1.2 (0) | 12/31 | 12/7/9/72% | 23/0/0% | Javonte Green 1, Paul Reed 1, Ausar Thompson 1 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Daniss Jenkins | 8.4 / 3.8 / 1 / 1.7 | 9.6 / 4.2 / 1.3 / 1.5 | 9.4 / 4.2 / 0.7 / 1 | 9.6 / 3.2 / 0.7 / 1.3 | - | 10.0 vs 7.9 (1 blowout) |
+| Cade Cunningham | 8.6 / 5 / 0.8 / 2.5 | 9.2 / 6.5 / 1.2 / 3.5 | 8.5 / 5 / 2 / 1.5 | 9.4 / 5.5 / 0.8 / 2 | - | 9.8 vs 8.2 (1 blowout) |
+| Kevin Huerter | 8.7 / 4 / 1.5 / 1.2 | 8.9 / 3 / 1.2 / 0.5 | 8.4 / 2.5 / 0.3 / 1 | 8.7 / 3 / 1 / 1.3 | - | 8.8 vs 8.4 (1 blowout) |
+| Ausar Thompson | 6.7 / 2.7 / 1.2 / 1.7 | 6.9 / 3 / 1.7 / 1 | 7.8 / 2.7 / 3.2 / 2.5 | 9.0 / 3.5 / 2.7 / 0.8 | - | 8.8 vs 10.1 (1 blowout) |
+| John Collins | 7.5 / 2.8 / 1.5 / 0.2 | 4.9 / 1.7 / 0.5 / 0.2 | 6.4 / 4.8 / 1.3 / 0.2 | 5.6 / 2.7 / 1.8 / 0 | - | 5.1 vs 7.9 (1 blowout) |
+| Paul Reed | 5.0 / 2.8 / 1.3 / 0.3 | 6.7 / 3 / 1.3 / 0.7 | 5.9 / 1.8 / 2 / 0.8 | 6.5 / 3.8 / 2 / 0.3 | - | 6.8 vs 4.9 (1 blowout) |
+| Javonte Green | 6.1 / 2.2 / 1.2 / 0 | 5.4 / 3.3 / 0.7 / 0.2 | 6.2 / 2 / 0.7 / 0.2 | 5.1 / 1.3 / 0.8 / 0 | - | 6.1 vs 0.5 (1 blowout) |
+| Isaiah Joe | 6.0 / 2 / 0.5 / 0.5 | 6.1 / 4.5 / 1 / 0.5 | 6.9 / 5 / 0.8 / 0.2 | 3.5 / 3.5 / 0 / 0 | - | 3.5 (no blowouts) |
 
 - Kevin Huerter without Cade Cunningham (2 games): ast 3 → 6
 - Ausar Thompson without Cade Cunningham (2 games): pts 13.8 → 8
@@ -141,6 +217,19 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Gui Santos | 21.1 | 11.3 (6) | 4.7 (3) | 2.2 (0) | 7/19 | 40/21/0/40% | 28/18/23% | Gary Payton II 4, Brandin Podziemski 2, Yaxel Lendeborg 2 |
 | LJ Cryer | 18.1 | 9.6 (3) | 0.6 (0) | 2.8 (1) | 12/32 | 7/16/5/73% | 44/33/50% | Will Richard 3, Charles Bassey 3, Draymond Green 2 |
 
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Yaxel Lendeborg | 9.1 / 2.8 / 1.3 / 1.2 | 7.6 / 3.8 / 1.7 / 0.3 | 8.2 / 4.7 / 2.5 / 1.2 | 6.0 / 2.3 / 1.8 / 0.7 | - | 10.1 vs 3.9 (4 blowout) |
+| Brandin Podziemski | 8.1 / 4.2 / 0.8 / 0.8 | 8.1 / 2.5 / 1 / 0.8 | 8.3 / 4.8 / 1.3 / 0.3 | 5.9 / 1.7 / 0.8 / 0.8 | - | 10.3 vs 3.7 (4 blowout) |
+| Will Richard | 4.8 / 0.7 / 0.7 / 0.7 | 5.9 / 3.2 / 0.8 / 0 | 5.5 / 2.8 / 0.3 / 0.2 | 7.2 / 3.2 / 0.8 / 0.5 | - | 2.9 vs 9.4 (4 blowout) |
+| Draymond Green | 6.9 / 1.8 / 1 / 0.8 | 6.3 / 1.6 / 2 / 1.4 | 7.1 / 1.4 / 0.8 / 2 | 3.1 / 0 / 0.6 / 0.6 | - | 5.7 vs 1.4 (3 blowout) |
+| De'Anthony Melton | 6.3 / 2.5 / 0.2 / 1 | 6.7 / 3 / 1 / 1.2 | 5.4 / 1.2 / 1 / 1.3 | 4.4 / 1.8 / 0.5 / 0.7 | - | 6.8 vs 3.2 (4 blowout) |
+| Charles Bassey | 6.3 / 3.2 / 2.8 / 0.3 | 5.0 / 2 / 0.8 / 0.5 | 5.0 / 2.8 / 1.5 / 0 | 5.4 / 2.7 / 1.8 / 0.3 | - | 6.7 vs 4.8 (4 blowout) |
+| Gui Santos | 5.3 / 3.5 / 1.3 / 0.7 | 5.0 / 1.7 / 1.3 / 0.3 | 5.6 / 3 / 1.2 / 0.7 | 5.3 / 3.2 / 0.8 / 0.5 | - | 8.8 vs 3.6 (4 blowout) |
+| LJ Cryer | 4.8 / 2.4 / 0.4 / 0.6 | 3.0 / 1.4 / 0 / 0.6 | 4.8 / 1.6 / 0 / 0.2 | 5.5 / 4.2 / 0.2 / 1.4 | - | 0 vs 6.9 (4 blowout) |
+
 - Draymond Green missed: 11-19: not on roster / inactive
 - LJ Cryer missed: 11-25: DNP - Coach's Decision
 
@@ -155,6 +244,18 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Ivica Zubac | 26.0 | 11.5 (4) | 10.0 (3) | 1.8 (1) | 0/0 | 86/14/0/0% | 29/25/18% | Pascal Siakam 4, Kelly Oubre Jr. 2, Aaron Nesmith 2 |
 | Quenton Jackson | 21.3 | 7.8 (2) | 3.2 (1) | 3.3 (0) | 6/22 | 34/7/5/54% | 23/37/40% | Pascal Siakam 7, Obi Toppin 5, Kelly Oubre Jr. 4 |
 | Obi Toppin | 20.0 | 10.5 (5) | 3.3 (1) | 1.7 (1) | 5/24 | 41/12/0/47% | 19/15/10% | Jalen Slawson 2, Kelly Oubre Jr. 2, Jay Huff 2 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Pascal Siakam | 7.5 / 4.8 / 1.5 / 0.7 | 9.4 / 4.7 / 1.7 / 0.2 | 7.3 / 5.3 / 1.2 / 0.8 | 8.6 / 8.5 / 0.7 / 0.8 | - | 10.1 vs 5.5 (2 blowout) |
+| Andrew Nembhard | 7.3 / 3 / 0.8 / 0.8 | 9.5 / 5.8 / 0.2 / 3 | 8.3 / 0.5 / 0.8 / 1.8 | 7.3 / 4.5 / 1 / 1.5 | - | 8.6 vs 3.4 (1 blowout) |
+| Aaron Nesmith | 8.9 / 1.8 / 1.2 / 1.4 | 8.5 / 2 / 1.6 / 0.8 | 7.8 / 2.6 / 1.2 / 1.2 | 6.5 / 2.2 / 1.2 / 0 | - | 7.4 vs 5.0 (2 blowout) |
+| Kelly Oubre Jr. | 7.2 / 2.8 / 1.2 / 0.2 | 5.2 / 3.7 / 0.8 / 0.2 | 7.5 / 7.2 / 1.3 / 0.2 | 6.8 / 3.2 / 1.3 / 0.2 | - | 7.9 vs 4.5 (2 blowout) |
+| Ivica Zubac | 6.9 / 2.3 / 1.2 / 0.5 | 6.3 / 2.2 / 2.5 / 0.3 | 6.4 / 3.7 / 3.8 / 0.7 | 6.4 / 3.3 / 2.5 / 0.3 | - | 4.9 vs 9.3 (2 blowout) |
+| Quenton Jackson | 6.2 / 2.2 / 0.7 / 0.7 | 4.7 / 2.3 / 1 / 0.5 | 5.4 / 1.5 / 0.3 / 0.8 | 5.2 / 1.8 / 1.2 / 1.3 | - | 5.8 vs 4.0 (2 blowout) |
+| Obi Toppin | 6.1 / 3.2 / 1 / 0.5 | 4.8 / 3.2 / 0.7 / 0.5 | 4.7 / 2.2 / 1.2 / 0.5 | 4.5 / 2 / 0.5 / 0.2 | - | 4.0 vs 5.3 (2 blowout) |
 
 - Pascal Siakam without Andrew Nembhard (2 games): pts 21.2 → 27.5, reb 6 → 3
 - Pascal Siakam without Aaron Nesmith (1 games): reb 4.4 → 8, ast 2 → 5
@@ -181,20 +282,46 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Kris Dunn | 21.3 | 6.5 (2) | 4.2 (2) | 3.5 (1) | 2/13 | 39/21/0/39% | 28/8/19% | Rui Hachimura 9, Brook Lopez 3, Brandon Ingram 2 |
 | Keaton Wagler | 19.9 | 9.2 (2) | 3.5 (1) | 2.0 (0) | 5/19 | 20/24/13/42% | 33/33/50% | Gradey Dick 3, Darius Garland 2, Brook Lopez 2 |
 
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Darius Garland | 9.4 / 6.2 / 0.5 / 0.8 | 7.8 / 5.8 / 1 / 0.8 | 9.8 / 6.2 / 0.7 / 2.7 | 5.7 / 2.5 / 0.2 / 1.2 | - | 5.7 (no blowouts) |
+| Rui Hachimura | 8.1 / 4.5 / 1.8 / 0.3 | 7.8 / 5.2 / 2.2 / 0.3 | 8.3 / 4.2 / 1.7 / 1.2 | 5.2 / 1.7 / 0.5 / 0.2 | - | 5.2 (no blowouts) |
+| Brandon Ingram | 7.8 / 0 / 1.5 / 1 | 6.4 / 5.5 / 3.5 / 1.5 | 5.2 / 6.5 / 1 / 1.5 | 7.3 / 5 / 0 / 0 | - | 7.3 (no blowouts) |
+| Max Strus | 6.4 / 1.5 / 0.8 / 0.5 | 5.5 / 1.5 / 0.7 / 0.7 | 7.3 / 3.7 / 1.7 / 0.7 | 6.3 / 1.3 / 0.5 / 0.5 | - | 6.3 (no blowouts) |
+| Derrick Jones Jr. | 8.5 / 2.2 / 1.3 / 0.8 | 7.0 / 1.3 / 0.8 / 0.2 | 7.4 / 2.3 / 1 / 0.3 | 2.6 / 1 / 0.2 / 0 | - | 2.6 (no blowouts) |
+| Brook Lopez | 7.8 / 1.5 / 2.3 / 1.2 | 6.0 / 3 / 0.5 / 0.5 | 6.3 / 5.8 / 0.8 / 0.2 | 3.9 / 3.5 / 0.8 / 0.8 | - | 3.9 (no blowouts) |
+| Kris Dunn | 5.2 / 2.2 / 1 / 0.5 | 6.1 / 1.3 / 1.7 / 0.8 | 5.8 / 1.2 / 1.2 / 1.5 | 4.2 / 1.8 / 0.3 / 0.7 | - | 4.2 (no blowouts) |
+| Keaton Wagler | 4.3 / 1.5 / 0.2 / 0.5 | 5.4 / 3.3 / 1.2 / 0.5 | 4.0 / 1.3 / 1 / 0 | 6.2 / 3 / 1.2 / 1 | - | 6.2 (no blowouts) |
+
 - Brandon Ingram missed: 11-21: not on roster / inactive; 11-19: not on roster / inactive; 11-17: not on roster / inactive; 11-15: not on roster / inactive
 
 ## LAL
 
 | Player | Min | PTS (low) | REB (low) | AST (low) | 3PM/3PA | Shot mix rim/short/mid/3 | Q4 share P/R/A | Assists go to |
 |---|---|---|---|---|---|---|---|---|
-| Luka Dončić | 36.0 | 32.2 (25) | 4.7 (3) | 7.3 (5) | 22/76 | 11/31/10/48% | 13/25/14% | Jake LaRavia 10, Quentin Grimes 9, Ziaire Williams 5 |
-| Quentin Grimes | 35.9 | 22.2 (9) | 5.4 (3) | 4.6 (1) | 21/39 | 28/12/4/57% | 39/37/35% | Walker Kessler 6, Luka Dončić 5, Matisse Thybulle 4 |
+| Luka Dončić | 36.0 | 32.2 (25) | 4.7 (3) | 7.3 (5) | 22/76 | 11/31/10/48% | 12/18/14% | Jake LaRavia 10, Quentin Grimes 9, Ziaire Williams 5 |
+| Quentin Grimes | 35.9 | 22.2 (9) | 5.4 (3) | 4.6 (1) | 21/39 | 28/12/4/57% | 37/37/35% | Walker Kessler 6, Luka Dončić 5, Matisse Thybulle 4 |
 | Walker Kessler | 31.7 | 11.8 (10) | 10.6 (7) | 1.8 (0) | 1/1 | 87/11/0/3% | 39/32/33% | Ziaire Williams 3, Matisse Thybulle 2, Luka Dončić 1 |
-| Jake LaRavia | 27.8 | 6.8 (0) | 6.0 (3) | 2.3 (0) | 4/15 | 47/8/3/42% | 15/14/14% | Luka Dončić 7, Quentin Grimes 3, Austin Reaves 3 |
-| Matisse Thybulle | 26.0 | 9.5 (2) | 4.0 (1) | 0.8 (0) | 12/28 | 17/17/0/67% | 23/21/40% | Quentin Grimes 4, Collin Sexton 1 |
+| Jake LaRavia | 27.8 | 6.8 (0) | 6.0 (3) | 2.3 (0) | 4/15 | 47/8/3/42% | 15/8/14% | Luka Dončić 7, Quentin Grimes 3, Austin Reaves 3 |
+| Matisse Thybulle | 26.0 | 9.5 (2) | 4.0 (1) | 0.8 (0) | 12/28 | 17/17/0/67% | 21/21/40% | Quentin Grimes 4, Collin Sexton 1 |
 | Ziaire Williams | 21.2 | 6.0 (0) | 1.7 (0) | 1.7 (0) | 5/15 | 36/4/0/60% | 25/40/20% | Quentin Grimes 3, Sandro Mamukelashvili 2, Luka Dončić 1 |
 | Sandro Mamukelashvili | 20.8 | 7.8 (2) | 4.0 (2) | 1.8 (0) | 5/24 | 38/17/0/45% | 9/4/9% | Jarred Vanderbilt 2, Quentin Grimes 2, Luka Dončić 2 |
-| Collin Sexton | 20.6 | 11.7 (10) | 1.3 (0) | 3.0 (1) | 6/24 | 25/29/4/43% | 40/50/33% | Walker Kessler 6, Jake LaRavia 3, Quentin Grimes 3 |
+| Collin Sexton | 20.6 | 11.7 (10) | 1.3 (0) | 3.0 (1) | 6/24 | 25/29/4/43% | 37/25/33% | Walker Kessler 6, Jake LaRavia 3, Quentin Grimes 3 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Luka Dončić | 11.9 / 14.5 / 1.3 / 2.3 | 5.8 / 5.3 / 1.2 / 1.3 | 11.7 / 8 / 1 / 2.7 | 5.8 / 4 / 0.8 / 1 | 5.0 / 2 / 2 / 0 | 6.4 vs 4.6 (2 blowout) |
+| Quentin Grimes | 7.7 / 3.6 / 1.2 / 1.2 | 8.9 / 3.6 / 1.6 / 1 | 8.5 / 6.4 / 0.6 / 0.8 | 9.8 / 8.2 / 2 / 1.6 | 5.0 / 2 / 0 / 0 | 9.8 vs 9.8 (1 blowout) |
+| Walker Kessler | 7.1 / 2.2 / 1.4 / 0.2 | 7.4 / 3.2 / 2.8 / 0.4 | 7.3 / 1.8 / 3 / 0.6 | 9.9 / 4.6 / 3.4 / 0.6 | - | 10.9 vs 8.3 (2 blowout) |
+| Jake LaRavia | 6.5 / 2.2 / 1.5 / 1.2 | 7.1 / 2 / 2.2 / 0.2 | 7.4 / 1.7 / 1.5 / 0.7 | 6.2 / 1 / 0.5 / 0.3 | 3.8 / 0 / 2 / 0 | 6.1 vs 6.5 (2 blowout) |
+| Matisse Thybulle | 5.9 / 1.5 / 1 / 0.2 | 6.5 / 2.7 / 1.2 / 0.2 | 6.2 / 3.2 / 1 / 0.2 | 6.5 / 2 / 0.8 / 0.3 | 5.0 / 1 / 0 / 0 | 6.6 vs 6.3 (2 blowout) |
+| Ziaire Williams | 6.0 / 1.5 / 0.5 / 0.3 | 3.2 / 0.8 / 0 / 0 | 5.5 / 2.2 / 0.5 / 1 | 6.5 / 1.5 / 0.7 / 0.3 | - | 7.4 vs 4.8 (2 blowout) |
+| Sandro Mamukelashvili | 5.8 / 2.2 / 1.2 / 0.2 | 6.9 / 1.8 / 1.7 / 0.8 | 5.3 / 3.2 / 1 / 0.7 | 2.8 / 0.7 / 0.2 / 0.2 | - | 1.6 vs 5.0 (2 blowout) |
+| Collin Sexton | 1.9 / 1.2 / 0.2 / 0.3 | 8.2 / 5 / 0.5 / 1.7 | 1.9 / 0.8 / 0 / 0 | 7.7 / 4.3 / 0.3 / 1 | 4.8 / 2 / 2 / 0 | 8.4 vs 6.3 (2 blowout) |
 
 - Matisse Thybulle without Walker Kessler (1 games): pts 10 → 7
 - Jake LaRavia without Walker Kessler (1 games): pts 7.4 → 4
@@ -225,6 +352,21 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Zach Edey | 19.3 | 11.4 (7) | 5.8 (2) | 1.0 (0) | 0/0 | 73/27/0/0% | 39/31/40% | Cam Spencer 2, Jaylen Wells 1, Kris Murray 1 |
 | Isaiah Stewart | 18.3 | 9.8 (8) | 3.2 (2) | 0.8 (0) | 3/11 | 38/25/3/34% | 10/15/33% | Javon Small 1, Kris Murray 1, Jaylen Wells 1 |
 
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Cedric Coward | 9.1 / 6.3 / 1.8 / 1 | 6.3 / 3.8 / 2 / 0.8 | 7.6 / 4.3 / 1.5 / 1.7 | 5.6 / 3.8 / 1.5 / 0 | - | 6.4 vs 4.0 (2 blowout) |
+| Cameron Boozer | 7.5 / 7.3 / 1.3 / 1.3 | 7.5 / 5.3 / 2 / 0.7 | 7.9 / 5 / 1.7 / 1.7 | 5.3 / 3.3 / 2 / 2 | - | 6.7 vs 2.6 (1 blowout) |
+| Ty Jerome | 6.5 / 4.3 / 1.3 / 1.3 | 6.8 / 6 / 0.3 / 1 | 6.5 / 4.7 / 1.3 / 1 | 7.4 / 6.3 / 1.3 / 2 | - | 7.2 vs 7.9 (1 blowout) |
+| Cam Spencer | 5.9 / 3.2 / 0.7 / 2 | 6.7 / 2 / 0.2 / 1.3 | 7.5 / 6.3 / 1 / 2 | 7.2 / 4.5 / 0.7 / 1.5 | - | 6.8 vs 8.1 (2 blowout) |
+| Jaylen Wells | 6.8 / 3.7 / 1.5 / 0.2 | 6.8 / 2.7 / 1.3 / 0.2 | 7.2 / 3.2 / 0.7 / 0.5 | 4.0 / 2.2 / 0.5 / 0.2 | - | 4.5 vs 3.0 (2 blowout) |
+| Taylor Hendricks | 5.2 / 1 / 0.3 / 0.3 | 6.0 / 3.2 / 0.7 / 0.3 | 5.8 / 1.5 / 1.3 / 0.2 | 5.6 / 2.8 / 1.2 / 0.3 | - | 5.8 vs 5.0 (2 blowout) |
+| Javon Small | 5.4 / 2.4 / 0.4 / 1.2 | 5.5 / 1.8 / 0.8 / 1.8 | 4.9 / 1.2 / 1.6 / 1 | 6.4 / 2.4 / 1.4 / 2 | - | 6.0 vs 7.8 (1 blowout) |
+| Olivier-Maxence Prosper | 4.2 / 1 / 0.2 / 0.5 | 4.9 / 1.7 / 1 / 0 | 4.2 / 3.3 / 0.7 / 0 | 6.0 / 3.2 / 1.5 / 0.2 | - | 5.0 vs 8.1 (2 blowout) |
+| Zach Edey | 4.9 / 3.4 / 2 / 0.4 | 4.7 / 2 / 1.6 / 0.2 | 3.9 / 1.6 / 0.4 / 0 | 5.8 / 4.4 / 1.8 / 0.4 | - | 5.3 vs 7.9 (1 blowout) |
+| Isaiah Stewart | 5.4 / 4 / 0.8 / 0.2 | 5.2 / 2 / 0.5 / 0 | 4.9 / 2.8 / 1.5 / 0.2 | 2.8 / 1 / 0.5 / 0.2 | - | 2.0 vs 3.5 (2 blowout) |
+
 - Jaylen Wells without Cameron Boozer (3 games): reb 5 → 3
 - Zach Edey missed: 11-19: not on roster / inactive
 - Zach Edey without Cameron Boozer (3 games): pts 17 → 7.7
@@ -252,6 +394,19 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Klay Thompson | 24.0 | 14.4 (7) | 1.6 (0) | 2.4 (1) | 19/43 | 10/7/9/74% | 12/12/25% | Bam Adebayo 3, Giannis Antetokounmpo 3, Bobby Portis Jr. 2 |
 | Bobby Portis Jr. | 18.4 | 8.7 (5) | 4.8 (3) | 1.0 (0) | 7/24 | 26/12/14/48% | 15/7/0% | Andrew Wiggins 2, Simone Fontecchio 1, Klay Thompson 1 |
 
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Davion Mitchell | 8.8 / 3.3 / 0.8 / 2 | 8.0 / 3.2 / 1 / 2.2 | 9.5 / 5.8 / 0.8 / 3 | 9.5 / 6.2 / 1 / 2 | - | 12.0 vs 8.2 (4 blowout) |
+| Bam Adebayo | 8.5 / 5.7 / 1.8 / 1.5 | 7.8 / 6.2 / 2 / 1 | 7.0 / 3.2 / 1.7 / 0.7 | 8.7 / 6.3 / 2.8 / 1.2 | - | 11.6 vs 7.2 (4 blowout) |
+| Giannis Antetokounmpo | 9.1 / 5.2 / 5.2 / 2 | 7.5 / 8.4 / 2.6 / 1 | 10.5 / 11.6 / 3.2 / 2.4 | 4.6 / 4.8 / 1.8 / 0.4 | - | 6.8 vs 3.2 (3 blowout) |
+| Ryan Conwell | 6.3 / 4.5 / 0.5 / 0.2 | 6.7 / 3.7 / 1 / 0.5 | 5.5 / 1.7 / 0.8 / 0.3 | 8.5 / 2.3 / 0.3 / 0.5 | - | 8.8 vs 8.3 (4 blowout) |
+| Andrew Wiggins | 5.4 / 1.8 / 0.7 / 0.7 | 7.7 / 2.2 / 0.8 / 0.2 | 5.7 / 3.2 / 0.2 / 0.2 | 7.9 / 2.7 / 1 / 0.8 | - | 8.5 vs 7.6 (4 blowout) |
+| Pelle Larsson | 7.5 / 1.7 / 1 / 1.7 | 4.5 / 2.7 / 0.7 / 0.3 | 6.8 / 2.7 / 1 / 0.3 | 5.4 / 4 / 0.3 / 0.3 | - | 7.8 vs 4.2 (2 blowout) |
+| Klay Thompson | 7.8 / 7.8 / 0.6 / 0.6 | 5.0 / 0.8 / 0.2 / 0.6 | 8.8 / 4 / 0.6 / 0.6 | 2.2 / 1.8 / 0.2 / 0.6 | - | 6.4 vs 1.2 (4 blowout) |
+| Bobby Portis Jr. | 6.8 / 3.5 / 1.8 / 0.5 | 2.0 / 0.5 / 0.7 / 0.2 | 6.0 / 3.3 / 2 / 0.3 | 3.5 / 1.3 / 0.3 / 0 | - | 1.8 vs 4.4 (4 blowout) |
+
 - Pelle Larsson missed: 11-16: DNP - Coach's Decision; 11-14: not on roster / inactive; 11-13: not on roster / inactive
 - Pelle Larsson without Giannis Antetokounmpo (1 games): pts 6 → 21, ast 1.5 → 5
 - Giannis Antetokounmpo missed: 11-22: not on roster / inactive
@@ -276,6 +431,19 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Ryan Rollins | 22.4 | 7.8 (2) | 3.2 (1) | 3.2 (1) | 1/12 | 40/17/9/34% | 16/0/8% | Kyle Kuzma 4, Tyler Herro 3, Jaime Jaquez Jr. 2 |
 | Nate Ament | 21.4 | 7.8 (2) | 3.8 (1) | 0.5 (0) | 5/17 | 32/18/0/50% | 26/17/33% | Kel'el Ware 1, Caris LeVert 1, Brayden Burries 1 |
 
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Tyler Herro | 9.2 / 5 / 2.5 / 2.2 | 7.1 / 3.7 / 0.8 / 0.7 | 8.9 / 7.8 / 1.2 / 0.7 | 6.2 / 7.2 / 0.5 / 1.5 | - | 7.4 vs 0 (1 blowout) |
+| Kyle Kuzma | 8.5 / 5.6 / 1.8 / 0.6 | 7.0 / 5.8 / 1.2 / 0 | 9.4 / 3.8 / 1 / 0.8 | 4.7 / 1.4 / 0.8 / 0.4 | - | 5.8 vs 0 (1 blowout) |
+| Brayden Burries | 6.0 / 1.8 / 1.3 / 0.5 | 6.4 / 4.8 / 1.2 / 0.7 | 6.0 / 4.5 / 1.8 / 0.8 | 8.3 / 3.8 / 2.2 / 1.2 | - | 10.0 vs 0 (1 blowout) |
+| Jaime Jaquez Jr. | 7.5 / 4.5 / 1.2 / 0.5 | 7.2 / 2.3 / 0.7 / 0.7 | 7.0 / 1.8 / 0.7 / 1.7 | 4.7 / 1 / 0.3 / 0.2 | - | 5.6 vs 0 (1 blowout) |
+| Myles Turner | 7.5 / 4.2 / 2.2 / 1.2 | 7.2 / 1.4 / 2.4 / 0.8 | 6.1 / 1.4 / 1.8 / 0.4 | 4.1 / 2.4 / 0.6 / 0.2 | - | 5.2 vs 0 (1 blowout) |
+| Kel'el Ware | 5.5 / 2.2 / 2 / 0.5 | 4.8 / 1.8 / 1.5 / 0.2 | 5.0 / 3 / 2.5 / 0 | 7.1 / 2.7 / 1.3 / 0.7 | - | 7.8 vs 3.7 (1 blowout) |
+| Ryan Rollins | 7.0 / 1 / 2 / 0.2 | 5.3 / 1.8 / 0.8 / 1.5 | 6.7 / 3.8 / 0.5 / 1.2 | 3.5 / 1.2 / 0 / 0.2 | - | 3.5 (no blowouts) |
+| Nate Ament | 3.4 / 1.5 / 1 / 0 | 6.0 / 1.5 / 1.2 / 0.2 | 5.2 / 2.8 / 1 / 0.2 | 6.8 / 2 / 0.7 / 0.2 | - | 5.8 vs 12.0 (1 blowout) |
+
 - Jaime Jaquez Jr. without Kyle Kuzma (1 games): reb 3.2 → 1
 - Kyle Kuzma missed: 11-19: not on roster / inactive
 - Myles Turner missed: 11-19: not on roster / inactive
@@ -298,6 +466,18 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Terrence Shannon Jr | 25.2 | 16.0 (8) | 2.7 (1) | 3.8 (2) | 9/21 | 37/27/0/36% | 21/12/4% | Jaden McDaniels 8, Trey Lyles 5, LaMelo Ball 3 |
 | Trey Lyles | 20.9 | 7.7 (3) | 5.2 (3) | 1.7 (1) | 10/23 | 14/7/0/79% | 30/26/10% | Ayo Dosunmu 4, Jaden McDaniels 2, Terrence Shannon Jr 2 |
 
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Jaden McDaniels | 9.8 / 5.3 / 1.7 / 0.8 | 8.5 / 6.3 / 1.8 / 1.2 | 9.6 / 7.5 / 1.8 / 0.7 | 7.6 / 4.7 / 1.3 / 1.2 | - | 7.6 vs 7.6 (2 blowout) |
+| Ayo Dosunmu | 8.9 / 5.5 / 1.2 / 1 | 6.6 / 2.3 / 0.8 / 0.7 | 9.1 / 4.5 / 0.8 / 1 | 8.7 / 4.7 / 0.7 / 1 | - | 9.4 vs 7.2 (2 blowout) |
+| Jonathan Kuminga | 8.3 / 4.4 / 1.4 / 0.6 | 7.6 / 3.8 / 1.4 / 0.4 | 7.5 / 4.8 / 0.4 / 0.8 | 8.5 / 1.8 / 2 / 0.4 | - | 8.7 vs 8.2 (2 blowout) |
+| Rudy Gobert | 6.1 / 2 / 0.8 / 0.3 | 8.3 / 2.5 / 2.8 / 0.8 | 6.7 / 1.3 / 1.7 / 0.2 | 8.9 / 2.5 / 3 / 0.3 | - | 9.4 vs 7.9 (2 blowout) |
+| LaMelo Ball | 7.8 / 2.3 / 1.5 / 1.2 | 8.7 / 5.5 / 1.8 / 1.2 | 6.9 / 4.7 / 1.7 / 1.2 | 6.5 / 2 / 1 / 1.2 | - | 6.2 vs 6.8 (2 blowout) |
+| Terrence Shannon Jr | 5.5 / 3.8 / 0.5 / 1.3 | 7.5 / 4.2 / 0.8 / 1.2 | 6.0 / 4.7 / 1 / 1.2 | 6.2 / 3.3 / 0.3 / 0.2 | - | 6.0 vs 6.8 (2 blowout) |
+| Trey Lyles | 3.9 / 3 / 0.7 / 0.3 | 6.3 / 0.3 / 1.8 / 0.5 | 4.5 / 2 / 1.3 / 0.7 | 6.3 / 2.3 / 1.3 / 0.2 | - | 7.4 vs 3.9 (2 blowout) |
+
 - Jaden McDaniels without Jonathan Kuminga (1 games): reb 7 → 5
 - Jonathan Kuminga missed: 11-17: DND - Injury/Illness
 - Rudy Gobert without Jonathan Kuminga (1 games): pts 10 → 0, reb 9.2 → 4
@@ -310,14 +490,27 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 
 | Player | Min | PTS (low) | REB (low) | AST (low) | 3PM/3PA | Shot mix rim/short/mid/3 | Q4 share P/R/A | Assists go to |
 |---|---|---|---|---|---|---|---|---|
-| Saddiq Bey | 37.4 | 15.5 (2) | 5.7 (4) | 3.5 (2) | 15/47 | 18/23/7/52% | 29/38/24% | Jeremiah Fears 5, Zion Williamson 4, Herbert Jones 4 |
-| Jeremiah Fears | 34.2 | 17.7 (7) | 6.2 (4) | 6.8 (4) | 9/28 | 36/28/6/30% | 17/19/12% | Zion Williamson 18, Saddiq Bey 8, Karlo Matković 3 |
-| Zion Williamson | 32.7 | 22.2 (16) | 5.8 (4) | 2.4 (0) | 2/4 | 75/19/1/5% | 25/17/0% | Herbert Jones 3, Jeremiah Fears 3, Trey Murphy III 2 |
-| Trey Murphy III | 31.9 | 13.0 (9) | 6.5 (4) | 1.5 (1) | 4/14 | 17/25/0/58% | 23/15/0% | Jordan Poole 1, Zion Williamson 1, Herbert Jones 1 |
-| Herbert Jones | 27.2 | 8.3 (2) | 2.3 (1) | 2.7 (1) | 12/28 | 20/20/2/57% | 20/29/31% | Jeremiah Fears 4, Trey Murphy III 3, Zion Williamson 3 |
+| Saddiq Bey | 37.4 | 15.5 (2) | 5.7 (4) | 3.5 (2) | 15/47 | 18/23/7/52% | 24/32/24% | Jeremiah Fears 5, Zion Williamson 4, Herbert Jones 4 |
+| Jeremiah Fears | 34.2 | 17.7 (7) | 6.2 (4) | 6.8 (4) | 9/28 | 36/28/6/30% | 16/16/10% | Zion Williamson 18, Saddiq Bey 8, Karlo Matković 3 |
+| Zion Williamson | 32.7 | 22.2 (16) | 5.8 (4) | 2.4 (0) | 2/4 | 75/19/1/5% | 23/14/0% | Herbert Jones 3, Jeremiah Fears 3, Trey Murphy III 2 |
+| Trey Murphy III | 31.9 | 13.0 (9) | 6.5 (4) | 1.5 (1) | 4/14 | 17/25/0/58% | 23/8/0% | Jordan Poole 1, Zion Williamson 1, Herbert Jones 1 |
+| Herbert Jones | 27.2 | 8.3 (2) | 2.3 (1) | 2.7 (1) | 12/28 | 20/20/2/57% | 16/21/25% | Jeremiah Fears 4, Trey Murphy III 3, Zion Williamson 3 |
 | Jordan Poole | 25.9 | 17.7 (6) | 1.3 (0) | 3.5 (1) | 16/32 | 30/11/4/56% | 18/50/19% | Jeremiah Fears 4, Derik Queen 4, Jaron Pierre Jr. 3 |
 | Yves Missi | 23.7 | 5.0 (3) | 9.5 (5) | 0.8 (0) | 0/0 | 75/25/0/0% | 3/12/20% | Jeremiah Fears 2, Jordan Poole 1, Zion Williamson 1 |
 | Derik Queen | 23.2 | 12.2 (9) | 8.5 (5) | 1.5 (0) | 6/15 | 50/19/5/26% | 36/25/11% | Jordan Poole 2, Jaron Pierre Jr. 2, Saddiq Bey 1 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Saddiq Bey | 8.6 / 5.5 / 1.3 / 0.8 | 9.6 / 3.7 / 0.7 / 0.8 | 8.3 / 1.8 / 1.5 / 1 | 10.1 / 3.7 / 1.8 / 0.8 | 5.0 / 5 / 2 / 0 | 11.8 vs 6.6 (2 blowout) |
+| Jeremiah Fears | 11.0 / 6.7 / 2.5 / 2.5 | 6.6 / 3.5 / 0.8 / 1.5 | 10.7 / 4.5 / 1.7 / 2 | 5.2 / 2.8 / 1 / 0.7 | 4.3 / 1 / 1 / 1 | 7.1 vs 1.6 (2 blowout) |
+| Zion Williamson | 8.2 / 4.6 / 2 / 0.8 | 7.5 / 5.8 / 1.4 / 0.6 | 8.9 / 6.2 / 1.4 / 1 | 7.2 / 5.2 / 0.8 / 0 | 5.0 / 2 / 1 / 0 | 9.0 vs 0 (1 blowout) |
+| Trey Murphy III | 6.0 / 6 / 2.5 / 0 | 10.1 / 0 / 1 / 0.5 | 6.6 / 4 / 2 / 1 | 7.2 / 3 / 0.5 / 0 | 4.1 / 0 / 1 / 0 | 7.2 (no blowouts) |
+| Herbert Jones | 8.8 / 2 / 0.8 / 1.3 | 4.5 / 1.2 / 0.5 / 0 | 8.3 / 3.5 / 0.3 / 0.5 | 4.7 / 1.3 / 0.5 / 0.7 | 5.0 / 2 / 1 / 1 | 7.0 vs 0 (2 blowout) |
+| Jordan Poole | 4.6 / 6 / 0.2 / 0.3 | 7.6 / 4.7 / 0.2 / 1.5 | 5.2 / 3.8 / 0.3 / 1 | 8.2 / 3.2 / 0.7 / 0.7 | 1.6 / 0 / 0 / 0 | 6.2 vs 12.0 (2 blowout) |
+| Yves Missi | 7.4 / 1.7 / 2.5 / 0.3 | 5.5 / 1.3 / 2.3 / 0.2 | 7.2 / 1.8 / 3.5 / 0.2 | 3.6 / 0.2 / 1.2 / 0.2 | 0.0 / 0 / 0 / 0 | 3.7 vs 3.5 (2 blowout) |
+| Derik Queen | 5.5 / 2.2 / 1.2 / 0.3 | 7.0 / 2.3 / 3 / 0.8 | 5.0 / 3.3 / 2.2 / 0.2 | 5.7 / 4.3 / 2.2 / 0.2 | - | 3.8 vs 9.5 (2 blowout) |
 
 - Trey Murphy III missed: 11-21: not on roster / inactive; 11-18: not on roster / inactive; 11-16: not on roster / inactive; 11-14: not on roster / inactive
 - Zion Williamson missed: 11-21: DNP - Coach's Decision
@@ -337,12 +530,23 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 
 | Player | Min | PTS (low) | REB (low) | AST (low) | 3PM/3PA | Shot mix rim/short/mid/3 | Q4 share P/R/A | Assists go to |
 |---|---|---|---|---|---|---|---|---|
-| OG Anunoby | 38.6 | 17.3 (15) | 6.7 (4) | 1.0 (0) | 4/13 | 31/20/11/37% | 25/40/33% | Mikal Bridges 2, Karl-Anthony Towns 1 |
-| Jalen Brunson | 35.9 | 25.2 (19) | 3.5 (1) | 6.3 (5) | 20/46 | 14/35/15/36% | 16/29/32% | Landry Shamet 9, Mikal Bridges 7, Karl-Anthony Towns 7 |
-| Karl-Anthony Towns | 34.9 | 21.6 (12) | 13.6 (10) | 5.4 (3) | 11/24 | 50/10/7/33% | 24/26/26% | Jalen Brunson 8, Landry Shamet 4, OG Anunoby 4 |
+| OG Anunoby | 38.6 | 17.3 (15) | 6.7 (4) | 1.0 (0) | 4/13 | 31/20/11/37% | 21/35/33% | Mikal Bridges 2, Karl-Anthony Towns 1 |
+| Jalen Brunson | 35.9 | 25.2 (19) | 3.5 (1) | 6.3 (5) | 20/46 | 14/35/15/36% | 11/29/29% | Landry Shamet 9, Mikal Bridges 7, Karl-Anthony Towns 7 |
+| Karl-Anthony Towns | 34.9 | 21.6 (12) | 13.6 (10) | 5.4 (3) | 11/24 | 50/10/7/33% | 23/25/19% | Jalen Brunson 8, Landry Shamet 4, OG Anunoby 4 |
 | Josh Hart | 32.7 | 6.8 (0) | 6.8 (4) | 5.5 (2) | 5/23 | 29/12/14/45% | 34/20/24% | Landry Shamet 8, Karl-Anthony Towns 7, Jalen Brunson 5 |
-| Mikal Bridges | 31.5 | 11.5 (5) | 4.7 (2) | 2.2 (1) | 9/26 | 16/28/12/45% | 30/43/31% | Andre Drummond 4, Jalen Brunson 4, Landry Shamet 2 |
-| Landry Shamet | 30.2 | 15.5 (10) | 1.5 (1) | 1.5 (0) | 20/36 | 24/5/5/65% | 22/0/22% | Mikal Bridges 3, Jalen Brunson 2, Tyler Kolek 1 |
+| Mikal Bridges | 31.5 | 11.5 (5) | 4.7 (2) | 2.2 (1) | 9/26 | 16/28/12/45% | 30/36/15% | Andre Drummond 4, Jalen Brunson 4, Landry Shamet 2 |
+| Landry Shamet | 30.2 | 15.5 (10) | 1.5 (1) | 1.5 (0) | 20/36 | 24/5/5/65% | 14/0/22% | Mikal Bridges 3, Jalen Brunson 2, Tyler Kolek 1 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| OG Anunoby | 9.5 / 4 / 2 / 0 | 9.2 / 6.3 / 1 / 0.7 | 8.3 / 2.7 / 1 / 0 | 9.9 / 3.7 / 2.3 / 0.3 | 5.0 / 2 / 1 / 0 | 9.9 (no blowouts) |
+| Jalen Brunson | 8.9 / 6.8 / 1 / 2 | 8.1 / 4.5 / 1 / 0.8 | 11.2 / 9.8 / 0.5 / 1.5 | 7.0 / 2.8 / 1 / 1.8 | 4.7 / 7 / 0 / 1 | 7.0 (no blowouts) |
+| Karl-Anthony Towns | 9.4 / 5.6 / 3.4 / 1.4 | 7.5 / 5.4 / 3.2 / 1.2 | 8.1 / 5.4 / 3.4 / 1.4 | 8.9 / 5 / 3.4 / 1 | 4.9 / 1 / 1 / 2 | 8.9 (no blowouts) |
+| Josh Hart | 9.7 / 1.8 / 1.7 / 1.5 | 7.3 / 2 / 2 / 1.8 | 8.5 / 0.7 / 1.8 / 0.8 | 7.1 / 2.3 / 1.3 / 1.3 | 0.3 / 0 / 0 / 0 | 7.1 (no blowouts) |
+| Mikal Bridges | 6.9 / 2.3 / 1.3 / 0.2 | 5.8 / 3.8 / 0.5 / 0.8 | 8.0 / 1.8 / 0.8 / 0.5 | 9.9 / 3.5 / 1.7 / 0.3 | 5.0 / 0 / 2 / 2 | 9.9 (no blowouts) |
+| Landry Shamet | 7.1 / 3.8 / 0.5 / 0.7 | 8.1 / 5.3 / 0.8 / 0.2 | 7.5 / 3 / 0.2 / 0.3 | 6.7 / 2.2 / 0 / 0.3 | 5.0 / 7 / 0 / 0 | 6.7 (no blowouts) |
 
 - Mikal Bridges without Karl-Anthony Towns (1 games): reb 5.2 → 2
 - Mikal Bridges without OG Anunoby (3 games): pts 10 → 13
@@ -366,6 +570,20 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Kentavious Caldwell-Pope | 27.6 | 5.8 (0) | 3.3 (1) | 1.7 (0) | 8/24 | 7/3/10/80% | 9/25/0% | Tyrese Maxey 4, Anfernee Simons 2, Jabari Walker 1 |
 | Anfernee Simons | 23.1 | 11.0 (3) | 0.7 (0) | 1.0 (0) | 11/32 | 14/10/14/63% | 20/50/17% | Kentavious Caldwell-Pope 2, LeBron James 1, VJ Edgecombe 1 |
 | Jabari Walker | 18.4 | 9.2 (6) | 5.2 (2) | 1.8 (1) | 6/16 | 53/3/0/44% | 5/23/9% | Anfernee Simons 3, Tyrese Maxey 2, VJ Edgecombe 2 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| VJ Edgecombe | 9.2 / 2.2 / 1.5 / 1.3 | 7.5 / 3.2 / 0.8 / 2.2 | 8.8 / 3.8 / 2.3 / 1.3 | 10.5 / 6.7 / 1.5 / 0.8 | - | 10.5 (no blowouts) |
+| Tyrese Maxey | 9.7 / 7 / 1.2 / 2.2 | 7.5 / 6 / 0.6 / 0.8 | 10.5 / 8.4 / 1 / 1.6 | 8.0 / 2.6 / 0.2 / 1.4 | - | 8.0 (no blowouts) |
+| Joel Embiid | 9.3 / 7.3 / 2.7 / 1.7 | 7.4 / 9.3 / 2.3 / 1 | 10.4 / 5.7 / 3.3 / 2 | 6.9 / 7.3 / 1 / 1 | - | 6.9 (no blowouts) |
+| LeBron James | 7.6 / 3.6 / 1.6 / 1.8 | 9.2 / 7.6 / 2.4 / 2.2 | 6.8 / 4.4 / 1 / 1 | 9.2 / 5.6 / 1.4 / 2.6 | - | 9.2 (no blowouts) |
+| Dean Wade | 6.7 / 2.5 / 1.2 / 0.5 | 6.7 / 0.8 / 1.8 / 0 | 9.8 / 1.2 / 1.5 / 1 | 7.2 / 2.2 / 1.5 / 0 | - | 7.2 (no blowouts) |
+| Jaylen Brown | 9.2 / 6.2 / 1.5 / 0.8 | 8.5 / 9.8 / 1.8 / 1.5 | 3.2 / 2.2 / 0.5 / 0.2 | 7.1 / 3.8 / 0.8 / 0.2 | - | 7.1 (no blowouts) |
+| Kentavious Caldwell-Pope | 6.0 / 1 / 0.8 / 0.3 | 7.3 / 1.2 / 0.5 / 0.3 | 7.5 / 3.2 / 1.2 / 1 | 6.8 / 0.5 / 0.8 / 0 | - | 6.8 (no blowouts) |
+| Anfernee Simons | 4.8 / 2.2 / 0 / 0.3 | 7.2 / 2.5 / 0.3 / 0.2 | 5.6 / 4.2 / 0 / 0.3 | 5.5 / 2.2 / 0.3 / 0.2 | - | 5.5 (no blowouts) |
+| Jabari Walker | 5.6 / 3.3 / 1.3 / 1 | 4.0 / 2.8 / 1.5 / 0.3 | 5.8 / 2.5 / 1.2 / 0.3 | 3.0 / 0.5 / 1.2 / 0.2 | - | 3.0 (no blowouts) |
 
 - Jaylen Brown missed: 11-21: not on roster / inactive; 11-18: not on roster / inactive
 - Jaylen Brown without LeBron James (1 games): pts 19 → 31, reb 1.7 → 13
@@ -402,13 +620,25 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 
 | Player | Min | PTS (low) | REB (low) | AST (low) | 3PM/3PA | Shot mix rim/short/mid/3 | Q4 share P/R/A | Assists go to |
 |---|---|---|---|---|---|---|---|---|
-| Devin Booker | 35.8 | 22.7 (17) | 2.8 (0) | 6.2 (3) | 8/34 | 13/30/25/32% | 20/29/16% | Jalen Green 8, Khaman Maluach 6, Miles Bridges 6 |
+| Devin Booker | 35.8 | 22.7 (17) | 2.8 (0) | 6.2 (3) | 8/34 | 13/30/25/32% | 18/29/11% | Jalen Green 8, Khaman Maluach 6, Miles Bridges 6 |
 | Jalen Green | 29.2 | 16.3 (9) | 4.2 (2) | 3.2 (0) | 11/34 | 33/19/9/40% | 32/36/37% | Miles Bridges 6, Dillon Brooks 5, Oso Ighodaro 3 |
-| Dillon Brooks | 28.4 | 15.2 (1) | 3.8 (2) | 3.8 (0) | 12/30 | 17/31/13/39% | 19/39/35% | Jalen Green 5, Devin Booker 4, Miles Bridges 4 |
-| Miles Bridges | 27.8 | 12.8 (2) | 7.5 (3) | 3.8 (2) | 8/28 | 43/11/0/46% | 30/29/26% | Devin Booker 6, Jalen Green 5, Dillon Brooks 4 |
-| Collin Gillespie | 24.9 | 14.0 (5) | 3.5 (3) | 3.0 (1) | 15/35 | 16/15/5/64% | 39/24/17% | Luke Kennard 5, Jordan Goodwin 4, Devin Booker 2 |
+| Dillon Brooks | 28.4 | 15.2 (1) | 3.8 (2) | 3.8 (0) | 12/30 | 17/31/13/39% | 16/39/35% | Jalen Green 5, Devin Booker 4, Miles Bridges 4 |
+| Miles Bridges | 27.8 | 12.8 (2) | 7.5 (3) | 3.8 (2) | 8/28 | 43/11/0/46% | 25/24/26% | Devin Booker 6, Jalen Green 5, Dillon Brooks 4 |
+| Collin Gillespie | 24.9 | 14.0 (5) | 3.5 (3) | 3.0 (1) | 15/35 | 16/15/5/64% | 33/14/17% | Luke Kennard 5, Jordan Goodwin 4, Devin Booker 2 |
 | Oso Ighodaro | 24.7 | 7.0 (3) | 5.0 (2) | 2.3 (1) | 0/0 | 69/31/0/0% | 10/10/7% | Miles Bridges 5, Dillon Brooks 3, Jalen Green 3 |
 | Jordan Goodwin | 21.8 | 8.2 (2) | 5.7 (2) | 2.8 (0) | 7/24 | 15/18/5/62% | 20/29/29% | Collin Gillespie 3, Koa Peat 3, Khaman Maluach 2 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Devin Booker | 12.0 / 7.7 / 1.2 / 2.8 | 6.2 / 1.8 / 0.2 / 1.5 | 11.5 / 8.7 / 0.7 / 0.8 | 5.3 / 4 / 0.8 / 0.7 | 5.0 / 3 / 0 / 2 | 6.8 vs 2.5 (2 blowout) |
+| Jalen Green | 7.2 / 3 / 1 / 0.5 | 7.2 / 3.7 / 0.5 / 0.8 | 8.3 / 4.5 / 1.2 / 0.7 | 5.7 / 5.2 / 1.5 / 1.2 | 5.0 / 0 / 0 / 0 | 7.0 vs 3.0 (2 blowout) |
+| Dillon Brooks | 6.1 / 2.7 / 0.8 / 0.7 | 7.6 / 5.8 / 0.7 / 1 | 6.6 / 3.8 / 0.8 / 0.8 | 7.3 / 2.5 / 1.5 / 1.3 | 5.0 / 2 / 0 / 0 | 8.9 vs 4.1 (2 blowout) |
+| Miles Bridges | 7.3 / 4 / 1.8 / 1.2 | 6.7 / 3 / 2.2 / 0.5 | 7.3 / 2 / 1.3 / 1.2 | 5.8 / 3.2 / 1.8 / 1 | 5.0 / 4 / 2 / 0 | 6.2 vs 4.9 (2 blowout) |
+| Collin Gillespie | 4.8 / 2.8 / 0.5 / 0.7 | 6.7 / 3.7 / 1.2 / 1.7 | 3.9 / 2 / 1 / 0.2 | 8.6 / 4.7 / 0.5 / 0.5 | 5.0 / 5 / 2 / 0 | 9.4 vs 7.1 (2 blowout) |
+| Oso Ighodaro | 6.7 / 1.3 / 2.2 / 0.3 | 6.4 / 2.3 / 1.3 / 0.8 | 6.6 / 2.7 / 1 / 1 | 5.0 / 0.7 / 0.5 / 0.2 | - | 7.0 vs 1.1 (2 blowout) |
+| Jordan Goodwin | 6.4 / 2.7 / 1.2 / 0.8 | 4.0 / 3.2 / 1.7 / 0.5 | 5.8 / 0.7 / 1.2 / 0.7 | 5.6 / 1.7 / 1.7 / 0.8 | - | 4.6 vs 7.7 (2 blowout) |
 
 ## POR
 
@@ -421,6 +651,18 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Sidy Cissoko | 28.1 | 9.3 (5) | 4.0 (2) | 1.7 (0) | 12/28 | 26/7/0/67% | 18/21/30% | Jrue Holiday 2, Donovan Clingan 2, Toumani Camara 2 |
 | Donovan Clingan | 27.0 | 11.8 (5) | 12.3 (8) | 3.2 (1) | 4/11 | 73/4/0/23% | 25/24/32% | Deni Avdija 7, Damian Lillard 5, Sidy Cissoko 2 |
 | Scoot Henderson | 25.2 | 12.7 (3) | 3.0 (1) | 1.5 (0) | 9/30 | 32/20/2/46% | 16/50/22% | Deni Avdija 2, Toumani Camara 2, Jrue Holiday 1 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Deni Avdija | 7.7 / 8.8 / 1.2 / 1.2 | 9.2 / 10 / 2.2 / 1.8 | 8.7 / 4.5 / 2 / 2 | 7.4 / 4.5 / 2.5 / 0.8 | - | 7.4 (no blowouts) |
+| Toumani Camara | 8.5 / 0.5 / 0.8 / 0.8 | 7.7 / 1.7 / 1.7 / 0.3 | 8.5 / 4.5 / 1 / 0.2 | 7.2 / 1.7 / 1.2 / 0.3 | - | 7.2 (no blowouts) |
+| Damian Lillard | 9.5 / 7.2 / 1 / 1.7 | 6.4 / 5.3 / 0.8 / 0.5 | 7.8 / 4.5 / 0.8 / 0.8 | 7.2 / 4.5 / 0.7 / 1 | - | 7.2 (no blowouts) |
+| Jrue Holiday | 6.8 / 3.3 / 0.7 / 1.7 | 8.1 / 3 / 1.2 / 1.5 | 6.9 / 4.3 / 1.8 / 1.7 | 7.8 / 5.5 / 1 / 1 | - | 7.8 (no blowouts) |
+| Sidy Cissoko | 8.4 / 2.3 / 1.5 / 0.3 | 5.2 / 2.3 / 0.7 / 0.3 | 8.4 / 3 / 1 / 0.5 | 4.8 / 1.7 / 0.8 / 0.5 | - | 4.8 (no blowouts) |
+| Donovan Clingan | 7.1 / 2.8 / 3.5 / 0.5 | 7.8 / 3 / 3 / 1 | 5.8 / 3 / 2.8 / 0.7 | 6.2 / 3 / 3 / 1 | - | 6.2 (no blowouts) |
+| Scoot Henderson | 5.3 / 2.8 / 0.2 / 0.3 | 7.1 / 3.8 / 0.8 / 0.3 | 5.2 / 4 / 0.5 / 0.5 | 7.5 / 2 / 1.5 / 0.3 | - | 7.5 (no blowouts) |
 
 - Toumani Camara without Deni Avdija (2 games): pts 5.5 → 14, reb 3.5 → 7
 - Donovan Clingan without Deni Avdija (2 games): pts 13 → 9.5
@@ -440,6 +682,18 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | De'Aaron Fox | 30.8 | 7.0 (5) | 2.0 (2) | 5.7 (2) | 0/9 | 11/42/0/47% | 43/33/24% | Victor Wembanyama 6, Devin Vassell 3, Keldon Johnson 3 |
 | Julian Champagnie | 29.1 | 13.3 (4) | 4.8 (3) | 1.5 (0) | 19/51 | 15/8/0/77% | 18/28/44% | Stephon Castle 3, Keldon Johnson 2, Harrison Barnes 1 |
 | Keldon Johnson | 25.5 | 8.3 (3) | 6.2 (2) | 2.8 (1) | 3/14 | 39/24/0/37% | 28/32/29% | Victor Wembanyama 7, Luke Kornet 3, Jordan McLaughlin 2 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Dylan Harper | 8.2 / 4 / 1 / 0.5 | 6.9 / 4 / 1.5 / 0.5 | 8.4 / 3.5 / 1.5 / 1.5 | 10.9 / 14 / 2.5 / 0.5 | - | 10.9 (no blowouts) |
+| Victor Wembanyama | 8.2 / 10.2 / 3.6 / 0.6 | 8.6 / 10.8 / 4.8 / 1.2 | 8.1 / 6.6 / 3.2 / 1.2 | 8.7 / 7.8 / 3 / 0.4 | - | 9.4 vs 5.9 (1 blowout) |
+| Stephon Castle | 8.9 / 4.5 / 1.8 / 3.2 | 7.4 / 3.5 / 0.7 / 2.2 | 8.2 / 8.5 / 1.5 / 1.5 | 8.7 / 3.2 / 0.8 / 2.2 | - | 10.1 vs 5.9 (2 blowout) |
+| Devin Vassell | 8.4 / 2.2 / 1.3 / 0.7 | 7.5 / 3 / 1.7 / 0.5 | 9.6 / 6.2 / 0.8 / 0.8 | 7.3 / 1.5 / 0.8 / 0.3 | - | 8.2 vs 5.5 (2 blowout) |
+| De'Aaron Fox | 7.9 / 1.3 / 0.7 / 1.7 | 8.0 / 2 / 0.3 / 1.3 | 8.5 / 0.7 / 0.3 / 1.3 | 6.4 / 3 / 0.7 / 1.3 | - | 8.3 vs 2.6 (1 blowout) |
+| Julian Champagnie | 7.5 / 5 / 0.8 / 0.3 | 8.7 / 5.2 / 1.8 / 0.2 | 6.6 / 0.8 / 0.8 / 0.3 | 6.2 / 2.3 / 1.3 / 0.7 | - | 7.1 vs 4.5 (2 blowout) |
+| Keldon Johnson | 5.3 / 0.5 / 1 / 0.5 | 6.4 / 3.2 / 1.7 / 0.8 | 5.2 / 2.3 / 1.5 / 0.7 | 8.5 / 2.3 / 2 / 0.8 | - | 8.1 vs 9.4 (2 blowout) |
 
 - Julian Champagnie without Victor Wembanyama (1 games): pts 11.6 → 22, reb 4.4 → 7
 - Julian Champagnie without Dylan Harper (4 games): pts 9 → 15.5
@@ -463,13 +717,26 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Player | Min | PTS (low) | REB (low) | AST (low) | 3PM/3PA | Shot mix rim/short/mid/3 | Q4 share P/R/A | Assists go to |
 |---|---|---|---|---|---|---|---|---|
 | RJ Barrett | 37.5 | 22.3 (14) | 8.0 (5) | 5.3 (5) | 6/18 | 25/33/4/38% | 21/21/0% | Scottie Barnes 5, Immanuel Quickley 3, Jakob Poeltl 3 |
-| Scottie Barnes | 36.5 | 27.5 (20) | 5.8 (4) | 4.8 (2) | 7/14 | 23/43/18/16% | 30/39/53% | Jakob Poeltl 6, Immanuel Quickley 5, Ja'Kobe Walter 2 |
-| Ja'Kobe Walter | 34.5 | 13.2 (6) | 4.0 (1) | 2.3 (0) | 16/48 | 14/17/0/69% | 16/29/21% | Jamal Shead 3, Immanuel Quickley 3, Scottie Barnes 2 |
-| Immanuel Quickley | 33.0 | 18.7 (13) | 3.3 (1) | 6.7 (5) | 17/45 | 12/31/9/48% | 34/10/15% | Scottie Barnes 10, RJ Barrett 7, Ja'Kobe Walter 6 |
-| Collin Murray-Boyles | 26.7 | 7.0 (1) | 5.2 (0) | 2.2 (1) | 1/6 | 67/12/3/18% | 23/27/18% | Ja'Kobe Walter 3, Jamison Battle 2, RJ Barrett 2 |
+| Scottie Barnes | 36.5 | 27.5 (20) | 5.8 (4) | 4.8 (2) | 7/14 | 23/43/18/16% | 25/35/47% | Jakob Poeltl 6, Immanuel Quickley 5, Ja'Kobe Walter 2 |
+| Ja'Kobe Walter | 34.5 | 13.2 (6) | 4.0 (1) | 2.3 (0) | 16/48 | 14/17/0/69% | 14/29/14% | Jamal Shead 3, Immanuel Quickley 3, Scottie Barnes 2 |
+| Immanuel Quickley | 33.0 | 18.7 (13) | 3.3 (1) | 6.7 (5) | 17/45 | 12/31/9/48% | 30/10/12% | Scottie Barnes 10, RJ Barrett 7, Ja'Kobe Walter 6 |
+| Collin Murray-Boyles | 26.7 | 7.0 (1) | 5.2 (0) | 2.2 (1) | 1/6 | 67/12/3/18% | 17/19/18% | Ja'Kobe Walter 3, Jamison Battle 2, RJ Barrett 2 |
 | Jakob Poeltl | 24.9 | 9.3 (3) | 7.3 (5) | 2.7 (1) | 0/0 | 62/33/5/0% | 18/25/44% | Immanuel Quickley 6, Jamal Shead 3, Scottie Barnes 2 |
 | Allen Graves | 22.8 | 6.8 (0) | 4.2 (2) | 0.8 (0) | 6/19 | 26/10/3/61% | 17/24/40% | Jamal Shead 2, Scottie Barnes 1, RJ Barrett 1 |
 | Jamal Shead | 22.2 | 9.5 (0) | 1.2 (0) | 5.2 (4) | 9/22 | 20/27/8/45% | 25/14/23% | Jamison Battle 9, Ja'Kobe Walter 6, Jakob Poeltl 5 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| RJ Barrett | 8.4 / 4.7 / 1.3 / 2.3 | 9.2 / 4.7 / 1.3 / 0.7 | 9.4 / 8.3 / 3.7 / 2.3 | 9.6 / 4.7 / 1.7 / 0 | 2.6 / 0 / 0 / 0 | 9.6 (no blowouts) |
+| Scottie Barnes | 9.0 / 9 / 0.5 / 1.2 | 8.0 / 3.5 / 1.2 / 0.2 | 8.6 / 6.8 / 1.8 / 0.8 | 9.7 / 7 / 2 / 2.2 | 5.0 / 5 / 1 / 1 | 9.7 (no blowouts) |
+| Ja'Kobe Walter | 8.2 / 2.7 / 0.5 / 1 | 7.5 / 4.2 / 1 / 0.3 | 9.2 / 4.2 / 1.3 / 0.5 | 8.8 / 1.8 / 1.2 / 0.3 | 5.0 / 2 / 0 / 1 | 8.8 (no blowouts) |
+| Immanuel Quickley | 7.1 / 4.7 / 1.5 / 1.8 | 8.6 / 3.8 / 0.8 / 2 | 7.4 / 3.8 / 0.7 / 1.8 | 9.1 / 5.7 / 0.3 / 0.8 | 5.0 / 4 / 0 / 1 | 9.1 (no blowouts) |
+| Collin Murray-Boyles | 7.4 / 1.2 / 1.8 / 0.4 | 6.9 / 3 / 1.6 / 0.8 | 5.3 / 1.2 / 0.4 / 0.6 | 6.0 / 1.2 / 1 / 0.4 | 5.0 / 2 / 2 / 0 | 6.0 (no blowouts) |
+| Jakob Poeltl | 7.3 / 3.3 / 2 / 0.2 | 5.5 / 1.3 / 2 / 0.5 | 6.6 / 3 / 1.5 / 0.8 | 5.5 / 1.7 / 1.8 / 1.2 | - | 5.5 (no blowouts) |
+| Allen Graves | 5.0 / 1 / 0.5 / 0 | 6.0 / 2 / 1.3 / 0 | 6.5 / 2.7 / 1.3 / 0.5 | 5.3 / 1.2 / 1 / 0.3 | 0.0 / 0 / 0 / 0 | 5.3 (no blowouts) |
+| Jamal Shead | 4.6 / 1.8 / 0.7 / 1.3 | 5.2 / 3.2 / 0.2 / 1.3 | 5.4 / 2.2 / 0.2 / 1.3 | 6.7 / 2.3 / 0.2 / 1.2 | 2.4 / 0 / 0 / 0 | 6.7 (no blowouts) |
 
 - Scottie Barnes missed: 11-18: not on roster / inactive; 11-12: not on roster / inactive
 - Scottie Barnes without RJ Barrett (2 games): ast 3 → 6.5
@@ -498,5 +765,18 @@ Values are newest game first. Low = lowest game in the sample. Q4 share = share 
 | Brice Sensabaugh | 23.1 | 16.0 (6) | 5.2 (3) | 2.2 (1) | 15/30 | 13/36/7/43% | 42/29/15% | Svi Mykhailiuk 5, Jaxson Hayes 2, Mo Bamba 2 |
 | Jaxson Hayes | 22.0 | 10.7 (6) | 8.0 (3) | 1.0 (0) | 0/0 | 72/28/0/0% | 16/29/0% | Keyonte George 2, Ace Bailey 1 |
 | Josh Green | 21.2 | 7.0 (0) | 1.8 (1) | 0.7 (0) | 9/16 | 12/21/0/67% | 5/27/25% | Ace Bailey 3, Keyonte George 1 |
+
+Quarter by quarter (average minutes / points / rebounds / assists). Q4 min close vs blowout = fourth-quarter minutes when the game was within 14 going into the 4th vs 15+.
+
+| Player | Q1 | Q2 | Q3 | Q4 | OT | Q4 min close vs blowout |
+|---|---|---|---|---|---|---|
+| Keyonte George | 9.6 / 5 / 1 / 3.3 | 8.0 / 4 / 0.3 / 1.7 | 9.3 / 6 / 1.2 / 1 | 7.0 / 4.3 / 0.5 / 1.3 | - | 8.3 vs 0 (1 blowout) |
+| Svi Mykhailiuk | 5.2 / 2.8 / 0.8 / 0.5 | 8.1 / 4.3 / 1.3 / 1.3 | 5.9 / 0.7 / 0.5 / 0.3 | 9.7 / 6 / 1.8 / 1.2 | - | 9.3 vs 12.0 (1 blowout) |
+| Ace Bailey | 8.0 / 4.5 / 1.7 / 0.8 | 7.3 / 2.8 / 0.8 / 0.3 | 7.9 / 2.2 / 1.8 / 1 | 5.1 / 2.5 / 1.3 / 0.3 | - | 4.2 vs 9.5 (1 blowout) |
+| Darryn Peterson | 8.6 / 3.3 / 1.7 / 1.3 | 6.5 / 4.3 / 1.3 / 0.7 | 8.1 / 4.3 / 1.5 / 1.7 | 5.0 / 1.3 / 0.5 / 0.8 | - | 6.0 vs 0 (1 blowout) |
+| Mo Bamba | 6.9 / 3 / 1.7 / 0.5 | 6.3 / 2.3 / 2.7 / 0.3 | 7.1 / 3 / 2.5 / 0.8 | 6.5 / 1.8 / 1.5 / 0 | - | 6.5 vs 6.7 (1 blowout) |
+| Brice Sensabaugh | 5.5 / 5.2 / 1.3 / 0.3 | 5.6 / 1.7 / 1.2 / 1 | 5.2 / 2.5 / 1.2 / 0.5 | 6.8 / 6.7 / 1.5 / 0.3 | - | 7.6 vs 2.5 (1 blowout) |
+| Jaxson Hayes | 6.8 / 3.7 / 2 / 0 | 6.9 / 4 / 3 / 0.7 | 3.1 / 1.3 / 0.7 / 0.3 | 5.3 / 1.7 / 2.3 / 0 | - | 7.9 vs 0 (1 blowout) |
+| Josh Green | 6.0 / 1.3 / 0.2 / 0.2 | 5.6 / 0.5 / 0.3 / 0 | 6.7 / 4.8 / 0.8 / 0.3 | 3.0 / 0.3 / 0.5 / 0.2 | - | 3.6 vs 0.1 (1 blowout) |
 
 - Jaxson Hayes missed: 11-23: not on roster / inactive; 11-17: not on roster / inactive; 11-15: DND - Injury/Illness
