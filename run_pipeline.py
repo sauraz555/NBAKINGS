@@ -11,6 +11,7 @@ from src.build_predictions import build_predictions
 from src.export_report_data import export_report_sections
 from src.harvest_nba_data import harvest_nba_data
 from src.parse_injury_pdf import write_overrides_from_latest_pdf
+from src import nbacom_games
 
 
 def main() -> int:
@@ -58,6 +59,13 @@ def main() -> int:
             season_start=args.season_start,
             bref_end_year=args.bref_year,
         )
+        try:
+            cache = os.path.join(args.data_dir, "nbacom")
+            teams, found = nbacom_games.last_n_games(args.date, 6, cache)
+            path = nbacom_games.write_outputs(args.date, 6, nbacom_games.player_report(teams, found), args.output_dir)
+            print(f"      NBA.com last-6 report: {path}")
+        except Exception as exc:  # NBA.com is an extra source; never block the main run
+            print(f"      NBA.com last-6 step skipped: {exc}")
     else:
         print("[INFO] --skip-fetch enabled; reusing cached files in", args.data_dir)
 

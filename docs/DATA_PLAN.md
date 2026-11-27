@@ -11,6 +11,10 @@ Reachability was tested from the cloud session on 28 Nov 2026 (Sydney). "Reachab
 | Longer samples, home/away, rest splits | Our game logs + ESPN athlete splits (`site.web.api.espn.com/.../athletes/{id}/splits`) | Yes | Last 20 games and home vs away added beside the last 10, so a 10/10 run on a tiny sample counts for less. |
 | Minutes trend and restriction flags | Our game logs + official injury report | Yes | Flag players whose minutes fell in the last 3 games or who just returned from injury (Kessler). |
 
+## Added: NBA.com game pages (last 6 games)
+
+`src/nbacom_games.py` reads the box score and full play-by-play that NBA.com embeds in each game page (`nba.com/game/<slug>/play-by-play`), walking back through `nba.com/games?date=` until every slate team has 6 finished games. No browser is needed. It adds shot mix (rim / short / mid / three), fourth-quarter share of points, rebounds and assists (blowout exposure), who each player's assists go to, missed games with NBA.com's reason, and with/without-teammate averages. Checked against our ESPN logs on 28 Nov 2026: 420 of 420 player-games matched. Output: `output/<date>_last6_nbacom.md` and `output/dashboard/nbacom_lastn.json`; pages cached in `data/nbacom/`.
+
 ## Priority 2: free sources, small scraper per site
 
 | Data | Source | Reachable? | Notes |
