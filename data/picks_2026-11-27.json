@@ -1,0 +1,76 @@
+{
+ "owner": "Low-risk SGM+",
+ "slate_date": "2026-11-27",
+ "picks": [
+  {
+   "player": "Giannis Antetokounmpo",
+   "game": "Miami Heat @ New York Knicks",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "game": "Miami Heat @ New York Knicks",
+   "stat": "reb",
+   "line": 8,
+   "label": "8+ Rebounds"
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "game": "Atlanta Hawks @ Boston Celtics",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Jayson Tatum",
+   "game": "Atlanta Hawks @ Boston Celtics",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Nikola Jokic",
+   "game": "Denver Nuggets @ Utah Jazz",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Jamal Murray",
+   "game": "Denver Nuggets @ Utah Jazz",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Luka Doncic",
+   "game": "Los Angeles Lakers @ San Antonio Spurs",
+   "stat": "pts",
+   "line": 20,
+   "label": "20+ Points"
+  },
+  {
+   "player": "Walker Kessler",
+   "game": "Los Angeles Lakers @ San Antonio Spurs",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Deni Avdija",
+   "game": "Golden State Warriors @ Portland Trail Blazers",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Yaxel Lendeborg",
+   "game": "Golden State Warriors @ Portland Trail Blazers",
+   "stat": "reb",
+   "line": 4,
+   "label": "4+ Rebounds"
+  }
+ ]
+}
