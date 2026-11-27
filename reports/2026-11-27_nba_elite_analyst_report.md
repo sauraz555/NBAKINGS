@@ -1,6 +1,6 @@
 # NBA Elite Analyst Report — 2026-11-27 (US ET) slate / 2026-11-28 Sydney
 
-*Data fetched 2026-11-27T23:00:31.801135+00:00 UTC. Sources: ESPN scoreboard/box scores/odds (DraftKings)/BPI, Basketball Reference team & player tables, Official NBA Injury Report (official.nba.com). All times shown in Australia/Sydney (AEDT) with US Eastern in brackets.*
+*Data fetched 2026-11-27T23:23:54.502073+00:00 UTC. Sources: ESPN scoreboard/box scores/odds (DraftKings)/BPI, Basketball Reference team & player tables, Official NBA Injury Report (official.nba.com). All times shown in Australia/Sydney (AEDT) with US Eastern in brackets.*
 
 > Historical figures are facts from completed games. Projections are model outputs (method at the end) and are not guarantees. An 8/10 hit rate is an observed frequency, not an 80% probability.
 
@@ -1339,7 +1339,7 @@ L10 14.4/4.7/3.7 · L5 17.4/6.4/4.8 · Season 13.9/4.6/3.8 (P/A/R) · MIN mean 2
 - **PHI** (15-4, L5 4-1, home 8-3, away 7-1; NRtg +2.2). Rest: 1 day(s) — plays again tomorrow. Prev: 2026-11-25 (vs MIA in Philadelphia, W 111-104). Next: 2026-11-28 (@ HOU in Houston).
   - Injuries: Jaylen Brown (Out, Left Hamstring Injury Management); Joel Embiid (Questionable, Illness); Ariel Hukporti (Out, Right Achilles Tendon); Dean Wade (Questionable, Left Hamstring Injury Management)
 - **IND** (6-12, L5 1-4, home 3-6, away 3-6; NRtg -3.3). Rest: 3 day(s) — plays again tomorrow. Prev: 2026-11-23 (vs OKC in Indianapolis, W 125-120). Next: 2026-11-28 (@ CHI in Chicago).
-  - Injuries: Johnny Furphy (Out, Right ACL Repair / Surgery); Tyrese Haliburton (Out, Left Hamstring Strain); T.J. McConnell (Questionable, Left Hamstring Injury Management); Larry Nance Jr. (Probable, Right Ankle Bruise); Kelly Oubre Jr. (Questionable, Right Hand Laceration); Ben Sheppard (Out, Left Meniscus Surgery)
+  - Injuries: Johnny Furphy (Out, Right ACL Repair / Surgery); Tyrese Haliburton (Out, Left Hamstring Strain); T.J. McConnell (Out, Left Hamstring Injury Management); Larry Nance Jr. (Probable, Right Ankle Bruise); Ben Sheppard (Out, Left Meniscus Surgery)
 - Expected pace 99.5 · Blowout concern: **Low** (blended margin 2.1).
 
 ### BKN @ TOR — 11:30 AM AEDT Sydney
@@ -1347,7 +1347,7 @@ L10 14.4/4.7/3.7 · L5 17.4/6.4/4.8 · Season 13.9/4.6/3.8 (P/A/R) · MIN mean 2
 - **BKN** (4-13, L5 1-4, home 1-6, away 3-7; NRtg -8.2). Rest: 1 day(s) — plays again tomorrow. Prev: 2026-11-25 (@ MIL in Milwaukee, W 104-97). Next: 2026-11-28 (@ CHA in Charlotte).
   - Injuries: Nolan Traore (Out, Right Hamstring Strain); Moritz Wagner (Out, Left Knee Injury Management)
 - **TOR** (6-11, L5 1-4, home 2-7, away 4-4; NRtg -0.1). Rest: 3 day(s). Prev: 2026-11-23 (vs MIL in Toronto, L 111-116). Next: 2026-11-29 (vs DEN in Toronto).
-  - Injuries: RJ Barrett (Out, Right Hamstring Strain); Kawhi Leonard (Out, Left Knee Injury Management); Alijah Martin (Questionable, Left Knee Soreness)
+  - Injuries: RJ Barrett (Out, Right Hamstring Strain); Kawhi Leonard (Out, Left Knee Injury Management)
 - Expected pace 97.7 · Blowout concern: **Moderate** (blended margin 7.7).
 
 ### ATL @ BOS — 12:00 PM AEDT Sydney
@@ -1415,12 +1415,12 @@ L10 14.4/4.7/3.7 · L5 17.4/6.4/4.8 · Season 13.9/4.6/3.8 (P/A/R) · MIN mean 2
 | 11:30 AM AEDT | PHI @ IND | **PHI** | 60% | 43.0% / 39.6% / 37.7% | PHI 115 – IND 113 | PHI by 2.1 | 228.3 (line 228.5) | Low | Low |
 | 11:30 AM AEDT | BKN @ TOR | **TOR** | 75% | 74.0% / 75.8% / 74.5% | BKN 107 – TOR 115 | TOR by 7.7 | 221.7 (line 218.5) | Medium | Moderate |
 | 12:00 PM AEDT | ATL @ BOS | **BOS** | 73% | 73.2% / 76.0% / 70.5% | ATL 107 – BOS 115 | BOS by 7.4 | 222.4 (line 223.5) | Medium | Moderate |
-| 12:30 PM AEDT | MEM @ MIN | **MIN** | 60% | 58.2% / 58.3% / 64.1% | MEM 110 – MIN 113 | MIN by 2.5 | 222.9 (line 220.5) | Medium | Low |
+| 12:30 PM AEDT | MEM @ MIN | **MIN** | 60% | 58.2% / 57.2% / 64.1% | MEM 110 – MIN 113 | MIN by 2.5 | 222.9 (line 220.5) | Low | Low |
 | 01:00 PM AEDT | DAL @ PHX | **PHX** | 58% | 57.2% / 57.2% / 59.8% | DAL 112 – PHX 114 | PHX by 2.2 | 225.8 (line 225.5) | Low | Low |
 | 01:30 PM AEDT | LAL @ SAS | **SAS** | 67% | 67.3% / 65.7% / 67.0% | LAL 111 – SAS 116 | SAS by 5.4 | 226.5 (line 226.5) | Medium | Low |
 | 01:30 PM AEDT | DEN @ UTA | **DEN** | 72% | 31.7% / 22.8% / 29.7% | DEN 117 – UTA 111 | DEN by 5.7 | 228.6 (line 232.5) | Medium | Low |
 | 01:30 PM AEDT | NOP @ LAC | **LAC** | 56% | 57.8% / 55.1% / 54.5% | NOP 113 – LAC 116 | LAC by 2.3 | 229.2 (line 229.5) | Low | Low |
-| 01:30 PM AEDT | GSW @ POR | **POR** | 74% | 69.9% / 71.8% / 79.2% | GSW 108 – POR 114 | POR by 6.2 | 221.3 (line 217.5) | Medium | Moderate |
+| 01:30 PM AEDT | GSW @ POR | **POR** | 74% | 69.9% / 72.6% / 79.2% | GSW 108 – POR 114 | POR by 6.2 | 221.3 (line 217.5) | Medium | Moderate |
 
 Pick = side with the higher blended win probability. Margin and score come from the blended margin, so in a close game where the sources disagree (Low confidence) they can point to different sides; treat those as toss-ups.
 
@@ -1471,13 +1471,13 @@ Expected projection with a likely range in brackets. Rotation players only (18+ 
 
 | Player | Team | Status | Exp MIN | PTS | AST | REB | Reliable floors (L10) | Conf | Main risk |
 |---|---|---|---|---|---|---|---|---|---|
-| Pascal Siakam *Scorer #1* | IND | Available | 32.8 | 23.7 (20.5-26.9) | 3.4 (1.7-5.0) | 5.7 (3.7-7.7) | 20+ PTS (9/10); -; - | High | None flagged |
-| Andrew Nembhard *Scorer #2, Assist leader* | IND | Available | 33.0 | 15.7 (11.9-19.4) | 7.4 (5.5-9.3) | 2.4 (1.8-3.1) | 10+ PTS (9/10); 5+ AST (8/10); - | High | None flagged |
-| Kelly Oubre Jr. | IND | Questionable | 25.6 | 14.2 (10.5-18.0) | 0.9 (0.2-1.6) | 4.0 (2.6-5.3) | 10+ PTS (9/10); -; - | Low | Questionable: projection assumes the player is active; Had a 16-minute game in last 10 |
-| Ivica Zubac *Rebound leader* | IND | Available | 25.6 | 11.5 (6.6-16.5) | 1.9 (0.7-3.1) | 9.4 (5.7-13.1) | -; -; - | Medium | None flagged |
-| Obi Toppin | IND | Available | 19.9 | 10.6 (7.5-13.8) | 1.7 (0.8-2.7) | 3.8 (2.3-5.3) | -; -; - | Medium | None flagged |
-| Aaron Nesmith | IND | Available | 30.8 | 10.2 (5.3-15.2) | 2.8 (1.3-4.2) | 4.0 (1.8-6.3) | -; -; - | High | None flagged |
-| Quenton Jackson | IND | Available | 21.3 | 8.3 (4.4-12.2) | 2.9 (1.2-4.5) | 3.5 (2.0-5.1) | -; -; - | Medium | None flagged |
+| Pascal Siakam *Scorer #1* | IND | Available | 34.1 | 25.2 (21.9-28.6) | 3.5 (1.8-5.2) | 5.9 (3.9-8.0) | 20+ PTS (9/10); -; - | High | None flagged |
+| Andrew Nembhard *Scorer #2, Assist leader* | IND | Available | 34.4 | 16.7 (12.8-20.6) | 7.7 (5.7-9.7) | 2.5 (1.9-3.2) | 10+ PTS (9/10); 5+ AST (8/10); - | High | None flagged |
+| Kelly Oubre Jr. | IND | Available | 26.6 | 15.1 (11.2-19.0) | 0.9 (0.2-1.6) | 4.1 (2.8-5.5) | 10+ PTS (9/10); -; - | Medium | Had a 16-minute game in last 10 |
+| Ivica Zubac *Rebound leader* | IND | Available | 26.6 | 12.3 (7.1-17.4) | 2.0 (0.7-3.2) | 9.8 (5.9-13.6) | -; -; - | Medium | None flagged |
+| Obi Toppin | IND | Available | 20.8 | 11.3 (8.0-14.6) | 1.8 (0.8-2.8) | 4.0 (2.4-5.6) | -; -; - | Medium | None flagged |
+| Aaron Nesmith | IND | Available | 32.1 | 10.9 (5.7-16.0) | 2.9 (1.3-4.4) | 4.2 (1.9-6.5) | -; -; - | High | None flagged |
+| Quenton Jackson | IND | Available | 22.2 | 8.8 (4.8-12.9) | 3.0 (1.3-4.7) | 3.7 (2.1-5.3) | -; -; - | Medium | None flagged |
 | Tyrese Maxey *Scorer #1* | PHI | Available | 37.0 | 26.7 (23.0-30.3) | 6.2 (4.8-7.6) | 3.1 (2.0-4.2) | 15+ PTS (10/10); 3+ AST (10/10); - | High | None flagged |
 | Joel Embiid *Scorer #2, Rebound leader* | PHI | Questionable | 33.4 | 23.6 (16.1-31.1) | 4.3 (1.9-6.7) | 9.4 (5.9-13.0) | 15+ PTS (8/10); -; 5+ REB (9/10) | Low | Questionable: projection assumes the player is active |
 | LeBron James *Assist leader* | PHI | Available | 34.7 | 20.4 (15.6-25.1) | 7.5 (4.9-10.0) | 7.6 (5.9-9.3) | 10+ PTS (9/10); 5+ AST (8/10); 5+ REB (9/10) | High | None flagged |
@@ -1658,8 +1658,8 @@ Expected projection with a likely range in brackets. Rotation players only (18+ 
 | 6 | Tyrese Maxey | PHI | IND | 15+ (10/10) | 26.7 (23.0-30.3) | 37.0 | L10 low 17, median 24.0; matchup x1.008 |
 | 7 | Jayson Tatum | BOS | ATL | 20+ (9/10) | 28.1 (22.7-33.6) | 35.3 | L10 low 19, median 24.0; matchup x1.0 |
 | 8 | Nikola Jokic | DEN | UTA | 20+ (8/10) | 26.5 (22.2-30.8) | 37.6 | L10 low 18, median 26.0; matchup x1.008 |
-| 9 | Julius Randle | BKN | TOR | 15+ (9/10) | 26.6 (21.2-32.0) | 36.8 | L10 low 13, median 22.0; matchup x0.996 |
-| 10 | Pascal Siakam | IND | PHI | 20+ (9/10) | 23.7 (20.5-26.9) | 32.8 | L10 low 19, median 23.5; matchup x0.995 |
+| 9 | Pascal Siakam | IND | PHI | 20+ (9/10) | 25.2 (21.9-28.6) | 34.1 | L10 low 19, median 23.5; matchup x0.995 |
+| 10 | Julius Randle | BKN | TOR | 15+ (9/10) | 26.6 (21.2-32.0) | 36.8 | L10 low 13, median 22.0; matchup x0.996 |
 
 ### Top 10 AST
 
@@ -1668,8 +1668,8 @@ Expected projection with a likely range in brackets. Rotation players only (18+ 
 | 1 | Nikola Jokic | DEN | UTA | 8+ (8/10) | 8.5 (7.0-10.1) | 37.6 | L10 low 5, median 9.0; matchup x0.949 |
 | 2 | Luka Doncic | LAL | SAS | 7+ (8/10) | 7.7 (5.8-9.5) | 36.6 | L10 low 5, median 7.5; matchup x0.973 |
 | 3 | Keyonte George | UTA | DEN | 7+ (8/10) | 7.7 (5.8-9.5) | 33.9 | L10 low 2, median 7.5; matchup x1.039 |
-| 4 | Davion Mitchell | MIA | NYK | 8+ (8/10) | 8.3 (5.6-11.0) | 36.5 | L10 low 3, median 9.5; matchup x0.94 |
-| 5 | Andrew Nembhard | IND | PHI | 5+ (8/10) | 7.4 (5.5-9.3) | 33.0 | L10 low 4, median 8.0; matchup x0.985 |
+| 4 | Andrew Nembhard | IND | PHI | 5+ (8/10) | 7.7 (5.7-9.7) | 34.4 | L10 low 4, median 8.0; matchup x0.985 |
+| 5 | Davion Mitchell | MIA | NYK | 8+ (8/10) | 8.3 (5.6-11.0) | 36.5 | L10 low 3, median 9.5; matchup x0.94 |
 | 6 | Stephon Castle | SAS | LAL | 5+ (9/10) | 7.7 (5.5-9.8) | 31.6 | L10 low 3, median 7.0; matchup x1.011 |
 | 7 | Jalen Brunson | NYK | MIA | 5+ (9/10) | 7.3 (5.1-9.5) | 37.9 | L10 low 2, median 6.0; matchup x1.064 |
 | 8 | Jayson Tatum | BOS | ATL | 3+ (10/10) | 6.8 (5.1-8.5) | 35.3 | L10 low 3, median 6.0; matchup x1.043 |

@@ -49,7 +49,7 @@ GAME 401909328: PHI (15-4) @ IND (6-12)
     Ratings: ORtg=111.9 DRtg=115.2 NRtg=-3.3 Pace=100.5 SRS=-3.57
     Defense: OppPTS=115.7 (L5=122.2) OppAST=26.3 OppREB=46.7 DRB%=74.0 OppMissedFG=48.8 RimFG%=.632
     Schedule: RestDays=3 B2B_2nd=False FrontB2B_Tmrw=True 3in4=False 4in6=False | Prev=2026-11-23 (vs OKC in Indianapolis, W 125-120) | Next=2026-11-28 (@ CHI in Chicago)
-    Injuries: {'Johnny Furphy': ['Out', 'Right ACL Repair / Surgery'], 'Tyrese Haliburton': ['Out', 'Left Hamstring Strain'], 'T.J. McConnell': ['Questionable', 'Left Hamstring Injury Management'], 'Larry Nance Jr.': ['Probable', 'Right Ankle Bruise'], 'Kelly Oubre Jr.': ['Questionable', 'Right Hand Laceration'], 'Ben Sheppard': ['Out', 'Left Meniscus Surgery']}
+    Injuries: {'Johnny Furphy': ['Out', 'Right ACL Repair / Surgery'], 'Tyrese Haliburton': ['Out', 'Left Hamstring Strain'], 'T.J. McConnell': ['Out', 'Left Hamstring Injury Management'], 'Larry Nance Jr.': ['Probable', 'Right Ankle Bruise'], 'Kelly Oubre Jr.': ['Available', 'Right Hand Laceration'], 'Ben Sheppard': ['Out', 'Left Meniscus Surgery']}
 
 GAME 401909329: BKN (4-13) @ TOR (6-11)
   Time: 2026-11-27 07:30 PM EST | Sydney: 2026-11-28 11:30 AM AEDT | Notes: ['NBA Cup - Group Play']
@@ -66,7 +66,7 @@ GAME 401909329: BKN (4-13) @ TOR (6-11)
     Ratings: ORtg=114.5 DRtg=114.6 NRtg=-0.1 Pace=96.8 SRS=-0.80
     Defense: OppPTS=111.6 (L5=108.8) OppAST=25.2 OppREB=42.4 DRB%=72.3 OppMissedFG=42.2 RimFG%=.715
     Schedule: RestDays=3 B2B_2nd=False FrontB2B_Tmrw=False 3in4=False 4in6=False | Prev=2026-11-23 (vs MIL in Toronto, L 111-116) | Next=2026-11-29 (vs DEN in Toronto)
-    Injuries: {'RJ Barrett': ['Out', 'Right Hamstring Strain'], 'Nate Bittle': ['Out', 'G League - Two-Way'], 'Kawhi Leonard': ['Out', 'Left Knee Injury Management'], 'Alijah Martin': ['Questionable', 'Left Knee Soreness'], 'Kevin McCullar Jr.': ['Out', 'G League - Two-Way'], 'Malachi Smith': ['Out', 'G League - Two-Way']}
+    Injuries: {'RJ Barrett': ['Out', 'Right Hamstring Strain'], 'Nate Bittle': ['Out', 'G League - Two-Way'], 'Kawhi Leonard': ['Out', 'Left Knee Injury Management'], 'Alijah Martin': ['Available', 'Left Knee Soreness'], 'Kevin McCullar Jr.': ['Out', 'G League - Two-Way'], 'Malachi Smith': ['Out', 'G League - Two-Way']}
 
 GAME 401909330: ATL (11-6) @ BOS (12-6)
   Time: 2026-11-27 08:00 PM EST | Sydney: 2026-11-28 12:00 PM AEDT | Notes: ['NBA Cup - Group Play']
@@ -88,7 +88,7 @@ GAME 401909330: ATL (11-6) @ BOS (12-6)
 GAME 401909331: MEM (14-5) @ MIN (14-5)
   Time: 2026-11-27 08:30 PM EST | Sydney: 2026-11-28 12:30 PM AEDT | Notes: ['NBA Cup - Group Play']
   Venue: Target Center (Minneapolis, MN)
-  Odds: MIN -2.5 | O/U: 220.5 | Vig-Free Market Win%: MEM 41.7% | MIN 58.3% (ML: MEM 130 / MIN -155)
+  Odds: MIN -2.5 | O/U: 220.5 | Vig-Free Market Win%: MEM 42.8% | MIN 57.2% (ML: MEM 124 / MIN -148)
   ESPN BPI Predictor: MEM 35.9% | MIN 64.1%
   Current-Season H2H: [('2026-11-21', 'MEM', 95, '@', 'MIN', 104)]
   [AWAY: MEM] W-L: 14-5 (L5: 4-1, H: 5-4 [120.1/111.8], A: 9-1 [120.0/109.7])
@@ -173,7 +173,7 @@ GAME 401909335: NOP (5-14) @ LAC (4-13)
 GAME 401909336: GSW (10-8) @ POR (12-6)
   Time: 2026-11-27 09:30 PM EST | Sydney: 2026-11-28 01:30 PM AEDT | Notes: ['NBA Cup - Group Play']
   Venue: Moda Center (Portland, OR)
-  Odds: POR -7.5 | O/U: 217.5 | Vig-Free Market Win%: GSW 28.2% | POR 71.8% (ML: GSW 241 / POR -297)
+  Odds: POR -7.5 | O/U: 217.5 | Vig-Free Market Win%: GSW 27.4% | POR 72.6% (ML: GSW 251 / POR -310)
   ESPN BPI Predictor: GSW 20.8% | POR 79.2%
   Current-Season H2H: []
   [AWAY: GSW] W-L: 10-8 (L5: 2-3, H: 8-1 [117.9/103.8], A: 2-7 [106.6/120.1])
@@ -357,7 +357,7 @@ TEAM OKC (10-9, GP=19)  | SmallOutliers=[]
   [Assists] Shai Gilgeous-Alexander (G) | 10/19G (10S) | MIN=34.1 | L10: 33.6p/4.8a/3.9r | L5: 36.2p/5.0a/3.6r | Floor80%(AST)=3+: 8/10 (80.0%) | Prior(OKC,68G): 31.1p/6.6a/4.3r | Status: Available
   [Assists] Isaiah Hartenstein (C) | 10/19G (10S) | MIN=26.3 | L10: 9.2p/4.8a/11.9r | L5: 7.8p/4.6a/11.6r | Floor80%(AST)=3+: 9/10 (90.0%) | Prior(OKC,47G): 9.2p/3.5a/9.4r | Status: Available
   [Rebounds] Isaiah Hartenstein (C) | 10/19G (10S) | MIN=26.3 | L10: 9.2p/4.8a/11.9r | L5: 7.8p/4.6a/11.6r | Floor80%(REB)=8+: 10/10 (100.0%) | Prior(OKC,47G): 9.2p/3.5a/9.4r | Status: Available
-  [Rebounds] Chet Holmgren (C) | 3/19G (3S) | MIN=30.0 | L10: 12.0p/1.3a/9.3r | L5: 12.0p/1.3a/9.3r | Floor80%(REB)=Below base thresh | Prior(OKC,69G): 17.1p/1.7a/8.9r | Status: Out (Right Knee)
+  [Rebounds] Chet Holmgren (C) | 3/19G (3S) | MIN=30.0 | L10: 12.0p/1.3a/9.3r | L5: 12.0p/1.3a/9.3r | Floor80%(REB)=Below base thresh | Prior(OKC,69G): 17.1p/1.7a/8.9r | Status: Out (Right Knee/ Injury Recovery)
 TEAM ORL (7-10, GP=17)  | SmallOutliers=[('Paolo Banchero', 2, 24.5, 'Out (Right High Ankle Sprain)')]
   [Scorers] Franz Wagner (F) | 10/17G (10S) | MIN=37.1 | L10: 27.0p/8.5a/7.6r | L5: 23.8p/7.8a/7.6r | Floor80%(PTS)=20+: 8/10 (80.0%) | Prior(ORL,34G): 20.6p/3.3a/5.2r | Status: Available
   [Scorers] Desmond Bane (G) | 10/17G (10S) | MIN=34.8 | L10: 19.4p/3.3a/3.8r | L5: 19.6p/4.2a/3.0r | Floor80%(PTS)=15+: 10/10 (100.0%) | Prior(ORL,82G): 20.1p/4.1a/4.1r | Status: Available

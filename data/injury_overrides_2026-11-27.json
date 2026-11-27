@@ -75,7 +75,7 @@
       "Left Knee Injury Management"
     ],
     "Alijah Martin": [
-      "Questionable",
+      "Available",
       "Left Knee Soreness"
     ],
     "Kevin McCullar Jr.": [
@@ -159,7 +159,7 @@
       "Left Hamstring Strain"
     ],
     "T.J. McConnell": [
-      "Questionable",
+      "Out",
       "Left Hamstring Injury Management"
     ],
     "Larry Nance Jr.": [
@@ -167,7 +167,7 @@
       "Right Ankle Bruise"
     ],
     "Kelly Oubre Jr.": [
-      "Questionable",
+      "Available",
       "Right Hand Laceration"
     ],
     "Ben Sheppard": [
@@ -597,6 +597,36 @@
     "Caleb Wilson": [
       "Out",
       "Right Metacarpal Fracture"
+    ]
+  },
+  "OKC": {
+    "Chet Holmgren": [
+      "Out",
+      "Right Knee/ Injury Recovery"
+    ],
+    "Aday Mara": [
+      "Out",
+      "Right Shin Contusion"
+    ],
+    "Thomas Sorber": [
+      "Out",
+      "Right Knee Surgery"
+    ],
+    "Nikola Topic": [
+      "Out",
+      "Left Hip Strain"
+    ],
+    "Cason Wallace": [
+      "Out",
+      "Left Shoulder Surgery"
+    ],
+    "Jalen Williams": [
+      "Out",
+      "Left Ankle Surgery"
+    ],
+    "Jaylin Williams": [
+      "Out",
+      "Low Back Spasms"
     ]
   },
   "HOU": {
