@@ -1,0 +1,125 @@
+{
+ "owner": "Big",
+ "slate_date": "2026-11-28",
+ "picks": [
+  {
+   "player": "Franz Wagner",
+   "game": "",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Franz Wagner",
+   "game": "",
+   "stat": "pra",
+   "line": 30,
+   "label": "30+ PRA"
+  },
+  {
+   "player": "Franz Wagner",
+   "game": "",
+   "stat": "reb",
+   "line": 4,
+   "label": "4+ Rebounds"
+  },
+  {
+   "player": "Anthony Davis",
+   "game": "",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Anthony Davis",
+   "game": "",
+   "stat": "pra",
+   "line": 20,
+   "label": "20+ PRA"
+  },
+  {
+   "player": "Trae Young",
+   "game": "",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Desmond Bane",
+   "game": "",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Naz Reid",
+   "game": "",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Moussa Diabate",
+   "game": "",
+   "stat": "reb",
+   "line": 8,
+   "label": "8+ Rebounds"
+  },
+  {
+   "player": "Julius Randle",
+   "game": "",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Josh Giddey",
+   "game": "",
+   "stat": "ast",
+   "line": 5,
+   "label": "5+ Assists"
+  },
+  {
+   "player": "Andrew Nembhard",
+   "game": "",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Shai Gilgeous-Alexander",
+   "game": "",
+   "stat": "pts",
+   "line": 25,
+   "label": "25+ Points"
+  },
+  {
+   "player": "Shai Gilgeous-Alexander",
+   "game": "",
+   "stat": "pra",
+   "line": 30,
+   "label": "30+ PRA"
+  },
+  {
+   "player": "Isaiah Hartenstein",
+   "game": "",
+   "stat": "reb",
+   "line": 8,
+   "label": "8+ Rebounds"
+  },
+  {
+   "player": "Kevin Durant",
+   "game": "",
+   "stat": "pts",
+   "line": 15,
+   "label": "15+ Points"
+  },
+  {
+   "player": "Kevin Durant",
+   "game": "",
+   "stat": "pra",
+   "line": 25,
+   "label": "25+ PRA"
+  }
+ ]
+}

@@ -40,7 +40,7 @@ import statistics
 
 from src.bref_parser import norm_team
 
-STAT_NAMES = {"pts": "points", "reb": "rebounds", "ast": "assists", "tpm": "threes", "blk": "blocks", "stl": "steals"}
+STAT_NAMES = {"pra": "points + rebounds + assists", "pts": "points", "reb": "rebounds", "ast": "assists", "tpm": "threes", "blk": "blocks", "stl": "steals"}
 
 
 def review_picks(target_date: str, data_dir: str, output_dir: str) -> list[dict]:
@@ -71,7 +71,8 @@ def review_picks(target_date: str, data_dir: str, output_dir: str) -> list[dict]
             row.update({"verdict": "Remove", "reason": "No game logs found for this player this season."})
             rows.append(row)
             continue
-        played = [g for g in p["games"] if g.get("season") == "2026-27" and g["min"] > 0]
+        played = [dict(g, pra=g["pts"] + g["reb"] + g["ast"]) for g in p["games"]
+                  if g.get("season") == "2026-27" and g["min"] > 0]
         l10 = played[-10:]
         vals = [g.get(stat, 0) for g in l10]
         mins = [g["min"] for g in l10]
@@ -104,7 +105,7 @@ def review_picks(target_date: str, data_dir: str, output_dir: str) -> list[dict]
             if p_line < 0.88:
                 count_flag = (f"Count maths: averaging {mu:.1f} gives roughly a {p_line:.0%} chance of "
                               f"{line}+ {STAT_NAMES[stat]}, lower than the hit rate suggests.")
-        vol_key = {"tpm": "tpa", "pts": "fga"}.get(stat)
+        vol_key = {"tpm": "tpa", "pts": "fga", "pra": "fga"}.get(stat)
         vol_flag = ""
         if vol_key and len(l10) >= 6:
             vv = [x.get(vol_key, 0) for x in l10]

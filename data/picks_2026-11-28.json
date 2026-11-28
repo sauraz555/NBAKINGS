@@ -1,0 +1,125 @@
+{
+ "owner": "Safe SGM+",
+ "slate_date": "2026-11-28",
+ "picks": [
+  {
+   "player": "Franz Wagner",
+   "game": "ORL @ WAS",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Franz Wagner",
+   "game": "ORL @ WAS",
+   "stat": "reb",
+   "line": 4,
+   "label": "4+ Rebounds"
+  },
+  {
+   "player": "Franz Wagner",
+   "game": "ORL @ WAS",
+   "stat": "pra",
+   "line": 25,
+   "label": "25+ PRA"
+  },
+  {
+   "player": "Desmond Bane",
+   "game": "ORL @ WAS",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Anthony Davis",
+   "game": "ORL @ WAS",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Anthony Davis",
+   "game": "ORL @ WAS",
+   "stat": "pra",
+   "line": 20,
+   "label": "20+ PRA"
+  },
+  {
+   "player": "Trae Young",
+   "game": "ORL @ WAS",
+   "stat": "ast",
+   "line": 2,
+   "label": "2+ Assists"
+  },
+  {
+   "player": "Naz Reid",
+   "game": "BKN @ CHA",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Moussa Diabate",
+   "game": "BKN @ CHA",
+   "stat": "reb",
+   "line": 5,
+   "label": "5+ Rebounds"
+  },
+  {
+   "player": "Julius Randle",
+   "game": "BKN @ CHA",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Josh Giddey",
+   "game": "IND @ CHI",
+   "stat": "ast",
+   "line": 4,
+   "label": "4+ Assists"
+  },
+  {
+   "player": "Andrew Nembhard",
+   "game": "IND @ CHI",
+   "stat": "ast",
+   "line": 2,
+   "label": "2+ Assists"
+  },
+  {
+   "player": "Shai Gilgeous-Alexander",
+   "game": "OKC @ MIL",
+   "stat": "pts",
+   "line": 20,
+   "label": "20+ Points"
+  },
+  {
+   "player": "Shai Gilgeous-Alexander",
+   "game": "OKC @ MIL",
+   "stat": "pra",
+   "line": 30,
+   "label": "30+ PRA"
+  },
+  {
+   "player": "Isaiah Hartenstein",
+   "game": "OKC @ MIL",
+   "stat": "reb",
+   "line": 6,
+   "label": "6+ Rebounds"
+  },
+  {
+   "player": "Kevin Durant",
+   "game": "PHI @ HOU",
+   "stat": "pts",
+   "line": 10,
+   "label": "10+ Points"
+  },
+  {
+   "player": "Kevin Durant",
+   "game": "PHI @ HOU",
+   "stat": "pra",
+   "line": 20,
+   "label": "20+ PRA"
+  }
+ ]
+}
